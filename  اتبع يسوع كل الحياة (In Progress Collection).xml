@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:58">
+  <properties>
+    <titles>
+      <title> اتبع يسوع كل الحياة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أتبع يسوع كل الحياة<br/>من غير رجوع دايمًا معاه<br/>مع المسيح أنا كل يوم<br/>على شان كده فرحى ها يدوم</lines>
+    </verse>
+    <verse name="v1">
+      <lines> أحمل صليبى باستمرار<br/>مع حبيبى بافتخار<br/>ما يهمنى عدو جبار<br/>لى فى يسوع الإنتصار</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كل طريقى يسوع قدام<br/>هو اللى يمشى فى الأمام<br/>هو ينور لى الأيام<br/>أنا مع يسوع دايمًا فى سلام</lines>
+    </verse>
+  </lyrics>
+</song>

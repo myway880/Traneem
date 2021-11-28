@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:29">
+  <properties>
+    <titles>
+      <title> ابتهاج فرح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ابتهاجٌ فرحٌ في قلبنا<br/>فرحٌ لا يسلبنهُ احد<br/>ابتهاجٌ فرحٌ في قلبنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نفرحُ نفتخرُ بربنا<br/>نشهدُ لا نخجلُ<br/>فهو الملك<br/>نفرحُ نفتخرُ بربنا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> نعلنُ عن حبنا لبعضنا<br/>حبنا اساسهُ مسيحُنا<br/>نعلنُ عن حبنا لبعضنا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نهتفُ نسبحُ لربنا<br/>نشدو نعلنُ له عن حبنا<br/>نهتفُ نسبحُ لربنا</lines>
+    </verse>
+  </lyrics>
+</song>

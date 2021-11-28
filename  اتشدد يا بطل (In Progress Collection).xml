@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:58">
+  <properties>
+    <titles>
+      <title> اتشدد يا بطل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">اتشدِّد يا بطل<br/>وِارفع رايات النُّصره<br/>اتشدِّد يا بطل<br/>وارفض تعيش في الكسره</lines>
+      <lines>اتشدِّد يا بطل<br/>في صليبه ادَّاك القُوَّه<br/>اتشدِّد يا بطل<br/>دا إلهك صاحب القُدرَه</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> في ضيقك واحتياجك<br/>اشكر ما تقولش ليه<br/>وتعالَ باحتجاجك<br/>في عرش النعمه ليه</lines>
+      <lines>دا اللِّي اتجرَّب يعينك<br/>في كلّ ضيقه وأنَّه<br/>وفي امتِحان إيماننا<br/>ها يزيدُه ويقوِّيه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ولو طال لِيل انتظارَك<br/>وتعِبت م السُّؤَال<br/>اركع وافتح كتابك<br/>وطالبُه دا هوّ قال</lines>
+      <lines>لا يَخزى مُنتظروه<br/>يَسمع ويَستجيب<br/>كالنِّسر جدِّد قُوَّه<br/>وِاعلَى فُوق الجبال</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> اتشَدّ بقُوِّة سِيدَك<br/>وعِيش عيشِة أبطال<br/>قُول لأّ زيّ يوسِف<br/>يِدِّيك قُوَّه في الحال</lines>
+      <lines>لو جِا مشهَد جِلياتِي<br/>لا تخاف محبوس في إيدَك<br/>وِاعلَى بصوت تسبيحَك<br/>واسجُد له زيّ دانيآل</lines>
+    </verse>
+  </lyrics>
+</song>

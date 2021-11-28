@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:58">
+  <properties>
+    <titles>
+      <title> اتكالي عليك يا سيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">اتِّكالي علِيك يا سيِّد اتِّكالي علِيك</lines>
+      <lines>انتَ بتِرفع وِانتَ تأيِّد اللِّي بيلجأوا لِيك</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> قلبك كُلُّه حُبّ وطِيبه ومُعاملاتَك لِيَّ عجيبَه</lines>
+      <lines>م الشَّباب حتَّى للشِّيبَه شايلني بإيديك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مِش باهُون ولا مرَّه علِيك قُلت لي: نِعمِتي ها تكفِّيك</lines>
+      <lines>أضعَف تِرفَع أصرُخ تِسمَع أصل انا غالي علِيك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مَشغول بيَّ وعايِل همِّي على إسمَك يا يسوع مِتسَمِّي</lines>
+      <lines>لِيك راح ارنِّم وافتَح فمِّي بذبايح تِرضِيك</lines>
+    </verse>
+  </lyrics>
+</song>

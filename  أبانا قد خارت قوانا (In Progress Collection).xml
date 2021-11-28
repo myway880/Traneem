@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:57">
+  <properties>
+    <titles>
+      <title> أبانا قد خارت قوانا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أبانا قد خارت قوانا<br/>وشبعنا ذلا وهوانا<br/>لكن عيوننا نحو الجبال<br/>من حيث عون منك أتانا</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> ها أنا صانع أمرا جديدا<br/>الآن ينبت<br/>أخلق فيكم شعبا لنفسي<br/>في حقي يثبت</lines>
+      <lines>ها أنا جاعل في القفر ماءا<br/>وأسقي شعبي<br/>فيعلو صوت الصبح<br/>وصوت اليأس يصمت</lines>
+    </verse>
+    <verse name="v2">
+      <lines> تعبنا الليل والصيد فقير<br/>بذلنا الجهد والفشل مرير<br/>لكن قل كلمة نلقي عليها الشباك<br/>فتأتي بخير وفير</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في انتظار الفجر ساهرين<br/>نرقب الصبح صابرين<br/>فيا شمس البر أشرق علينا<br/>بنورك تسري الحياة فينا</lines>
+    </verse>
+  </lyrics>
+</song>

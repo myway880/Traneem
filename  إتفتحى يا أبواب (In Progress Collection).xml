@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:35">
+  <properties>
+    <titles>
+      <title> إتفتحى يا أبواب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إتفتحى يا أبواب وإرتفعى من قدامنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وهيدخل ملك المجد يسوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مين هو ملك المجد<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>مين هو رئيس السلام<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>مين هو رب الأرباب<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>مين هو رب الجنود<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>مين بموته سحق الشيطان<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>مين بموته أعطانا حياة<br/>يسوع المسيح</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>مين هو اللى ليه السلطان<br/>يسوع المسيح</lines>
+    </verse>
+  </lyrics>
+</song>

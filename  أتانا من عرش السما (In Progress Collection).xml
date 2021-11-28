@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:58">
+  <properties>
+    <titles>
+      <title> أتانا من عرش السما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أتانا من عرش السما<br/>لكي يكونَ لِي حياه<br/>فلولا لطفُ سيدي<br/>ما كان لي قطُّ رجاء</lines>
+    </verse>
+    <verse name="c1">
+      <lines> إلى حياةٍ أفضلَ<br/>قد قادني المسيح<br/>الحبّ صار بيننا<br/>سأشدو بالتسبيح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> شَهَادتي أحيا له<br/>لستُ أنا بل فضلهُ<br/>رسالتي كرازتي<br/>أن أبقى دوما قربَهُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا ربيَ اسكن داخلي<br/>ضع في فمي ترنيمة ً<br/>أنغامُها سُبحٌ لكَ<br/>ألحانها من عِندِكَ</lines>
+    </verse>
+  </lyrics>
+</song>
