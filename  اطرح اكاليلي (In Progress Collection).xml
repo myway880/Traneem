@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:06">
+  <properties>
+    <titles>
+      <title> اطرح اكاليلي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>واطرَح أكاليلي عند قدمِيه<br/>ونهاري ولِيلي راح ارنِّم لِيه</lines>
+    </verse>
+    <verse name="v1">
+      <lines> حبيبي عن وصفُه يِعجَز أيُّ إنسان<br/>أصلُه بالمجد مُكَلَّل ولِيه سلطان</lines>
+    </verse>
+    <verse name="v2">
+      <lines> حبيبي أبيض وأحمر ليه اسم عجيب<br/>وجمالُه بارع بل أكتر خالي من العِيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لَمَّا اذكُر مُوته وآلاماتُه واتأمِّل فِيه<br/>أتذكَّر صلبُه وجلداتُه واتعلَّق بِيه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> عنَّك ما هاحوِّل عينيَّ في ضيق أو جُوع<br/>وانت اللِّي دفعت تمَن فيَّ دمَّك يا يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

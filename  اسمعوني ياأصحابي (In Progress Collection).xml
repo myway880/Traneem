@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:05">
+  <properties>
+    <titles>
+      <title> اسمعوني ياأصحابي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">اسمعوني يا أصحابي<br/>هاحكي لكم يا إخواتي<br/>ع التغير اللي حصل لي<br/>لما يسوع جه في حياتي</lines>
+      <lines>لما يسوع جه قلبي<br/>غير كل حاجة وحشة وملا أيامي هنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> والكدب ده مش من طبعي لأنه طبع الشيطان<br/>لما هاغلط مش هاخبي وأعترف إني غلطان</lines>
+      <lines>وكمان ماقولش اشمعنى<br/>لأني بحب إخواتي زي نفسي أنا</lines>
+    </verse>
+  </lyrics>
+</song>

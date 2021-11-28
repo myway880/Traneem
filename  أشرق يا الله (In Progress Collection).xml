@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:14">
+  <properties>
+    <titles>
+      <title> أشرق يا الله</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أشرق يا الله علينا أشرق فينا وحوالينا<br/>شعبك نحن نريد رضاك فاحضر بالأمجاد إلينا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إنا نطلب وجهك حقا بقلوب تتكلم صدقا<br/>قد تبنا لنسير وراك نسعى خلف القصد الأنقى<br/>إنا نطلب برك وحدك لسنا نطلب شيئا بعدك<br/>إرفعنا عندك لسماك أو أنزلها نبصر مجدك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إنا نطلب ما تطلبه مهما تبغض لا نرغبه<br/>إن ننشد مع موسيقاك أي نشاز لا نرغبه<br/>أشرق يا الله دواما ظلل فوق بنيك سلاما<br/>أسكنا في ستر حماك وأنثر في الأجواء وئاما</lines>
+    </verse>
+  </lyrics>
+</song>

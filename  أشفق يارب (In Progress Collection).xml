@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T09:49:19">
+  <properties>
+    <titles>
+      <title> أشفق يارب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أراضينا محتاجة يارب إليك أولادك دول صنع إيديك<br/>ومعادش لينا رجاء تاني سواك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>دي بلادنا كل عينيها عليك<br/>أشفق يا ربي علي شعبك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>المس بلدنا وحقق وعدك<br/>غير يا رب لأرضك ورق تاني لشعبك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وهانفضل نستناك<br/>بنتوب عن كل اللي فات</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>نرجع لك من كل تعديات<br/>إحنا الشعب اللي دعي أسمك عليه<br/>ابريئنا واسمع من السماوات</lines>
+    </verse>
+  </lyrics>
+</song>
