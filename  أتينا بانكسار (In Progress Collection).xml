@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:59">
+  <properties>
+    <titles>
+      <title> أتينا بانكسار</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أَتَيْنَا بِانْكِسَارْ نَعْبُدْ شَخْصَكَ<br/>وَنُعْلِنُ ارْتِفَاعْ جَلالِ مُلْكِكَ<br/>فَأَنْتَ مَلِيكُنَا وَأَنْتَ إِلهنُا<br/>نَسْجُدُ وَنَرْكَعُ كَرَامَةً لَكَ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> مَهُوبٌ مَهُوبٌ يَا رَبَّ الْجُنُودْ<br/>عليٌّ عظيمٌ لك كل السجود</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أَتَيْنَا بِافْتِخَارْ نُسَبِّحُ اسْمَكَ<br/>وَنَرْفَعُ الْقُلُوبَ أَمَامَ عَرْشِكَ<br/>تَنْحَنِي الْجِبَاهُ تَصْعَدُ الصَّلاةُ<br/>تُثْمِرُ الشِّفَاهُ حَمْدًا لَكَ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:41">
+  <properties>
+    <titles>
+      <title> أحبك ربي يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أُحِبُّكَ ربّي يسوع<br/>وليس لي سواكْ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أتبعُكَ ربّي دوماً<br/>أتبعُكَ بلا رُجوع<br/>أُسبِّحُ اسمكَ القدّوسْ<br/>وليس لي سواكْ</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أحبك يا روح الله<br/>فأنت لي الحياة<br/>تغمرني ربي دوماً</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تغمرني بلا حدود<br/>تمسحني بقوةٍ<br/>فأنت لي الحياة</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أحبك يا أبا الآب<br/>يا منبع الحياة<br/>تغمرني بحبِّكَ</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>تغمرني بمجدِكَ<br/>أجثو أمام عرشِكَ<br/>يا منبع الحياة</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:48">
+  <properties>
+    <titles>
+      <title> احمدك يا رب من كل قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>احمدك يا رب من كل قلبي اسبح اسمك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>احمدك قدام الآلهة من كل قلبي ارنم لك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لأنك عظمت كلمتك على كل اسمك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>في يوم دعوتك اجبتني شجعتني قويتني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>احمدك يا رب من كل قلبي اسبح اسمك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>احمدك في هيكل قدسك احمد اسمك على رحمتك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>لأنك تحامي عني وتحيي نفسي في وسط الضيق</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>على غضب اعدائي تمد يدك وتخلصني يمينك</lines>
+    </verse>
+  </lyrics>
+</song>

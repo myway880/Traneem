@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:59">
+  <properties>
+    <titles>
+      <title> أجمل أيامي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1 v11 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أجمل أيامي قربك يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أخذ آلامي وكل الدموع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مالي سواك خذني بحماك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ربي معاك غفرت أثامي</lines>
+    </verse>
+    <verse name="v5">
+      <lines>دربك أمشي ربي رضاك</lines>
+    </verse>
+    <verse name="v6">
+      <lines>لن يغفى رمشي عن وصاياك</lines>
+    </verse>
+    <verse name="v7">
+      <lines>إلهي مولاي امسك يدي</lines>
+    </verse>
+    <verse name="v8">
+      <lines>نحوك عيناي أتبع خطاك</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ربي حبيبي لا يتركني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>في وقت الحرب يقاتل عني</lines>
+    </verse>
+    <verse name="v10">
+      <lines>يحرسني يعضدني</lines>
+    </verse>
+    <verse name="v11">
+      <lines>يغمرني حنانك</lines>
+    </verse>
+  </lyrics>
+</song>

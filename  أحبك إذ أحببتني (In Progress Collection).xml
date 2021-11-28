@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:41">
+  <properties>
+    <titles>
+      <title> أحبك إذ أحببتني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أحبك إذ أحببتني<br/>أحبك إذ فديتني<br/>أحبك إذ حررتني إذ طهرتني<br/>إذ قدستني أحبك يا سيدي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أحبك في وسط الرعود<br/>أحبك في جب الأسود<br/>أحبك يا مرشدي يا قائدي<br/>يا منجدي أحبك يا سيدي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أحبك فأنت المعين<br/>أحبك فأنت الأمين<br/>أحبك فأنت الرفيق وأنت الطريق<br/>ونِعم الصديق أحبك يا سيدي</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أحبك إذ تقودُني<br/>أحبك إذ تحيطُ بي<br/>أحبُك فأنت الإله ومعطي النجاه<br/>وكلُّ الحياه أحبك يا سيدي</lines>
+    </verse>
+  </lyrics>
+</song>

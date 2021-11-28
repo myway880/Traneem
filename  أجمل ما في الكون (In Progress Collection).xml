@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T10:05:02">
+  <properties>
+    <titles>
+      <title> أجمل ما في الكون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines break="optional">أجمل ما في الكون يسوع الحنون<br/>أعطانا الغفران الراحة والأمان</lines>
+      <lines>وحده منه العون يسوع وحده منه العون<br/>إلاه يسوع خلاص مافي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">ماسح الدموع القيود شافي<br/>مافي رجوع عن دربه ما في</lines>
+      <lines>لو بده يزول الكون لو بده يزول الكون<br/>يسوع بحبك أكتر من حالي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines break="optional">وحده حبك اللي غير أحوالي<br/>وماشي بدربك لو شو ما جرى لي</lines>
+      <lines>لو قالولي مجنون لو قالولي مجنون</lines>
+    </verse>
+  </lyrics>
+</song>

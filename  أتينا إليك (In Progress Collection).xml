@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T09:32:53">
+  <properties>
+    <titles>
+      <title> أتينا إليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عيوننا إليك إليك وحدك<br/>قلوبنا لديك وليس غيرك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أتينا إليك يا إلهنا نهدي<br/>لشخصك إكرامنا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>والآن نعلن احتياجنا<br/> فلتبتسم في وجوهنا<br/>وها أوانينا صنع يديك<br/> نخضعها لإرادتك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>شكلنها كما يحسن في عينيك<br/> واملأها بكلمتك</lines>
+    </verse>
+  </lyrics>
+</song>
