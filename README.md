@@ -1,5 +1,5 @@
 # Traneem
-Arabic Hymns (traneem)
+Arabic Hymns (Traneem)
 
 this files are exported form OpenLP 2.4.6 using the openLyrics 0.8 format
 
