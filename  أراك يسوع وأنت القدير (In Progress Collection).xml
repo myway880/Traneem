@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:03">
+  <properties>
+    <titles>
+      <title> أراك يسوع وأنت القدير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أراك يسوع وأنت القدير<br/>تسير بقربي وأنا في المسير<br/>وحين تراني يوما كسير<br/>أراك تحيطني بالتقدير</lines>
+      <lines>لذلك قلبي تعلق بك<br/>لذلك نفسي أحبتك<br/>وتهوى رضاك كذا قربك<br/>إلهي أنت فأعبدك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أسير يداي تمسك يديك<br/>تناجيك نفسي كخل أراك<br/>أطير كعصفور في سماك<br/>يشدو افتخار بفوز رضاك</lines>
+      <lines>وأسعى ألا يوقظك غريب<br/>حينما تأتي لقلبي تبيت<br/>وتأخذ منه عرشا يطيب<br/>فيه لك السكنى ياحبيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يسوع لحضنك دائما ألوذ<br/>وإن كلفني السعي كنوز<br/>وإن في أتون سوف أجوز<br/>كفا قلبي أنه بك سيفوز</lines>
+      <lines>وكيف أبالي وقد فزت بك<br/>بأي نصيب سوى شخصك<br/>فأي نصيب يعلو حبك<br/>وسكناي دائما بقربك</lines>
+    </verse>
+  </lyrics>
+</song>

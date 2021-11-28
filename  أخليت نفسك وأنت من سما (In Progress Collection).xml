@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:54">
+  <properties>
+    <titles>
+      <title> أخليت نفسك وأنت من سما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أخليت نفسك وأنت مَن سما<br/>وجلت في الدنيا تحتمل العنا<br/>وأنا ماذا يا ترى<br/>تركت من أجلك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أرقت دمك الثمين من أجلي<br/>فدىً لكي أنجو أنا من الهول<br/>وأنا ماذا يا ترى<br/>فعلت من أجلك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قد ذقت في صلبِك ْ مرارة العذاب<br/>طوعًا لكي أنجو أنا من العقاب<br/>وأنا ماذا يا ترى<br/>قاسيت من أجلك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أنت أتيت بالغفران والنجاه<br/>وقد وهبتني الخلاص والحياه<br/>وأنا ماذا يا ترى<br/>وهبت من أجلك</lines>
+    </verse>
+  </lyrics>
+</song>

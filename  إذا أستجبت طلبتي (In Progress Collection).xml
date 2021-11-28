@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:02">
+  <properties>
+    <titles>
+      <title> إذا أستجبت طلبتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>إذا استجبت طلبتي<br/>أو شئت ربي الامتناع<br/>في كل حال أشكر<br/>إكرامك والاستماع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> إذا استجبت طلبتي<br/>يا سيدي فالمجد لك<br/>أيضا إذا لم تستجب<br/>ربي فكل المجد لك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إذا استجبت مسرعا<br/>أو ان أردت الانتظار<br/>في كل حال أشكر<br/>فأنت صاحب القرار</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وربما تسلِمُني<br/>إلى مرامِ منيتي<br/>في كل حالٍ أشكرُ<br/>لأنك علَّمتني</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فكل شيءٍ إن مضى<br/>حبُك لي لن ينتهي<br/>في كل حالٍ أشكر<br/>وأحمدُ اسمك البهي</lines>
+    </verse>
+  </lyrics>
+</song>

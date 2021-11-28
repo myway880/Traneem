@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:01">
+  <properties>
+    <titles>
+      <title> إحنا الشعب اللي إنت فديته</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">إحنا الشعب اللي إنت فديته<br/>وبدم صليبك رشيته<br/>قدسنا وخصصنا يا سيد<br/>كمل عملك اللي بديته</lines>
+      <lines>القلب الفاسد طهرته<br/>والفكر المسلوب حررته<br/>والخاطي المسكين بررته<br/>إحنا الشعب اللي إنت فديته</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> يا إلهنا القدوس القادر قدسنا لشخصك نقينا<br/>قوم كل ضعيف أو عاثر نور بقداستك ليالينا</lines>
+      <lines break="optional">عايزين نحيالك في طهارة من غير ما العالم يسبينا</lines>
+      <lines>تبقى حياتنا سراج ومنارة ويشوف الناس عمليك فينا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إحنا الشعب اللي إنت فديته<br/>ومن كل قيوده حليته<br/>القلب الميت أحييته<br/>ومرار الماضي حليته</lines>
+      <lines>الماضي بموتك سمرته<br/>والحاضر وحدك غيرته<br/>ومصيرنا الأبدي نورته<br/>إحنا الشعب اللي إنت فديته</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> إحنا الشعب اللي إنت فديته<br/>لحياة في قداسة إنت دعيته<br/>في الخدمة نعيش لك أيامنا<br/>نشهد بفداك اللي عطيته</lines>
+      <lines>نكرز وبروحك تسندنا<br/>نار حبك تشعل حماستنا<br/>والسما تفرح بخطاة يتوبوا<br/>نتكلم وإنت تأيدنا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:51">
+  <properties>
+    <titles>
+      <title> إحيي نفوسنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنت الذي إفتديتنا بدمك<br/>أنت الذي أحببتنا بابنك<br/>إحيي نفوسنا أجسادنا إحيي أرواحنا قلوبنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنت الذي هديتنا دروبك<br/>أنت الذي أدخلتنا ديارك<br/>أضرم قلوبنا بنارك أنعش نفوسنا أرواحنا<br/>قدوس أنت رب الصباؤوت قدوس إبنك مخلصنا<br/>قدوس روحك محيينا قدوس قدوس الرب</lines>
+    </verse>
+  </lyrics>
+</song>
