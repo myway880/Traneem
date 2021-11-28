@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:13">
+  <properties>
+    <titles>
+      <title>اللي بيعزيني ويبدد ظلامي</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> (اللي بِيعَزِّيني وِيْبَدِّدْ ظَلامي<br/>إنِّ يسوعْ مَعاياوبْيِضْمَنْ سَلامي)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(دا مُهْتَمِّ بِيَّ دا يسوعْ راعِيَّ)2<br/>(وِمْدَبَّرْ أموري وِعِينُهْ عَلَيَّ)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(اللي بيطَمِنّي ويْخَفِّفْ آلامي <br/>إنِّ يسوعْ مَعايا وِيِشْفي سَقامي)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(اللي بيشَجَّعْني وِيْضَمِّدْ جِراحي<br/>إنّي أطْلُبْ رَبّي وِيسْمَعْ صُراخي)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(اللي بِيفَرَّحْني في خْروجي وْدُخولي<br/>إنِّ يسوعْ رَفيقي وِضامِنْ وُصولي)2</lines>
+    </verse>
+  </lyrics>
+</song>

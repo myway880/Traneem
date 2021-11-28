@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:32">
+  <properties>
+    <titles>
+      <title> بنحط حياتنا قدامك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">بنحط حياتنا قدامك<br/>ونسلم كل الأيام<br/>جايين لك نشتاق نبقى لك<br/>خارجين من دنيا الأوهام</lines>
+      <lines>ياللي في زمن الحب لقيتنا<br/>مريت بحياتنا وحبيتنا<br/>وقبلتنا نبقى من شعبك<br/>وبدمك إنت غطيتنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مش ممكن نبقى لنفسينا<br/>ونعيش أيامنا وليالينا<br/>نشتاق لسراب زائل باطل<br/>وأماني هي مش لينا</lines>
+      <lines>دي حياتنا ليها عندك خطة<br/>محفوظة من بدء الكون<br/>عايزين نحياها عشان مجدك<br/>زي ما تحب إحنا نكون</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> جهزنا جيش يشهد عنك<br/>تبقى إنت ملكنا وفرحتنا<br/>والكنز اللي مالي قلوبنا<br/>وهدفنا وكل دنيتنا</lines>
+      <lines>إكسرنا ونورنا بنورك<br/>عيش فينا وإدينا حياتك<br/>إخفينا وانت اظهر فينا<br/>واحفظنا بس لمرضاتك</lines>
+    </verse>
+  </lyrics>
+</song>

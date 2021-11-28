@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:44">
+  <properties>
+    <titles>
+      <title> ربي منقذي حبيبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربي منقذي حبيبي<br/>طيبَ القلب يسوع<br/>من قضى عني<br/>ومات بدلي</lines>
+      <lines break="optional">ادنُ مني إنني جعتُ<br/>إليك أيَّ جوع</lines>
+      <lines>أنت يا قوتَ حياتي<br/>يا من مات بدلي<br/>أيها الرب حبيبي<br/>يا من مات بدلي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> سيدي حبُّك يحلو<br/>لفؤادي ويطيب<br/>ويداوي مهجتي<br/>من عِللي</lines>
+      <lines break="optional">ويدوم السعدُ في<br/>قلبي فأشدو للحبيب</lines>
+      <lines>أنت يا فاديَ نفسي<br/>يا من مات بدلي<br/>أيها الرب حبيبي<br/>يا من مات بدلي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> سيدي حبك يملأ<br/>مهجتي بالفرح<br/>إنه الحب<br/>الذي يحصرني</lines>
+      <lines break="optional">إنه ينعش روحي<br/>ويداوي جروحي</lines>
+      <lines>ويدوم لي حبيبي<br/>يا من مات بدلي<br/>أيها الرب حبيبي<br/>يا من مات بدلي</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> سيدي حبك حصنُ<br/>النفس ليلاً ونهار<br/>عدَّةُ النصر<br/>لأي رجل</lines>
+      <lines break="optional">فأحِط قلبي بهذا<br/>الحبِّ سرِّ الانتصار</lines>
+      <lines>أنت يا قائدَ نصري<br/>يا من مات بدلي<br/>أيها الرب حبيبي<br/>يا من مات بدلي</lines>
+    </verse>
+  </lyrics>
+</song>

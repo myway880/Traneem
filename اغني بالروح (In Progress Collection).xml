@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:24">
+  <properties>
+    <titles>
+      <title> اغني بالروح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أغني بالروح للحمل المذبوح</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أصل سر شفائي جلدات وجروح</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أغني بهتافات لمن عني مات</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>مستحق ياربي أحلي النغمات</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أغني بخشوع بلهفة وبجوع</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>واسجد قدامك ربي يا يسوع</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أغني فرحان بخلاصي فرحان</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>وإسمك لي أعظم سلطان</lines>
+    </verse>
+  </lyrics>
+</song>

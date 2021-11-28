@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:25">
+  <properties>
+    <titles>
+      <title> نطلق بإسمك الأسير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>نطلق بإسمك الأسير نرفع دمك على الاعتاب<br/>بإسمك نسحق الشرير كل أكاذيب الكذاب</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> وترد المسلوب<br/>أضعاف<br/>والمغلوب يفرح<br/>بهتاف</lines>
+      <lines>طول ما الدم راية علينا<br/>طول ما إسمك حى فوقينا<br/>مش راح يسكت صوت أغانينا<br/>ولا من كذب العدو هنخاف</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يأتى العدو من طريق وفى سبع طرق يهرب<br/>وقت الشدة ووقت الضيق من وجهه لا نرهب</lines>
+    </verse>
+    <verse name="v3">
+      <lines> نطرد إبليس وجنوده كل روح غى وتضليل<br/>تسقط أسواره وقيوده باستنارة الإنجيل</lines>
+    </verse>
+  </lyrics>
+</song>

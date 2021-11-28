@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title>إنما للرب نحن</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إنمَّا للربِّ نحنُ<br/>وَهْوَ عنَّا قدْ قََضَى<br/>يا تُرَى مِنَّن نَخافُ<br/>وبهِ نِلنا الرِّضى</lines>
+    </verse>
+    <verse name="v2">
+      <lines>إنْ تُفاجِئْنا البَلايا<br/>أو تُهاجِمْنا الكروبْ<br/>نَسْتَمِدَّ العَوْنَ مِنهُ<br/>نَرْتَقِ فَوقَ الخُطوبْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وَلَنا قدْ صارَ فيهِ<br/>كلُّ شيءٍ فَلْنُسَرْ<br/>فَلَنا نَصْرٌ في ضيقٍ<br/>واضطهادٍ أو خَطَرْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>نحن في ظِلِّ حِماهُ<br/>ما الذي يُرهِبُنا<br/>كيفَ نخشى مِن عَدوٍ<br/>وهُوَ يحفَظُنا</lines>
+    </verse>
+    <verse name="v5">
+      <lines>قدْ دعانَا حَسْبَ قَصْدٍ<br/>مُجْزِلاً نِعْمَتَهُ<br/>ليكونَ الكلُّ فيهِ<br/>مُشبِهًا صورَتَهُ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>إننَّا حتمًا سَنَملِكْ<br/>مَعْهُ في أسمى الربوعْ<br/>ونكونُ كلَّ حينٍ<br/>مَعْ حَبِيبِنا يَسُوعْ</lines>
+    </verse>
+  </lyrics>
+</song>

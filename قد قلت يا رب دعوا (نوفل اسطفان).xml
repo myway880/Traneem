@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:00">
+  <properties>
+    <titles>
+      <title>قد قلت يا رب دعوا</title>
+    </titles>
+    <comments>
+      <comment>Author: نوفل اسطفان
+Tune: DAS WALT' GOTT VATER
+Title:189. قد قلت يا رب دعوا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">نوفل اسطفان</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> قد قلتَ يا رب دعوا<br/> الأولادَ يأتونَ إليْ<br/> لمثلهم ملكُ السما<br/> مِمَّن توكلوا عليْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نأتي بهم إطاعةً<br/> لأمركَ السامي العظيمْ<br/> لكي ينالوا موعد ال<br/> خلاصِ بالدم الكريمْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يومَ اعتمدتَ ربَّنا<br/> كرستَ ماءَ الاعتمادْ<br/> فقدِّس الآن بهِ<br/> ذا الطفلَ وامنحهُ الرشادْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وبعدَ أن يعيشَ في<br/> هذي الحياةِ بسلامْ<br/> ينالُ مجدَكَ الذي</lines>
+    </verse>
+  </lyrics>
+</song>

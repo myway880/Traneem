@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:03">
+  <properties>
+    <titles>
+      <title>إذا مشيت في القفار</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم سركيس
+Tune: DUANE STREET
+Title:348. إذا مشيت في القفار
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم سركيس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> إذا مَشَيتُ في القِفارْ<br/> فعن يميني والشِّمالْ<br/> يسوعُ ربُّ الانتصارْ<br/> أُلقي عليه الاتِّكالْ</lines>
+      <lines> يسوعُ لي نعمَ المثالْ<br/> ما دمت في هذي الديارْ<br/> قد ردَّني عنِ الضلالْ<br/> إذ في طريقي قد أنارْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لست أنا كما أنا<br/> إلا بنعمةِ الإلهْ<br/> تُحيطُ نُعماهُ بنا<br/> في كلِّ أحوالِ الحياهْ</lines>
+      <lines> يا ربِّ حَوِّلْ نظري<br/> لذلك الدمِ الثمينْ<br/> وانظُرْ إليَّ دائماً<br/> بوجهِ فاديَّ الأمينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> حبُّك يا مولايَ قدْ<br/> حطَّمَ أبوابَ الجحيمْ<br/> ففيك يا حبَّ الصمدْ<br/> فَوزِي بجنّاتِ النعيمْ</lines>
+      <lines> روحُك ربي داخِلي<br/> يعطي سلاماً وقُوى<br/> وفيه أنمو يا عَلي<br/>بنعمة للانتها</lines>
+    </verse>
+  </lyrics>
+</song>

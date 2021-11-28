@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title>مثل الزهور العاطرة</title>
+    </titles>
+    <comments>
+      <comment>Author: حبيب الخوري
+Tune: MEDITATION
+Title:424. مثل الزهور العاطرة
+</comment>
+    </comments>
+    <authors>
+      <author type="words">حبيب الخوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> مثل الزهور العاطرهْ<br/> تفوح للأنامْ<br/> أيامه في الناصرهْ<br/> مرت مع الأيامْ<br/> ترعى النجوم الساهرهْ<br/> ضياءَها الهادي<br/> يا لَحياةٍ طاهرهْ<br/> حداثةُ الفادي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> حداثةٌ تبسمتْ<br/> لها السما شوقاً<br/> وأعلنت رؤىً سمتْ<br/> تهدي بها الخلقا<br/> فُتُوَّةٌ قد أُفعِمتْ<br/> من نعمة الإلهْ<br/> وللشباب رسمتْ<br/> مسالك الحياهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا أيها الفتى العجيبْ<br/> يا زينة الفِتيانْ<br/> يا مَن مَشى نحو الصليبْ<br/> ليفتدي الإنسانْ<br/> أنت لنا الخل الحبيبْ<br/> ومصدر النعيمْ<br/> فهب شبابنا نصيبْ</lines>
+    </verse>
+  </lyrics>
+</song>

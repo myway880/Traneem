@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:11">
+  <properties>
+    <titles>
+      <title>الرب نوري ومخلصي فمن</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: DARWALL'S 148TH
+Title:337. الرب نوري ومخلصي فمن
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الربُّ نوري ومخلِّصي فمنْ<br/> في الأرضِ معْ ذلكَ منهُ أرهبُ<br/> الربُّ حصنٌ لي فهلْ<br/> من أحدٍ أرتعبُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لما دنا الأشرارُ كيما يأكلوا<br/> لحمي جميعاً عثروا وسقطوا<br/> إذا أغاروا لا أرى<br/> عليَّ خوفاً يهبِطُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واحدةً سألتُ ربي واثقاً<br/> وغيرَها لم التَمِسْ منالَهُ<br/> سُكْنايَ دَهري بيتَهُ<br/> لكي أرى جمالَهُ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا ربِّ علمني طريقَكَ اهدِني<br/> إلى السلوكِ في سبيلٍ مُستقيمْ<br/> ولا تُسَلِّمني لمنْ<br/> يروم ضيقي يا كريمْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> ربي استمِعْ إني بصوتي دائماً<br/> أدعوكَ يا مولايَ فارحَمْ واستجِبْ<br/> أطلُبُ وجهَكَ الذي</lines>
+    </verse>
+  </lyrics>
+</song>

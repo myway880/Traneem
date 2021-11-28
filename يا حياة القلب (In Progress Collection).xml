@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:35">
+  <properties>
+    <titles>
+      <title>يا حياة القلب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا حياة القلب يا حبيب روحي ضامني<br/>ان مضى الاهل ستبقى انت لي تضمني<br/>فيك يا نبع سروري فيك انت لذتي<br/>انشد ما دمت موجودا هنا ترنيمتي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فرحي فيك لا ينتهي<br/>ولي فيك ما اشتهي<br/>فرحتي يا نصرتي<br/>فرح ربي قوتي<br/>لا سواك بهجتي<br/>( فرحي فيك ) 3 لا ينتهي<br/>فرحي فيك لا ينتهي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فيك قد ودعت حزني واضطرابي ابدا<br/>فيك يا راعي حياتي لا احتياج ابدا<br/>لي مع الايام في الالام عهد قد رسا<br/>ربي بالعزاء للافراح قلبي كرسا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ليس ما تعطي لنفسي يشغلني ههنا<br/>انت موضوع انشغالي وسجودي والثنا<br/>انت يا كل طموحي لي رجاء قد سما<br/>اكمل هناك افراحي عيانا في السما</lines>
+    </verse>
+  </lyrics>
+</song>

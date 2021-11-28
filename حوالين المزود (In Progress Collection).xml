@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:21">
+  <properties>
+    <titles>
+      <title> حوالين المزود</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>حوالين المزود بيدور بطة وفرخة وفوقيها عصفور</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>البطة جه عليها الدور فرحانة ترنم ليسوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>والبقراية نشيطة وشاطرة والمعزة بتنط النطة</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وواحد جاي وشايل شنطة مليانة هدايا ليسوع</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>وأنا قلبي فرحان وياهم هايسبح ويصلي معاهم</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>راح أشبك إيدي في إيديهم وأقدم حبي ليسوع</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أنا وأصحابي والعصفور هاندور وندور</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>أنا وأصحابي والعصفور حوالين المزود هاندور</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title>خلاص الفدى يا لصوت بهيج</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: WAREHAM
+Title:377. خلاص الفدى يا لصوت بهيج
+</comment>
+    </comments>
+    <authors>
+      <author>ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> خلاص الفِدى يا لصوتٍ بهيجْ<br/> لأسماعنا قد حلا<br/> دواءٌ لكل جراح تهيجْ<br/> وتعزيةٌ في البلا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> من الحزن من عمق وادي الخطا<br/> وظلمة باب الجحيمْ<br/> نقوم بنعمة رب السما<br/> وننظر نور النعيمْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> خلاصَ الفدى انشروا في الملا<br/> إلى كل دانٍ وقاصْ<br/> فتفرحَ كل جنود العلي</lines>
+    </verse>
+  </lyrics>
+</song>

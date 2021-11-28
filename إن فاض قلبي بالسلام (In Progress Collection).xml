@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title> إن فاض قلبي بالسلام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">إن فاض قلبي بالسلام صوتي يرنم<br/>إن سرتُ في وادي الآلام صوتي يرنم</lines>
+      <lines>لا تزعجُ قلبي الهموم<br/>فالرب معي فالرب معي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> يسوع فادي نفسي فيه كفايتي<br/>يمشي معي يقودني لشاطئ الأمان</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إن امتلا قلبي بك صوتي يرنم<br/>إن جزتُ في وادي البُكا صوتي يرنم</lines>
+      <lines>فلست أرهبُ الردَى<br/>فالرب معي فالرب معي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> إن فاض قلبي بالسرور صوتي يرنم<br/>أبقى إلى دهر الدهور صوتي يرنم</lines>
+      <lines>لذاك أبقى ثابتًا<br/>فالرب معي فالرب معي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:36">
+  <properties>
+    <titles>
+      <title> رنم لنا يا شادي</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم الحوراني
+Tune: SING ALWAYS
+Title:330. رنم لنا يا شادي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم الحوراني</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> رَنِّمْ لنا يا شادي<br/> بأطيبِ الألحانْ<br/> رنم بشكر الفادي<br/> كالوُرْقِ في الأغصانْ</lines>
+      <lines> رنم وشِد تَهليلا<br/> في الحزنِ والأفراحْ<br/> رنم لمن خَلَقَ الملا<br/> وأبدعَ الأرواحْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> رنم وأنت جارِ<br/> في منهجِ السماءْ<br/> في الليل والنهارِ<br/> والصبح والمساءْ</lines>
+      <lines> رنم وكن خليلا<br/> لمعشر الأبرارْ<br/> لا تخشَ من نُوَبِ البلا<br/> في هذهِ الأسفارْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> رنم بحمد الباري<br/> ما غنَّتِ الأطيارْ<br/> بالناي والقيثارِ<br/> والعودِ المزمارْ</lines>
+      <lines> رنم تَنلْ إكليلا<br/> وراحةَ النفسِ<br/> والمجدَ في غُرَفِ العُلا</lines>
+    </verse>
+  </lyrics>
+</song>

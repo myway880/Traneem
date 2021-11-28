@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:44">
+  <properties>
+    <titles>
+      <title> إنت أمين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مع أول إحساس بالأمان في حياتي كله تمام مش عايزك معايا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لما أنجح باهدي نجاحي لذاتي وسعادتي من حد تاني ومش عايزك معايا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إنت أمين يا إلهي إنت صديق يا يسوع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>هامشي معاك في الضلمة وفي النور</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ولما الأمور بدراعي تخيب ومالاقيش صديق معايا للنهاية</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>بارجع من تاني ألجأ ليك وأستند عليك وألاقي مكاني دافي</lines>
+    </verse>
+  </lyrics>
+</song>

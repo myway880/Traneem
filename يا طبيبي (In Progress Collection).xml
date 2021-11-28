@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:39">
+  <properties>
+    <titles>
+      <title> يا طبيبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">يا طبيبي هات دوايا ودوايا تكون معايا</lines>
+      <lines break="optional">في حياتي في طريقي إنت ربي وصديقي<br/>وإنت نوري في الحياة وإنت فرحي وهنايا</lines>
+      <lines>(يا إلهي يا حبيبي يا طبيبي)2 يا يسوع</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> يا طبيبي نجي نفسي م الشرور والآثام<br/>نقي قلبي م الخطية وأملى خير وسلام</lines>
+      <lines break="optional">خد بإيدي في طريقك في حياتي مالي غيرك<br/>أحن قلب أوفى صديق طبيب شافي للآلام</lines>
+      <lines>يا طبيبي هات دوايا يا حبيبي معاك شفايا<br/>(يا إلهي يا حبيبي يا طبيبي)2 يا يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا طبيبي إهدي نفسي من اضطرابات الحياة<br/>ونور حياتي امنحني الطريق للنجاة</lines>
+      <lines break="optional">طمن قلبي ريح بالي دبر لي كل أحوالي<br/>سايب نفسي بين إيديك وعارف إني عندك غالي</lines>
+      <lines>يا طبيبي هات دوايا يا حبيبي معاك شفايا<br/>(يا إلهي يا حبيبي يا طبيبي)2 يا يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

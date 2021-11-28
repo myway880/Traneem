@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:38">
+  <properties>
+    <titles>
+      <title> زي ما جيت في المذود</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مجدك يعلا في الأعالي والتسبيح ليك<br/>يملا الكون</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>على الأرض سلام ومسرة دي الوعودك اليوم بتكون</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>زي ما جيت في المذود ربي<br/>عايزك تيجي في قلبي كمان</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تاخد كل سجودي وحدك كل حياتي والألحان</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>العدرا قالت كلمات بلسانها غنت نغمات</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وإحنا قلوبنا فاضت ليك قالت أحلى التسبيحات</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>يومها مجوس المشرق فرحوا قالوا:<br/>بينا نسجد ليه</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>واحنا كمان جايين وياهم نسجد لاسمك ونعليه</lines>
+    </verse>
+  </lyrics>
+</song>

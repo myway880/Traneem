@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title> حولنا عنك عينينا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حولنا عنك عينينا<br/>وشرورنا زادت لفوق<br/>وروحنا نحفر أبار<br/>مافيهاش غير الشجون</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> ياما إتعلقنا بغيرك<br/>وبنينا في الوهم آمال<br/>لقينا الحلم سراب<br/>وسلامنا في بعدك محال</lines>
+      <lines>إنت المنبع الحقيقي<br/>لكل عطشان<br/>كل اللي يشرب ترويه<br/>بماء الحياة</lines>
+    </verse>
+    <verse name="v2">
+      <lines> العالم بهرنا زيفه<br/>ودوقنا في أفراحه مرار<br/>ونسينا إنك رجانا<br/>وراحة القلب المحتار</lines>
+    </verse>
+  </lyrics>
+</song>

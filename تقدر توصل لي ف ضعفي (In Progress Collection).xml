@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:35">
+  <properties>
+    <titles>
+      <title> تقدر توصل لي ف ضعفي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>تِقدر تِوصل ليَّ ف ضعفي<br/>وِتعوَّض عن كلّ ما فات<br/>تُعضُدني وانا ساقِط مَحنِي<br/>تِرفع تِحيي بعد مَمَات</lines>
+    </verse>
+    <verse name="c1">
+      <lines> تِقدر ما انتَ قدير مِين زَيَّك<br/>تِحيي المَوتَى وليك سُلطان<br/>تِدعي المِش موجُود وِيجاوبك<br/>عايز بسّ ف قلبي إيمان</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وِتحرَّر مِن قِيد طال أسرُه<br/>وِترَجَّع عَصفور كان تاه<br/>يِرجع لِمَكانُه وِلعِشُّه<br/>إنت مَكانُه وإنت شِفَاه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> تِقدر تِحسِم وقت طويل<br/>عَدَّى عليَّ وانا في صِرَاع<br/>تُشرُق رغم ظلام الِّليل<br/>وِتغيَّر كلّ الأوضاع</lines>
+    </verse>
+  </lyrics>
+</song>

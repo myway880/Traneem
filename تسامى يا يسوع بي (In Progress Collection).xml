@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:07">
+  <properties>
+    <titles>
+      <title> تسامى يا يسوع بي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>تسامى يا يسوع بي وفي مسيرك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعبت بعدي دائما يزداد من سناك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>قوتك اجعل يا سيدي تكمل في ضعفي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>بنورك اطرد ظلمتي نعمتك لي تكفي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ونشيد مني سيدي رديئ أفكاري</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>ونقني بجلمتي بالروح والنار</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أنت الذي تسير جميع أحوالي</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>ذاتي قامت باختيار فى شخصك الغالي</lines>
+    </verse>
+  </lyrics>
+</song>

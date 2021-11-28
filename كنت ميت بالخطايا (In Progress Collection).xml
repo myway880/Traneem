@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:06">
+  <properties>
+    <titles>
+      <title> كنت ميت بالخطايا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كنت ميت بالخطايا<br/>والذنوب فوق راسي همّ<br/>في الصليب يسوع فداني<br/>والخلاص بالنعمه تم</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> كنت بالطبيعه عاصي<br/>وإبن الغضب<br/>لكنك في الرحمه غني</lines>
+      <lines>يا أبويا وبتحبّ<br/>أحييتني مع المسيح<br/>ومليت قلبي بالتسبيح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كنت بادوَّر على أعمالي<br/>وبافتِّش فين أصلح حالي<br/>وانت بتدوَّر عليَّ<br/>بالنعمه في الإبن الغالي</lines>
+    </verse>
+  </lyrics>
+</song>

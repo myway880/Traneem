@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:18">
+  <properties>
+    <titles>
+      <title>انا جيت علشانك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انا جيت علشانك انت<br/>وانا شغلي الشاغل انت<br/>(مشتاق لرجوعك وانت<br/>في عنادك زي ما انت) 2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>دا مكانك في تعال<br/>للعشره معايا تعال<br/>وايدي اليك ممدوده<br/>برحمه غير محدوده<br/><br/>بس اوعى تقسي قلبك<br/>لتضيع الفرصه منك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>في بعادك اناديلك<br/>في اتونك انا اجيلك<br/>(راح اخلي صحراك جنه<br/>وبقربي رح تتهنى) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>بالجمره امس شفايفك<br/>بايمان تقدم شايفك<br/>(ها اسكب على راسك طيبي<br/>واعيد لك تاني سكيبي) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>افتدي الوقت يا غالي<br/>وادخل وياي حجالي<br/>(راح الذذ قلبك في<br/>واخلي كاسك ريا) 2</lines>
+    </verse>
+  </lyrics>
+</song>

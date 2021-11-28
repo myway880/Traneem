@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:31">
+  <properties>
+    <titles>
+      <title> بفضل نعمتك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بِفَضْلِ نِعْمَتِكَ وَعُمْقِ رَحْمَتِكَ<br/>آتِ لمَحَبَّتِكَ وَأَرْتَمِي عَلَيْك<br/>اِرْوِ ظَمَأ قَلْبِي وَشَوْقِي وَحُبِّي<br/>فَرَاحَتِي يَا رَبِّي وَحَاجَتِي إِلَيْك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> تَحْمَدُكَ الشِّفَاه وَتَنْحَنِي الْجِبَاه<br/>لِشَخْصِكَ يَا الله فَأَنْتَ خَالِقُهَا<br/>تُسَبِّحُ الْقُلُوبْ أَمَامَكَ تَذُوبْ<br/>فَاسْمُكَ مَهُوبْ وَأَنْتَ سَيِّدُهَا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إِلهِي مَا أَبْهَاكْ مَا أَعْظَمَ غِنَاكْ<br/>فَعَيْشِي فِي رِضَاكْ شَوْقِي وَلَذَّتِي<br/>لِذَا انْتَظَرْتُكَ وَعَيْنِي نَحْوَكَ<br/>وَتَحْتَ ظِلِّكَ تَطِيبُ جَلْسَتِي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إِلهِي صَخْرَتِي حِصْنِي وَقُوَّتِي<br/>وَكُلُّ بَهْجَتِي بِقُرْبِكَ يَسُوعْ<br/>يَا فَرْحَتِي بِكَ فُزْتُ بِحُبِّكَ<br/>وَقُرْبِ قَلْبِكَ أُحِبُّكَ يَسُوعْ</lines>
+    </verse>
+  </lyrics>
+</song>

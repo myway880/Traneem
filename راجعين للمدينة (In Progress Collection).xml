@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title>راجعين للمدينة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(راجعين للمدينة والدمعة الحزينة<br/>راح يمسحها بايده الفادي الحنان)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>وعد الهي ده وعد اكيد يوم مايجينا ده يوم العيد<br/>فوق حوالين العرش نذيد في التهليل ويا التمجيد<br/>(ونرنمها مع الالحان)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(مالناش هنا في الارض مكان رحلة غربة وليها زمان<br/>هدف الرحلة ان الايمان يبقى علينا وزادنا كمان)2<br/>(نطوي الرحلة مع الالحان)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(فوت يا زمان الصعب علينا زمن الملك اهو راجع لينا<br/>مهما الارض هاتطرح لينا عمر العالم ده مايغرينا)2<br/>(ولا يحنينا عليه انسان)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(يكفى تمني ويكفى انين قرب يجي اكيد راجعين<br/>شوق في القلب بقاله سنين واحنا نقولها تعالا امين)2<br/>(واحنا نقولها تعالا امين)2</lines>
+    </verse>
+  </lyrics>
+</song>

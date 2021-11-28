@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:36">
+  <properties>
+    <titles>
+      <title> يا أيها الراعي العظيم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا أيها الراعي العظيم<br/>ربنا يسوع المسيح<br/>نهديك حمدا لائقا<br/>مع السجود والمديح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> طهرتنا قدستنا<br/>أنقذتنا من ذلنا<br/>أكرمتنا أرحتنا<br/>بعد الهوان والعنا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بنفسك معنا تسير<br/>والظلمة لنا تنير<br/>فالشكر نهدي يا قدير<br/>لأنك نعم النصير</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أفكارك صالحة<br/>من نحونا على الدوام<br/>أعمالك عجيبة<br/>تفرح إلى التمام</lines>
+    </verse>
+    <verse name="v5">
+      <lines> منك الطعام ننتظر<br/>والبركات تنهمر<br/>على الأعادي ننتصر<br/>وبك دوما نفتخر</lines>
+    </verse>
+    <verse name="v6">
+      <lines> وعن قريب يا حبيب<br/>نفارق دار النحيب<br/>وتمسح دموعنا<br/>قلوبنا بك تطيب</lines>
+    </verse>
+  </lyrics>
+</song>

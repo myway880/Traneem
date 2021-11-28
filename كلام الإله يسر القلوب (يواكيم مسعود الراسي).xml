@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:05">
+  <properties>
+    <titles>
+      <title>كلام الإله يسر القلوب</title>
+    </titles>
+    <comments>
+      <comment>Author: يواكيم الراسي
+Tune: SEND FORTH THE BIBLE
+Title:82a. كلام الإله يسر القلوب
+</comment>
+    </comments>
+    <authors>
+      <author type="words">يواكيم مسعود الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> كلام الإله يسُر القلوبْ<br/> لذيذٌ وحُلوٌ كقطرِ الشِّهادْ<br/> شفاءُ العظامِ يزيل الكروبْ<br/> دواءٌ قويٌّ لجرحِ الفؤادْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كلامُ الحكيمِ دليلُ الحياه<br/> عزاءُ الحزاني مُزيلُ الهمومْ<br/> لباسُ الصلاحِ مُنيلُ النجاه<br/> وبلسمُ خيرٍ لكل الكُلومْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> كلامُ المنير مبيدُ الظلامْ<br/> يصيِّرُ كلَّ جهولٍ حكيمْ<br/> هُدى ذي الضلال ورُشْدُ الأنامْ<br/> طريقُ السماء الصحيحُ القويمْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> كلامُ الغني غِنىً للفقيرْ<br/> خِزانةُ خيرٍ وكنزٌ ثمينْ<br/> سراجُ البصيرِ وعينُ الضريرْ<br/> ملاذٌ أمينٌ وبُرجٌ حصينْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> كلامُ القدير لنا في القتالْ<br/> سلاحٌ وترسٌ لقهر الرجيمْ<br/> تزول السماءُ وكل الجبالْ</lines>
+    </verse>
+  </lyrics>
+</song>

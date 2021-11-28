@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:32">
+  <properties>
+    <titles>
+      <title> ربي بيفرح لما بارنم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ربي بيفرح لما بارنم وارفع صوتي إليه<br/>ربي بيفرح لما باقدم شكري وحمدي إليه قلبي بالتهليل يسبح قلبي بالتسبيح يهلل</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>علشان كده يا حبيبي يسوع اقبل حمدي والتسبيح<br/>انا جايلك وبكل خشوع اهدي لاسمك احلى مديح</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ويا يسوع افراحي تدوم بالترنيم افراحي تزيد<br/>لما ارنم طول اليوم قلبي هايفرح وابقى سعيد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>غني يا قلبي بالألحان وارفع صوتك واهتف قول<br/>أنا بيسوع دايما فرحان هو نشيدي هنا على طول</lines>
+    </verse>
+  </lyrics>
+</song>

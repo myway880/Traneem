@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:30">
+  <properties>
+    <titles>
+      <title>بر سلام مع سرور</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: THE GATE AJAR
+Title:329. بر سلام مع سرور
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> بِرٌّ سلامٌ معْ سرورْ<br/> أوصافُ مُلْكِ الباري<br/> تبقى إلى دهرِ الدهورْ<br/> للمؤمنِ المُختارِ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>هذا سلامُ المؤمنينْ<br/> من ربِّهم حُلوٌ ثمينْ<br/> سلامٌ سلامٌ<br/> سلامٌ كلَّ حينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لا تقدِرُ الدُّنيا تُنيلْ<br/> هذا السلامَ الأسمى<br/> كلا ولا عنا تُزيلْ<br/> تلك العطايا العُظمى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هذا سلامٌ لي شراهْ<br/> ربُّ الفِدى بالصلبِ<br/> كالنهرِ يجري في صَفاهْ<br/> يُروي ظماءَ القلبِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> الأمنُ فيه والهجوعْ<br/> هذا السلامُ الباقي<br/> فإنما المعطي يسوعْ<br/> باق على الميثاقٍ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> إن تَطْمُ حولي النائباتْ<br/> كاللُّجِّ وسْطَ البحرِ<br/> يدُمْ سلامي في ثباتْ</lines>
+    </verse>
+  </lyrics>
+</song>

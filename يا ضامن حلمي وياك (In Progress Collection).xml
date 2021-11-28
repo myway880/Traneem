@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:39">
+  <properties>
+    <titles>
+      <title> يا ضامن حلمي وياك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا ضامن حلمي وياك<br/>آتي إليك بخشوع<br/>قدس أحلامي برضاك<br/>ربي يا يسوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أنا مستنيك وحدك يا يسوع<br/>وعيني عليك بعطش وجوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines> انتظارًا انتظرت<br/>وعودك ليَّ<br/>فتعال كما شئت<br/>بنهضه فيَّ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا مالي نفسي سلام<br/>مهما العدو يقول<br/>نصري فيك على الدوام<br/>ثابت لا يزول</lines>
+    </verse>
+    <verse name="v4">
+      <lines> لذذ نفسي من غناك<br/>في العمق ربي<br/>اشبع قلبي وفكري معاك<br/>وشوقي وحبي</lines>
+    </verse>
+  </lyrics>
+</song>

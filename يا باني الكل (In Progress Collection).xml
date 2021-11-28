@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title> يا باني الكل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>يا باني الكل<br/>حلّْ تاني بالأفراح في بيتك<br/>يا رب البيت<br/>طلّْ فينا ورجعنا تاني بيتك</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> خلّي الإنسان يرجع تاني إنسان<br/>والقلب كمان يمتلي بيك بالإيمان</lines>
+      <lines>والتايه منا يعود اليوم للأحضان<br/>والكل يغني اكمن القلب رجع فرحان</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا ضابط الكل يا بابا الجميع<br/>في إيديك الكل لا يفقد ولا يضيع</lines>
+      <lines>تسند وتبدل النواح بالترنيمات<br/>يترد لينا إللي راح بالتعزيات</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> دي عيون الكل بالدموع تترجاك<br/>وإيدين الكل منتظرة لمسة يداك</lines>
+      <lines>المس بالروح الجميع يغتني<br/>تغني بالروح المهدوم يتبني</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> اهدم وانقض ما بناه الشيطان<br/>واهلك واقلع ما زُرع من الزوان</lines>
+      <lines>وازرع فينا بِرّْ وشوق للصلاح<br/>وابني فينا مسكن مقدس فيه ترتاح</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> أوانينا شكل يا الفخاري العظيم<br/>قوِّم وعدِّل المنحني يستقيم</lines>
+      <lines>نرى وجهك يستضيء الكيان<br/>يُرى مجدك في الإناء المُصان</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional"> باهديك الكلّْ روحي ونفسي وجسدي<br/>أفكاري وكلّْ ما في قلبي يكون مرضي</lines>
+      <lines>وأفعالي وأقوالي وحتى صمتي<br/>هذا قراري امتلكني بإرادتي</lines>
+    </verse>
+  </lyrics>
+</song>

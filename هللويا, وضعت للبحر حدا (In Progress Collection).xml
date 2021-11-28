@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:29">
+  <properties>
+    <titles>
+      <title>هللويا, وضعت للبحر حدا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(هللويا وضعت للبحر حدا<br/>هللويا اعدائنا ترد ردا) 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(قادر من مثلك عظيم في خلاصك<br/>تدفع اعدائنا بنفخة من فمك) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(مجدك في وسطنا سور نار حولنا<br/>انت ترس عوننا وسيف عظمتنا) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(اذرعك من تحتنا غطاء مجد فوقنا<br/>انت لنا من مثلنا نهتف هللويا) 2</lines>
+    </verse>
+  </lyrics>
+</song>

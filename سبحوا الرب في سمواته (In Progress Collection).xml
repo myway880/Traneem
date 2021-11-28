@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:40">
+  <properties>
+    <titles>
+      <title> سبحوا الرب في سمواته</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>وليشدوا كل مرء فى الوجود ربي المجيد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>سبحوا الرب في سمواته رنموا له ومجدوه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>سبحوه يا كل الأمم واشكروه على نعمته</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ولترفع المديح كنيسة المسيح من داخل القلوب لربنا المحبوب</lines>
+    </verse>
+  </lyrics>
+</song>

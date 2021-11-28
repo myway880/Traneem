@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:16">
+  <properties>
+    <titles>
+      <title>إن المسيح حينما</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: ST. CATHERINE
+Title:112. إن المسيح حينما
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إن المسيحَ حينما<br/> جاء لكي يعتمدا<br/> إنشقتِ السما وكال<br/> حمامةِ الروحُ بدا</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فهَبْ لنا يا أزلي<br/> عمادَ روحكَ العلي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فمُسِحَتْ جبهتهُ<br/> وجاء صوتٌ قائلا<br/> هذا هو ابني الذي<br/> به سُرِرتُ يا ملا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فكل مَن جاء إلي ال<br/> ينبوعِ يبتغي العِمادْ<br/> تنفتح السما لهُ<br/> وتصطفيهِ للجهادْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يرقُبُه مِن السما<br/> روحُ الإلهِ المُرشدُ<br/> يغسله مِن إثمهِ<br/> وعن خَطاهُ يُبعدُ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا ربُّ مَن نعمتهُ<br/> أهلَ التُّقى تُقَدِّسُ<br/> إحفظ وصُن حياتَنا<br/> من كل ما يُدنسُ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:39">
+  <properties>
+    <titles>
+      <title> أنا ممسوك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>هو الراعي اللي بيهتم بكل خرافه علينا أمين<br/>مش ممكن أبدا ينساها ده حتى حافظها في نني العين</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا ممسوك في إيدين الراعي ده حتى شايلني على الأكتاف<br/>كل طريقي يقوللي في ضيقي كن مطمن اوعى تخاف</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا محفوظ في عناية الراعي وسط الخوف يديني سلام<br/>عينه علي وإيده قوية أكيد يحفظني مدى الأيام</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أنا متأكد إن الراعي يسد حاجاتي بكل حنان<br/>عند المية مراعي غنية هناك يربضني في اطمئنان</lines>
+    </verse>
+  </lyrics>
+</song>

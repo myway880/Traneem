@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:36">
+  <properties>
+    <titles>
+      <title>يا رب إني بائس</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: SWEET HOUR OF PRAYER
+Title:79. يا رب إني بائس
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا ربِّ إني بائسٌ<br/> أمِلْ إليَّ أذُنيكْ<br/> وارحم ضعيفا مُتعباً<br/> ألقى اتكاله عليكْ<br/> إني إليك صارخٌ<br/> طول النهار فاستجبْ<br/> وسُرَّ نفساً رُفِعَتْ<br/> إليك حسبما يجبْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إلي صلاتي انصِتْ فكمْ<br/> دعوتُ فاستجبْ لي<br/> فليسَ شِبهٌ لك في<br/> ذاتٍ ولا في عملِ<br/> أنت العظيمُ الصانعُ ال<br/> آياتِ والمُعطي الرَّشَدْ<br/> لك اعترافي مُخلِصاً</lines>
+    </verse>
+  </lyrics>
+</song>

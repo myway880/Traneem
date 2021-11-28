@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:57">
+  <properties>
+    <titles>
+      <title> فوق تل الجلجثة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">فوق تل الجلجثه<br/>صلب العالم لي<br/>والبريق المشتهى<br/>بان زائفا خلي</lines>
+      <lines>في محب قد قضى<br/>وافتداني من ردى<br/>كنز عمري قد بدا<br/>(لي حقيقيا جلي)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> عندما فوق الثرى<br/>سمر الفادي العلي<br/>طهرت تلك الدما<br/>اثم نفسي المبتلي</lines>
+      <lines>كل حملي قد غدا<br/>مثل ليل قد مضى<br/>وسلاما للمدى<br/>(كان قلبي يمتلي)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> تاركا هم الدنى<br/>ومتاعا قد بلي<br/>امن البال على<br/>حاضري او ما يلي</lines>
+      <lines>سوف احيا ابدا<br/>درب خير وهدى<br/>خلف راع قد شدا<br/>(لحن حب الله لي)2</lines>
+    </verse>
+  </lyrics>
+</song>

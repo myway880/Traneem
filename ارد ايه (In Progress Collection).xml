@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:03">
+  <properties>
+    <titles>
+      <title>ارد ايه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ارد ايه ولا ايه ، ولا ايه ولا ايه<br/>واجيب منين الكلام اللي اشكر بيه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>اللي حبني وانا خاطي<br/>اللي يخلص مهما اخون<br/>اللي عينه علي يوماتي<br/>اللي قلبه تملى حنون</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اللي يغفر زلاتي<br/>ينسى قسوة قلبي سنين<br/>اللي نور كل حياتي<br/>اللي قلبه تملى حنون</lines>
+    </verse>
+    <verse name="v4">
+      <lines>اللي يستر ضعفاتي<br/>اللي رفعني انا المديون<br/>اللي فوق الكف نقشني<br/>اللي شالني جوه العين</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:41">
+  <properties>
+    <titles>
+      <title> يا من صنعت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا من صنعت<br/>بل لي وهبت<br/>يا رب إني<br/>لك أعني</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> لك أنا<br/>فيك الهنا<br/>لك أنا<br/>ولا عنا</lines>
+      <lines>لك أنا<br/>كل المنى<br/>لك أنا<br/>حتى لقاك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كل طموحي<br/>غاية روحي<br/>أعيش عمري<br/>وكلَ أمري</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لك انتظاري<br/>ففي دياري<br/>آمين تعال<br/>وليتعالى</lines>
+    </verse>
+  </lyrics>
+</song>

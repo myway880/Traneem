@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:15">
+  <properties>
+    <titles>
+      <title>ما كان لي ربحا لقد حسبته</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم سركيس
+Tune: PATRIA
+Title:356. ما كان لي ربحا لقد حسبته
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم سركيس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ما كان لي ربحاً لقد حَسِبتُهُ<br/> خَسَارةً من أجلِ فاديَّ المسيحْ<br/> وليس شيءٌ غيرُهُ<br/> أطلبُهُ لأستريحْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لو كنت حتي الآن أُرضِي بَشَراً<br/> ما كنتُ عبداً للمسيحِ ابنِ العَلي<br/> فلْيُرضِ كلُّ واحِدٍ<br/> قريبَه للأفضلِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مخلصي الحبيبَ إن أدنُ أليكَ<br/> وأنت تدنو نحوَ نفسي يا كريمْ<br/> فلستُ أرهبُ العِدى</lines>
+    </verse>
+  </lyrics>
+</song>

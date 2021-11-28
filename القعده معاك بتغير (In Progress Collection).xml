@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title> القعده معاك بتغير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">القعده معاك بتغير فيا<br/>كل اتجهات وميول ارضيه</lines>
+      <lines>شكل في حياتي نور في صلاتي<br/>خبيني في شخصك وانت اظهر فيا</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> طلبى الوحيد انك تزيد واكون في حضورك كل الحياة</lines>
+      <lines>بارتاح معاك شوقى في لقاك مشتهى قلبي وفيك الغنى</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كل القشور تتبدل نور فى رضاك سرور وانا طلبى رضاك</lines>
+      <lines>متعلق بيك والغالى ليك عند رجليك مغمور هناك</lines>
+    </verse>
+  </lyrics>
+</song>

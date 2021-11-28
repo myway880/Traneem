@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:16">
+  <properties>
+    <titles>
+      <title>ماذا ارد لك يا حبيب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ماذا ارد لك يا حبيب<br/>هل فضتي والذهب؟<br/>ما هذه لالام الصليب<br/>ما هذه للتعب!<br/>الكل منك وقد صرت لي<br/>نبع الفداء العجيب<br/>انت حياتي يا من جئتني<br/>منقذا نفسي من اللهيب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>اجلستني يا رب في السماء<br/>انسيتني بحبك العناء<br/>انرت ظلمتي وازلت كربتي<br/>خلصتني حملت لعنتي<br/>قد صرنا في المسيح كاملين<br/>وقد غدونا فيه قديسين<br/>هو رجاؤنا وهو ضماننا<br/>قد صارت السما ميراثنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بصوتك ربي ناديتني<br/>من قبر اثمي المشين<br/>احييتني ثم قدستني<br/>بغمر دم ثمين<br/>قد فضت في بروح مجيد<br/>يقودني للدوام<br/>حتى اعيش في عهد جديد<br/>ولا ارجع للظلام</lines>
+    </verse>
+    <verse name="v3">
+      <lines>في الضعف قوتك تكمل<br/>في الحزن فيك العزاء<br/>لانك في.. ساعمل<br/>ولن ابالي العناء<br/>مخبرا للخطاة بمن<br/>قد جدد المؤمنين<br/>حتى ينالوا نصيبا كما<br/>نلت ويهتفوا قائلين</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:59">
+  <properties>
+    <titles>
+      <title> بحلم أروح لك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لما بشوف طير في السما باتمنى أكون زييه أنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بحلم أروح لك بعيد بعيد نفسي أكسر قيود الحديد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>بحلم بعالم جديد جديد وقلبي فيه يكون سعيد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لما بشوف سحابة بعيدة باتمنى أكون نسمة رقيقة</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>عالية فوق تسمع همسة صوتك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>بحلم أروح لك يسوع الحبيب أسجد وأصلي تحت الصليب</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>وأسكب دموعي تفيض تفيض تمحي ذنوبي وأبقى سعيد</lines>
+    </verse>
+  </lyrics>
+</song>

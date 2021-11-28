@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:44">
+  <properties>
+    <titles>
+      <title> ربي عظيمة كل اعمالك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربّي عظيمة كلُّ أعمالِك يا إلهَنا القدير<br/>عدلٌ وحقٌّ كلُّ أحكامِك أنت ملكُ الدهور</lines>
+      <lines break="optional">من لا يمجّد اسمَك يا ربّ<br/>من لا يخاف قدسَك يا الله</lines>
+      <lines break="optional">كلُّ الشعوبِ لك ستنحني<br/>لأنّ مجدَك سيُرى</lines>
+      <lines>هللويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا إلهنا القدير<br/>أنت ملك الملوك</lines>
+      <lines break="optional">من لا يخاف قدسك يا ألله<br/>لان مجدك سيرى<br/>هللويا آمين</lines>
+      <lines break="optional">من مشرق الشمس لمغربها<br/>ملآنة كل الأرض من غناك</lines>
+      <lines>مسبح إسمك ايا رحيم<br/>يا إلهنا أنت الكريم</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يا باسط السماء ويا ناشرها<br/>مصور الأرض ومبدعها</lines>
+      <lines break="optional">كيف لا نعظمك يا رب<br/>كل لسان لك يرنم<br/>هللويا هللويا</lines>
+      <lines break="optional">أنت الخالق العظيم<br/>يا إلهنا القيوم</lines>
+      <lines>كيف لا نسجد لك يا ألله<br/>وكل قلب لك يهتف<br/>هللويا آمين</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> الجبال ترجف في حضرتك<br/>البحار تنشف من زجرتك</lines>
+      <lines break="optional">هلا نعبد شخصك يا رب<br/>كل الخليقة لك ستخضع<br/>هللويا هللويا</lines>
+      <lines break="optional">أيها الرب القدوس<br/>أنت الله المخوف</lines>
+      <lines>هلا نتهيبك يا ألله<br/>يا إلهنا الجليل<br/>هللويا آمين</lines>
+    </verse>
+  </lyrics>
+</song>

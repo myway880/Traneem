@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title>أحبك يا رب يا قوتي</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: LYONS
+Title:253. أحبك يا رب يا قوتي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أحِبُّكَ يا ربُّ يا قوتي<br/> فإنك حصنٌ به أحتجِبْ<br/> حبالُ الهوايا قد احتَطْنَ بي<br/> وفخُّ المنايا أمامي نُصِبْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> طريقُ إلهِ العُلَى كاملٌ<br/> وقولُ الإله شريفٌ نقي<br/> وليس إلهٌ لنا غيرُهُ<br/> سلاحٌ وتُرسٌ به نتَّقي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إلهٌ يُمَنطِقُني بالقُوى<br/> ويجعلُ طُرْقي منَ الكُمَّلِ<br/> ويرفعُني فوقَ أعلى الذُّرى<br/> ويجعلُ رجليَّ كالإيَّلِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> لذلك أحمَدُهُ إنهُ<br/> خلاصُ يتيمٍ عليه اعتَمَدْ<br/> خلاصٌ لكلِّ بني شعبِهِ</lines>
+    </verse>
+  </lyrics>
+</song>

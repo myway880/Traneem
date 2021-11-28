@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:51">
+  <properties>
+    <titles>
+      <title> اللي اتولدوا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>اللي اتولدوا قبلنا واللي عاشوا عمرنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>واللي هايجوا بعدنا يمكن يكونوا زينا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مش مهم ايه جنسنا أو حتى لون جسمنا</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أو ايه فصيلة دمنا أو كم حصيلة شغلنا</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>تيجوا نفتح قلبنا يا ترى بنحب بعضنا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>زي ما حبنا ربنا ده كلام لينا كلنا</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>لأخويا وأختنا لأبويا وأمنا</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>وكمان لي أنا تيجوا نقبل ضعفنا والرب يضمنا</lines>
+    </verse>
+  </lyrics>
+</song>

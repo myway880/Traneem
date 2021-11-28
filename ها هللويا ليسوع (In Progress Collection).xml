@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:27">
+  <properties>
+    <titles>
+      <title>ها هللويا ليسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ها هللويا ليسوع<br/>ها هللويا ليسوع<br/>ها هللويا ها هللويا<br/>ها هللويا ليسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>قام يسوع ظافرا<br/>قام يسوع ظافرا<br/>قام يسوع قام يسوع<br/>قام يسوع ظافرا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>رب السموات والارض<br/>رب السموات والارض<br/>ربي يسوع ربي يسوع<br/>رب السموات والارض</lines>
+    </verse>
+    <verse name="v4">
+      <lines>يسوع ات عن قريب<br/>يسوع ات عن قريب<br/>يسوع ات يسوع ات<br/>يسوع ات عن قريب</lines>
+    </verse>
+    <verse name="v5">
+      <lines>هيا استعدوا للقاه<br/>هيا استعدوا للقاه<br/>هيا استعدوا هيا استعدوا<br/>هيا استعدوا للقاه</lines>
+    </verse>
+  </lyrics>
+</song>

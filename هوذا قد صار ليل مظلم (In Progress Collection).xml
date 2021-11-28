@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:30">
+  <properties>
+    <titles>
+      <title> هوذا قد صار ليل مظلم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">هوذا قد صار ليل<br/>مظلم نصف النهار<br/>والصخور الصم شقت</lines>
+      <lines>فلماذا ذاك صار<br/>ذاق رب المجد موتا<br/>بعد صلب واحتقار</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> انظروا كيف يداه<br/>سمرت فوق الخشب<br/>وله إكليل شوك</lines>
+      <lines>ناب عن تاج الذهب<br/>آه ما أقسى أيادي<br/>صنعت هذا العجب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> اسمعوا صوت أنين<br/>صاعد من قلبه<br/>وانظروا دما وماء</lines>
+      <lines>خرجا من جنبه<br/>يا ترى ذاك لماذا<br/>هل لكم علم به</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> خبثاء القلب كنا<br/>مستحقين الغضب<br/>فأتانا وفدانا</lines>
+      <lines>من عذاب في اللهب<br/>أيها الإخوة أصغوا<br/>واعرفوا هذا السبب</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> سبحوا الرب وغنوا<br/>واهتفوا طول المدى<br/>اكسروا الخبز بشكر</lines>
+      <lines>واذكروا رب الفدى<br/>مجدوا من مات طوعا<br/>مبعدا عنا الردى</lines>
+    </verse>
+  </lyrics>
+</song>

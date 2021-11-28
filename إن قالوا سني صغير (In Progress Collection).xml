@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:11">
+  <properties>
+    <titles>
+      <title> إن قالوا سني صغير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مش راح اقول اني صغير وهابطل اكون جبان<br/>والناس حوالي هتتغير بالنعمة وبالإيمان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إن قالوا سني صغير وطولي يادوب شبرين<br/>انا هاشهد عنك ربي دلوقتي مش بعدين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>هارفض اي كلام م الناس حتي إن قالوا مش نافع<br/>هاتشجع وانا مليان حماس واكون لصوتك سامع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>هارجع لكتابك دايما وسلاحي هو المكتوب<br/>دا كلامك ليه سلطان بيغير القلوب</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:45">
+  <properties>
+    <titles>
+      <title> ربي يسوع يحبني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ربي يسوع يحبني دوما<br/>لا شيء عنه يردني يوما<br/>قد مات عني فوق الصليب<br/>فصرت للحبيب</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ملك انا لربي<br/>يسوع ملك لي<br/>في ذي الحياة مثلما<br/>للدهر في السما</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كنت شريدا في تيه الاثام<br/>فافتدى نفسي رئيس السلام<br/>طهر قلبي ربي العجيب<br/>فصرت للحبيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines> والان صرت بربي سعيدا<br/>اذ نلت منه ميلادا جديدا<br/>فالقلب يشدو لذا النصيب<br/>قد صرت للحبيب</lines>
+    </verse>
+  </lyrics>
+</song>

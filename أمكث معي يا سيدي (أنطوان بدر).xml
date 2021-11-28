@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:16">
+  <properties>
+    <titles>
+      <title>أمكث معي يا سيدي</title>
+    </titles>
+    <comments>
+      <comment>Author: أنطوان بدر
+Tune: AND CAN IT BE?
+Title:217. أمكث معي يا سيدي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">أنطوان بدر</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أُمكُثْ معي يا سيدي<br/> فالغمرُ غطَّى جسدي<br/> والوهنُ قد أعيا يدي<br/> وليس لي مِن مُنجِدِ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فامكثْ معي يا سيدي<br/> فامكُثْ معي يا سيدي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مولايَ قد مالَ النهارْ<br/> وليس للسعيِ اقتدارْ<br/> والعمرُ ولَّى كالغَمامْ<br/> وقد دنا وقتُ المنامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فلا الدُّجَى يَرعَبُني<br/> ولا العِدى تغلِبُني<br/> ولستُ أرهبُ الردى<br/> إذ كنتَ أنتَ المرشدا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا موتُ أين شوكتُكْ<br/> يا قبرُ أين صولتُكْ<br/> قد نلتُ تاجَ الظافرِ<br/> لأن ربي ناصري</lines>
+    </verse>
+    <verse name="v5">
+      <lines> إن جُزتُ في وادي البكا<br/> أراهُ مأنوساً بكا<br/> ففي مماتي والحياهْ<br/>إني نذير الإله</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:44">
+  <properties>
+    <titles>
+      <title> يالي مليت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-( ياللي مليت القلب بنورك سبيت نفسي بكل حنان<br/>اسطع فيه ونور نورك خلي حياتك في تبان )2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(عايز اشهد عنك في حياتي عايز امجد اسم فادي<br/>وتصير اشواق وامالي مجدك يملى الكون حوالي)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>( حياتي مليانة بفرحك بتمتعني بالحرية<br/>عايز افرح واشبع قلبك تملكني وتتمجد في)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(حبك ربي ده بيحصرني ويملا قلبي بمجد غناك<br/>بيشفيني ويغيريني ويسبيني اعيش في رضاك)2</lines>
+    </verse>
+  </lyrics>
+</song>

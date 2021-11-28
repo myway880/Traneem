@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:46">
+  <properties>
+    <titles>
+      <title> ساجد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سَاجِد عَلَى رُكَبِي قُدَّامَكْ<br/>بَانزِل وَادِّي لَكْ مَكَانَكْ<br/>عَابِد باتفَرَّس في جمَالَكْ<br/>سَاجِد مُشتاق للتَّغْيِيرْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> سَاجِد دَا مكان التَّغييرْ<br/>لِحياتي وفَحْص الضَّميرْ<br/>سَاجِد مُشتاق للتَّحرِيرْ<br/>قُدَّامَك في مَكان التَّغييرْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> سَاجِد غَيَّرْنِي بلَمَسَاتَكْ<br/>وِإِرَادتِي بتِسْمَعْ هَمَسَاتَكْ<br/>إدِّينِي فَهْم لإشَارَاتَكْ<br/>وعَزِيمَه لطَاعِة كَلِمَاتَكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> سَاجِد وبَاجِي لَكْ بقُيُودِي<br/>عَارِف ضَعَفَاتِي وحُدُودِي<br/>مِش نَافِعْ وَحْدُه مَجْهُودِي<br/>قَدَّرْنِي أتخَطَّى سُدُودِي</lines>
+    </verse>
+    <verse name="v4">
+      <lines> مِش هانهَض إلاَّ وانَا في إيدَكْ<br/>خُد رَاحتَك وانتَ بتِصنَعنِي<br/>شكِّلنِي أصير صنعِة إيدَكْ<br/>رجَّعنِي وعَاءَك واملانِي</lines>
+    </verse>
+  </lyrics>
+</song>

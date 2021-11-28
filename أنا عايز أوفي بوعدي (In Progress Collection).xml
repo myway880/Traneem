@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:19">
+  <properties>
+    <titles>
+      <title> أنا عايز أوفي بوعدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أنا عايِز اوفِي بوَعدي<br/>أحيا لشخصك نذير<br/>وأعيش صادق في حبِّي<br/>مِش بسّ كلام كتير</lines>
+      <lines>ضيَّعت سنين في عمري<br/>عشت لنفسي وقاسِيت<br/>جاي لك باصرخ ساعدني<br/>مِن قلبي بأقول نَوِيت</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> دي حياه واحده بتِجري<br/>والعمر ظلّ وبُخار<br/>لو عشت لنفسي هاخسر<br/>جاي لك واخِد قرار</lines>
+      <lines>قدِّسني عشان اعيش لك<br/>أبقى لحُبَّك أسير<br/>والباقي أعيشهمِ لكك<br/>ما كفايه دا راح كتير</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> شَعارات زايفَه باقولها<br/>وكلام ما فيهوش حياه<br/>وِإراده ضعيفه عاصيه<br/>وحدك فيك النَّجاه</lines>
+      <lines>إمسك إيدي وساعدني<br/>طهَّرني من الذُّنوب<br/>إلمسني وإشفي ضعفي<br/>توِّبني عشان اتوب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> والقُدره الإلهيَّه<br/>تِحميني من الفساد<br/>فأعيش في طريق مخافتَك<br/>وابذِل كلّ اجتهاد</lines>
+      <lines>أنكر ذاتي وأمشي<br/>من فوق كِتفي الصَّليب<br/>أخدِم والحبّ يِشعِل<br/>جُوَّايا نار لهيب</lines>
+    </verse>
+  </lyrics>
+</song>

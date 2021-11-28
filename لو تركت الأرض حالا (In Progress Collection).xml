@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو تركت الأرض حالا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو تركتُ الأرض حالاً ودعانيَ الإله<br/>كي أقدمَ حسابًا عن وَكالةِ الحياه</lines>
+      <lines>هل بوزنتي ربحتُ وزنة ً لمجده<br/>هل أنا عبد ٌ أمين ٌ أحيا طوعَ أمره</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كيف أدخل السماءَ وأرى وجهَ أبي<br/>كيف أصعدُ إليه وأخي ليس معي</lines>
+      <lines>هل سيحلو لي مقامي وأخي ملقىً هناك<br/>خارجًا يبكي وحيدًا في الجحيم والهلاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يا إلهي هل حياتي تشهدُ بفضلك<br/>هل سلوكي ككلامي يعلن عن حبك</lines>
+      <lines>يا إلهي ها حياتي كرِّسنها لك<br/>ولأكن كما تريدُ مشبعًا لقلبك</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> يا إلهي ليس فيَّ قوة ٌ ولا صلاح<br/>ليس فيَّ أيُّ شيءٍ أنت تضمن النجاح</lines>
+      <lines>قد بذرتُ وزرعتُ وأنا في الانتظار<br/>قد غرستُ وسقيتُ أنت تضمن الثمار</lines>
+    </verse>
+  </lyrics>
+</song>

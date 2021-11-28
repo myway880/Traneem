@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:32">
+  <properties>
+    <titles>
+      <title> وسط هم في الحياة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">وسط هم في الحياة<br/>كيف أنسى أنني<br/>مهما جعت أنت آتى<br/>تشبعني تضمني</lines>
+      <lines>إن خرت يوماً في الطريق<br/>وعدك سند أمين<br/>فهو يبقى لي الصديق<br/>يخفف عني الأنين</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> أنت مولاي سيدي<br/>فيك وحدك الرجاء<br/>أمسي ويومي وغدي<br/>لك السجود والثناء</lines>
+      <lines>يا مبهج القلب الحزين<br/>يا ماسح دمع العينين<br/>يسوع أن راحتي<br/>أبغيك طول السنين</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قدوس أنت يا ألله<br/>قدوس يا رب الحياة<br/>أسبح أنت نصرتي<br/>أنت المليك الإله</lines>
+    </verse>
+  </lyrics>
+</song>

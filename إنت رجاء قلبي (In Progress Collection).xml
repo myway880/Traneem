@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:45">
+  <properties>
+    <titles>
+      <title> إنت رجاء قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>هللويا انت رجا قلبي هللويا انا رجا قلبك<br/>هللويا يسوع رجانا الوحيد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>خلينا نكون نسور نحلق بأعلى الفضا<br/>عالخوف لفينا نثور نحنا أبناء الرجا<br/>نتحول شعلة نور نضوي ظلمة المسا<br/>سوى نبني الجسور بين الارض والسما</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>خلينا نكون جنود نرفع رايات الإنتصار<br/>بنورو زال الليل إسمو قدير وجبار<br/>بصلبو غلب الموت بوعدو صرنا أحرار<br/>سوا نرفع أيدينا ونهللو ليل نهار</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>خلينا نكون خدام نبشر بالكلمه وين ما كان<br/>لابسين سلاح الرب تنقدر نثبت بالإيمان<br/>ونكون رسل سلام بالحق وبأمان<br/>يسوع منبع قوتنا والخلاص والسلطان</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:16">
+  <properties>
+    <titles>
+      <title> في وقته يصنع عجبا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>في وقته<br/>يصنع عجبا في وقته<br/>ربي إني أعلم أنك تصنع<br/>حسب وعدك في وقتك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في وقتك<br/>تصنع عجبا في وقتك<br/>ربي ها حياتي لك تعلن أمانتك<br/>تصنع عجبا في وقتك</lines>
+    </verse>
+  </lyrics>
+</song>

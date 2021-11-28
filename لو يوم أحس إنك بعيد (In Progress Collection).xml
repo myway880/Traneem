@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو يوم أحس إنك بعيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو يوم أحس إنك بعيد<br/>عني هناك في السما<br/>وانسى كلامك الأكيد</lines>
+      <lines>إنك معايا ربّي هِنا<br/>ألاقيك تجي عندي قريب<br/>تملا كل حياتي هَنا</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> وتفضل إنت زي ما انت<br/>أمين في وعودك<br/>تحمي وترفع وتفيض عليَّ</lines>
+      <lines>بخيرك وجودك<br/>حاسس حنانك شايف رعايتك<br/>لامس وُجودك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو يوم بيملا حياتي الخوف<br/>ويضيع مِن قلبي السلام<br/>وانسى كلامك العطوف</lines>
+      <lines>إنك معايا طول الأيام<br/>ألاقيك جنبي تطمّن قلبي<br/>وعلى ذراعك ربي بانام</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لو يوم أحس بغدر صديق<br/>ينزف قلبي جراح<br/>وانسى كلامك إنك طريق</lines>
+      <lines>خير وحياه وأفراح<br/>تجي وتشفي القلب وتعصب<br/>تطرد من قلبي الأتراح</lines>
+    </verse>
+  </lyrics>
+</song>

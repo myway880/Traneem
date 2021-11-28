@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:50">
+  <properties>
+    <titles>
+      <title> صحي في الأشواق</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">صَحّي فِيَّ الأشواق من جِديد<br/>القلب فاتر محتاج إليك<br/>صَحّي فِيَّ الأشواق من جِديد<br/>أنا جاي لحضنك دي الرّاحة فيك</lines>
+      <lines break="optional">إنزع كُلِّ شكِّ فِيَّ<br/>واطلق نفسي في الحُرِّيّة</lines>
+      <lines>وازرع فِيَّ تاني جدور تِتثَبِّت فيك<br/>صَحّي فِيَّ الأشواق من جِديد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> صَحّي فِيَّ الأشواق من جِديد<br/>ساعدني شوفَك بعيون جِديدَة<br/>صَحّي فِيَّ الأشواق من جِديد<br/>وِ فْحَياتي تِبقى حقيقة</lines>
+      <lines break="optional">وأعرف المعنى لأيّامي<br/>وَابني معاك عمري وأحلامي</lines>
+      <lines>وتكون لِيَّ الأبِّ وِتكون الصَّديق<br/>صَحّي فِيَّ الأشواق من جِديد</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> صَحِّي فينا الأشواق من جِديد<br/>إحنا كِنِيستك وإنتَ عريسنا<br/>صَحِّي فينا الأشواق من جِديد<br/>وِفي انتظارك شَوَّق نُفُوسنا</lines>
+      <lines break="optional">يِرجَع نور حَقَّك دُستورنا<br/>يرشد خطوتنا يغيَّرنا</lines>
+      <lines>وِيْجَهِّزنا لِلُقاك القريب<br/>صَحِّي فينا الأشواق من جِديد</lines>
+    </verse>
+  </lyrics>
+</song>

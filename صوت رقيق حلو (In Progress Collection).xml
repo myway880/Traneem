@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:51">
+  <properties>
+    <titles>
+      <title> صوت رقيق حلو</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>صوت رقيق حلو وهادي صوت جميل علينا بينادي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعالوا إلي تعلموا مني أيوه دا صوت يسوع الفادي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>تعالوا إلي تعالوا تعالوا اللي يجيني أشيل أحماله</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تعلموا مني لأني وديع يا بخت اللي ياخدني مثاله</lines>
+    </verse>
+  </lyrics>
+</song>

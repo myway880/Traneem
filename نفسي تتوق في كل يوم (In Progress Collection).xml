@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:25">
+  <properties>
+    <titles>
+      <title> نفسي تتوق في كل يوم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">نفسي تتوق في كل يومٍ<br/>أن تلتقي بحبك<br/>وتنهل من نبعك ماءً<br/>يعطي انتعاشا لعبدك</lines>
+      <lines>لذا يا ربي خذ بيميني<br/>إني ضعيفٌ بدونك<br/>أنر بصيرتي وحياتي<br/>لكي ما أحيا لشخصك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ربي يا من بذلت دماك<br/>ربي يا من فديتني<br/>لا أدري كيف بل ولماذا<br/>يا رب أنت أحببتني</lines>
+      <lines>فإن سقطتُ ليس سواك<br/>من سقطتي يقيمُني<br/>وحتى إن تركتك ربي<br/>وإن نسيتكْ لا تنساني</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أقضي حياتي بين يديك<br/>في مناجاةٍ وصلاه<br/>أناجي فيها حبَّ إلهي<br/>حبا عجيبًا نحو الخطاه</lines>
+      <lines>فيا لفرحتي وسروري<br/>فليس أعظمْ من الإله<br/>إن كان معنا فمن علينا<br/>شكرًا لربي مدى الحياه</lines>
+    </verse>
+  </lyrics>
+</song>

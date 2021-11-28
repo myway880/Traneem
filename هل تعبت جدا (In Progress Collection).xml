@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:28">
+  <properties>
+    <titles>
+      <title>هل تعبت جدا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>هل تعبت جدا<br/>دونما معين؟<br/>ام لقيت صدا<br/>يا اخي الامين؟<br/>فاصطبر قليلا<br/>ربنا يفهم<br/>وعده قد قال<br/>انه يعلم</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ربنا يعلم<br/>انه المسيح<br/>فاسمعن نداه<br/>حتى تستريح<br/>دعك مما اقبل<br/>بهجة او غم<br/>ثق ووعده اقبل<br/>ربنا يعلم</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يرفع المعاثر<br/>من على الطريق<br/>وهو معك سائر<br/>انه الرفيق<br/>يعلم المصاعب<br/>لا تراع الهم<br/>وانس ذي المتاعب<br/>ربنا يعلم</lines>
+    </verse>
+    <verse name="v3">
+      <lines>في لظى التجارب<br/>قادر شديد<br/>ثم في النوائب<br/>حارس اكيد<br/>حيثما يقود<br/>سر ولا تندم<br/>ليس ما يزاد<br/>ربنا يعلم</lines>
+    </verse>
+    <verse name="v4">
+      <lines>دعوة مباحه<br/>كي تجيء الان<br/>تاخذن راحه<br/>من يد الرحمان<br/>دعك مما اقبل<br/>بهجة او غم<br/>ثق ووعده اقبل<br/>ربنا يعلم</lines>
+    </verse>
+  </lyrics>
+</song>

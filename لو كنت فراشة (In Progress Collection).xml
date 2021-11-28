@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو كنت فراشة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو كنت فراشة أنا هاشكر ربي إنه خلق لي جناحات<br/>لو كنت زرافة هارفع رقبتي على باقي المخلوقات</lines>
+      <lines break="optional">لو كنت فيل هاشكر ربي على الزلومة<br/>لو كنت طاووس هاشكر ربي على الألوان</lines>
+      <lines>لون ريشي أجمل من لوحة مرسومة دا إلهي أشطر من أشطر فنان</lines>
+    </verse>
+    <verse name="c1">
+      <lines> بس أنا مخلوق على شبهه وصورته أنا أحلى خليقته مافيش مني اتنين<br/>وأنا هافضل طول العمر بأغني مبسوط متهني إنه خلقني فلوته</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مايهمش سني ولا حتى إني أطول أو أقصر أو جميل<br/>كام صاحب عندي مين شاطر أدي أو عندي شقة ع النيل</lines>
+      <lines break="optional">دا أنا بالتأكيد أسعد واحد في الدنيا دي دا انا ربي خلقني وفداني وحبني</lines>
+      <lines>فرحان علشان مدفوع في تمن مش عادي ده دم الفادي اللي جه ومات عني</lines>
+    </verse>
+  </lyrics>
+</song>

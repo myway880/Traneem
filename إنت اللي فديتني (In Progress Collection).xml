@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:43">
+  <properties>
+    <titles>
+      <title> إنت اللي فديتني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>وحدك يا يسوع وليس سواك بحبك يا يسوع ولا حدش وياك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>انت اللي فديتني في همومي وعزيتني بلمسة واحدة شفيتني وبنظرة سرت</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>معاك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>مسحت لي دموعي ضمدت لي جروحي حياتي وروحي سابحة في أعلي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>سماك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>دي نعمة غنية أعددتها لي أعطيتها لي هدية لما مشيت وياك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>اسمك ده في خيالي دايما على باليوالعيشة تهنالي لما أكون وياك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>مجد وحرية وعيشة هنية محبة أبدية تربطني وياك</lines>
+    </verse>
+  </lyrics>
+</song>

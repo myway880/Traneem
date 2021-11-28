@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:16">
+  <properties>
+    <titles>
+      <title> أملا أيديك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>املا إيديك على قد ما تقدر<br/>قبض الريح ولا شيء ها تلاقي<br/>خد م العالم يمكن تشبع<br/>كله زوال دا العالم فاني</lines>
+    </verse>
+    <verse name="c1">
+      <lines> قول له يا ربي أنا محتاج لك<br/>مين غيرك يغفر لي ذنبي<br/>مهما ان كان في النفس فراغ<br/>حبك يملا يفرّح قلبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> خليك عايش جوا دواير<br/>ماشي طريق مليان بدموع<br/>كل ما توصل تفضل حاير<br/>ويزيد جوا القلب الجوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مهما ان بعدت أرضك عنه<br/>انظر تلقى محبه عجيبه<br/>عينه عليك الله مشتاق لك<br/>مد إيديك دي النعمه قريبه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> الأيام معدوده عليك<br/>عشتها ليه أو كنت لذاتك<br/>دوق الرب اتمتع بيه<br/>واهرب حالا من لذاتك</lines>
+    </verse>
+  </lyrics>
+</song>

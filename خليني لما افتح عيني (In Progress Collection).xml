@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title> خليني لما افتح عيني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">خليني لمَّا افتح عِيني أوِّل فكره يا ربّ تجيني<br/>إني أقوم واقعُد وَيَّاك</lines>
+      <lines>وأسمع صُوتك جوا كلامك تِملا اليوم بصُوتك وسلامك<br/>تكشف ليَّ إيه جوَّاك</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> كُلَّك مشتهيات يا حبيبي تستاهل سجودي وطيبي</lines>
+      <lines>باقعد قدامك بارتاح تحت جناحك غِنَى وافراح</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> دا كلامك مِش أيّ كلام بياخدني لخطوات قُدَّام<br/>ويغيَّر جهلي للنُّور</lines>
+      <lines>دا طعامي وَسط البرِّيَّه ساند قلبي حافظ رِجليَّ<br/>ياخد عيني من المنظور</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أنا ساجد بخشوع باخضع لك وبقلبي باسكُت واسمَع لك<br/>في المخدع علِّمني أعيش</lines>
+      <lines>طالب شُوقي يزيد جُوَّايَ أختلي بِيك وأدوب في الآيه<br/>زيَّك في جمالَك دا ما فيش</lines>
+    </verse>
+  </lyrics>
+</song>

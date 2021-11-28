@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:30">
+  <properties>
+    <titles>
+      <title> بانتظرك وباصبر ليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بانتِظرك وباصبِر لِيك<br/>واسكُب قلبي في صمت أمامك<br/>ثقتي في شخصك بارتاح فيك<br/>عيني عليك باستنى خلاصك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> إنت الرب الحلو الصالِح<br/>مين يِخزَى مِن مُنتظريك<br/>طيب للي بيترجَّاك<br/>ضامن للي اتَّكَلوا عليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إنت إلهي حياتي في إيدك<br/>شجَّعنِي وانا مِستنِّيك<br/>جَدِّد لِي القُوَّه وخلِّيني<br/>وانا مُنتظِرَك فرحان بيك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لولا إيمانِي بعظمِة جُودك<br/>وصلاحَك كُنت اعمِل إيه<br/>إديني اتسنِّد بوعودك<br/>شدد لِي رجايا وقَوِّيه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بارجع لك واسجد قدامك<br/>واستنَّى خلاصك بسُكُون<br/>واهدا معاك يِطَّمِّن قلبي<br/>دا خلاصي في شخصك مضمون</lines>
+    </verse>
+    <verse name="v5">
+      <lines> لو هانتظر الناس راح أفشل<br/>مِش هاستنَّى يا ربي سواك<br/>رأي النَّاس يِتعِب ويفَشِّل<br/>باترَجَّى مشورتَك ورِضَاك</lines>
+    </verse>
+  </lyrics>
+</song>

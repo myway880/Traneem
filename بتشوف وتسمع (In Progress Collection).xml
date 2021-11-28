@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:30">
+  <properties>
+    <titles>
+      <title>بتشوف وتسمع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>بتشوف وتسمع لكن مش عايز<br/>بتعاند وتكابر مش همك نهايتك<br/>دتشوف وتسمع لكن متريد<br/>دتعاند وتكابر مو همك نهايتك</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>يمكن بتخاف تخسر ثروتك<br/>بمجرد متيجي وتعرف مخلصك<br/>طب ليه الفكرة دي ديسوع وفقك<br/>يمكن دتخاف تخسر ثروتك<br/>بمجرد متيجي تعرف مخلصك<br/>زين ليش الفكرة هاية يسوع وفقك</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>بتفكر ازاي تسيب العالم وشرورك<br/>لانه اداك لذات وماشي انت بغرورك<br/>طب ليه الفكرة دي ده يسوع بيحبك<br/>دتفكر شلون تعوف العالم وشرورك<br/>لانه انطاك لذات وماشي انت بغرورك<br/>زين ليش الفكرة هاية يسوع يحبك</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>مش عاوز يقولون انك بتتبع ربك<br/>كلام الناس يوجع حاططهم قدوتك<br/>طب ليه الفكرة دي بيسوع خلاصك<br/>متريد يكولون انك تتبع ربك<br/>كلام الناس يوجع مخليهم قدوتك<br/>زين ليش الفكرة هاية بيسوع خلاصك</lines>
+    </verse>
+  </lyrics>
+</song>

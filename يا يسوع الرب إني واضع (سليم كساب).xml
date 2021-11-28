@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:42">
+  <properties>
+    <titles>
+      <title>يا يسوع الرب إني واضع</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: FIDES
+Title:299. يا يسوع الرب إني واضع
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا يسوع الربُّ إني واضعٌ<br/> خيرَ نفسي وخلاصي في يديكْ<br/> إنني غاوٍ أثيمٌ خاشعٌ<br/> فاشفِ ضُعفي قد توكلت عليكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا يسوع المُرتجى خِلّي الحبيبْ<br/> إنَّ كنزي وَعدُك السامي الأمينْ<br/> ما لنفسي ملجأٌ إلا الصليبْ<br/> فهو شافٍ بالدم الزاكي الثمينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا يسوع الحَبرُ أنت المُتَّكلْ<br/> فُقتَ حباً وحنوّاً بالأثيمْ<br/> أنت تشفي سُقمَ نفسي والعِللْ</lines>
+    </verse>
+  </lyrics>
+</song>

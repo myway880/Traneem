@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:22">
+  <properties>
+    <titles>
+      <title> من نبع جنبك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>من نبع جنبك الطعين<br/>أخرجت ماءً من حشاك<br/>هل لي أنا أن أرتوي<br/>ما دمتُ قد صرتُ فتاك</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> يا يسوع قدني إلى أنهارِ ماء<br/>يا حبيبي ذا نبعُك َ نبعُ صفاء<br/>في أرضٍ ناشفه في أرضٍ يابسه</lines>
+      <lines>في أرضٍ بلا ماء<br/>آمنتُ أن أرى جودَ الربِّ لي<br/>في عالمِ الأحياء</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قد صار حولي مقفِرًا<br/>لا ماء فيه لا عزاء<br/>من لي سواك فاروني<br/>وافتح ليَ نبعَ الرجاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا ربّ حقق مَقصَدي<br/>بالروحِ أبغي الامتلاء<br/>فاسكب سكيبا فائضًا<br/>في كأسي حتى الارتواء</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وكن رفيقي سيدي<br/>لأحفظ َ عهدَ الوفاء<br/>واملأ فراغ وحدتي<br/>وابهج حياتي بالبهاء</lines>
+    </verse>
+  </lyrics>
+</song>

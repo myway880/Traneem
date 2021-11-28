@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:11">
+  <properties>
+    <titles>
+      <title>الشكر لله العظيم</title>
+    </titles>
+    <comments>
+      <comment>Author: عطا الله زبانه
+Tune: DURDAY
+Title:49. الشكر لله العظيم
+</comment>
+    </comments>
+    <authors>
+      <author type="words">عطا الله زبانه</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الشكر لله العظيمْ<br/> نُهدي مدى الدوامْ<br/> إنّا بفضله العميمْ<br/> نحيا لهذا العامْ<br/> يا رب قد حفظتنا<br/> في سالفِ السنينْ<br/> عاماً فعاماً حُطتَنا<br/> بالعطف يا مُعينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لسنا بأهلِ للعطا<br/> يا منك والإنعامْ<br/> فقد سلكنا في الخطا<br/> مسالك الآثامْ<br/> فاغفرْ لنا ما قد مضى<br/> يا رب واهدينا<br/> وهَب لنا منك الرضى<br/> رضاكَ يكفينا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واجعل لنا العام الجديدْ<br/> عامَ هُدىً ونورْ<br/> كي نَصرِفَ العمر العتيدْ<br/> في خدمة الغفورْ<br/> واقبلْ أناشيدَ الثنا<br/> والحمدِ والإكرامْ<br/> مِنّا وكُن عونا لنا</lines>
+    </verse>
+  </lyrics>
+</song>

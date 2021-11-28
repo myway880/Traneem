@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title> أيها الإنسان يا من تهت في</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أيها الإنسان يا من تهت في كل طريق<br/>تبتغي ملكًا وسيعًا تشتهي كل بريق</lines>
+      <lines>أي نفع أنت ترجو لو ربحت العالمين<br/>وخسرت النفس حالاً وغدا الكل حريق</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لا تغرَّنك حياة ٌ كل ما فيها سراب<br/>ربما تسخو الحياة بالثراء والشباب</lines>
+      <lines>أو تهادنك فتغدو عاليا فوق السحاب<br/>وتظل رغم هذا في فراغ وعذاب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أيها الإنسان مهلاً أنت روحٌ وجسد<br/>كل ما في الكون قد ينفع حينًا لا أبد</lines>
+      <lines>أنت لا يغنيك إلا ربك الحي الصمد<br/>عنده تلقى عزاء وشفاء وسند</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> أيها الإنسان هيا ها هو صوت الحبيب<br/>يطرق الباب برفق مستمر كي تجيب</lines>
+      <lines>فافتح القلب وعجل وتمتع بالصليب<br/>وارتد البر رداء واقبل الروح سكيب</lines>
+    </verse>
+  </lyrics>
+</song>

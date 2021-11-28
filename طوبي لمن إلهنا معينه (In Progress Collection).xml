@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:53">
+  <properties>
+    <titles>
+      <title> طوبي لمن إلهنا معينه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>طوبي لمن إلهنا معينه ورجائه علي الرب إلهه</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الصانع السموات والارض والبحر</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وكل ما فيها بل حافظ الأمانه الي الأبد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>المجري حكما للمظلومين المعطي خبزا للجياع</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>الرب يطلق الأسري<br/>الرب يفتح أعين العمي</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>الرب يقوم المنحنين<br/>الرب يحب يحب الصديقين</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>الرب يحفظ الغرباء يعضد اليتيم يعضد الأرمله</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>الرب يفتح أعين العمي</lines>
+    </verse>
+  </lyrics>
+</song>

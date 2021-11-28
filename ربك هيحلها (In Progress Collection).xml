@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:30">
+  <properties>
+    <titles>
+      <title> ربك هيحلها</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ربك هيحلها ربك هيحلها مهما تصعب<br/>عليك ربك هيحلها</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لما تحس بضعف وضيق والقلب يبات مجروح ويبقى الخوف زي الإنسان بيطاردك فين متروح ولما تشوف المية بعينك وبرضو تبات عطشان وعقلك يتعب م التفكير وتبكي حزين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لما الشمس تدفي الدنيا وأنت في عز البرد وتتغطى بأوهام اللمة ومافيش جنبك حد ولما تحس بحزن حقيقي ومافيش دمع بجد</lines>
+    </verse>
+  </lyrics>
+</song>

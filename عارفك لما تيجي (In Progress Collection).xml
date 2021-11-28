@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:54">
+  <properties>
+    <titles>
+      <title> عارفك لما تيجي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>علشان حبك ياربي تكمل دايما فرحتي<br/>وأعيش عمري متعزي حتى في وسط دمعي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عارفك لما تيجي ببركة في كل ماضي<br/>عارفك لما تيجي تعوضني<br/>رجع كل حقك جدد ليك سنين<br/>فيها قلبي يعيش ويغنيك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>عشان أبويا صالح عشان إلهي صالح<br/>عشان أبويا صالح رغم جهلي ومحنتي<br/>عارفك لما تيجي تقبل كل ضعف في<br/>عارفك لما تيجي وتشفيني<br/>تغمرني بنهر حبك تغرق خجلي<br/>تخلي قلبي يعيش وينغني لك</lines>
+    </verse>
+  </lyrics>
+</song>

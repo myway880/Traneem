@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:14">
+  <properties>
+    <titles>
+      <title>ما أبهج اليوم الذي</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج فورد
+Tune: [ما أبهج اليوم الذي]
+Title:191. ما أبهج اليوم الذي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">جورج فورد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ما أبهجَ اليومَ الذي<br/> آمنتُ فيه بالمسيحْ<br/> أضحى سُروري كاملاً<br/> ورنَّ صوتي بالمديحْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>حُبي لفاديَّ المجيدْ<br/> يوماً فيوماً سيزيدْ<br/> عمرٌ جديدْ - يومٌ سعيدْ<br/> يومُ اختصاصي بالوحيدْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> بجاذبِ الحبِّ أتى<br/> فيا لَحُبٍّ فائقِ<br/> وردَّني إلى الهُدى<br/> بفضلِ عهدٍ صادقِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> سعادةٌ من السما<br/> حلّت على هذا الفقيرْ<br/> طوباكَ يا قلبي ابتهِجْ<br/> وقُم بنذرك الخطيرْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا نِعمَ عهدا ضمَّني<br/> إلى مُخلصي الأمينْ<br/> إني لربي وهْو لي<br/> دوماً لدهرِ الداهرينْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا ربِّ ثبِّتني وكُنْ<br/> مُمتلكاً إرادتي<br/> درِّب حياتي سيدي</lines>
+    </verse>
+  </lyrics>
+</song>

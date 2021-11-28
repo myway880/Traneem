@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مش هارضى بضعفي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مش هارضى بضعفي وأسكت ولا هارضى بهزيمة تاني<br/>مش هاقبل عجزي وأنصت مش هاكتفي بالأماني</lines>
+      <lines>تاني هامسك بإيديك وهارفع راسي بيك<br/>بعد قيامتي فيك أنا أؤمن بيك</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> أؤمن بيك يا نجاتي أنا اؤمن بيك<br/>أنت قوة حياتي أنا أؤمن بيك<br/>بيك هاغلب صعوباتي أنا أؤمن بيك</lines>
+      <lines>بصليبك ودماك أنا أؤمن بيك<br/>بموتك وفداك أنا أؤمن بيك<br/>بقيامتك وشفاك أنا أؤمن بيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مش هارضى بحالي وأكتفي وأعيش في ظل ماضي<br/>مش هارضى نوري نيطفي وكيان من القوة فاضي</lines>
+      <lines>مش هارضى أعيش أسير تحت ضعفي كسير بل<br/>بوعدك أسير أنا أؤمن بيك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مش هارضى أعيش وقوتي هي قوة شخص عادي<br/>مش هارضى أخدم وخدمتي من غير ثمر وراضي</lines>
+      <lines>فارسل روحك بقوة اسمك غير من عبدك أنا أؤمن بيك</lines>
+    </verse>
+  </lyrics>
+</song>

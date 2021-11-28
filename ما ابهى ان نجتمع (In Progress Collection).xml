@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:14">
+  <properties>
+    <titles>
+      <title>ما ابهى ان نجتمع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ما ابهى ان نجتمع<br/>حول الحبيب للمديح<br/>وحبنا حب صريح<br/>وقصدنا مجد المسيح</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مجدا لمن تنازل<br/>حتى ينير المحفل<br/>مجدا لمن في وسطنا<br/>مجدا لساكن العلا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هذا سرور الاب ان<br/>نقصد دوما مجده<br/>هذا سرور الاب ان<br/>نرى يسوع وحده</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وسط الاحبا يحضر<br/>بالبركات يامر<br/>تعزية فائضة<br/>من جوده تنهمر</lines>
+    </verse>
+    <verse name="v4">
+      <lines>فهو حبيبنا الغني<br/>ومن غناه نغتني<br/>والقلب منه يمتلي<br/>والعون منه نرتجي<br/>---[Chrous:2]---<br/>ليس لنا موسى اذن<br/>ولا ايليا معه<br/>لسنا نريد ان نرى<br/>الا يسوع وحده</lines>
+    </verse>
+  </lyrics>
+</song>

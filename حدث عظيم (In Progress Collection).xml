@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:38">
+  <properties>
+    <titles>
+      <title> حدث عظيم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حدث عظيم يشغل السماء<br/>في انتظار ربي ياتي بالبهاء<br/>افتحوا الابواب للمليك الفادي<br/>واسمعوا الابواق والصوت ينادي</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> مجدا لك يا حمل الله الوديع يا من ابيت الا ان تعطي دماك<br/>اطعت للموت وقمت بانتصار ثم ارتفعت الى سماك</lines>
+      <lines>وسوف تاتي في السحاب كي تنادي كل الذين بالايمان عرفوك<br/>وسوف يجلسون حول العرش حتى صبحا وليلا يسبحوك<br/>اذ انت رب وهم ملوك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> من سماء المجد نزل الاله<br/>كي يفك اسري ويعطي الحياه<br/>بدد شروري احياني من موتي<br/>بالشكر والحمد له يشدو صوتي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بالضعف دحرت قوة العدى<br/>بالحب وضعت دستور الهدى<br/>هيا نخطو دوما في اثر الجريح<br/>نهتف نغني: مجدا للمسيح</lines>
+    </verse>
+  </lyrics>
+</song>

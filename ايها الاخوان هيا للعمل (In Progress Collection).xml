@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title> ايها الاخوان هيا للعمل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ايها الاخوان هيا للعمل بنشاط وابتهاج وامل</lines>
+      <lines>(فالمسيح الرب قال قد كمل والخلاص تم بالموت العجيب)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines> للامام للامام يا جنود الرب هيا للامام<br/>للامام للامام (نستطيع كل شيء في المسيح)3</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ايها الاخوان هبوا وابرزوا احملوا الانجيل نادوا واكرزوا</lines>
+      <lines>(خلصوا البعض ارحموهم ميزوا واخطفوا النفوس من جوف اللهيب)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قد وهبتم الخلاص في المسيح وقبلتم حق انجيل صريح<br/>(فبسعيكم نفوس تستريح ومساعي المخلصين لن تخيب)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> انشروا الاعلام واشدوا بافتخار فالمسيح الرب قام بانتصار</lines>
+      <lines>(الحياة والخلود قد انار ابطل الموت بقوة الصليب)2</lines>
+    </verse>
+  </lyrics>
+</song>

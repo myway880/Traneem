@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:24">
+  <properties>
+    <titles>
+      <title> أنا شفت بستان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا شفت بستان وبقيت سرحان<br/>في الورود وألأزهار من كل الألوان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وسمعت العصافير بتقول ألحان<br/>والشمس بتصبح على كل الأغصان</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>واليوم بيقول لتاني شوف الله ايه اداني<br/>وشفت النمله مشغوله بشغله</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>والنحله بتعمل بيت من الشمع بتعمل بيت<br/>وأنا لما شفت البستان بقيت سرحان ياربي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أسمع صوتك الجميل صبح وظهر وعصر وليل<br/>أسبحك كل يوم مع الشمس والنجوم</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>حتى الأنهار بتصقف بتصقفلك بايديها<br/>وبترفعلك أصواتها وكمان أنا معاها</lines>
+    </verse>
+  </lyrics>
+</song>

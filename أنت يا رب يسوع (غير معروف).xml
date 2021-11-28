@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:23">
+  <properties>
+    <titles>
+      <title>أنت يا رب يسوع</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أنتَ يا ربُّ يسوعُ<br/>عِزُّنَا وصخرُنَا<br/>ومَلْجَأُنا المَنيعُ<br/>نُورُنَا وفَخرُنَا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بِكَ قدْ نِلنا الحياةَ<br/>بعدَ المَوْتِ والشقاءْ<br/>واقترابًا بعدَ بُعدٍ<br/>وعزَاءً ورَجاءْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ولَنا فيكَ الفِداءُ<br/>بالدَمِ الزكي الكريمْ<br/>فلا ذِكْرَ للخطايا<br/>ولا للشرِّ العظيمْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>كلُّ خيْرٍ منكَ يَجْري<br/>بِسَخَاءٍ وكَرَمْ<br/>فاضَ حُبُّكَ كَنَهْرِ<br/>نَسْتَقِي مِنهُ النِّعَمْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>أنتَ القُوتُ والطَّريقُ<br/>أنتَ الحَقُّ والحياهْ<br/>والوَسيطُ والشَّّفيعُ<br/>ومُخلِّصُ الخُطاهْْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>كلُّ ذا يا ربُّ حقًا<br/>صِرْتَهُ للمؤمنينْ<br/>فَلكَ منَّا السُّجودُ<br/>بِخُشُوعٍ كلَّ حينْ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:58">
+  <properties>
+    <titles>
+      <title> في رحلة الدرب الطويل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">في رحلة الدرب الطويل كل يسير في اتجاه ناداهما صوت رقيق (فلبيا نداءه)2</lines>
+      <lines>هاما بحب طاهر ناداهما له الاله<br/>واتحدت روحاهما يعلوهما لواؤه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> في رحلتيهما معا شوك الطريق يورد في وحدتيهما معا (تسمو الحياة للعلى)2</lines>
+      <lines>والرب يرعى منزلا بالبركات يرفد<br/>في روضه العمر يزان اجمل من ورد الفلى</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وفي غمار الملتقى والرب حاضر هنا اذ يقطعا امامه (عهدا على الحب الاكيد)2</lines>
+      <lines>بكل فرحة القلوب نشدو واملاك السما<br/>قد ولد البيت الجديد قد ولد البيت الجديد</lines>
+    </verse>
+  </lyrics>
+</song>

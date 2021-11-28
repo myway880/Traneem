@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:05">
+  <properties>
+    <titles>
+      <title> تتكلم بالأحلام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>تتكلم بالأحلام بالرؤيا وفي المنام تشفي كذا الاجساد والروح من السقام</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>اجعلنا نراك بالإيمان كي لا يفوتنا الزمان</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أمانتك ياربي لجيل بعد جيل كل يوم نشهد قوة الإنجيل</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>كلامك كل الحق ليس فيه تبديل وعملك في القلوب هو لنا الدليل</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>قد ضاعت الأيام بحثا وراء أوهام لا نبغي جيلا من بشر لن يبرئ من أثام</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>نجاتنا بالمسيح الآن إذ فيه وحده الضمان</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:28">
+  <properties>
+    <titles>
+      <title>أيها الهادي الأمين</title>
+    </titles>
+    <comments>
+      <comment>Author: نسيم الحلو
+Tune: INNOCENTS
+Title:308. أيها الهادي الأمين
+</comment>
+    </comments>
+    <authors>
+      <author type="words">نسيم الحلو</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أيها الهادي الأمينْ<br/> يا ملاذَ المؤمنينْ<br/> إهدنا في كل حينْ<br/> منهجَ الحق اليقينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وإذا ما القلبُ تاهْ<br/> في مسالك الغُواهْ<br/> أرهِ سفرَ الحياهْ<br/> فبه كل هُداهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إن سقطنا في الذنوبْ<br/> فأعِنّا لنتوبْ<br/> منك تجديدُ القلوبْ<br/> يا مُفَرّج الكروبْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> واجعلِ الجمعَ الغفيرْ<br/> نحو فاديه يسيرْ<br/> بسنا الوجه المُنيرْ</lines>
+    </verse>
+  </lyrics>
+</song>

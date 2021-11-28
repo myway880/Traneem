@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:33">
+  <properties>
+    <titles>
+      <title> يا إلهي يا حبيبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا إلهي يا حبيبي<br/>راحتي العظمى الوثيقه<br/>يا طمان النفس في<br/>شتى تهاويل الخليقه</lines>
+      <lines>يا عزاء القلب يا<br/>ملجاه في الدنيا الغريقه<br/>كلها وهمٌ يزولُ<br/>إنما أنت الحقيقه</lines>
+    </verse>
+    <verse name="c1">
+      <lines> يا إلهي يا حبيبي<br/>هب لعينيَّ إلهي أن تراك<br/>وأمتعنَّ عيشي<br/>كلَّ عمري في رضاك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا إلهي أشبعني<br/>مالئا كلَّ احتياجي<br/>حبُّك ربي لقلبي<br/>فيه لي كلُّ علاجي</lines>
+      <lines>ليس يكفيني سواه<br/>وهو يكفي كل راجِ<br/>فائضا بالدفء<br/>والنعماء حولي كسياجي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أعطني رؤيا محياك<br/>وما أبهى المحيا<br/>أشبعن قلبي بمرآك<br/>هنا ما دمت حيا</lines>
+      <lines>ليس معنىً للحياة<br/>دونك فادنُ إليَّ<br/>ولتكن مني قريبا<br/>بل تفضل سد عليَّ</lines>
+    </verse>
+  </lyrics>
+</song>

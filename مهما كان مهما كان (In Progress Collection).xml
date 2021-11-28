@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:23">
+  <properties>
+    <titles>
+      <title> مهما كان مهما كان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(دي العيون بتداري دموع لينا أرض وفيها يسوع)2<br/>(لينا وطنا لينا مكانا)2<br/>ولينا علم بيرف كمان</lines>
+    </verse>
+    <verse name="c1">
+      <lines> (مهما كان مهما كان لينا أرض ولينا مكان مهما كان مهما كان وعده لينا ده أغلى ضمان)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines> (مهما حارب فينا الخوف مهما عاندت فينا ظروف)2<br/>(هو حامينا هو راعينا)2<br/>وكان في النار ويا الفتيان</lines>
+    </verse>
+    <verse name="v3">
+      <lines> (مهما كان في الأرض ألام دي السحابة اهي جاية قوام)2<br/>(جاية تاخدنا زي ما وعدنا)2<br/>وهناك راح ننسى الأحزان</lines>
+    </verse>
+    <verse name="v4">
+      <lines> (مهما حاربنا الشيطان مهما على ف صوته كمان)2<br/>(لينا الغلبة ولو في الغربة)2<br/>أصل يسوعنا ده غلبه زمان</lines>
+    </verse>
+    <verse name="v5">
+      <lines> (مهما كان الوقت صعيب بكره شمس الغربة تغيب)2<br/>(بيصبرنا ويحيي أمالنا)2<br/>إن يسوعنا معانا كمان</lines>
+    </verse>
+  </lyrics>
+</song>

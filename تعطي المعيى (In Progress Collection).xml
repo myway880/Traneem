@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:10">
+  <properties>
+    <titles>
+      <title> تعطي المعيى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>تعطي المعيى قدرة ولمنتظريك قوة<br/>تأتي الضيقات وترفع الصلوات وتشق البحر وتخلصنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعزل ملوك وتنصب ملوك فكل القلوب جدول مياه في يدك<br/>تأمر فيصير أنت الإله القدير نؤمن بك وسنرى مجدك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>رب الجنود أنت تسود نثق بك ونطيع أمرك<br/>أنت تزيد أيها الرب المجيد نسبحك ونبارك اسمك</lines>
+    </verse>
+  </lyrics>
+</song>

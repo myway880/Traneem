@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:40">
+  <properties>
+    <titles>
+      <title>يا متعبا، إليه</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم عبد الأحد
+Tune: DIES DOMINICA
+Title:260. يا متعبا، إليه
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم عبد الأحد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا مُتعَباً، إليه<br/> تعال واسترِحْ<br/> صوتُ يسوعَ يدعو<br/> فحِملَك اطَّرِحْ<br/> صوتُ السلامِ الهادي<br/> والصفحِ والنِّعمهْ<br/> إيّاك يدعو دوماً<br/> من عالمِ الظُّلمهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا تائهاً، إليه<br/> يَهديكَ في سلامْ<br/> صوت يسوعَ يدعو<br/> كلَّ بني الأنامْ<br/> إذا الدُّجى تمادى<br/> حولَكَ بالحَزَنْ<br/> فها سنا يسوعٍ<br/> يبدِّدُ الشَجَنْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا مائتاً، إليه<br/> تعالَ كي تحيا<br/> صوت يسوعَ يدعو<br/> للراحةِ العُليا<br/> إن الوغى شديدٌ<br/> والخَصمُ مُقتدِرْ<br/> فاحمِلْ إذا سلاحَ ال<br/> مسيحِ وانتصِرْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> تعال وانعم بالهنا<br/> في حضن ربكا<br/> صوت يسوعَ يدعو<br/> مُرَحِّباً بِكا<br/> يدعو ذوي الخطايا<br/> إذ حبُّه عظيمْ<br/> كي يُقبِلوا إليهِ</lines>
+    </verse>
+  </lyrics>
+</song>

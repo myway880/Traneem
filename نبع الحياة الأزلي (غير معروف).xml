@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:24">
+  <properties>
+    <titles>
+      <title>نبع الحياة الأزلي</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: LEBENSBRÜNNLEIN
+Title:162. نبع الحياة الأزلي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> نبعَ الحياة الأزلي<br/> خرجتَ من عرش العلي<br/> أنت الإلهُ الدائمْ<br/> أتيت طفلاً طاهرا<br/> أشرقت نوراً باهرا<br/> تجلو الظلامَ القاتمْ<br/> إني توكلتُ عليكْ<br/> مُلتجئاً دوماً إليكْ<br/> مِن حكم كل ظالمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نبعَ الحياة يا مُعينْ<br/> بقولك الحق المبينْ<br/> يُشرق نورُ البرِّ<br/> ومِن عطاياك لنا<br/> نعيش في هذي الدُّنى<br/> عيشَ الأبيِّ الحرِّ<br/> تشفي مِن السُّقمِ العليلْ<br/> وتنعشُ القلبَ الكليلْ<br/> تجلو دياجي الشرِّ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يسوعُ يا نبعَ الحياه<br/> يا غاسلاً إثمَ الخُطاه<br/> يا راوياً للقلبِ<br/> لستُ إلى شيءٍ هنا<br/> أحتاجُ . يُعطيني المُنى<br/> مِن جودِه ربي<br/> يُزيلُ عن نفسي الشقاءْ<br/> يمنحُني دارَ البقاءْ<br/> منه بفيضِ الحبِّ</lines>
+    </verse>
+  </lyrics>
+</song>

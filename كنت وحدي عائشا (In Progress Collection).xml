@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:06">
+  <properties>
+    <titles>
+      <title> كنت وحدي عائشا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كنت وحدي عائشا<br/>دونَ معنىً لوُجودي<br/>كان دربي موحشا<br/>أثقلَ اليأسُ قيودي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فأتي نحوي يسوعْ<br/>مُبدلا ً طعمَ الحياةِ<br/>حوَّلَ الليل شموعْ<br/>مدَّ لي طوقَ النجاةِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كنتُ أخشاهُ غدي<br/>غضبَ اللهِ العظيما<br/>كنتُ مغلولَ اليدِ<br/>نجسَ القلبِ أثيما</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لم يكن من يشفق<br/>أو ذراعٌ للخلاصِ<br/>لم يكن من يُعتِق<br/>من قَرارٍ بالقَصاصِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فأنا لولا يسوعْ<br/>ضائع ٌ دونَ رجاءِ<br/>ليَ كأسٌ من دموعْ<br/>في صباحي ومسائي</lines>
+    </verse>
+  </lyrics>
+</song>

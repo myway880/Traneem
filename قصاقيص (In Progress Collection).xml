@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:01">
+  <properties>
+    <titles>
+      <title> قصاقيص</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">قصاقيص دي حكاوي جميلة كان حكهالنا يسوع</lines>
+      <lines break="optional">يالا تعال وقوم ويانا هات أصحابك يحكوا معانا</lines>
+      <lines>قصاقيص نتعلم فيها إن إلهنا يسوع</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> يالا تعال<br/>ننط النطة رحلة<br/>عجيبة من غير شنطة</lines>
+      <lines break="optional">نلعب ممكن نضحك ممكن ويا تالتنا يسوع</lines>
+      <lines break="optional">وفي قصقوصة يفتح عينا ونشوف نور من بعد العتمة</lines>
+      <lines>وخروف تايه يرجع تاني لأصحابه الخرفان</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وأما يونان في بطن الحوت والعشار في أجمل صورة</lines>
+      <lines break="optional">لما ينادي ارحمني يا ربي ارحمني يا ملكي يسوع</lines>
+      <lines break="optional">أو دانيال في جب أسود أو خاطي في مرة يعود</lines>
+      <lines>يلقى أبوه فاتح أحضانه يلقى أبوه يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

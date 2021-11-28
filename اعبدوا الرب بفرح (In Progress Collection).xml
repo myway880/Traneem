@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:07">
+  <properties>
+    <titles>
+      <title> اعبدوا الرب بفرح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ارفعوا الايدي ونادوا عاليا<br/>مجدوا فادي الورى رب الانام<br/>رنموا علوا النشيد واحمدوا<br/>هللويا سبحوا رب السلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines> اعبدوا الرب بفرح واهتفوا<br/>واسجدوا في زينة مرنمين<br/>اعبدوه كلكم لا تبرحوا<br/>من هنا الا وانتم غالبون</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كرسوا الكل له يا مؤمنون<br/>ولنعل ربنا فوق الجميع<br/>اطلبوا ملء العزاء واقبلوا<br/>فيض روح طاهر حلو وديع</lines>
+    </verse>
+  </lyrics>
+</song>

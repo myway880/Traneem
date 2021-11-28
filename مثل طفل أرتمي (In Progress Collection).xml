@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title> مثل طفل أرتمي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مثلَ طفلٍ أرتمي بين يديك<br/>أنت لي كلُّ الرجاء<br/>أنت لا تخزي الذي يأتي إليك<br/>أنت يا ربَّ الفداء</lines>
+    </verse>
+    <verse name="c1">
+      <lines> مثلَ ذا الطفلِ الصغير<br/>آتي للقلبِ الكبير<br/>قلبُك اللهم نبعُ الحب<br/>يُروي للصغير</lines>
+    </verse>
+    <verse name="v2">
+      <lines> جاهلٌ كالطفل لكن مؤمنٌ<br/>مثلُ طفل بِندَاك<br/>وصغيرٌ مثلُ طفلٍ وادعٍ<br/>جئتُ أرجوكَ رضاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لم يهن يوما عليك البؤساء<br/>يا غنيا في العطاء<br/>يا كريمًا جاد يومًا بالدماء<br/>لغريقٍ في الشقاء</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا حبيبًا مات يفدي الآثمين<br/>أنت برُّ المعدمين<br/>وكساءُ العاري والثوبُ الثمين<br/>حكمةٌ للجاهلين</lines>
+    </verse>
+    <verse name="v5">
+      <lines> هاتِ من إحسانك الوافي السكيب<br/>لعُبيْدَك الصغير<br/>اروِ قلبي عزِّ روحي يا حبيب<br/>أرني الوجه المنير</lines>
+    </verse>
+  </lyrics>
+</song>

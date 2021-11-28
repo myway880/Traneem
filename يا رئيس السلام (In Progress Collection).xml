@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:37">
+  <properties>
+    <titles>
+      <title> يا رئيس السلام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">يا رئيس السلام يا ملك السلام يا إله السلام اغمرنا بسلامك</lines>
+      <lines>يا رئيس السلام يا ملك السلام يا إله السلام بنستناك</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> تعال واهدي الحيارى واللي تايه في الضلال<br/>عشمانين زورنا زياره ليله ما تخطر ع البال</lines>
+      <lines>حط إيدك علينا وصالحنا يا فادينا<br/>مع الله وخلينا في سلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا اللي وعدت انك تدينا اللي عندك من سلام<br/>العواصف هايجه علينا رسينا لبر أمان</lines>
+      <lines>ناس كتيره تعبانين في المرض متوجعين<br/>بتقول هو الرب فين في الآلام</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> الشعوب م الحرب عانت زمن قل فيه الأمان<br/>والكروب حوالينا زادت فوضى في كل مكان</lines>
+      <lines>اطرح عنا كل خوف طمنا عايزين نشوف<br/>شخصك في كل الظروف يا حنان</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> والبيوت اللي قسمها إبليس عدو كل خير<br/>ضمها ورجع سلامها طالبينك وحدك لا غير</lines>
+      <lines>تعال إشفي القلوب م الجروح وم العيوب<br/>والبعيد خليه يتوب بالإيمان</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> نتملي بسلام سماوي ونعظم إسم المسيح<br/>والتهليل يعلا له تاني مع الشكر والتسبيح</lines>
+      <lines>هي ديَّه العلامه ذبايح السلامه<br/>ما فيش تاني ملامه مهما كان</lines>
+    </verse>
+  </lyrics>
+</song>

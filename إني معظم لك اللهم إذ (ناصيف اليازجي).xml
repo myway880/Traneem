@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:25">
+  <properties>
+    <titles>
+      <title>إني معظم لك اللهم إذ</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: ARISE, MY SOUL
+Title:20. إني معظم لك اللهم إذ
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إني مُعَظمٌ لك اللهم إذْ<br/> نشلتني ولم تُشَمِّتْ بي العِدَى<br/> مِن مَهبِطِ الأهوالِ قدْ<br/> كنت لنفسي مُصعداً</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا أتقياءَ الرب رنموا لهُ<br/> حمداً لذكر قدسِهِ يا أتقياهْ<br/> غضبُهُ للحظه<br/> كما حياة في رضاهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ربي استمع وارحم وكن عوني فقدْ<br/> حوَّلت نَوْحي للغناء يا غني<br/> حلَلت مِسحِي منعماً<br/> وفرحاً منحتني</lines>
+    </verse>
+    <verse name="v4">
+      <lines> لذاك تُهدِي لك تسبيحَ الهنا<br/> روحي ولا تسكُتُ ما طال الأمدْ<br/> ربي لك الحمدُ الذي</lines>
+    </verse>
+  </lyrics>
+</song>

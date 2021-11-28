@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:53">
+  <properties>
+    <titles>
+      <title> عجز لساني عن التعبير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">عجز لساني عن التعبير<br/>لما نويت أوصف يسوع<br/>حاولت أسمو بالتفكير</lines>
+      <lines>نطق فؤادي وقال يا جموع<br/>يا ريتني أقدر أقول واعبر<br/>عن أوصاف الرب يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> في لحظه واحده في طرفة عين<br/>طهرني دمه وصرت سعيد<br/>طوباك يا قلبي بقيت فرحان</lines>
+      <lines>فرح لا ينطق به ومجيد<br/>يا ريتني أقدر أقول واعبر<br/>عن خلاص الرب يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لما ضعِفتُ في الطريق<br/>والعدو خدني في الظلمات<br/>لقيت يسوع أغلى صديق</lines>
+      <lines>سحق عدوي وقال هيهات<br/>يا ريتني أقدر أقول واعبر<br/>عن سلطان الرب يسوع</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> قدوس إلهي يسوع البار<br/>مجدًا لصاحب الأمجاد<br/>طوباك يا مؤمن يا مختار</lines>
+      <lines>ها تعيش في ظله للأبد<br/>يا ريتني أقدر أقول واعبر<br/>عن أمجاد الرب يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

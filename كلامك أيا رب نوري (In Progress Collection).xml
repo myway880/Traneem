@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:05">
+  <properties>
+    <titles>
+      <title> كلامك أيا رب نوري</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كلامُكَ أيا رب نوري<br/>هو هدايَ في المسير<br/>به عرفتُ كيف أتيتَ<br/>كيف فديت يا قدير</lines>
+    </verse>
+    <verse name="c1">
+      <lines> سراج لرجلي كلامك<br/>ونورٌ لسبيلي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هو ضيائي وسط الظلام<br/>هو أنيس رحلتي<br/>فيه غذائي فيه سلامي<br/>عزائي وقت محنتي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فيه غذائي فيه حياتي<br/>فيه طعامي للأيام<br/>فيه رجائي عند سقوطي<br/>غفرانُ ذا الفادي المقام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ساعدني حتى أخبئن<br/>كلامَكَ داخل قلبي<br/>فلا أعودَ أخطئ إليك<br/>بل يشهدُ لك حبي</lines>
+    </verse>
+  </lyrics>
+</song>

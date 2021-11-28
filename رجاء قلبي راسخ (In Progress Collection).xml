@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:45">
+  <properties>
+    <titles>
+      <title> رجاء قلبي راسخ</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>رجاء قلبي راسخ<br/>اساسه بر المسيح<br/>وليس شيء غيره<br/>قلبي اليه يستريح</lines>
+    </verse>
+    <verse name="c1">
+      <lines> عليك يا صخر الازل<br/>القي رجائي والامل<br/>القي رجائي والامل</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لن تحجب الظلمات عن<br/>عيني محياه الصبيح<br/>فنعمة الرب العلي<br/>تجلو لي الحق الصريح</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في عهده المختوم بال<br/>دم الثمين لي الرجا<br/>ان تعصف الانواء حو<br/>لي لا اخاف اللججا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وحين ياتي الرب في ال<br/>امجاد في اليوم الاخير<br/>ابدو لديه طاهرا<br/>بثوب بره المنير</lines>
+    </verse>
+  </lyrics>
+</song>

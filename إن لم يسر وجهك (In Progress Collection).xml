@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:12">
+  <properties>
+    <titles>
+      <title> إن لم يسر وجهك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إن لم يسر وجهك معنا لا تصعدنا من هنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>نحتاجك قربنا لنذهب من هنا وتقودنا بحبك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لتملأنا بمجدك وتقودنا بروحك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>يارب ندعوك اغمرنا بمجدك وليسر وجهك معنا</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>إن وجدنا نعمة في عينيك علمنا طرقك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>نريد شخصك نحيا بنورك طول الحياة علمنا الطريق</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>لنا آمالنا لنا أحلامنا لكن لا نذهب دون أن تقودنا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مش مهم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مِش مُهِمّ ان طال ظلام الِّليل وعتِّم حولِنَا وجِا يطفِّي ضيِّنا</lines>
+      <lines break="optional">ما بقِينا نميِّز ملامِح نسَّاناقدّ ايه انت صالِح تُهنا بِين أفكار كتِيرَه تهِمِّنَا</lines>
+      <lines>مهما طال الِّليل بيِمشي ويِيجي نُور ودمعِة الأحزان ها تِتلوِّن سُرور</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو ها نِنكر فِيك صلاحَك يِبقى فاضِل إيه بَقَى دا صلاحَك فِيه الرَّجا</lines>
+      <lines break="optional">هُوَّ بيجاوب السُّؤال هُوَّ بيهوِّن مُحال كلّ لُغز وحِيره بِيه يِصبَح رِضَا</lines>
+      <lines>إنت صالح أيوه صالح للدُّهور وبكِدَا بنُشكُر على كلّ الأُمُور</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مِش مُهِمّ ان جات ظُرُوفنا عَكس ما كُنَّا نِرِيد وجات نُفُوسنا في الحديد</lines>
+      <lines break="optional">والسُّؤال بَقَى 100 سُؤَال والصُّعوبه بَقِت مُحال وِمَلِتنَا الحِيره والغمّ الشِّديد</lines>
+      <lines>إنتَ قادِر ع الأُمُور دي كلَّهاوِانتَ عارِف إمتَى تِيجي تحِلَّها</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> أيّ حاجَه جنب حبَّك تِبقى مِش صحّ المُقَارنَه مهما يِتأخَّر نهارنا</lines>
+      <lines break="optional">مِش ها نِتسائِل في حبَّك مِش هانِتساهِل في حبَّك مِش ظُرُوفنا إلِّلي ها تغَيَّر قرارنا</lines>
+      <lines>حبَّك انت حاجه تانيَه لوَحدها مِش هايِنفَع جنبُه حاجه نحُطَّها</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:18">
+  <properties>
+    <titles>
+      <title> أنا جاي لك بكل عيوبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنا جاي لك بكل عيوبي<br/>خبّيني في سِتر دِماك<br/>طهّرني من كل ذنوبي<br/>اغنيني مِن فيض غناك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> قلبي جاي إليك مشتاق<br/>بيقول لك عرفني بيك<br/>متعني بحبك وفِداك<br/>إحيا فيّ واحيا فيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنا جاي لك ادخل جوّايا<br/>واملاني بروحك ورضاك<br/>اغسلني واغفر خطايايا<br/>متعني بالعشرة معاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنا جاي لك حوِّل نظراتي<br/>م الضعف وم الإنسان<br/>أفضل طول الرحلة يوماتي<br/>ناظر ليك بكل إيمان</lines>
+    </verse>
+  </lyrics>
+</song>

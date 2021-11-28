@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:03">
+  <properties>
+    <titles>
+      <title> كراع مع قطيعة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كراع مع قطيعة كأب مع بنيه<br/>يقود الرب دوما ويرشد في الطريق</lines>
+      <lines>ففي أوقات الشبع وفي أوقات الجوع<br/>الكل من يديه يدا الرب يسوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> كراع يقودنا كأب يقوتنا<br/>صباحا ومساءا إلى اليوم الجديد<br/>كراع يقودنا كأب يقوتنا هو الرب الإله</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حينما نأتي إليه بدالة البنين<br/>روحه القدوس يشفي يمحو كل أنين</lines>
+      <lines>إلى مياه الراحة هو يريدنا<br/>لا نخاف ظل الموت لأنه معنا</lines>
+    </verse>
+  </lyrics>
+</song>

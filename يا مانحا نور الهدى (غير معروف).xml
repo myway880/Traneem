@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:40">
+  <properties>
+    <titles>
+      <title>يا مانحا نور الهدى</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: HE LEADETH ME
+Title:183. يا مانحا نور الهدى
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا مانحاً نورَ الهُدى<br/> بنور حقِّك القويمْ<br/> ومُحيِياً أهلَ الفدى<br/> بحب فادينا الكريمْ<br/> باركْ جميع المُرشدينْ<br/> وكل مُصغٍ يسمعُ<br/> أنِرْ جميع المؤمنينْ<br/> بنور برٍّ يسطعُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أُسكب على المُعلِّمينْ<br/> روح المُعلّمِ العظيمْ<br/> سدِّد خُطاهم كل حين<br/> في سُبُلِ الحق القويمْ<br/> وهَبْ لكل السامعينْ<br/> فهماً وقلباً طاهرا<br/> هذا هِباتُ المؤمنينْ<br/> تمنحُ مجداً باهرا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بارك على الراعي كما<br/> تهدي وتحفظُ القطيعْ<br/> وأعطهم مُلكَ السما<br/> متى انتهى العمرُ السريعْ<br/> يا رب هَب أن نرتدي<br/> بالبر في هذا الحياه<br/> مجدُ السماءِ يبتدي<br/> في الأرضِ من قبلِ الوفاه</lines>
+    </verse>
+  </lyrics>
+</song>

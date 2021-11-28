@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:01">
+  <properties>
+    <titles>
+      <title> بعد سقوطي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>بعد سقوطي أرى يدك ممتده إلي بعد سقوطي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بعد سقوطي أرى رحمتك بحنان يديك بعد سقوطي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>بعد سقوطي في مكان مظلم اختبء بخجل من وجهك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ولكنني اشعر بك بقربي في داخلي منتظرا رجوعي إليك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>كم من مرة إنتظرتني كم من مرة ستنتظرني</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>لا حدود لرحمتك</lines>
+    </verse>
+  </lyrics>
+</song>

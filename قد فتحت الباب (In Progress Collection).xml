@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:00">
+  <properties>
+    <titles>
+      <title> قد فتحت الباب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">قد فتحت الباب فادخل سيدي<br/>هاك قلبي هاك عقلي ويدي<br/>من سواك مات عني يفتدي<br/>بالدم اشتريتني للأبد</lines>
+      <lines>سيدي ادخل في فؤادي داخلي<br/>سيدي اغمرني بحبك العلي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> سيدي أنت الحبيب لا سواك<br/>سيدي من أجلي سُمرت يداك<br/>دمُك الغالي جرى عني هناك<br/>يمحو آثامي ويشفيني كذاك</lines>
+      <lines>قمت للعرش لكي ترعى فتاك<br/>سيدي اغمرني بحبك العلي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> قد فتحت الباب فادخل مالكا<br/>واجلسن في مهجتي فهي لكا<br/>وليكن في القلب ربي عرشكا<br/>إنه الفخر السني لعبدكا</lines>
+      <lines>راحة الأحشاء فيك وحدكا<br/>ربي متعني بحبك العلي</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> أنت لي البر الذي يسترني<br/>أنت لي القوت الذي يشبعني<br/>أنت لي الحب الذي يسعدني<br/>أنت لي الصخر الذي يرفعني</lines>
+      <lines>أنت لي الراعي الذي ينفعني<br/>سيدي اغمرني بحبك العلي</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> أنت لي نوري وحصني قوتي<br/>وسلاح الحرب يوم النصرة<br/>قائد النصر إلهي بهجتي<br/>بك أشدو دائما ترنيمتي</lines>
+      <lines>يا حبيبي إن فيك نصرتي<br/>سيدي اغمرني بحبك العلي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:48">
+  <properties>
+    <titles>
+      <title> سلمت نفسي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">سلمت نفسي في يديك<br/>يا سيدي يسوع<br/>قدني فتكلاني عليك<br/>كي أخدِمَ الجموع</lines>
+      <lines>كن حارسي من الضلال<br/>كن مرشدي في كل حال<br/>والقلب قدس والفِعَال<br/>حتى أرى يسوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> قد قلتَ قبل الآن<br/>يا منبع الإحسان<br/>يا مُتعب القلبِ تعالْ<br/>امكث معي حتى تنالْ</lines>
+      <lines>هيا ففي قربي المنالْ<br/>للخير في يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إن نغصت عيشي الهموم<br/>أو إن دنا الظلام<br/>ستنجلي كلُّ الغيوم<br/>من مانحِ السلام</lines>
+      <lines>الربُّ حصني والأمل<br/>الربُّ إن قال فعل<br/>والحب فيه مُكتمِل<br/>لذا أرى يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> ربي امتلكني واهدِني<br/>للخير يا منان<br/>أدعوك فاسمع واروني<br/>من نبعك الملآن</lines>
+      <lines>كي ما أعودَ من جديد<br/>أسعى وأطلبَ المزيد<br/>من نعمةِ العهدِ الجديد<br/>حتى أرى يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

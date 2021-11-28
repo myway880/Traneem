@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:06">
+  <properties>
+    <titles>
+      <title> غمض عينيك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>غمض عينيك افتح إيديك<br/>إوعى تبرطم وهاقول لك ليه<br/>بابا نويل شرف على البلد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عمل لسته وراجعها<br/>والناس هتسمع اسمها<br/>بابا نويل شرف على البلد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>بيدور ع النايمين اوعوا تكونوا صاحيين<br/>فيه هدية للكويسين الله يخليكو بليز</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>في مدينة الألعاب اوعى يكون حد غاب<br/>هنفرح وهننبسط الأولاد والبنات</lines>
+    </verse>
+  </lyrics>
+</song>

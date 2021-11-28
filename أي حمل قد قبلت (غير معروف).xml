@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title>أي حمل قد قبلت</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أيَّ حِمْلٍ قدْ قَبِلْتَ<br/>رَبَّنا الفَادِي العَظيمْ<br/>باختيارٍ قدْ أطَعْتَ<br/>فانْحَنَي الرأسُ الكريمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وَجْهُكَ باهِي الجَمَالِ<br/>فَوْقَهُ الدَّمُ الغَزِيرْ<br/>مُفْسَدًا صَارَ لأجْلِي<br/>أيُّها الربُّ القَديرْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>تَيَّاراتُ الله عَجَّتْ<br/>فَوْقَ رَأسِكَ الجَليلْ<br/>غَضَبَ العَدْلِ حَمَلتَ<br/>حَيثُ حُسِبْتَ البَديلْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>مِنَ اللهِ قدْ تُرِكْتَ<br/>وَسْطَ وحْشَةِ الظَّلامْ<br/>كُلَّ دَيْنِنَا وَفَيْتَ<br/>ومَنَحْتَنَا السَّلامْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>يا حبيبَ القَلْبِ حَمْدًا<br/>للخَلاصِ والرَّجَاءْ<br/>عَنْ قَريبٍ سَنَكُونُ<br/>مَعْكَ في مَجْدِ السَماءْ</lines>
+    </verse>
+  </lyrics>
+</song>

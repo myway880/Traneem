@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title> مريح التعابى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">صوته لسه بينده من سنين<br/>تعالوا إلي يا كل المتعبين</lines>
+      <lines break="optional">لو تعبان عنده الشفاء<br/>لأي جرح وأي داء</lines>
+      <lines break="optional">وإن ضاع حلمك يوم وتاه<br/>هتلاقي نجاة</lines>
+      <lines break="optional">لو يأسان من نفسك روح<br/>قول له يا أبويا أنا عندي جروح</lines>
+      <lines>مستنيك تيجي وبالروح<br/>تديني حياة</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> هو مريح التعابى<br/>والناس الغلابة</lines>
+      <lines>بيحول الكآبة<br/>لأغاني وأفراح</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> صوته لسه بينده من زمان<br/>مين محتاج لسلام محتاج لأمان</lines>
+      <lines break="optional">لو تايه مش لاقي طريق<br/>كل حياتك هم وضيق</lines>
+      <lines break="optional">وسط بحور الدنيا غريق<br/>في تعب وسراب</lines>
+      <lines break="optional">لو بتدور من سنين<br/>على أفراح بدل الأنين</lines>
+      <lines>لو نفسك ماتكونش حزين<br/>إفتح له الباب</lines>
+    </verse>
+  </lyrics>
+</song>

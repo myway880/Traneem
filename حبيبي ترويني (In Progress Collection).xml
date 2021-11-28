@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:18">
+  <properties>
+    <titles>
+      <title> حبيبي ترويني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>فاض قلبى بالنغمات<br/>حياتى إمتلأت بركات</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>حبيبي ترويني تسبيني تحييني يسوع سلامي سر أماني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أريد الإنطلاق<br/>إلى السموات</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أملأني بحبك أشبعني بوجهك حبيبي في سترك أرني مجدك</lines>
+    </verse>
+  </lyrics>
+</song>

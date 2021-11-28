@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:25">
+  <properties>
+    <titles>
+      <title> دا كله من خيرك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>دا كله من خيرك وكله من عطاياك إديتنى إبنك برهن لى حبك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وقال لى إنك أب وكمان راعى</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>دمه اللي سال عشانى قال إن انت فعلا بتحبنى</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>حررني زال همى وشال خطية كانت بتزلنى</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>إتبدل الحال خد عنى الأحمال دا لأنه إبنك وصل لي حبك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وقال لي إنك أب وكمان راعى</lines>
+    </verse>
+  </lyrics>
+</song>

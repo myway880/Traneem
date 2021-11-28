@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title>إن كنيسة العلي</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: DUANE STREET
+Title:182. إن كنيسة العلي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إن كنيسة العلي<br/> واحدةً طول المدى<br/> والرب سيد لها<br/> يحفظها مِنَ العِدى<br/> خليقةٌ جديدةٌ<br/> بالماء والكلمةِ<br/> جاء لكي ينقذَها<br/> من أسرها بالنعمةِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> من كل أمةٍ تُرى<br/> بين الملا تحت السما<br/> قد جمعتهُم ضمنها<br/> حتى ينالوا النعما<br/> فواحد سيدُها<br/> وواحد إيمانُها<br/> وواحد رجاؤها<br/> وواحد تُكلانُها</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لَئن يُصب وَحدَتَها<br/> داعي النفور والشِّقاق<br/> أو دخلتها بِدَعٌ<br/> تسلُبُها روحَ الوفاق<br/> فإنَّ سيدَ الملا<br/> يرعى بنيها سرمدا<br/> فليس أبوابُ الردى<br/> تقوى عليها أبدا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> في تعبٍ وألمٍ<br/> في نَصَبٍ وفي سَقام<br/> تنتظر اليوم الذي<br/> فيه ترى نورَ السلام<br/> وسوف تحظى بالذي<br/> ترجو بأن تنظرَهُ<br/> وتُبصِرُ المُلكَ الذي</lines>
+    </verse>
+  </lyrics>
+</song>

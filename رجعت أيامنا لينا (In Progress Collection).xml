@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:34">
+  <properties>
+    <titles>
+      <title> رجعت أيامنا لينا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>رجعت أيامنا لينا رجعت أيام الحصاد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عوض إلهنا لينا سنين أكلها الجراد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وإلهنا يرجع إلينا نحو زمن الحياة</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ويكون للعاقر إبنا وتنعم في غناه</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>الزارع يذهب بالبكاء حامل مبذر زرعه</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>بترنم يحصد وإبتهاج حاملا حزمه</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>يعطينا ينابيع المياه من أحجار الصوان</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>ويعوض عن أيام الخزي ونصيبنا ضعفان</lines>
+    </verse>
+  </lyrics>
+</song>

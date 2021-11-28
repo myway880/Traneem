@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:32">
+  <properties>
+    <titles>
+      <title>بمجد باريها تحدث السما</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: BRIGHEST AND BEST
+Title:22. بمجد باريها تحدث السما
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> بمجد باريها تُحدِّثُ السما<br/> وتُخبرُ الأفلاك عن صًنعِ يديهْ<br/> يومٌ إلى يومٍ يذيعُ كِلمَه<br/> والليلُ يُبدي مثلَه عِلماً إليهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أقامَ للشمس محلاًّ فبدتْ<br/> مثلَ عروسٍ خرجت من خِدرِها<br/> تدور من أقصى إلى أقصى السما<br/> وليس شيءٌ يختفي عن حرِّها</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إنَّ وصايا الرب مستقيمةٌ<br/> تسُرُّ قلباً وهْي نور الأعيُنِ<br/> أحكامُه عادلةٌ جميعُها<br/> أشهى من المالِ وكلِّ معدنِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فلْتكن اللهمَّ أقوالُ فمي<br/> مقبولةً أمام عرش النعمةِ<br/> وفكرُ قلبي حائزاً منك الرضا</lines>
+    </verse>
+  </lyrics>
+</song>

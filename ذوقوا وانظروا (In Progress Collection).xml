@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title>ذوقوا وانظروا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ابارك الرب فى كل حين<br/>تسبيحه فى فمى دائما<br/>عظموا الرب الهنا<br/>ولنعل اسمه معا<br/>ذوقوا وانظروا<br/>ما اطيب الرب<br/>ذوقوا وانظروا<br/>ما اطيب الرب</lines>
+    </verse>
+    <verse name="v1">
+      <lines>طلبت الى الرب فاستجاب لى<br/>وانقذنى من كل مخاوفى<br/>الرب يسمع صرخة المسكين<br/>ويخلصه من كل ضيقاته</lines>
+    </verse>
+    <verse name="v2">
+      <lines>الاشبال قد تحتاج او تجوع<br/>اما طالبوا الرب دام خيرهم<br/>عينا الرب دائما نحو الصديقين<br/>واذناه تسمع صراخهم<br/><br/>الرب يفتدى نفوس عبيده<br/>لا يهمل ولا يترك منتظريه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>قريب هو الرب من المتضع<br/>يخلص منسحقى الروح طالبيه</lines>
+    </verse>
+  </lyrics>
+</song>

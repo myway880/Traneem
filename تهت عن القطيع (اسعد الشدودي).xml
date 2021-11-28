@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:36">
+  <properties>
+    <titles>
+      <title>تهت عن القطيع</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: LEBANON
+Title:272. تهت عن القطيع
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> تِهتُ عنِ القطيعْ<br/> مثلَ الخروفِ الضالْ<br/> ينأى عن الراعي الوديعْ<br/> للقفرِ والجبالْ<br/> مُهاجِرَ الأوطانْ<br/> كالولَدِ الشاردْ<br/> بل تِهتُ في قفرِ الهوانْ<br/> عن ذلك الوالدْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> راعيَّ في الحقولْ<br/> قد نَشَدَ الخروفْ<br/> وقد دعا ابنَهُ الجهولْ<br/> الوالِدُ الرؤوفْ<br/> مضى إلى الجبالْ<br/> وفتشَ الوِديانْ<br/> ثم رآني في خَبالْ<br/> كالفاقدِ الوِجدانْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فساقَني على<br/> مناهِجِ الوَدادْ<br/> فصِرتُ مُنقاداً إلى<br/> جميعِ ما أرادْ<br/> راعي الخروفِ الضالْ<br/> يسوعُ ذو الإنعامْ<br/> يرُدُّني عنِ الضلالْ<br/> إلى حِمى السلامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نفسي عن المسيحْ<br/> تَتيهُ في القِفارْ<br/> تهيمُ في البرِّ الفسيحْ<br/> في حالةِ النِّفارْ<br/> لما أحبَّها<br/> مُخلصي القديرْ<br/> قد شاءَ أن يرُدَّها</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:32">
+  <properties>
+    <titles>
+      <title> الأعداء حوالي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لن أطلقك لن أتكرك إن لم تباركني لن<br/>أطلقك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الأعداء حوالي وأنا واقف بإيدي اكشف عن عيني واحفظني وباركني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>نصبت لك سلم ومعاك رايح أتكلم لا تعود تتألم من عيسو يا ابني</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لابان بيطاردني عيسو منتظرني لكن إنت واعدني إنك تباركني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>جدد لي وعدك قول لي أنك معك</lines>
+    </verse>
+  </lyrics>
+</song>

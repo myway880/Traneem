@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:30">
+  <properties>
+    <titles>
+      <title> رب ذا الكون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>رب ذا الكون ينادي من أرسل من يذهب من أجلنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>حان موعد الحصاد والصوت علا شعبا يطلب اعبروا لنا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إنني ربي الحصاد ورجاء الأمم نورا للشعوب أدعوك فقم</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>قم وأشهد للملا عن حب من فدى هيا احمل العلم</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>قم لا تخشى البلا أو رهبة العدى أو دربا للألم</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>سيدي ذا شوق قلبي أن أعمل في كرمك كيفما تشا</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>ها صلاتي لك ربي أن تملأ فاه عبدك بكلام الحياة</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>افتحن ربي القلوب كي تؤمن بخلاصك وقدرة فداك</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>وامنحن لمن يتوب أن يعاين نور وجهك وروعة بهاك</lines>
+    </verse>
+  </lyrics>
+</song>

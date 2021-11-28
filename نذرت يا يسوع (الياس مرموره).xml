@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:24">
+  <properties>
+    <titles>
+      <title>نذرت يا يسوع</title>
+    </titles>
+    <comments>
+      <comment>Author: الياس مرموره
+Tune: ANGEL'S STORY
+Title:195a. نذرت يا يسوع
+</comment>
+    </comments>
+    <authors>
+      <author type="words">الياس مرموره</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> نذرتُ يا يسوعُ<br/> نفسي لخدمتكْ<br/> فاكشفْ لقلبي دوماً<br/> سِرَّ محبتكْ<br/> لستُ أخافُ خصماً<br/> إن كنتَ منجدي<br/> ولن أضِلَّ طُرقي<br/> ما دمتَ مرشدي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قرباً إليَ أشرِقْ<br/> واسنُد بلا انقطاعْ<br/> ضعفي فكم من مُغوٍ<br/> للعين والأسماع<br/> يا رب مِن أعدائي<br/> حولي وداخلي<br/> أدعو لكي تحميني<br/> وكلِّ باطلِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في الضيق خاطِبْ نفسي<br/> بصوتك الوقور<br/> سكِّن هياجَ صدري<br/> وصلَفَ الغرور<br/> وعَدتَ يا يسوعُ<br/> لمن يلازمُك<br/> إنْ حيثما تكونُ<br/> يكونُ خادمك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> دعني أرى نورَك كي<br/> يهديني السبيل<br/> فإنما نجاحي<br/> إن كنتَ لي الدليل<br/> فارحم أثيما يرجو<br/> رضاك في الختام<br/> واقبَل أخيرا نفسي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:33">
+  <properties>
+    <titles>
+      <title> يا إلهي ذا دعائي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا إلهي ذا دعائي<br/>أن تعرفني المزيد<br/>عن حياتي كيف تنمو<br/>في المسيح وتزيد</lines>
+      <lines>أعطني قلبا حكيما<br/>نعمة طول الحياه<br/>نعمةً تزداد عمقا<br/>في محبة الإله</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ربي ثبتني وزدني<br/>حكمةً بين الأنام<br/>علمني كيف أنمو<br/>كيف أخطو للأمام</lines>
+      <lines>كيف أسمو كيف أغدو<br/>سالكا طرق السلام<br/>باذلاً كل اجتهادٍ<br/>خادما على الدوام</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> رغم أنني أعيش<br/>أرض ضيق وشقاء<br/>طاعتي للرب شرط<br/>للنمو بالرجاء</lines>
+      <lines>أتبع الفادي فيعطي<br/>نعمة وسط العناء<br/>هكذا في الأرض أحيا<br/>وكأني في السماء</lines>
+    </verse>
+  </lyrics>
+</song>

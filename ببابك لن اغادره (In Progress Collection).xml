@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:30">
+  <properties>
+    <titles>
+      <title>ببابك لن اغادره</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(ببابك لن اغادره<br/>ومن لي خل الاك)2<br/>من الخيرات اقرضني<br/>الهي هبني نعماك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(رباه انت امالي<br/>وانت امان اوقاتي)2<br/>وبين يديك اجالي<br/>وهذا ضماني لحياتي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(بكيت امام ذا الباب<br/>وطلبت ربى رحماك)2<br/>انا فى السير لا اقوى<br/>فاسندنى حتى القاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(رغبت عن رضا الناس<br/>فهبني ربي رضاك)2<br/>فانت منية القلب<br/>لذا يبهجني مراك<br/>هيهات يرضيني سواك</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>العالم عطاياه وقتية</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> العالم عطاياه وقتية<br/>وبملاهي الدنيا بياخدك<br/>تتعبد في هياكل ثانية<br/>لأصنام الأرض في قلبك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ويشدك ويعيّش نفسك في عذاب<br/>ويجرك تجري وتتسابق لسراب<br/>ويلفك داخل دوامة أتعاب<br/>ويردك فاضي وما معكش إلا تراب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وإلهك عطاياه أبدية<br/>وبمراحم قلبه بياخدك<br/>تتمتع بحياة سماوية<br/>وأفراح المجد في قلبك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ويضمك لقطيعُه بنعمة وإيمان<br/>ويقول لك دمي بيضمن لك غفران<br/>ده لأجلك داق الصلب وكل هوان<br/>هات قلبك هات عمرك في إيديه بأمان</lines>
+    </verse>
+  </lyrics>
+</song>

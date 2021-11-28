@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:03">
+  <properties>
+    <titles>
+      <title> عنا فصول أربعة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عنا فصول اربعه بكل السنة بتتغير</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الطبيعه وتتلون الدني أول فصل الخريف الورق أصفر وجميل شوية</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>شتي ونتفة برد منلبس كم طويل تاني فصل الشتي مطر كتير وتلج وريح</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>بنص الدار في موقده من حد ما منزيح تالت فصل الربيع أخضر ورد وأقحوان</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ريحه حلوة وفراشات بكل الألوان رابع فصل الصيف شمس وبحر وبسط كتير</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>فرصة حلوة لعب وكيف من الفرحه رح طير</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:13">
+  <properties>
+    <titles>
+      <title>الله ملجأ لنا وقوة</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: LISCHER
+Title:339. الله ملجأ لنا وقوة
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الله ملجأٌ لنا وقُوةٌ<br/> فلم نخَف لو زُلزِلَتْ بنا القفارْ<br/> ولا إذا ما انقَلَبتْ<br/> جبالُنا إلى البحارْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> اللهُ في مدينة القدسِ فلا<br/> يُصيبها تزعزُعٌ ولا ضررْ<br/> يُعينُها إلهُنا<br/> في وقت إقبالِ السحرْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> الله أعطى صوتَهُ من عرشِهِ<br/> فذابتِ الأرضُ به بعدَ الجُمودْ<br/> إلهُنا مُعينُنا<br/> ملجأُنا ربُّ الجنودْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا أيها الناسُ هلُموا وانظُروا<br/> أعمالَهُ في الأرضِ كيف تَصعَقُ<br/> يكسِرُ قوساً وقنا<br/> والمركباتِ يُحرِقُ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يقولُ كُفّوا واعلَموا أني أنا<br/> إلهُكُم باري الوجودِ من عدَمْ<br/> مرتفِعٌ في أرضِكُمْ<br/>مرتفِعٌ بين الأُممْ</lines>
+    </verse>
+  </lyrics>
+</song>

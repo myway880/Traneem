@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:57">
+  <properties>
+    <titles>
+      <title> الناس بيلومونا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>الناس بيلومونا على كثرة<br/>الهتاف<br/>غصبن عنهم ماختبروش ولا واحد منهم شاف</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الناس قالوا: بلاش قولة هللويا<br/>غصبن عنهم ماختبروش دي علامة التعزية</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>الناس قالوا: طيب ليه إنتوا فرحانين<br/>لا يوجد فيكم متوظف ولا عنده فدان طين</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>سنة بأكملها وإنت راعي أمين<br/>كللت السنة بجودك يا عز المؤمنين</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>سنة بأكملها وإنت عينك علي<br/>كللت السنة بجودك ولم تعزني شيء</lines>
+    </verse>
+  </lyrics>
+</song>
