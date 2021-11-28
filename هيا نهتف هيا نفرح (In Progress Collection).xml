@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title>هيا نهتف هيا نفرح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>مجدا مجدا لرب الارباب هللويا يسوع له كل المجد</lines>
+    </verse>
+    <verse name="v1">
+      <lines>هيا نهتف امام الرب ونرفع اصوات الحمد<br/>نعلن مجده في كل الارض يسوع له كل المجد</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هيا نفرح بكل القلب ونشدو لالهنا<br/>فرح الرب هو قوتنا يسوع سر نصرنا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>هيا لنفرح ونتهلل ونعلن دوما مجد الهنا<br/>لنشهد ولنتشجع ونرفع اسم الرب<br/>(ليقل الضعيف بطل انا)2 فالرب قوتي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>سوف اقودكم بالفرح والسلام<br/>وتهتف الجبال امام كل الكون<br/>وكل شجر حقا يصفق لملك الملوك<br/>(وكذا كل شعب الرب يصفق)2 لملك الملوك</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:35">
+  <properties>
+    <titles>
+      <title> الحلم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا رايح عبلاد اليوم<br/>وتارك أحلامي بالليل</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عشت كفايتي ببلاد الحلم<br/>وصار وقت ودع النوم</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>سافرت بعيد ببلاد اليوم<br/>وعشت كفايتي ببلاد الحلم</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وبطل يسعني هالكونوبطل يسعني هالليل</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>خليني ارجع عبلاد اليوم<br/>وعمر اساست قصور الهوا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>خلي الحلم ينظر<br/>الليل الما إلو لون</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>خلي يضوي<br/>يضوي نهاري لون</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>والفجر من تأني ميل</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>ناطر الحلم يوصل</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>لعند اليوم</lines>
+    </verse>
+  </lyrics>
+</song>

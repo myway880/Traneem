@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title>ظهرت جند الأعالي</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: THE RESURRECTION MORNING
+Title:138. ظهرت جند الأعالي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ظهرَتْ جندُ الأعالي<br/> عند إقبالِ السَّحَرْ<br/> لتُلاقي ذا الجلالِ<br/> بعدما نالَ الظفرْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أبشروا قامَ المسيحْ<br/> هلِّلويا هلِّلويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إسمعوا الأملاكَ نادتْ<br/> أبشروا قام المسيحْ<br/> ببهاءِ المجدِ بانتْ<br/> للنسا حولَ الضريحْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ها يسوعُ الربُّ قاما<br/> فافرحوا يا مؤمنونْ<br/> ماحياً عنا الظلاما<br/> هادماً حصنَ المنونْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> قامَ إذ تمَّ الخلاصُ<br/> لجميعِ المؤمنونْ<br/> وبه زال القِصاصُ<br/> فلْنُرنمْ فارحينْ</lines>
+    </verse>
+  </lyrics>
+</song>

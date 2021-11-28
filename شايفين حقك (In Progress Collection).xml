@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:49">
+  <properties>
+    <titles>
+      <title> شايفين حقك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>شايفين حقك تشق العتمة<br/>في أراضينا<br/>ونفوس بتتوب تنفك قيود<br/>من أياديها</lines>
+    </verse>
+    <verse name="c1">
+      <lines> جيت يا يسوع لبلادنا<br/>وأمرت هنا بالبركة<br/>وعدك سور حواليها<br/>أمان وسلام لولادها</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> شعبك يشهد خير ومراحم<br/>طول أجياله<br/>يتوحد بيك وينادي بإسمك<br/>طول أيامه</lines>
+      <lines>مجدك يعلى في وسط بلادنا<br/>ويملك فيها<br/>ونور إنجيلك يخش بيوت<br/>محرومة يرويها</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:51">
+  <properties>
+    <titles>
+      <title> طال انتظاري إليه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا رايح وطني<br/>ويسوع الغالي<br/>هيجينا تاني<br/>ويسوع الغالي<br/>هاشوفه تاني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>طال إنتظاري إليه<br/>والقلب إشتاق عليه<br/>هيريح بالي<br/>ويزيل أحزاني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يا هنايا يا فرحتي بيه<br/>لما أشوفه والاقيه<br/>ياخذني تاني<br/>إلى الأمجاد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>هتمتع وافرح بيه<br/>ينشغل فكري بيه<br/>حبه سباني<br/>نبعه رواني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>بجواره يجلسني<br/>على صدره يتكئني<br/>وأنا يا إخواني<br/>يسوع هناني</lines>
+    </verse>
+  </lyrics>
+</song>

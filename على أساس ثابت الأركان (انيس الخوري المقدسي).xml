@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:54">
+  <properties>
+    <titles>
+      <title>على أساس ثابت الأركان</title>
+    </titles>
+    <comments>
+      <comment>Author: انيس المقدسي
+Tune: FINLANDIA
+Title:407. على أساس ثابت الأركان
+</comment>
+    </comments>
+    <authors>
+      <author type="words">انيس الخوري المقدسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> على أساس ثابتِ الأركانْ<br/> مِنَ الرجا والحب والإيمانْ<br/> قد شُيِّدَت جدرانُ هذا البنا<br/> وكُرِّس لخدمة الإنسانْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ليس لنا يا رب ما نَشيدْ<br/> ليس لنا بل لاسمك المجيدْ<br/> فلاسمك اجعلْهُ كما يُرتجى<br/> منارةً في عالمٍ جديدْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> منارةً تُضيءُ في الظلامْ<br/> بالبر والخير على الدوامْ<br/> حاملةً أنوارها للورى<br/> بشائرَ الخلاص والسلامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> رضاك نبغي - هب لنا رضاكْ<br/> واسكن حمانا إنه حماكْ<br/> واكشف لنا الآفاقَ حتى نرى</lines>
+    </verse>
+  </lyrics>
+</song>

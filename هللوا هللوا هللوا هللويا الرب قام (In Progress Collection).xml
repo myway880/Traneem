@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:28">
+  <properties>
+    <titles>
+      <title> هللوا هللوا هللوا هللويا الرب قام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>هللوا هللوا هللوا هللويا<br/>الرب قام<br/>هللوا هللوا هللوا هللويا<br/>تشدو الانام</lines>
+    </verse>
+    <verse name="v1">
+      <lines> بعد الالام هللويا<br/>ذاق الحمام هللويا<br/>وثم قام هللويا<br/>رب السلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قام الصمد هللويا<br/>صبح الاحد هللويا<br/>كما وعد هللويا<br/>قبل القيام</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قام الودود هللويا<br/>دك اللحود هللويا<br/>فك القيود هللويا<br/>فالنصر تام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فك الحنون هللويا<br/>اسرى السجون هللويا<br/>محا الشجون هللويا<br/>جلا الظلام</lines>
+    </verse>
+    <verse name="v5">
+      <lines> قام الغفور هللويا<br/>شق القبور هللويا<br/>رب النشور هللويا<br/>قد قام قام</lines>
+    </verse>
+  </lyrics>
+</song>

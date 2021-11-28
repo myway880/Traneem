@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:50">
+  <properties>
+    <titles>
+      <title> صليبك اعظم من كل ذنب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>صليبك اعظم من كل ذنب وقلبك ارحب من كل قلب جراحات كفيك تدعو بحب تنادي الجميع لياتوا اليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كريم تبارك من لطموك صفوح تسامح من حاربوك تموت لاجل الذين جفوك ومن سمروا بالخطايا يديك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> صليبك يجمع كل الجهات يشد السماء لارض الخطاة يفيض غزيرا كنبع الحياة فنبض الحياة يدل عليك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> صليبك صار دليل المحبه لكل العطاش جداول عذبه ساتي بكلي واسكن قربه وانهل من كل شيء لديك</lines>
+    </verse>
+  </lyrics>
+</song>

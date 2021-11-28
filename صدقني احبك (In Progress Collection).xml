@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:50">
+  <properties>
+    <titles>
+      <title>صدقني احبك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>صدقني احبك وابقى احبك<br/>حتى لو خيروني بكل الدنيا وبيك<br/>قلبي يحبك وينبض بحبك<br/>نبقى للموت وماننطي بيك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>( ولا يوم قلبي ارتاح من الغربة والجراح<br/>ودموعي هي شهود من الامي والاوجاع )2<br/>( بس لما طلبت السماح<br/>عشت عمري بالافراح )2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>( نفسي بفرقاك تلوع من اتركك اظل موجوع<br/>كل يوم انطيك وعود<br/>وتحن علية علي وتعود )2<br/>( هالمرة بكل خشوع انا اوفيك يا يسوع )2</lines>
+    </verse>
+  </lyrics>
+</song>

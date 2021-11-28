@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title>ايا رب ان شئت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ايا رب ان شئت ترسلني<br/>لاهدي دوما قلوب الخطاه<br/>واروي بحبك قلب الورى<br/>وامحو ظلام غيوم الحياه</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ها صوته يدوي هنا<br/>من يذهبن من اجلنا<br/>من ارسلن، انا انا<br/>ها سيدي، انا انا<br/>يا مخلصي الحبيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ايا رب ان شئت ترسلني<br/>لكرمك قبل مجيء الغروب<br/>فشمس الحياة الى المنتهى<br/>ويوما اليك الهي نؤوب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ايا رب ان شئت ترسلني<br/>لاهدم حالا حصون الشرور<br/>واعطي الرجاء لاسرى الردى<br/>واطلق نفس حزين اسير</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ايا رب ان شئت ترسلني<br/>لاهزم دوما جيوش الظلام<br/>سامضي اجاهد يا سيدي<br/>ولو قدتني يوما الى الحمام</lines>
+    </verse>
+  </lyrics>
+</song>

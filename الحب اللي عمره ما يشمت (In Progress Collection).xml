@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:34">
+  <properties>
+    <titles>
+      <title> الحب اللي عمره ما يشمت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>الحب ده من قلب الله<br/>شمس ودفا ونغم وحياة<br/>ماله نهاية وماله حد<br/>أصل ده حب ونبعه الرب</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الحب اللي عمره ما يشمت أبدا أبدا<br/>وبينسى ويغفر إساءات آه آه<br/>لا يفكرنا باللى راح أبدا أبدا<br/>ولا يفتح ماضى وجراحات آه آه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>الحب اللي ما هو أناني أبدا أبدا<br/>يتمنى الأفراح للتاني آه آه<br/>لا بيتكبر ولا يتباهى أبدا أبدا<br/>ولا يرتاح وأخوه بيعاني آه آه</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>الحب اللي عمره ما يحسد أبدا أبدا<br/>ولا يطمع في ما للغير آه آه<br/>لا بيشتهى ولا يطلب شيء أبدا أبدا<br/>ده لأنه بالعطا مسرور آه آه</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title> عالية في قلب الزمن</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">عالية في قلب الزمن<br/>تعاليم المسيح<br/>عايشة من ألفين سنة<br/>وكلامها صريح</lines>
+      <lines>طوبى للرحماء لأنقياء القلب<br/>ولصانعي السلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines> والروح كان في اللي قالوا<br/>والحياة كانت في الكلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مرت عصور مظلمة<br/>وممالك متحكمة<br/>يفضل في قلب الزمن<br/>أنا نور العالم</lines>
+      <lines>واللي تبعني<br/>ماعاشش في ظلام</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> ساد الكره الشعوب<br/>وقامت الحروب<br/>يفضل في قلب الزمن<br/>لا تجازوا شر بشر</lines>
+      <lines>ولا غضبكم<br/>يزيد بالأيام</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> يا مصر احكي لنا<br/>لما جاكي المسيح<br/>فيكي كان بر الأمان<br/>والحضن المريح</lines>
+      <lines>نشر المحبة<br/>زال الخصام</lines>
+    </verse>
+  </lyrics>
+</song>

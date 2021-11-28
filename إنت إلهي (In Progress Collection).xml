@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:22">
+  <properties>
+    <titles>
+      <title> إنت إلهي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>إنت إلهي غني وقدير<br/>ياما بإيديك اديتني كتير<br/>دايما تشبع نفسي بخير<br/>أنا بافتخر ان انت إلهي</lines>
+    </verse>
+    <verse name="v1">
+      <lines> شخصك وحدك هو الصخره<br/>باحتمي فيها انا يومي وبكره<br/>وان هاج من حولي الريح<br/>ضامن فيك انا كل النصره</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وعدك لي دا نور وسراج<br/>ولغيره عمري ما باحتاج<br/>هي الكلمه في إيدي السيف<br/>ورعايتك حولي سياج</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:24">
+  <properties>
+    <titles>
+      <title>نرى في كلام الإله الصمد</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: ADESTE FIDELES
+Title:331. نرى في كلام الإله الصمد
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> نرى في كلامِ الإلهِ الصَّمدْ<br/> أساساً لإيمانِنا كالجبلْ<br/> وليس مزيدٌ على ما وَعدْ<br/> لمن يلجأون لذاك الحملْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يقولُ اطمَئنَّ فإني معكْ<br/> وإني إلهُك والعونُ بي<br/> وإني أُقَويك كي أرفعَكْ<br/> وأسنُدُ ضعفَك مثلَ الأبِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إذا خُضتَ لُجَّ المياهِ العميقْ<br/> فلا تقدِرَنَّ عليك اللُّججْ<br/> أنا لك في الضيقِ نِعمَ الرفيقْ<br/> وضيقُك أُبدِلُه بالفَرجْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إذا ما دهاك البلا والخطرْ<br/> فيكفيك مِن نِعمتي ما انسكبْ<br/> ولا توقِعُ النارُ فيك الضررْ<br/> فإني أُنَقّيك مثلَ الذهبْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> وَدادي رفيعُ الذُّرى لا يحولْ<br/> ويدريه شعبي لوقتِ الهَرَمْ<br/> إذا زيَّنَ الشيبُ صدغَ الكهولْ<br/> فحضني حِماهُمْ كراعي الغنمْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> فما نال كيدُ العدوِّ الخصيمْ<br/> ولا خاب مَن ليسوعَ استندْ<br/> وإن قام يغزوهُ بابُ الجحيمْ</lines>
+    </verse>
+  </lyrics>
+</song>

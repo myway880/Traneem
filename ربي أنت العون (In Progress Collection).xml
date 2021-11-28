@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:43">
+  <properties>
+    <titles>
+      <title> ربي أنت العون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربي انت العون انت نصرتي ارتجي خلاصك ربي انت في حماك راحتي ارتجي خلاصك</lines>
+      <lines>ربي امسك بيمينك يدي ربي خلص نفسي انت منجدي<br/>(خلصن نفسي حبيبي سيدي)2 (ارتجي خلاصك)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ربي جاعت نفسي والقلب خوى ارتجي خلاصك ربي انت قوت نفسي والدوا ارتجي خلاصك</lines>
+      <lines>ربي فاقرب مني واطفيء لوعتي ربي واقرب مني عز مهجتي<br/>(ربي فرح نفسي انت فرحتي)2 (ارتجي خلاصك)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> من سواك سيدي نفسي يريح ارتجي خلاصك ربي انت فيك قلبي يستريح ارتجي خلاصك</lines>
+      <lines>ربي هات العون لي من قدسك ربي واسند مهجتي في حضنك<br/>(اعطني ابتسامة من ثغرك)2 (ارتجي خلاصك)2</lines>
+    </verse>
+  </lyrics>
+</song>

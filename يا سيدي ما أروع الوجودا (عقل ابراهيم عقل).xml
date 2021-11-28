@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:38">
+  <properties>
+    <titles>
+      <title>يا سيدي ما أروع الوجودا</title>
+    </titles>
+    <comments>
+      <comment>Author: عقل ابراهيم عقل
+Tune: HOW GREAT THOU ART
+Title:19. يا سيدي ما أروع الوجودا
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">عقل ابراهيم عقل</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا سيدي ما أروع الوجودا<br/> حيث أرى ما صنعت يداكْ<br/> البحرَ والبطاحَ والنُّجودا<br/> وأنجُمَ السماءِ والأفلاكْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا ربُّ ما أعجبَ أعمالكْ<br/> جميعها تشهدُ لكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> حين أجولُ عبر كلِّ حقلِ<br/> أُمتِّعُ الأنظار في الضحى<br/> يُطرِبُني الغديرُ وسطَ السهلِ<br/> والطيرُ إذ يشدو على الرُّبى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> عندئذٍ إذكر حبَّ ربي<br/> ومَن جرت في جلجُثا دماهْ<br/> على الصليبِ قلبهُ وقلبي<br/> تصافيا ونالني رضاه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وحينما يهبطُ مِن علاهُ<br/> فادي الورى وصاحبُ الوعدِ<br/> يُقيمُني للمجدِ في حِماهُ</lines>
+    </verse>
+  </lyrics>
+</song>

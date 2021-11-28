@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:59">
+  <properties>
+    <titles>
+      <title>أحب بيعة</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: THATCHER
+Title:185. أحب بيعة
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أُحبُّ بِيعةً<br/> يا ربنا العظيمْ<br/> تلك التي اشتريتها<br/> بدمك الكريمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إن كرِهت يدي<br/> بركةَ البنينْ<br/> يَلصَقْ لساني بفمي<br/> وتنسني اليمينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أبكي لأجلها<br/> وأُصعدُ الصلاه<br/> وكلُّ أتعابي لها</lines>
+    </verse>
+  </lyrics>
+</song>

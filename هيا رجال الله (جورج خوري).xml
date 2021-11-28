@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title>هيا رجال الله</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج خوري
+Tune: [هيا رجال الله]
+Title:385. هيا رجال الله</comment>
+    </comments>
+    <authors>
+      <author type="words">جورج خوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> هيا رجالَ اللهْ<br/> خدمتكم جُلّى<br/> والله يدعوكمْ<br/> لغايةٍ مُثلى</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هيا رجال اللهْ<br/> نُبدد الظلامْ<br/> نحيا معاً كإخوةٍ<br/> رائدنا السلامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هيا رجال اللهْ<br/> إتّبعوا خُطاهْ<br/> سيروا معاً بقوةٍ<br/> يشملنا رضاهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هيا رجالَ اللهْ<br/> وحققوا الرؤيا<br/> فالنصرُ يُرجى للذي</lines>
+    </verse>
+  </lyrics>
+</song>

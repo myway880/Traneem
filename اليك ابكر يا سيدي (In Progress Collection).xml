@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:03">
+  <properties>
+    <titles>
+      <title> اليك ابكر يا سيدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>اليك ابكر يا سيدي<br/>لان اعتمادي عليك<br/>الى وجهك النفس عطشانة<br/>ويشتاق جسمي اليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> افضل رحمة ربي على<br/>حياتي وابغي رضاه<br/>تسبحه شفتي هكذا<br/>اباركه في الحياه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فتشبع نفسي وفي ذوقها<br/>ترى اطيب المطعم<br/>ويلزم ما دمت تسبيحه<br/>بكل ابتهاج فمي</lines>
+    </verse>
+    <verse name="v4">
+      <lines> على المهد اذكره ليلتي<br/>ويومي به الهج<br/>فقد كان عوني ولي ملجا<br/>بتظليله يبهج</lines>
+    </verse>
+  </lyrics>
+</song>

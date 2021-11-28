@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:45">
+  <properties>
+    <titles>
+      <title>يسوع ربي المجيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يسوع ربي المجيد<br/>انه يكفيني<br/>هو مطلبي الوحيد<br/>هو يكفيني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>لي قد صار حكمة<br/>برا وقداسة<br/>فدية وقوة<br/>هو يكفيني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>سيدي الكل في الكل<br/>انه يكفيني<br/>يحميني فلن ازل<br/>هو يكفيني</lines>
+    </verse>
+    <verse name="v3">
+      <lines>بدماه قد فديت<br/>انه يكفيني<br/>له قلبي ما حييت<br/>هو يكفيني</lines>
+    </verse>
+    <verse name="v4">
+      <lines>مجدا مجدا للحمل<br/>انه يكفيني<br/>ملء روحه الامل<br/>هو يكفيني</lines>
+    </verse>
+  </lyrics>
+</song>

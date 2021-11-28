@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>الكل في المسيح لا</title>
+    </titles>
+    <comments>
+      <comment>Author: الياس مرمورة
+Tune: ST. PETER
+Title:363. الكل في المسيح لا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">الياس مرموره</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الكل في المسيحِ لا<br/> شرقٌ ولا غربُ<br/> بوحدةٍ شاملةٍ<br/> قوامُها الحبُّ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أُخُوّةٌ بين الشعوب<br/> وشِركةٌ عُليا<br/> تسمو بها كلُّ القلوب<br/> عن عَرَضِ الدنيا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> خِدمتُهُ تربُطُنا<br/> بأوثقِ الرِّباط<br/> كسلكِ تِبرٍ ناظمٍ<br/> عِقدا بلا انفراط</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هيا اعقُدوا الأيدي إذن<br/> يا معشرَ الإيمان<br/> إن نخدُم الآبَ معا</lines>
+    </verse>
+  </lyrics>
+</song>

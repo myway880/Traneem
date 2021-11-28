@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title>لو لم يحبني المسيح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لو لم يحبني المسيح<br/>ما كان اشقاني<br/>خلصني ذاك الذبيح<br/>بدمه القاني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>اشكر ما طال الزمن<br/>او دمت في الحياه<br/>لمن فدى نفسي ومن<br/>قد جاد بالنجاه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لو لم يحبني الرحيم<br/>اذ مات عن ذنبي<br/>لم انتظر دار النعيم<br/>ولا لقى الرب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لو لم يحبني القدير<br/>من غلب الجحيم<br/>امسيت كالعبد الاسير<br/>في قبضة الرجيم</lines>
+    </verse>
+    <verse name="v4">
+      <lines>لو لم يحبني الغفور<br/>كنت مع الاشرار<br/>ابقى الى دهر الدهور<br/>معذبا بالنار</lines>
+    </verse>
+  </lyrics>
+</song>

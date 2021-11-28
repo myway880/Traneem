@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:40">
+  <properties>
+    <titles>
+      <title> يا متعبا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا متعب تعال اليه تسترح<br/>صوت يسوع يدعو فحملك اطرح<br/>صوت السلام الهادي والصفح والنعمه<br/>اياك يدعو دوما من عالم الظلمه</lines>
+      <lines>(يا متعبا تعال تعال اليه تسترح)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا تائها تعال يقدك في سلام<br/>صوت يسوع يدعو كل بني الانام<br/>اذا الدجى تمادى حولك بالحزن<br/>فها سنا يسوع يبدد الشجن</lines>
+      <lines>(يا تائها تعال تعال يقدك في سلام)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يا مائتا تعال اليه كي تحيا<br/>صوت يسوع يدعو للراحة العليا<br/>ان الوغى شديد والخصم مقتدر<br/>فاحمل اذا سلاح المسيح وانتصر</lines>
+      <lines>(يا مائتا تعال تعال اليه كي تحيا)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> يا سامعا تعال لحضن ربكا<br/>صوت يسوع يدعو مرحبا بكا<br/>يدعو ذوي الخطايا اذ حبه عظيم<br/>كي يقبلوا اليه ويرثوا النعيم</lines>
+      <lines>(يا سامعا تعال تعال لحضن ربكا)2</lines>
+    </verse>
+  </lyrics>
+</song>

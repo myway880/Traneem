@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title>يا ثقيل الحمل أقبل</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الراسي
+Tune: STOCKWELL
+Title:256. يا ثقيل الحمل أقبل</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا ثقيلَ الحِملِ أقبِلْ<br/> نحوَ فاديك الحبيبْ<br/> واطرَحِ الأوزارَ حالاً<br/> ألقِها تحتَ الصليبْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فترى ينبوعَ جودٍ<br/> سالَ من جنبِ الحَمَلْ<br/> مَن أماتَ الموتَ بالمو<br/> تِ الذي عنا احتَمَلْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إسمعِ الفادي يُنادي<br/> كلَّ مقطوعِ الرَّجا<br/> إلتفِتْ نحوي فتحيا<br/> وتنالَ الفَرَجا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أقبِلوا نحوي فإني<br/> جئتُ من أجلِ الخُطاهْ<br/> إنني الخبزُ السَّماوي<br/> وأنا ماءُ الحياهْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> إحملوا نيري عليكمْ<br/> إنني الراعي الوديعْ<br/> لا تخافوا من عدوٍّ<br/> فأنا الحصنُ المنيعْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> فهلُمَّ الآنَ يا مَنْ<br/> باتَ في أسرِ الهلاكْ<br/> واسألِ الغُفرانَ واقبَلْ<br/> هِبةً ممَّن فداكْ</lines>
+    </verse>
+    <verse name="v7">
+      <lines> لا تُقَسِّ القلبَ واسمعْ<br/> صوتَ فاديك الحنونْ<br/> وانتبِه وادْنُ سريعاً</lines>
+    </verse>
+  </lyrics>
+</song>

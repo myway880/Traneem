@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:29">
+  <properties>
+    <titles>
+      <title>هلم جميعا قريبا بعيد</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم سركيس
+Tune: MARCHING ALONG
+Title:383. هلم جميعا قريبا بعيد
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">ابراهيم سركيس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> هلمَّ جميعا قريباً بعيدْ<br/> فها صوتُ بوقٍ لأجل القتال<br/> جنودُ الأعادي نراها تَزيدْ<br/> فهاتوا سلاحاً لذاك النزالْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مرنمينْ نحنُ مرنمينْ<br/> سيوفَكمُ احملوا هاجمين<br/> حربٌ شديدٌ طويلُ العهودْ<br/> سيروا بقواتِ ربِّ الجنودْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> عدوي أمامي بصفِّ القتال<br/> فأَثبُتُ لا عن طريقي أحيد<br/> ونَغمتنا قُوَّتي ذو الجلال<br/> فسيروا بإيمان عزمٍ وطيد</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بحبٍّ دخلنا جيوشَ المقامْ<br/> نُقاد بإرشاد فادي البشر<br/> نَسُلُّ حُسامَ المُفَدِّي الأنام<br/> فلا نرجِعَنّ بغير الظَّفرْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هنا حولَ سُبْلي الخَطاءَ أرى<br/> فبالضيقِ إكليلَ مجدٍ أنالْ<br/> فما دمتُ في حب فادي الورى</lines>
+    </verse>
+  </lyrics>
+</song>

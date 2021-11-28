@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title>حي هو الرب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(حي هو الرب الهي اللي انا واقف قدامه<br/>حي سيدي الملك اللي انا عايش خدامه)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(لا انا خايف من شئ ان كان ولا من مخلوق مهما ان كان)2<br/>ولا محتاج شئ من انسان ده مكفيني سلامه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(انا عاكف على المكتوب ضد الطيار المقلوب)2<br/>اشهد ليسوع المحبوب واتشارك في الامه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(انا شايف اخر المشوار جاي الفجر وجاي نهار)2<br/>ولحد الشر ماينهار انا هارفع اعلامه</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(انا عارف ايماني بمين القادر يحفظني امين)2<br/>جاي وهاشوفه بكل يقين زي ما وعد في كلامه</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(انا واقف مستني وعود تتحقق والمجد يعود)2<br/>ونقف كده صفين بالعود ونعلي ف انغامه</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:28">
+  <properties>
+    <titles>
+      <title> هل قد ذبحت من أجلي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">هل قد ذبحت من أجلي<br/>وذقت أهوال الصليب<br/>وهل أحنيت رأسك<br/>لتحمل عاري المذيب</lines>
+      <lines>ضربت عني هناك<br/>سحقت سحقا بالصليب<br/>وفوقه سالت دماك<br/>لأجل ذنبي المعيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هل كل هذه الآلام<br/>هل كل هذا الاكتئاب<br/>هل كل ذلك الهوان<br/>عني أنا هذا العذاب</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا نفسي موتى هكذا<br/>يا ذاتي موتى بالصليب<br/>فإن ذا قصد العلي<br/>أن أصلب مع الحبيب</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بل كونى مع ذاك الحبيب<br/>فى وحده وفى إتحاد<br/>فيه خلاصك العجيب<br/>فيه لكى كل الأمجاد</lines>
+    </verse>
+    <verse name="v5">
+      <lines> عني أنا نعم عني<br/>حبه لي سامٍ عجيب<br/>يشدو به ترنمي<br/>إذ قد فداني بالصليب</lines>
+    </verse>
+  </lyrics>
+</song>

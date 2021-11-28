@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title> خالق السما وما فيها</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">خالق السما وما فيها<br/>وبيك كل الوجود<br/>صانع الحياة<br/>من نفخة في التراب</lines>
+      <lines>قادر وقوة سلطانك<br/>فاقت الحدود<br/>إله السماوات<br/>ورب الأرباب</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> مين في العظمة قدك<br/>مين يشبه جلالك<br/>مين في الرحمة زيك<br/>مين في جمالك</lines>
+      <lines break="optional">ليك الإكرام<br/>والحمد والتعظيم<br/>يا منبع الحياة<br/>يا رحيم</lines>
+      <lines>هللويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> نرفع ليك كل التسبيح<br/>يا ساكن السما<br/>ياللي عشاننا جيت<br/>وخلصت النفوس</lines>
+      <lines>ليك بتنحني الجباه<br/>وبنسجد يا الله<br/>واسمك القدوس<br/>تاج على الرؤوس</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:36">
+  <properties>
+    <titles>
+      <title> جاي بشكر القلب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">جاي بشكر القلب بسلم نفسي اللي انت فديتها يا بار</lines>
+      <lines break="optional">جاي وحبي ليك يتكلم عقلي بينسب ليك أفكار</lines>
+      <lines break="optional">تبقى سراجي تبقى شراعي وسط الضلمة والأمواج</lines>
+      <lines>تبقى أمالي كل سلامي شمس تغير ليلي نهار</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> رافع اسمك ياللي حنانك همسة بيسمعها الحيران</lines>
+      <lines break="optional">ووعودك حبك ووفائك إدت معنى للإنسان</lines>
+      <lines break="optional">القى كلامك لي مشورة يهدي الخطوة في كل زمان</lines>
+      <lines>وعهود دمك المحفورة على جنبك تديني أمان</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> هافضل أغني ويعلى هتافي وارسم لوحة من نغمات</lines>
+      <lines break="optional">فيها العرش وفيها الفادي أعلام ورايات وإنتصارات</lines>
+      <lines break="optional">منظر يسبى العين ويخلي قلب الأب دايما شبعان</lines>
+      <lines>وعدو الخير مهما يدوي مالهوش غير في النار عنوان</lines>
+    </verse>
+  </lyrics>
+</song>

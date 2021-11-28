@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:33">
+  <properties>
+    <titles>
+      <title>يا إلهي اسمع صراخي</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: PICARDY
+Title:341. يا إلهي اسمع صراخي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا إلهي اسمَعْ صُراخي<br/> أصغِ يا ربي إلْي<br/> من صميمِ القلبِ أدعو<br/> حينما يُغشَى علْي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا إلهي اسمعْ صُراخي<br/> واصغِ يا ربي إلْي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنت تهديني لصخرٍ<br/> هوَ مني أرفعُ<br/> كنت لي ملجا أمانٍ<br/> من عدوٍّ يُفزعُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> برجُ قوةٍ لضعفي<br/> أنت من وجهِ العِدى<br/> مِن جناحَيْكَ بسِترٍ<br/> أحتمي طولَ المدى</lines>
+    </verse>
+    <verse name="v4">
+      <lines> لاسمِك القدوسِ أُهدي<br/> كلَّ تسبيحِ الحياهْ<br/> وأفي يوماً فيوماً</lines>
+    </verse>
+  </lyrics>
+</song>

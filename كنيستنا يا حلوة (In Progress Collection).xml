@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:06">
+  <properties>
+    <titles>
+      <title> كنيستنا يا حلوة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1 v11 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كنيستنا يا حلوة<br/>يا محلى صيامك</lines>
+      <lines>فيك الروح بتشبع<br/>وترتل الحانك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> نبدأ بالصوم الكبير<br/>مدته خمسة وخمسين</lines>
+      <lines>بدايته خمس تاشير<br/>يتبقى أربعين</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> سبعة دولة بقى إستعداد<br/>وسبعة إسبوع إلآلام</lines>
+      <lines>واربعين يوم واربعين ليلة<br/>صامها الرب يسوع بتمام</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> نيجي لأسبوع إلآلام<br/>اللي في آخره الرب قام</lines>
+      <lines>ألأسبوع ده إسمه البصخة<br/>والبصخة معناها عبور</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> أول يوم حد الشعانين<br/>يسوع يدخل أورشليم</lines>
+      <lines>تاني يوم يوم الاتنين<br/>يسوع طرد البياعين</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional"> ثالث يوم يوم التلات<br/>علامات ملكوت السماوات</lines>
+      <lines>رابع يوم أربع أيوب<br/>يهوذا خون من غير ما يتوب</lines>
+    </verse>
+    <verse name="v7">
+      <lines break="optional"> خامس يوم ده خميس العهد<br/>فيه اتأسس سر الشكر</lines>
+      <lines>نيجي لجمعة الصلبوت<br/>اللي فيها يسوع هايموت</lines>
+    </verse>
+    <verse name="v8">
+      <lines break="optional"> فيها لبس إكليل الشوك<br/>واتحاكم قدام ملوك</lines>
+      <lines>وضربوه وجرحوه<br/>وعلى الصليب صلبوه</lines>
+    </verse>
+    <verse name="v9">
+      <lines break="optional"> يطلع عندنا يوم السبت<br/>اللي إسمه سبت النور</lines>
+      <lines>سبت فرح وهنا وسرور<br/>في آخره المسيح هايقوم</lines>
+    </verse>
+    <verse name="v10">
+      <lines break="optional"> كسر الملكوت<br/>وانفك الصوم</lines>
+      <lines>يفضل عندنا يوم الحد<br/>في أوله قام رب المجد</lines>
+    </verse>
+    <verse name="v11">
+      <lines> فيه بنعيد فرحانين<br/>اخريستوس انيستي اكنيكرون</lines>
+    </verse>
+  </lyrics>
+</song>

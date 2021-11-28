@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:00">
+  <properties>
+    <titles>
+      <title>قد فداني بالصليب</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> قد فداني بالصّليب<br/>قد هداني ذا الحبيب<br/>رافِعًا حِملي الثَّقيل<br/>ذا حبيبي ياجُموع</lines>
+    </verse>
+    <verse name="c1">
+      <lines>إسْألوني عن يسوع<br/>حُبُّه بين الضُّلوع<br/>(ذا نَصيبي وفِدائي <br/>ذا حبيبي يا جُموع )2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ذا عزاءٌ لي يدوم<br/>وسْط أغْمار الهُموم<br/>قد عرفتُ حبَّه<br/>ذا حبيبي يا جُموع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كم شَفاني من سِقام<br/>كم جَلا عَنِّي الظَّلام<br/>كم أحاطت بي يَداه<br/>ذا حبيبي يا جُموع</lines>
+    </verse>
+    <verse name="v4">
+      <lines>في الطَّريق لي رفيق<br/>في المسير لي صديق <br/>تَبقَى خِلّي في الحياه<br/>ذا حبيبي يا جموع</lines>
+    </verse>
+  </lyrics>
+</song>

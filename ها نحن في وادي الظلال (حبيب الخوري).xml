@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:27">
+  <properties>
+    <titles>
+      <title>ها نحن في وادي الظلال</title>
+    </titles>
+    <comments>
+      <comment>Author: حبيب خوري
+Tune: [ها نحن في وادي الظلال]
+Title:316. ها نحن في وادي الظلال
+</comment>
+    </comments>
+    <authors>
+      <author type="words">حبيب الخوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ها نحن في وادي الظلالْ<br/> يغمُرُنا دُجاهْ<br/> وحولَنا الماءُ الزلالْ<br/> ونحن لا نراهْ<br/> لكنما بين الحقولْ<br/> راعٍ يغني ويقولْ<br/> هيا انظروا شمسَ الضحى<br/> فقد علت<br/> علت فوق الجَبالْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إنْ يغمرِ الوادي الدجى<br/> فثمَّةَ الزهرُ<br/> منتشراً على الربى<br/> ونفحُهُ العِطرُ<br/> فلنُصغِ للراعي الكريمْ<br/> يُنشد في شوقٍ مُقيمْ<br/> هيا انظروا شمسَ الضحى<br/> فقد علت<br/> علت فوق الجَبالْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> الظلُّ يوماً سيزولْ<br/> دوامُهُ مُحالْ<br/> والليلُ حتماً سيؤولْ<br/> للفجر مهما طالْ<br/> قد صدَقَ الراعي بما<br/> قال لنا مرنِّما<br/> هيا انظروا شمسَ الضحى<br/> فقد علت<br/> علت فوق الجَبالْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا أيها الراعي العظيمْ<br/> يا مرشدَ التائهْ<br/> يا مَن لنا الخيرُ العميمْ<br/> مِن فيض آلائهْ<br/> أشرِق بأنوار الفِدى<br/> وافتح لنا بابَ الهدى<br/> حتى نرى رُغمَ الدجى<br/> شمساً علت</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:42">
+  <properties>
+    <titles>
+      <title>يا نفس قومي هللي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: ALLEIN GOTT IN DER HOH
+Title:238. يا نفس قومي هللي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا نفسِ قُومي هللي<br/> تسبيحَ فاديكِ العلي<br/> فهو لنا ربٌ رحيمْ<br/> قد فاقَ حبُّه العظيمْ<br/> قد فاق حبه العظيمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إذ قد رآني في شقا<br/> أحبني ربُّ السما<br/> فدانِيَ ابنُهُ الحبيبْ<br/> قد فاق حبه العجيبْ<br/> قد فاق حبه العجيبْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إنِ ابتغَتْ جُندُ العِدَى<br/> منعِيَ عن طُرْقِ الهُدى<br/> يهدي طريقي في المسيرْ<br/> قد فاق حبه الشهيرْ<br/> قد فاق حبه الشهيرْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إن جُزْتُ وادي الموتِ لا<br/> أخشى الوبالَ المقبلا<br/> فالرب لي نِعمَ المعينْ<br/> قد فاق حبه الثمينْ<br/> قد فاق حبه الثمينْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يُمناهُ تَهديني إلى<br/> إرثٍ سعيدٍ في العُلا<br/> فالشكرُ للفادي المجيدْ<br/> قد فاق حبه الشديدْ</lines>
+    </verse>
+  </lyrics>
+</song>

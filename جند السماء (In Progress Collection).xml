@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:15">
+  <properties>
+    <titles>
+      <title> جند السماء</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>جند السماء قد أنشد ترنيمة العلا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>في ليلة من الشتاء قد بشروا الرعاة</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>بمولد الطفل يسوع في مذود هناك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>هو المسيح أعلوا التسبيح فهو رب السلام</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>هو يسوع ربي مخلص النفوس</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>مستحق كل المجد فهو الرب القدوس</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>لقد أتى للرب المجوس من الشرق</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>واتبعوا النجم العظيم الذي اشرق</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>قد اهتدوا بنوره عندما أبرق</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>معلنا لنا ميلاد الفادي المجيد</lines>
+    </verse>
+  </lyrics>
+</song>

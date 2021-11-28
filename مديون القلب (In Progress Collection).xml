@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title> مديون القلب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مديون القلب يحمدك<br/>مديون الفم يمجدك<br/>علشان انت اللي بموتك<br/>نجيتني من الخطيه</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> مديون<br/>أنا مديون<br/>مديون لك ْ يا حبيبي</lines>
+      <lines>مديون<br/>أنا مديون<br/>مش قادر أوفي ديوني</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مديون لك بكل حياتي<br/>اللي وهبتها ليَّ<br/>مديون لك بتحريري<br/>من كل العبوديه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنا إللي بقساوتي<br/>صلبتك ربي بإيديَّ<br/>وإنت اللي حبيتني<br/>واعطيتني حياة أبديه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إنت اللي عينك عليَّ<br/>وقلبك بيحنّ عليَّ<br/>اشبعني بيك وارويني<br/>واحميني من الخطيه</lines>
+    </verse>
+  </lyrics>
+</song>

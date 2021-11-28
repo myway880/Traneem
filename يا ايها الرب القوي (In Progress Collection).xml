@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title> يا ايها الرب القوي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا ايها الرب القوي والمنجد الامين<br/>حماك ملجا لنا وحصننا الحصين<br/>انظر الينا من علا عرشك في السما<br/>وهب لكرمة هنا غرستها النما</lines>
+    </verse>
+    <verse name="c1">
+      <lines> قوموا بالحان النشيد يا معشر الابرار<br/>وسبحوا الرب المجيد بنغمة الاوتار</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ها انت معنا دائما بالروح يا منان<br/>تصغي الينا كلما ندعوك بالايمان<br/>يا مشتهى كل الامم وكوكب الدنيا<br/>اشرق بمجدك العظيم من السما العليا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا حبذا يوما به يبدو محياك<br/>يبهجنا بقربه جمال مراك<br/>هلم واظهر يا يسوع بفائق السلطان<br/>واملك على كل الجموع بالبر والاحسان</lines>
+    </verse>
+    <verse name="v4">
+      <lines> مسيرنا يا مؤمنون في منهج الايمان<br/>ذكر اسم فادينا الحنون يبدد الاحزان<br/>سيروا بلا هم ولا خوف من الاعدا<br/>ومن اعد المنزلا سينجز الوعد</lines>
+    </verse>
+  </lyrics>
+</song>

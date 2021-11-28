@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:17">
+  <properties>
+    <titles>
+      <title> قابلا حمل صليبي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: DELIVERANCE
+Title:344. قابلا حمل صليبي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> قابلاً حَملَ صليبي<br/> أتبعُ الفادي الأمينْ<br/> راضياً إنكارَ نفسي<br/> وارْتِدا العارِ المُهينْ</lines>
+      <lines> فهْو لي أسنى نصيبٍ<br/> وهْو مولايَ الحبيبْ<br/> إنْ جفاني الناسُ طُرّاً<br/> فهْو لي أسنى نصيبْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مالكٌ كلَّ البرايا<br/> وهْو باريها العَلي<br/> كلُّ شيءٍ في السما وال<br/> أرضُ لي ما دامَ لي</lines>
+      <lines> ليس لي خِلُّ سواهُ<br/> إنني أبغي رضاهْ<br/> حبُّهُ أقصى مُرادي<br/> كيف لا وهْو الإلهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> ليس ضيقٌ واضطهادٌ<br/> يفصِلاني عن هواهْ<br/> لست عن حُبِّيهِ ألهو<br/> بأباطيلِ الحياهْ</lines>
+      <lines> فهْو لي كنزٌ ثمينٌ<br/> وهْو لي حصنٌ حصينْ<br/> عندَهُ قلبي مُقيمٌ<br/> فهْو لي كنزٌ ثمينْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> فلذا أحيا هنا في الـ<br/> أرضِ كالضيفِ الغريبْ<br/> راجياً بعد ارتحالي</lines>
+      <lines> أن أرى وجهَ الحبيبْ<br/> فسلامٌ وخُلودٌ<br/> عندَ ذيّاك الودودْ<br/> وسرورٌ أبديٌّ</lines>
+    </verse>
+  </lyrics>
+</song>

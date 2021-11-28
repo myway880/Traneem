@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:01">
+  <properties>
+    <titles>
+      <title> بعدما ساد الظلام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مجد لله العلي<br/>سلم للشعب الرضي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بعدما ساد الظلام في المراعي والحقول فجأة ضاء المقام ودوى صوت يقول</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>كان في الحقل رعاه يحرثون الغنم<br/>فرأو فوق الفلك جوقة جند رنمت</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>والرعاة السعاده اسرعوا للمذود حيث خروا سجده للمسيح الامجد</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>فأرفعوا اليوم المديح يا جميع المؤمنين<br/>ظهر الحب الصحيح يوم اتيان الأمين</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:22">
+  <properties>
+    <titles>
+      <title> حياتي ملكك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>حياتي ملكك وحدك ياللي فادتيني<br/>وآمالي انت وحدك ياللي حبيتني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مش<br/>عايز اضيع ولا لحظة في حياتي<br/>غير واعيشها لك يا ربي يسوع<br/>اشتاقلك يا ربي واتقدس يوماتي<br/>واعبدك واسجد لك بكل خشوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>حبيت<br/>الحياة من يوم دخلت قلبي<br/>لما اتغفرت ذنوبي وسكنت في قلبي<br/>بقيت عايش مطمن ومعاك حسيت بقيمتي<br/>لما سلمتك ذاتي وبقيت انت قيمتي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>انت<br/>فيك غناي ووحدك شبع قلبي<br/>ياللي بتيجي تشاركني افراحي وآلامي<br/>معاك الغربة هانت لما سلامك غمرني<br/>ياللي في عينك شايلني ودايما بتشجعني</lines>
+    </verse>
+  </lyrics>
+</song>

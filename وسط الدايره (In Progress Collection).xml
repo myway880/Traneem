@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:32">
+  <properties>
+    <titles>
+      <title> وسط الدايره</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كنت باظن في وقت همومي لحظة ضعفي<br/>أو في خيانتي أو في صعوباتي وياي أني هناك اتسبت لوحدي</lines>
+      <lines break="optional">وأسأل نفسي في عمق الحيرة فينك ليه مش شايفك عندي<br/>ألقى شعاع من عينك خارج اسمه شعاع الحب الأبدي</lines>
+      <lines>يعمل تغيير حب عجيبة بتحوطني بنورها الفضي<br/>وسط الدايرة بالقى الراحة وسلام غامر يفضل سندي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يعلى الموج وبيهجم جامد ويا هبوب الريح حوالي<br/>وألقى القارب طالع نازل وقت ظلام الليل في المية</lines>
+      <lines break="optional">وأشعر إني باخور وأستسلم لما الحرب بتقوى علي<br/>لكن لقيت المجد يسوعي إنه حياتي فيه محمية</lines>
+      <lines>بادرك لما باشوفك نازل بعد ظلام الليل الفجرية<br/>وسط الدايرة يهدى القارب والريح هايجة زي ما هي</lines>
+    </verse>
+  </lyrics>
+</song>

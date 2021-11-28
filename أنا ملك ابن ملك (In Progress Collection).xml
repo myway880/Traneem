@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:38">
+  <properties>
+    <titles>
+      <title> أنا ملك ابن ملك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا ملك ابن ملك ملك الملوك العظيم</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ده تاجي صنعه بحبه وفداه الثمين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا كاهن أكهن وأخدم ربي وإلهي القدير</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أسبح وأعلن اسمه للصغير والكبير</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ويسوع إلهنا ملك الملوك بيقود حياتنا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وعلينا بيسود نمشي في طريقه نفرح ونقول</lines>
+    </verse>
+  </lyrics>
+</song>

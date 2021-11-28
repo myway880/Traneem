@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:21">
+  <properties>
+    <titles>
+      <title>أنت ابتهاجي منيتي قصدي</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: I'M COMING
+Title:349a. أنت ابتهاجي منيتي قصدي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أنت ابتهاجي مُنيتي قصدي<br/> مولايَ زِدْ حُبي وإركاني<br/> نفسي لقد قرّت على العهدِ<br/> ما لي سِواك فزِدْ ربي إيماني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>آمنتُ يا ربي فقوِّ إيماني<br/> شدِّدْ يقيني وزِد فيك إركاني</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مولايَ لست للرضى أهلا<br/> لكِنْ فِدى فاديَّ نجَّاني<br/> رفقاً بضَعفي أيُّها المولى<br/> آمنتُ قوِّ وزِد ربي إيماني</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إني لَوَانٍ فاتِرُ الحبِّ<br/> لكنَّ لي ينبوعَ إحسانِ<br/> في صدرِكَ الراوي صدى القلبِ<br/> مولايَ زِد بك حُبي وإيماني</lines>
+    </verse>
+    <verse name="v4">
+      <lines> زِدني اقتراباً منك في النفسِ<br/> أنت الذي بالحبِّ ترعاني<br/> مِن برِّك الأنوارُ كالشمسِ<br/> ضاءَت فبارِك وزِد ربي إيماني</lines>
+    </verse>
+    <verse name="v5">
+      <lines> مولاي إني مؤمنٌ زدني<br/> عزماً يُقوِّي بالفِدى أمني<br/> واجعل يقيني ثابتَ الرُّكنِ</lines>
+    </verse>
+  </lyrics>
+</song>

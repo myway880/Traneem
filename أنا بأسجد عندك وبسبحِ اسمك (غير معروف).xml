@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:18">
+  <properties>
+    <titles>
+      <title>أنا بأسجد عندك وبسبحِ اسمك</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أَنَا بأَسَجَدَ عندَكَ وَبِسَبَّحِ اِسْمِكَ.<br/>أَنْتَ اُلْهِي ، بأَعَلِنً عَنْ مَجْدِكَ .<br/>غُفِرْتِ ذَنْبَي ، فَرِحْتِ قَلْبَي . <br/>أَنْتَ حَبيبُي وَدايِمَا جَنْبِي . </lines>
+    </verse>
+    <verse name="c1">
+      <lines>باُدْخُلْ دَيَّارَكَ بِالتَّسْبِيحَاتِ .<br/>وَأَشُوفُ أَمْجَادَكَ وَأَتَوَحَّدُ بِكَ . <br/>بِهَدِيلِكَ حُبِّي وَكُلُّ حَيَّاتِي . <br/>وبأُتَوِّجُكَ رُبَّ وَمَلِيكٌ .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أَيُّه عُمَرُي يَسْوَى <br/>مِنْ غَيْرَ حُضُورِكَ.<br/>مَلَأَ حَيَّاتُي شِبَعِ سُرُورِكَ .<br/>قُدَّامُكَ دَابَتْ كُلُّ قُيُودِي . </lines>
+    </verse>
+  </lyrics>
+</song>

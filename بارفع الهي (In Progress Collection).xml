@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:28">
+  <properties>
+    <titles>
+      <title> بارفع الهي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">(بارفع إلهي بكل الأغاني إيده قوية مجده سماوي)2</lines>
+      <lines>(كل خليقته تعلن مشيئته)2<br/>(بانشد إلهي يسوع فداني)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> (بافرح إلهي بكل صنيعك بتملك ياربي الكل في إيدك)2</lines>
+      <lines>(مجدك جلالك عزك جمالك)2<br/>(إنت بقداسة بترعى عبيدك)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> (باسجد إلهي في زينة و قداسة باعلن بروحي دمك حراسة)2</lines>
+      <lines>(عظيم في إنتظارك عجيب في إنتهارك)2<br/>(بأهتف إلهي بكل حماسة)2</lines>
+    </verse>
+  </lyrics>
+</song>

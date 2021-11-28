@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title> حكايتنا دي كانت زمان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">حكايتنا دي كانت زمان<br/>من ألف عام وألف عام</lines>
+      <lines break="optional">لكنها أحلى حكاية<br/>هايفضل يحكيها الزمان</lines>
+      <lines break="optional">قصة إله ترك سماه<br/>جه واتولد ويا الخطاة</lines>
+      <lines>كان التاريخ ملء الزمان<br/>بيت لحم كانت المكان</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> واحنا النهارده جايين نعيد<br/>ذكرى ميلادك المجيد</lines>
+      <lines>وحياتنا مش بس كلام<br/>دي شهادة عن رب السلام<br/>رب السلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> هناك بعيد مزود حقير<br/>ملك الملوك طفل فقير</lines>
+      <lines break="optional">مريم هنا وفي حضنها<br/>شايلة فاديها وربها</lines>
+      <lines break="optional">سامعة يا نجوم السما<br/>سامعة الملائكة في العلا</lines>
+      <lines>المجد لله في علاه<br/>على أرضنا إتولد فداه</lines>
+    </verse>
+  </lyrics>
+</song>

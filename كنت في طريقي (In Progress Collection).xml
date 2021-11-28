@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:06">
+  <properties>
+    <titles>
+      <title>كنت في طريقي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كنت في طريقي تائها مسكين<br/>عبدا لابليس دائما حزين<br/>راني يسوع اذرف الدموع<br/>ترك السماء لينقذني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يسوع منيتي منه تعزيتي<br/>له محبتي مجدا لاسمه<br/>يسوع صخرتي ومنه قوتي<br/>سلمته قلبي هللويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فزعت صرخت من هول الظلام<br/>فقدت رجائي ايضا لا سلام<br/>راني الحبيب في اسر رهيب<br/>ترك السماء لينقذني</lines>
+    </verse>
+    <verse name="v3">
+      <lines>بغتة رايت نورا في الطريق<br/>يسوع ناداني بصوت رقيق<br/>قال لا انساك نعمتي ترعاك<br/>لا تخف من شر ما دمت معك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ها انا يا ربي اعطيك قلبي<br/>قصدك اتمم ولو للصلب<br/>اوثق مع بولس اهتف مع داود<br/>هللويا مجدا اغلب مع يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

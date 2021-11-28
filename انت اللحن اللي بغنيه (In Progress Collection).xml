@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:22">
+  <properties>
+    <titles>
+      <title>انت اللحن اللي بغنيه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انت اللحن اللي بغنيه<br/>هايم في كلامه ومعانيه<br/>نبضه في قلبي وعايش بيه<br/>هافضل عمري الجاي احكيه<br/>انت منايا وسر غنايا<br/>والتسبيح اللي اهتف بيه<br/>شهوة قلبي ولي سمايا<br/>لذة عمري وعمري دا فيه</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(لحن الالحان<br/>اسمك يا يسوع<br/>نغم الانغام<br/>حبك يا يسوع) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>رحلة حبه تاخدني اليه<br/>وفي ترحالي شاخص ليه<br/>عطش الروح بينادي عليه<br/>ساكن في وساكن فيه<br/>انسى مكاني وانسى زماني<br/>وانسى الكل وافكر بيه<br/>واسمع صوته بيملا كياني<br/>دا اللحن اللي انا عايش فيه</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:10">
+  <properties>
+    <titles>
+      <title>الرب راعي فلا</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: 23RD PSALM
+Title:423. الرب راعي فلا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الرب راعيَّ فلا<br/> يعوزني شيءٌ<br/> يعوزني شيءٌ<br/> يعوزني شيءٌ<br/> الرب راعيَّ<br/> في مراعٍ خُضرٍ يربضني<br/> إلى مياه الراحة يُوردني<br/> يرد نفسي يهديني إلى<br/> يهديني إلى<br/> يهديني إلى<br/> سبل البرِّ من أجل اسمه<br/> آمين آمين آمين</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إذا سرت في وادي ظل الموتْ<br/> لا أرهب شرّا<br/> لا أرهب شرّا<br/> الرب راعيَّ<br/> في مراعٍ خُضرٍ يربضُني<br/> الخيرُ والرحمة يتبعانني<br/> جميعَ أيامي وأسكنُ في<br/> وأسكنُ في<br/> وأسكنُ في<br/> بيت الربَّ إلى مدى الأيامْ<br/> آمين آمين آمين</lines>
+    </verse>
+  </lyrics>
+</song>

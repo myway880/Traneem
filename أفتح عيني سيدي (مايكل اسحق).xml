@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:08">
+  <properties>
+    <titles>
+      <title>أفتح عيني سيدي</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">مايكل اسحق</author>
+      <author type="music">مايكل اسحق</author>
+      <author type="words">مايكل اسحق</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أفتح عيني سيدي <br/>فابصر كيف إجتزت بي الآلآم <br/>وكيف كنت لي معين <br/>فمرت جميعها في سلام </lines>
+    </verse>
+    <verse name="c1">
+      <lines>عندها سأهيم أغنّي <br/>ليس شئ يفصلنّي <br/>عن محبةِ إلهي مُنجدي <br/>سأمشي على مرتفعاتي <br/>و أغني على آلاتي<br/>ليس مثل إلهي سندي </lines>
+    </verse>
+    <verse name="v2">
+      <lines>افتح عيني سيدي <br/>فأدرك كيف هديتني في الطريق<br/>وكيف بطول الرحلةِ <br/>كنت عاضدي نعم الرفيق </lines>
+    </verse>
+    <verse name="v3">
+      <lines>افتح عيني سيدي <br/>فأذكر كيف أعنتني في الضيقات<br/>وكيف أقمتني ثابتاً<br/>وانتشلتني ليس مرة بل مرات </lines>
+    </verse>
+    <verse name="v4">
+      <lines>افتح عيني سيدي <br/>فأعرف أنك فوق المستحيل <br/>وأن جبالي العالية <br/>تصير امامك سهلاً يا قدير </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:07">
+  <properties>
+    <titles>
+      <title>لا انسى يوما سيدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لا انسى يوما سيدي عند الصليب<br/>اعلنت لي عن حبك ايا حبيب<br/>( من يومها انا سعيد<br/>اذ حبك دوما مجيد ) 2<br/>يا سيدي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لا انسى اياما مضت بحبك<br/>كللتها يا سيدي بجودك<br/>( خطاي تشهد لك<br/>ايامي تحكي حبك ) 2<br/>يا سيدي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>راعي انت سيدي رب الهدى<br/>الخير والرحمة لي طول المدى<br/>( تقودني تريحني<br/>تدخلني المجد السني ) 2<br/>يا سيدي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>لا بد يوما سيدي سوف تعود<br/>لا بد ان تاتي لكي تفي الوعود<br/>( امين يا ربي تعال<br/>تعال حقق الامال ) 2<br/>يا سيدي</lines>
+    </verse>
+  </lyrics>
+</song>

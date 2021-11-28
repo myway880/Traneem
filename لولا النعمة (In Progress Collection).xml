@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:13">
+  <properties>
+    <titles>
+      <title>لولا النعمة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>لولا النعمة ما كنت اشوفك<br/>ولا كان لي مكان في سماك<br/>انا مديون لك ربي بعمري<br/>ياللي فديتني بسفك دماك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ما انساش اصلي كنت انا عاصي<br/>طول ايامي وكلي معاصي<br/>كلي خطية في كل كياني<br/>من رجلي لهامة راسي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا ما حاولت وكنت بحاول<br/>اجد الراحة ما كنتش طايل<br/>عشت في وهم سنين خدعتني<br/>شهوة عيني في عالم زايل</lines>
+    </verse>
+    <verse name="v3">
+      <lines>نعمة غنية اتجهت لي<br/>فكت نفسي من العبودية<br/>لما ناداني يسوع ودعاني<br/>في الحال قلبي اتغير في</lines>
+    </verse>
+    <verse name="v4">
+      <lines>نعمة تكفي طول الرحلة<br/>من بدايتها لحد لقاك<br/>ماشية معايا بكل عنايه<br/>لحد ما تيجي تاخذني معاك</lines>
+    </verse>
+  </lyrics>
+</song>

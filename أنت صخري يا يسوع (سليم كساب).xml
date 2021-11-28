@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:45">
+  <properties>
+    <titles>
+      <title> أنت صخري يا يسوع</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: MADRID
+Title:274. أنت صخري يا يسوع
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> أنت صخري يا يسوعْ<br/> بكَ لي ظِلٌّ عظيمْ<br/> لك في عُريٍ وجوعْ<br/> يُقبِلُ الخاطي الأثيمْ</lines>
+      <lines> ما لنفسي من صلاحْ<br/> تلتجي فيه إليكْ<br/> بسَقامٍ وجِراحْ<br/> يقفُ العبدُ لديكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أشبِعِ العبدَ الفقيرْ<br/> رحمةً تنفي الخطرْ<br/> واكسُهُ الثوبَ المنيرْ<br/> واخلِقَنْ فيه البصرْ</lines>
+      <lines> ليس لي إلا الشقا<br/> يا طبيبي والسَّقامْ<br/> أنت تعطيني الشِفا<br/> وخلاصاً وسَلامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أنت رُكني والنصيبْ<br/> أنت فاديَّ الحنونْ<br/> لي عزاءٌ بالصليبْ<br/> سِيَّما عندَ المنونْ</lines>
+      <lines> يا مُنجِّيَ العزيزْ<br/> مِن عُلى المجدِ تعالْ<br/> أنت كن حِصنا حريزْ<br/> وتاجا للجمال</lines>
+    </verse>
+  </lyrics>
+</song>

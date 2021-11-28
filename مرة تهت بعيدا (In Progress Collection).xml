@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title> مرة تهت بعيدا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مرة تهت بعيدًا<br/>عن مخلصي يسوع<br/>فأتاني من فداني<br/>ودعاني للرجوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> صوته الحلو ناداني<br/>لا تطيلن الضلال<br/>أسرعنّ يا بُنيَّ<br/>وتعال لي تعال</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أرجلي أدمت بشوك<br/>لم أر له نظير<br/>بينما الصوت ينادي<br/>قد ضللت في المسير</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إلا أني لم أبال<br/>أبدًا بذا الكلام<br/>بل غدوت في ضلالي<br/>مستهينًا بالآلام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بعد ذا تناهى حزني<br/>من جرا ذاك الضلال<br/>بمرارة ناديتُ<br/>يا مخلصي تعال</lines>
+    </verse>
+    <verse name="v5">
+      <lines> بغتةً رأيت نورًا<br/>في طريقي قد بهر<br/>عندما الفادي المحب<br/>بتبسم ظهر</lines>
+    </verse>
+  </lyrics>
+</song>

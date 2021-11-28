@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:55">
+  <properties>
+    <titles>
+      <title> المسيح قام من الأموات</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>المسيح قام قام من الأموات</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ومعاه قوة حياة لمن يقبل إليه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>اليوم ده فيه بشارة لكل المساكين</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>والمنكسري القلوب لهم أيضا شفاء</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>للمأسورين ينادي حرية وإطلاق</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>ولأعمى البصيرة اليوم تفتح عينيه</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>يا منسحقين تعالوا هنا لرب الحياة</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>اليوم ده يوم قبولكم لتحيوا في سماه</lines>
+    </verse>
+  </lyrics>
+</song>

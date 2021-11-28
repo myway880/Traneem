@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:47">
+  <properties>
+    <titles>
+      <title>سبحوا الربا</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم الحوراني
+Tune: PRAISE THE LORD
+Title:3. سبحوا الربا
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="translation">ابراهيم الحوراني</author>
+    </authors>
+    <themes>
+      <theme>عبادة</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> سبحوا الربا<br/> من سماءِ المجدِ في الأعالي<br/> سبحوا حُبّا<br/> أيها الأملاك ذا الجلالِ<br/> يا جنودَ اللهْ<br/> مجدوا تمجيدا<br/> فالورى لولاهْ<br/> لم يكن موجودا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> سبحوا الربا<br/> مِن سماء المجدِ في الأعالي<br/> سبحوا حُبّا<br/> أيها الأملاكُ ذا الجلالِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> سبحيه يا<br/> شمسُ يا بدرُ ويا نجومُ<br/> يا عُلى العَلْيا<br/> يا مياهَ الجوِّ يا غيومُ<br/> نورُ كلِّ الخلقْ<br/> مُبدعُ الأفلاكِ<br/> شمسُ أفقِ الحقْ<br/> سيدُ الأملاكِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> سبِّحِ القادرْ<br/> أيها الثلجُ ويا ضبابُ<br/> وارهِبي القاهرْ<br/> يا جبالَ الأرضِ يا هضابُ<br/> إرهَبي القهّارْ<br/> مالكَ الأكوانِ<br/> ذا القُوى الجبّارْ<br/> مُطلَقَ السلطانِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> سبّحِ الدائمْ<br/> يا جمادَ الكون يا نباتُ<br/> واحمدوا الراحمْ<br/> يا ملوكَ الأرضِ يا قضاةُ<br/> أيها الأنامْ<br/> سبحوا أسماهُ<br/> وعلى الدوامْ<br/> أشكروا نُعماهُ</lines>
+    </verse>
+  </lyrics>
+</song>

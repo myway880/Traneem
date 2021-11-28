@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:28">
+  <properties>
+    <titles>
+      <title> باختارك حق باين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">باختارك حق باين وراحة للتعبان واختارك رب حي بيسند الحيران</lines>
+      <lines>تكسر بوعوده حياة كل سهام الموت واللي منك ارتوى مايعودش يوم عطشان</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> باختارك وانت مين يارب راح يساويك وحدك ملك الكون والكل بيعليك</lines>
+      <lines>من كلمته بتعلى من فوق سلطان كلامك مين قوته بتفوق كل جلال كرسيك</lines>
+    </verse>
+  </lyrics>
+</song>

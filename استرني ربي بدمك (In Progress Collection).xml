@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:04">
+  <properties>
+    <titles>
+      <title>استرني ربي بدمك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>استرني ربي بدمك<br/>استرني ربي ببرك<br/>استرني ربي بقدسك<br/>استرني بستر حماك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>احفظ حياتي من كل الشرور<br/>ثبتني فيك يا صخر الدهور<br/>ما دمت ربي لذا لن اخور<br/>استرني بستر حماك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انت امامي فكيف اخاف<br/>انصت لصوتي يا راعي الخراف<br/>حول نحيبي نشيد هتاف<br/>استرني بستر حماك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يسوع خيري ولا غيرك<br/>في محو اثمي ارى برك<br/>اتبع دوما اثارك<br/>استرني بستر حماك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>اذ تاتي ربي بمجد عظيم<br/>اشهد ذاك المحيا الكريم<br/>سارقى معك وعرسا نقيم<br/>افوز بستر حماك</lines>
+    </verse>
+  </lyrics>
+</song>

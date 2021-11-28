@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:37">
+  <properties>
+    <titles>
+      <title> يا سمكة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">اللى خلقنى وخلقك بتسبحيه</lines>
+      <lines break="optional">طب بتغنى له ولا بتعملى إيه ولا بطريقتك وحدك بتفرحيه</lines>
+      <lines break="optional">الله خلانى أعوم<br/>لو صاحية أو وقت النوم<br/>لو باكل أو لو كان صوم</lines>
+      <lines break="optional">علشان باعرف أعوم<br/>فبأعوم<br/>بس أنا مش باعرف أعوم</lines>
+      <lines>وانت يا رسامة قولى لى<br/>إزاى وليه</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> ما يهمكش<br/>لو أعوم أو أبلبط<br/>لو أرسم أو أشخبط</lines>
+      <lines break="optional">لو صوتى ملخبط<br/>ربى بيقبل تسبيحى</lines>
+      <lines>يا سمكة بسرعة قولى لى<br/>إزاى وليه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> اللى خلقنى وخلقك بتسبيحه</lines>
+      <lines break="optional">طب بتغنى له ولا بتعملى إيه ولا بطريقتك وحدك بتفرحيه</lines>
+      <lines break="optional">الله إدانى عيون<br/>وإيدين تمسك فرشة ولون<br/>وخيال يتشاقى بجنون</lines>
+      <lines break="optional">ازاى أبطل أرسم يوم<br/>بس أنا مش باعرف أرسم</lines>
+      <lines>ياللى بتقول ترنيمة<br/>إزاى وليه</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> اللى خلقنى وخلقك بتسبيحه</lines>
+      <lines break="optional">طب بتغنى له ولا بتعملى إيه ولا بطريقتك وحدك بتفرحيه</lines>
+      <lines break="optional">الله إدانى لسان<br/>وكلام من قلبى وألحان<br/>عايزة أفضل اغنى كمان وكمان</lines>
+      <lines break="optional">إزاى أبطل أغنى فى يوم<br/>بس أنا مش باعرف أغنى</lines>
+      <lines>أنا قلبى مزقطط<br/>فرحان يتنطط</lines>
+    </verse>
+    <verse name="v4">
+      <lines> الله بيظبط كل صلاتى وتسبيحى</lines>
+    </verse>
+  </lyrics>
+</song>

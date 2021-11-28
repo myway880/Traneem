@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:36">
+  <properties>
+    <titles>
+      <title>تواضعي نفسي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>( في ليلك الحالك<br/>في ذلة حالك<br/>في كل احوالك<br/>تواضعي نفسي ) 2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>تواضعي نفسي<br/>تحت يد الله<br/>تحت يد الله<br/>تواضعي نفسي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>( في يومك الباكي<br/>في وسط بلواك<br/>كي يخزى اعداك<br/>تواضعي نفسي ) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>الامر للاله<br/>فارضي بما يرضاه<br/>تعينك يمناه<br/>تواضعي نفسي ) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>( بحكمة يعمل<br/>وذا هو الافضل<br/>لحكمه الامثل<br/>تواضعي نفسي ) 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>( كفي عن الشكوى<br/>مهما تك البلوى<br/>في شخصه السلوى<br/>تواضعي نفسي ) 2</lines>
+    </verse>
+  </lyrics>
+</song>

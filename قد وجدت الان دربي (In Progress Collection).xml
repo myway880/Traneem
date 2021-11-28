@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:01">
+  <properties>
+    <titles>
+      <title> قد وجدت الان دربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>قد وجدت الان دربي<br/>بعد ان زال الضلال<br/>بعد ان ادركت ربي<br/>بخضوع وامتثال</lines>
+    </verse>
+    <verse name="c1">
+      <lines> حل يا قلبي العزاء<br/>ان لي ان استريح<br/>(لي صفاء لي هناء<br/>لي خلاص بالمسيح)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines> عند ايماني وجدت<br/>النور والحق الحقيق<br/>ومع الله اتحدت<br/>هاتفا: " هذا الطريق "</lines>
+    </verse>
+    <verse name="v3">
+      <lines> اه ضيعت زمانا<br/>في الخطايا والذنوب<br/>لم اجد فيه امانا<br/>وعزاء في الخطوب</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فرحا يهتف قلبي<br/>في صباح ومساء<br/>قد عرفت الان دربي:<br/>انها درب السماء</lines>
+    </verse>
+  </lyrics>
+</song>

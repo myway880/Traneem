@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:46">
+  <properties>
+    <titles>
+      <title>رن صوت في الأعالي</title>
+    </titles>
+    <comments>
+      <comment>Author: يواكيم الراسي
+Tune: BEARNAISE CAROL
+Title:99a. رن صوت في الأعالي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">يواكيم مسعود الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> رنّ صوت في الأعالي<br/> يا ترى ماذا الخبرْ<br/> ولِمَ الأملاك تشدو<br/> بترانيمِ الظفرْ</lines>
+      <lines> كلّهم في المجد غنى<br/> بأناشيد السرورْ<br/> قد بدا أمرٌ عجيبٌ<br/> رحمةُ الله الغفورْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أيها الرعاة هُبوا<br/> وانظروا الربَّ المجيدْ<br/> إنه قد صار طفلاً<br/> باتضاع كالعبيدْ</lines>
+      <lines> مجِّدوه هللويا<br/> مجدوه في العُلا<br/> مجدوه هللويا<br/> إنه فادي الملا</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> فعلى الأرض سلامٌ<br/> وسرور للبشرْ<br/> إذ أتى الفادي المنجّي<br/> والمسيحُ المنتظرْ</lines>
+      <lines> فلْيرنَّ الصوتُ دوما<br/> مع قياثيرِ الذهبْ<br/> هللويا قد فدانا<br/> ولنا البرَّ وهبْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> وُلد الفادي وضيعاً<br/> وهُو الرب المسيحْ<br/> فالسما والأرضُ تبدي<br/> لاسمهِ السامي المديحْ</lines>
+      <lines> فاقبلوا مَن قد تسمى<br/> مِن الهنا الكريمْ<br/> بنبيٍّ ومليكٍ<br/> ثم كاهنٍ عظيمْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> فتعالوا يا خطاةً<br/> واعرِفوا الراعي الأمينْ<br/> واجعلوا اسمَه رجاءً<br/> واعبدوه طائعينْ</lines>
+      <lines> من يذُق أفراحَ هذا<br/> ويرَ نورَ سناهْ<br/> سوف يشدو في الأعالي<br/>هللويا للالهْ</lines>
+    </verse>
+  </lyrics>
+</song>

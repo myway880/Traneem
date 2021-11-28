@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:49">
+  <properties>
+    <titles>
+      <title> سيدك وسيدي عظيم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سيدك وسيدي عظيم<br/>عمره ما ينسانا<br/>اهتف له بالترنيم<br/>وافرح كدا معانا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> اشكر وزيد الشكر<br/>لما الظروف تقوَى<br/>سيدك في يدّه الأمر<br/>ومن الظروف أقوى</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ربك في إيده الكلّ<br/>لا تخاف ولا تخمّن<br/>لا بينسى ولا بيملّ<br/>سلم له واطّمّن</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لا تخاف من الأهوال<br/>ولا تنشغل بيها<br/>ولا تشتكي الأحوال<br/>سيدك يعدّيها</lines>
+    </verse>
+  </lyrics>
+</song>

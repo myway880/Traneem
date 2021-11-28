@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:05">
+  <properties>
+    <titles>
+      <title> تأمر الرياح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ما أنت مالي الكون بروحك<br/>مافي شئ متداري عنك<br/>كل أمر الكون في إيدك<br/>وأنت ليك الملك وحدك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تأمر الرياح تطيعك عمرها ما تقدر تخالفك<br/>م البدايه دى صنع إيدك تنتهر بكلمه منك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>تأمر الأمواج بتهدي لما تسمع صوت نداك<br/>ويرجع القارب ويهدي ويبقى في دايرة حماك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تأمر الموت ينتهي والحياه ترجع تعود<br/>وعمر تاني يبتدي ليا ما بين كفيك وعود</lines>
+    </verse>
+  </lyrics>
+</song>

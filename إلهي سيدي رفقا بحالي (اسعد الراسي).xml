@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:14">
+  <properties>
+    <titles>
+      <title>إلهي سيدي رفقا بحالي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الراسي
+Tune: LONDONDERRY AIR
+Title:292. إلهي سيدي رفقا بحالي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إلهي سيدي رفقاً بحالي<br/> فإني تهتُ في قفرِ الضلالِ<br/> عدُوّي مد لي فخَّ الوَبالِ<br/> وأجنادُ الردى قامت عليّا<br/> تعَطَّف سيدي وارفُق بضُعفي<br/> وضمِّد جُرحَ أحشائي بلُطفِ<br/> نعم إن شئتَ يا مولاي تشفي<br/> سقيماً يشتكي ضُعفاً وعيّا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إليك اليومَ في يأسي وكربي<br/> أُنادي راجياً غفرانَ ذنبي<br/> فصرِّح يا رجا نفسي وقلبي<br/> بعفوٍ -وارحمِ الجاني الغوِيّا<br/> أجرني يا يسوعُ الناصريا<br/> ولا تُبقِ من الآثامِ شيّا<br/> وأسعِف مُجرماً أضحى شقيّا<br/> ينادي ربَّه إشفَق عليّا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لدى المصلوبِ قد قدَّمتُ نفسي<br/> ففَكَّ المُفتدي أغلالَ يأسي<br/> لذا لو بِتُّ يوماً رهنَ رمسي<br/> فمن رَمسي غداً سأعود حيّا<br/> إلى ذاك اللقا تشتاق روحي<br/> ونُشفي عند ذِكراهُ جروحي<br/> فعجِّل يا مليكي يا مسيحي</lines>
+    </verse>
+  </lyrics>
+</song>

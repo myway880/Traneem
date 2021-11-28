@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو تزول السماوات</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو تزول السماوات<br/>حتى مهما الوقت فات<br/>لكن كلمة من كلامك<br/>مش هاتبقى ذكريات</lines>
+      <lines>إنت لينا إله أمين<br/>ثابت طول السنين<br/>وعدت هاتيجي لبلدنا<br/>ويعرفوك المصريين</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> دي البلد<br/>اللي إنت قلت عليها يارب<br/>مبارك شعبي</lines>
+      <lines break="optional">دي البلد<br/>اللي إنت جيتها ومكتوب منها<br/>دعوت ابني</lines>
+      <lines>دي البلد اللي<br/>بدماك وصليبك اشتريتها<br/>مصر محتاجة حضورك<br/>اسمع لصراخها وصلاتها</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حوالينا أكاذيب<br/>ضلمة وخوف رهيب<br/>اعلن يارب حقك<br/>وموتك ع الصليب</lines>
+      <lines>مهما العدو قال<br/>إنت إله المحال<br/>ده المقطم ليك بيشهد<br/>إنت ناقل الجبال</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أيادينا مرفوعين<br/>بنصلي وسهرانين<br/>مستنيين مجيئك<br/>ده انت في وعدك أمين</lines>
+      <lines>ليسوع تسجد جباه<br/>وتعترف شفاه<br/>خلي شعبك كله يعرف<br/>إنك أعظم إله</lines>
+    </verse>
+  </lyrics>
+</song>

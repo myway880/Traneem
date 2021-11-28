@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:52">
+  <properties>
+    <titles>
+      <title> طل فجر العيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>طل فجر العيد وراح العتم بعيد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>طل فجر العيد والعالم سعيد نور بالقلوب وراح العتم بعيد<br/>كل ولاد الدني عم ترقص وتغني والأرض صارت جنة بالمولود الجديد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يالا يا ولاد تنغنى غنية نخبر بكل البلاد عن أخلى خبرية<br/>ولد جوا قلوبنا مخلصنا وفادينا ورح يملك ع نفوسنا وصرنا إيد بإيد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>يلا تنضوي الشموع خصوصي بها ليلة نصلي للطفل يسوع من أجل كل عيلة<br/>نطلب منه نعمة تنعيش بسلام بفرح ومحبة بتتبارك الأيام</lines>
+    </verse>
+  </lyrics>
+</song>

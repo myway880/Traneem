@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:10">
+  <properties>
+    <titles>
+      <title> للجالس على العرش وللحمل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>للجالس على العرش وللحمل<br/>البركة والكرامة والمجد والسلطان4<br/>للأبد للأبد<br/>للأبد للأبد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مستحق أيها الرب أن تأخذ المجد<br/>مستحق أيها الرب أن تأخذ الكرامة<br/>مستحق أيها الرب أن تأخذ القدرة<br/>مستحق أيها الرب أن تأخذ المجد</lines>
+      <lines>للأبد للأبد<br/>للأبد للأبد</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لأنك خلقت كل الأشياء<br/>وهي بإرادتك كائنة وخلقت<br/>لأنك ذبحت واشتريتنا لله بدمك<br/>من كل شعب وأمه ولسان</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title>احبك يا رب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أحبك يارب من كل قلبي فمن لي سواك أكرس حبي<br/>فأنا توجهت أنت ضيائي الى كل خير توجه دربي</lines>
+    </verse>
+    <verse name="v1">
+      <lines>أحبك ربي بقلب نقي<br/>وروح وديع يريد الرجاء<br/>اقدم مالي أقدم روحي<br/>إذا شئت ياربي مني العطاء</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أعوذ المريض أزور السجين<br/>وأعطي جنا القلب للبائسين<br/>فانت صديق الضعاف الحزانى<br/>وإنت ندى الروح لليائسين</lines>
+    </verse>
+    <verse name="v3">
+      <lines>إذا لم أحب اخي وهو قربي<br/>أراه بعيني في كل حين<br/>فكيف احبك يارب دوماً<br/>وانت خفي عن الناظرين</lines>
+    </verse>
+    <verse name="v4">
+      <lines>فكل الأنامي اخي وحبيبي<br/>لان إلهي بروحي ضياء<br/>إذا كان ربي يسوع بقلبي<br/>فدنياي عيد وقلبي سماء</lines>
+    </verse>
+  </lyrics>
+</song>

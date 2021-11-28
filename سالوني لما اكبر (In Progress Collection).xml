@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:39">
+  <properties>
+    <titles>
+      <title> سالوني لما اكبر</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>سألونى لما هاكبر أنا عايز أبقى ايه<br/>دكتور ولا مهندس ولا ظابط بباريه</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ولا يمكن مدرس الناس تفتخر بيه<br/>ولا أعمل مدير ويقولوا سعادة البيه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>قلتلهم أنا عايز أبقى زى يسوع<br/>قلبى مليان محبة و تواضع و خشوع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أعلم التسامح و أمسح الدموع<br/>و أحارب الخطية تمام زى يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

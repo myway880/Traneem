@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title>إحفظ حياتي ليكون</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم سركيس
+Tune: NU WOL GOTT
+Title:197a. إحفظ حياتي ليكون
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم سركيس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إحفظ حياتي ليكونْ<br/> تكريسُها يا رب لكْ<br/> واحفظ زماني شاكراً<br/> فيه دوامَ عملكْ<br/> واحفظ يدي مُحركاً<br/> لها بحبك العظيمْ<br/> واحفظ خُطى رجليَّ في<br/> سلوكِ طُرْقك القويمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> صوتي احفظن مرنما<br/> لمَلكي طول المدى<br/> وشفتيَّ احفظهما<br/> للنُّطق في سرِّ الفدى<br/> إرادتي احفظ فهي لكْ<br/> ليس مُرادي الآن لي<br/> قلبي احفظن فيُمتلكْ<br/> وهو لك العرشُ العلي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وفضتي احفظ والذهبْ<br/> لا يذهبَنْ شيءٌ سُدى<br/> فكري وفعلي احفظهما<br/> وقوَّتي كما تشا<br/> حبي احفظنه ذاخراً<br/> إياه كالكنز الثمينْ<br/> وكن لنفسي حافظاً</lines>
+    </verse>
+  </lyrics>
+</song>

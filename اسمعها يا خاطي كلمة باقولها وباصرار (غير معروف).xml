@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:05">
+  <properties>
+    <titles>
+      <title>اسمعها يا خاطي كلمة باقولها وباصرار</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> اسمعها يا خاطي كلمة باقولها وباصرار<br/><br/>ما فيش لحياتك معنى من غير يسوع البار</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ما تسلم قلبك ليه وحمولك ارمي عليه<br/>ها يخلي حياتك غنوة  مليانة بالتسبيح<br/><br/>هاتعيش حياة النور طول أيامك مسرور<br/>ولا هم يخبط على بابك دمه يشفي الكسور</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ليه عايش بانكسار قلبك دايماً محتار<br/>متقلب في الأفكار مش لاقي لنفسك دار</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ها تعيش مهما تعيش العمر ده مش ها يزيد<br/>يوم حزن ويوم تغريد وعنادك مش ها يفيد</lines>
+    </verse>
+  </lyrics>
+</song>

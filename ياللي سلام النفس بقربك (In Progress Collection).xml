@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:43">
+  <properties>
+    <titles>
+      <title> ياللي سلام النفس بقربك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا اللي سلام النفس في قربَك<br/>راحة قلبي معاك ها تدوم<br/>وان بصيت للعالم لحظه<br/>يِحزن قلبي طول اليوم</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ربي كفايه حبك ليَّ<br/>إني أعيش متمسك بيك<br/>تارك كل مباهي العالم<br/>ساكب طيب النفس لديك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كل ضيقاتي إنت عارفها<br/>عندك ربي ليها حلول<br/>وان طوّلت عليَّ جوابك<br/>حبي يا ربي مش ها يزول</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أفرح بيك انا مهما يكون<br/>مهما قابلت آلام وشجون<br/>واثق منك إنت خلاصي<br/>نصري وفرحي فيك مضمون</lines>
+    </verse>
+  </lyrics>
+</song>

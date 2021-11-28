@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:07">
+  <properties>
+    <titles>
+      <title>لا تبتئس لا ترتعب</title>
+    </titles>
+    <comments>
+      <comment>Author: عقل عقل
+Tune: GOD WILL TAKE CARE OF YOU
+Title:247. لا تبتئس لا ترتعب
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">عقل ابراهيم عقل</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> لا تبتئسْ لا ترتعبْ<br/> لا ترهبِ الهلاكْ<br/> فإنما فادي الورى<br/> يسوعُ لن ينساكْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يسوعُ أنت لي<br/> أنت المنى أنت الحياهْ<br/> يسوعُ ملجإي<br/> وواهبُ النجاهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا أيها المصلوبُ عن<br/> شري وآثامي<br/> في دمِك الغالي أرى<br/> بلسمَ أسقامي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يسوعُ لي فيكَ الرجا<br/> وفيك إيماني<br/> فلا أُبالي أبدا</lines>
+    </verse>
+  </lyrics>
+</song>

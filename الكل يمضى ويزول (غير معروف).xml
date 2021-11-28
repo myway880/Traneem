@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>الكل يمضى ويزول</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الكُلُّ يمضى ويزولْ <br/>لاشىْء يبقى لايحولْ <br/>لايبقى عُشبٌ فى الحُقولْ<br/>والزَّهرُ ايضا لذُّبولْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ياربُّ انت وحدكِ<br/> تبقى وكُلُّها تبيدْ<br/>(لادورانَ ولاتغييرْ<br/>فيك ياسيَّدى المجيدْ)2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ياسيَّدى ليس سواكْ<br/>فأنتِ تبقى فى علاكْ <br/>كما بالامسِ لاتزالْ<br/>تغييركَ من المُحالْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>لولاكَ أمضى فى ضياعْ <br/>كى أنتهى الى الضَّياع <br/>( شكراً لك فأنتَ لى<br/>انى لَكَ ربَّى العَلى )2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>صَديقي يمْضي والجَفاءْ<br/>قد سادَ من بعد الوفاءْ <br/>وفاؤهُ كان وفاءْ<br/>والانْ صار كالهَباءْ </lines>
+    </verse>
+    <verse name="v6">
+      <lines>لكنَّك رَبَّ السَّماءْ<br/>أوفى منْ كُلَّ الاصْدقاءْ <br/>(ففى يسوعى الالزقِ <br/>من أخوَتى لىَ العَزاءْ)2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>العمرُ يمضىِ ويزولْ<br/>مثل بخارٍ لايطولْ <br/>تمضى الايامُ والسُّنون <br/>تمضى تطيرُ لاتكونْ </lines>
+    </verse>
+    <verse name="v8">
+      <lines>لكن في هذا لي العزاء<br/>فهو يقربُ السماء<br/>يوماً سيأتي بالبهاء<br/>ما أمجد يوم اللقاء)2 </lines>
+    </verse>
+  </lyrics>
+</song>

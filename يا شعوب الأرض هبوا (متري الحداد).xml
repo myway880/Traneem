@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:38">
+  <properties>
+    <titles>
+      <title>يا شعوب الأرض هبوا</title>
+    </titles>
+    <comments>
+      <comment>Author: متري الحداد
+Tune: SAFE IN THE PROMISED LAND
+Title:94. يا شعوب الأرض هبوا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">متري الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا شعوبَ الأرضِ هُبّوا<br/> واطلُبوا دارَ السلامهْ<br/> قبلَما يأتي زمانٌ<br/> فيه لا تُجدي نَدامهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> بينما الأبواقُ تَدوي<br/> أَقبِلوا يا سامِعينا<br/> تنظُروا الأحياءَ تجري<br/> لا تفوتُ الراقدينا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يُنشَرُ الموتى ومَن في ال<br/> بحرِ غالَتْهُ السَّوابِحْ<br/> والأُلىَ كانوا طعاماً<br/> للضواري والجوارحْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إنه يومٌ رهيبٌ<br/> فيه نتحلُّ العناصرْ<br/> وترى الديّانَ يقضي<br/> بينما تُجلى السرائرْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يُهلِكُ الأشرارَ ربي<br/> وينادي الصالحينا<br/> أحرِزوا المُلْكَ المُهَيّا</lines>
+    </verse>
+  </lyrics>
+</song>

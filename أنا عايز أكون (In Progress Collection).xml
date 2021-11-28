@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:25">
+  <properties>
+    <titles>
+      <title> أنا عايز أكون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا عايز أكون دايما في حضورك<br/>زي الأصحاب باكلمك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا عايز أعيش دايما في نارك<br/>وتلاقي قلبي دايما أمين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وقلبي يكون على حسب قلبك<br/>وعينيك تشوف قلبي أمين للأبد</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ويكون اللي شاغل بالي ووقتي<br/>هو إنت</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ويكون اللي شاغل قلبي كله<br/>إني أعمل مشيئتك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>يسوعي حبيبي<br/>كل ما لي كل ما لي</lines>
+    </verse>
+  </lyrics>
+</song>

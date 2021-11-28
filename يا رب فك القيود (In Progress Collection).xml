@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:36">
+  <properties>
+    <titles>
+      <title> يا رب فك القيود</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>يا رب فك القيود<br/>من سجني طلعني<br/>واهدم جميع السدود<br/>قدامي وارفعني</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> خايف<br/>واصبح خوفي سجاني<br/>والخوف حكم على قلبي<br/>على قلبي ولساني</lines>
+      <lines>واللي اتملا بالخوف<br/>مايقدرشي<br/>من غير إيديك يرجع<br/>يرجع شجاع تاني</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> بائس ويائس<br/>وليل اليأس ساكني<br/>ضاعت خيوط الأمل<br/>والحلم ضاع مني</lines>
+      <lines>نقطة سواد عتمت<br/>على شمس أحلامي<br/>يا رب نورها<br/>قبل الليل ما يغلبني</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مربوط<br/>بحبل الحزن في العتمة<br/>ناسي<br/>الفرح غافل عن النعمة<br/>نسيت</lines>
+      <lines>مباهج عشرتي وياك<br/>وهويت دموعي<br/>وقعدة الضلمة</lines>
+    </verse>
+  </lyrics>
+</song>

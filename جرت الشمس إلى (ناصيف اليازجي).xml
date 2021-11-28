@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:37">
+  <properties>
+    <titles>
+      <title>جرت الشمس إلى</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: BENEVENTO
+Title:45. جرت الشمس إلى
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> جرت الشمس إلى<br/> منتهى عام مضى<br/> فتجارت أنفس<br/> لا نلاقيها هنا<br/> ثبتت في الخلد إذ<br/> أكملت هذا المدى<br/> وبقينا بعدها<br/> برهة — كم يا ترى</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مثل خفق البرق إذ<br/> لاح لا يبقي أثر<br/> ركضت أيامنا<br/> هابطاتٍ بالبشر<br/> فانتشل أرواحنا<br/> رب من وادي الخطر<br/> كل ما تحت السما<br/> مثل حلم قد عبر</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إذ قد استبقيتنا<br/> لنرى هذي السنه<br/> أحي بستانك من<br/> بركات محسنه<br/> أيها الشمس أطّلع<br/> وأنر ذي الأمكنه<br/> واجعل العام لنا<br/> من أحب الأزمنه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إقبل الشكر وكن<br/> غافرا ما سبقا<br/> وأفدنا بعدها<br/> كيف نحيا بالتقى<br/> بارك الكل وهب<br/> حب فاد مشفقا<br/> فعسى نحيا معا</lines>
+    </verse>
+  </lyrics>
+</song>

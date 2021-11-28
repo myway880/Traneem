@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:05">
+  <properties>
+    <titles>
+      <title> كلمن ربي قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كَلِّمَنْ رَبِّي قَلْبِي<br/>بِالصَّمْتِ وَالسُّكُونْ<br/>اهْمِس فِي أُذْنِي وَعْدَكْ<br/>وَحْدَكَ لَنْ تَكُونْ</lines>
+      <lines>حَبِّبْ لِنَفْسِي قَوْلَكْ<br/>فِي الأَمْنِ وَالشُّجُونْ<br/>يَحْلُ لِنَفْسِي حَمْدُكْ<br/>يَارَبِّيَ الْحَنُونْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> رَبِّيَ اهْمِسْ فِي أُذْنِي<br/>بِوَعْدِكَ الثَّمِينْ<br/>تَحْظَى بِالنَّصْرِ يَا ابْنِي<br/>فِي شَخْصِيَ الأَمِينْ</lines>
+      <lines>كَلِّمْنِي كُلَّ يَوْمٍ<br/>بِالْحَقِّ وَالْيَقِينْ<br/>أَسْمِعْنِي هَمْسَ حُبِّكْ<br/>لَسْتَ بِلا مُعِينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كَلِّمْ رَبِّي عَبِيدَكْ<br/>قُدْهُمْ فِي طُرْقِكَ<br/>خَيْرًا أَفِضْ عَلَيْهِمْ<br/>زِدْهُمْ مِنْ حَقِّكَ</lines>
+      <lines>يُصْبِحُوا طَوْعَ أَمْرِكْ<br/>حُبًّا لِشَخْصِكَ<br/>حَتَّى تَجِيءْ سَرِيعًا<br/>يَحْظَوْابِمَدْحِكَ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> رَبِّي اكْشِفْ لِي عَنْ فِكْرِكْ<br/>كَسَالِفِ الأَيَّامْ<br/>اِفْتَحْ قَلْبِي فَأَعْرِفْ<br/>حَقَّكَ بِالتَّمَامْ</lines>
+      <lines>كَيْ أَلْهَجَ بِحَمْدِكْ<br/>طَوْعًا عَلَى الدَّوَامْ<br/>نَفْسِي تُذِيعُ مَجْدَكْ<br/>فِي مَحْضَرِالأَنَامْ</lines>
+    </verse>
+  </lyrics>
+</song>

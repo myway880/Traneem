@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:50">
+  <properties>
+    <titles>
+      <title> صحيح أنا لسه صغير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">صحيح أنا لسه صغير لكن ده حبي كبير حبي للرب راعي وإخواتي كتير كتير</lines>
+      <lines>حبي للرب راعي وإخواتي كتير كتير</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أصحى من النوم أصلي وأقرأ في الكتاب قبل ما أذاكر عربي وقبل ماحل حساب</lines>
+      <lines>قبل ما أذاكر عربي وقبل ماحل حساب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يارب كل عمري فرحه وهنا وياك ساعدني أحبك أكتر وأمشي في رضاك</lines>
+      <lines>ساعدني أحبك أكتر وأمشي في رضاك</lines>
+    </verse>
+  </lyrics>
+</song>

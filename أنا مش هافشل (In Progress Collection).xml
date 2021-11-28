@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:37">
+  <properties>
+    <titles>
+      <title> أنا مش هافشل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>هاقدر على كل شيء بيسوع اللي هيقويني<br/>ولو يوم ضعفي هيهددني هاجري عليه يحميني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا مش هافشل ولا يوم هايأس ولا تشمتي بي يا عدوتي<br/>أنا هارفع عيني على إلهي دا إلهي منه قوتي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا رافع راسي ودايما أقول أنا مش ريشة شايلاها<br/>الريح<br/>دا أنا ابن وغالي على إلهي وتمني هو دم المسيح</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:46">
+  <properties>
+    <titles>
+      <title>يسوع ما اجوده</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>يسوع ما اجوده<br/>يسوع ما اجمله<br/>( فحبه انشودتي<br/>فكيف انسى فضله ) 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>انظر اليه حاملا<br/>صليب عارنا المشين<br/>قضى عليه باذلا<br/>( من اجلنا الدم الثمين ) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انظر اليه ظافرا<br/>يدك اهوال الردى<br/>اذ قام جرد العدى<br/>( وهكذا تم الفدى ) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انظر اليه صاعدا<br/>الى السماء في بهاء<br/>ليرسل الروح النقي<br/>( ويملا القلب عزاء ) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>انظر اليه سامعا<br/>يهنا بتسبيحاتنا<br/>متمما وعوده<br/>( ملبيا طلباتنا ) 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ما اعظم الجود الذي<br/>لخائفيه قد ذخر<br/>ما اعظم الجود الذي<br/>( لمؤمنيه قد ظهر ) 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title> دي الأبواب مفتوحه للي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">دِي الأَبْوَابْ مَفْتُوحَه لِلِّي يعُوز يعُودْ<br/>والنَّفْس الْمَجْرُوحَه تِشْفِيهَا الْوُعُودْ</lines>
+      <lines>لَوْ نقُول لُه الْهَمّ كُلُّه فِي الصَّلاهْ<br/>الدُّمُوعْ هَا تطِيرْ وتُهْجُرْالْخُدُودْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> انتَ عِنْدَكْ لِلْمَشَاكِلْ أَلْفْ حَلّ<br/>انتَ وَحْدَكْ تِمْحِي كُلّ خُوف وذُلّ<br/>لَوْ نِجِي لَكْ وننَادِي لَكْ هَانلاقِيكْ<br/>فَاتِح الأَحْضَانْ لأيّ حَدّ ضَلّ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> رَبِّنَا الْحَنُونْ إِلَه طَيِّبْ عَطُوفْ<br/>بِيقُول احْنَا مَنْقُوشِينْ عَلَى الْكُفُوفْ</lines>
+      <lines>واللي يِدِّي الْعُمْر كُلُّه لِلْمَسِيحْ<br/>يِعْلا فُوقْ كُلّ الْمَشَاكِل والظُّرُوفْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يَا فَادِينَا لِيك عِينِينَا مَرْفُوعِينْ<br/>لِيكْ بِننَادِي والأَيَادِي مَمْدُودِينْ</lines>
+      <lines>كُنْ مَعَانَا قُدْ خُطَانَا حَيْرَانِينْ<br/>وانْتَ تِرْشِدْ إِنْتَ تِنْجِدْ يَامُعِينْ</lines>
+    </verse>
+  </lyrics>
+</song>

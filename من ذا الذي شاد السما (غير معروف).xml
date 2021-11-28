@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:21">
+  <properties>
+    <titles>
+      <title>من ذا الذي شاد السما</title>
+    </titles>
+    <comments>
+      <comment>Tune: THE CREATOR
+Title:411. من ذا الذي شاد السما</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> من ذا الذي شاد السما<br/> ذات النجوم الزاهيهْ<br/> من بسط الأرض ومن<br/> أعلى الجبال العاليهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> من خلق البحار وال<br/> أسماك فيها تسبح<br/> ومن برا وحشَ الفلا<br/> وكل طير يصدح</lines>
+    </verse>
+    <verse name="v3">
+      <lines> من أنبت العشب وأصـ<br/> ـناف الزهور والشجر<br/> وجعل الأشجار في<br/> أوانها تعطي الثمر</lines>
+    </verse>
+    <verse name="v4">
+      <lines> من خلق الإنسان ذا<br/> عقل به تفوقا<br/> مسلطا إياه في<br/> الأرض على ما خلقا</lines>
+    </verse>
+    <verse name="v5">
+      <lines> الله قد أوجدها<br/> جميعها بالقدرةِ<br/> سبحانه فإنه<br/> أبدعها بالحكمةِ</lines>
+    </verse>
+  </lyrics>
+</song>

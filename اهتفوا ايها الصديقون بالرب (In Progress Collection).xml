@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:50">
+  <properties>
+    <titles>
+      <title> اهتفوا ايها الصديقون بالرب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>اهتفو ايها الصديقون بالرب</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بالمستقيمين يليق التسبيح</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>احمدوا الرب بالعود</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>بربابه ذات عشره اوتار</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>رنموا رنموا له</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>غنوا له<br/>اغنيه جديده</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>احسنوا العزف<br/>بهتاف</lines>
+    </verse>
+  </lyrics>
+</song>

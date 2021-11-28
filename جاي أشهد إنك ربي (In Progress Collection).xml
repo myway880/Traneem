@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:13">
+  <properties>
+    <titles>
+      <title> جاي أشهد إنك ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إنت مخلصي<br/>وهاعيش لك طول عمري</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>جاي أشهد إنك ربي<br/>مخلصي فادي<br/>إنت سيد حياتي<br/>ليك الحق في</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لما يهزمني ضعفي<br/>آجي أتحامى في حضنك<br/>وترفع ذنبي عني<br/>وأشوف صورتي في قلبك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أنا ملك إيديك يا إلهي<br/>من فضلك قدسني<br/>قويني على الخطية<br/>وبيدك إحفظني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>لما بالمس حنانك<br/>العمر يطول حواليك<br/>هافضل حياتي أنشد<br/>المجد كله ليك</lines>
+    </verse>
+  </lyrics>
+</song>

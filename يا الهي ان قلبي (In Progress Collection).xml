@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:33">
+  <properties>
+    <titles>
+      <title> يا الهي ان قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا الهي ان قلبي<br/>يشتهي لقاء ربي<br/>باختطاف في السحاب<br/>ان ذا اللقا سعيد</lines>
+      <lines>لقليبي ومجيد<br/>(يوم يكشف النقاب)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> اسمع البوق ينادي<br/>كل مغسول الفؤاد<br/>بدم الفادي الثمين<br/>نتغير سريعا</lines>
+      <lines>ثم نخطف جميعا<br/>(للقا الفادي الامين)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وهناك في الهواء<br/>ننشد لحن الثناء<br/>لحبيبنا يسوع<br/>ننسى اتعاب الخصوم</lines>
+      <lines>والبلايا والهموم<br/>(يمسح الله الدموع)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> وفي جنات الخلود<br/>نجني اثمار الوعود<br/>ونسبح الاله<br/>وتيجان المجد تعلو</lines>
+      <lines>هامة المفدي وتجلو<br/>(كل احزان الحياة)</lines>
+    </verse>
+  </lyrics>
+</song>

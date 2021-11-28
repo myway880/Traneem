@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:03">
+  <properties>
+    <titles>
+      <title>أرفع عيني إلى الجبال من</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: THE HILLS
+Title:250. أرفع عيني إلى الجبال من
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أرفع عينيَّ إلى الجبالِ منْ<br/> حيثُ يجيءُ العونُ لي<br/> معونتي من عند صانع السما<br/> والأرضِ ربِّنا العلي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لا يدعُ الرِّجلَ تزلُّ حافظاً<br/> مُستيقظاً لا ينعسُ<br/> يحفظُ شعبهُ فلا يسهو ولا<br/> ينامُ لكنْ يحرسُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> الرب ظلُّ لك عن يُمناكَ لا<br/> تؤذيكَ شمسٌ في النهارْ<br/> ولا يُصيبُك الأذى من قمرٍ<br/> في جُنحِ ليلٍ قد أنارْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يحفظك الرب الذي أنشاهُما<br/> من كل شرٍّ وأذى<br/> يقيك في الخروج والدخول منْ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title> مانتاش وحداني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">قوم نزل عودك<br/>من ع الصفصاف<br/>واستل نشيدك<br/>زي السياف</lines>
+      <lines>قوم رنم تاني<br/>مانتاش وحداني<br/>ده الرب سنيدك<br/>والعدو خواف</lines>
+    </verse>
+    <verse name="c1">
+      <lines> قوم رنم<br/>الرب يردك<br/>والريشة في يدك<br/>فوق الأوتار<br/>زي المجداف</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مركبنا اتحرك<br/>والمينا اتشاف<br/>والريس جنبك<br/>ماسك الخطاف</lines>
+      <lines>البر الأمان<br/>طول ما الإيمان<br/>نغماته في قلبك<br/>عاليين ونضاف</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قوم ده إلهك حي<br/>قام من بين الأموات<br/>انفض كفن الأحزان<br/>قوم سيدك قام</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> راجع بغنايم<br/>لولي وأصداف<br/>والمركب عايم<br/>من خير أصناف</lines>
+      <lines>عمال بترتل<br/>عودك بيهلل<br/>فرحك يا سماوي<br/>مالهوش أوصاف</lines>
+    </verse>
+  </lyrics>
+</song>

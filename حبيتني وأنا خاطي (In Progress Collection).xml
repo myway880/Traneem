@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:18">
+  <properties>
+    <titles>
+      <title> حبيتني وأنا خاطي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ولا غصب عني ولا قصد مني بيه أبرر الوقوع<br/>ما إنت شاملني ولا يوم حارمني وبتمسح عن عيني الدموع<br/>دايما شاغلني ومحيرني حبك لي وأنا في وقت الرجوع</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>حبيتني وأنا خاطي هو أنا مين وبرغم خيانتي كنت الأمين<br/>مع إني جرحتك وبعدت كتير لكنك في بعدي كنت المعين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وفي كل مرة برجع بتقبلني ولا يوم بترفضني وتعايرني<br/>ودايما تسامح وتنسى لي ولما باسيب إيدك بتمسكني</lines>
+    </verse>
+  </lyrics>
+</song>

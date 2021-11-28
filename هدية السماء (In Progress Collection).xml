@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:27">
+  <properties>
+    <titles>
+      <title> هدية السماء</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">هدية السماء<br/>لينا من عند الأب<br/>هدية السماء<br/>أرسل ابنه الوحيد</lines>
+      <lines>هدية السماء<br/>منه روح الحياة<br/>هدية السماء<br/>ونعيش معاه بقلب جديد</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> مين يحب ييجي له هدية<br/>من صديق بيحبه كتير<br/>ربنا إدانا هدية<br/>من زمان بحب كبير</lines>
+      <lines>دي هدية لأروحنا<br/>إذا كانت عايزة تتوب<br/>دي منها سر السعادة<br/>لو نفتح لها القلوب</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو حياتك فيها بهجة<br/>لو مليانة بحب ونور<br/>تقدر إنت تشارك بيها<br/>اللي نفسه يعيش في النور</lines>
+      <lines>دي هدية من إلهنا<br/>تستمر للسنين<br/>وبيسوع مركز حياتنا<br/>ندي واحنا فرحانين</lines>
+    </verse>
+  </lyrics>
+</song>

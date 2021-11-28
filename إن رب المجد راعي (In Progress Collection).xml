@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title> إن رب المجد راعي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">إن ربَّ المجد راعيَّ الكريم<br/>حافظي من شرور الزمان<br/>وهو يرعاني بحبه العظيم<br/>فيه لي راحة وضمان</lines>
+      <lines>هاديا نفسي لبره القويم<br/>ولأجل اسمه كل آن<br/>في مصائبي وفيالكرب الأليم<br/>أستريح به في أمان</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> لا أخاف<br/>أيَّ شرٍّ بوادي الظلام</lines>
+      <lines>فمعي راعٍ أمين ماسكٌ يدي اليمين<br/>فيه لي راحةٌ وسلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وبوادي الموت إن كنت أسير<br/>لا أخافُ البلا والشرور<br/>فمعي أنت تسير يا قدير<br/>فيك كلُّ عزاءٍ ونور</lines>
+      <lines>رحمةٌ تتبعُني خيرٌ كثير<br/>كلُّ أيام عُمري سرور<br/>أسكن البيتَ المقدسَالمنير<br/>فارحا آمنا للدهور</lines>
+    </verse>
+  </lyrics>
+</song>

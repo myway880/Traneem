@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title>طال انتظار المؤمنين</title>
+    </titles>
+    <comments>
+      <comment>Author: سليمان ضومط
+Tune: ABRIDGE
+Title:91. طال انتظار المؤمنين
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليمان ضومط</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> طال انتظار المؤمنينْ<br/> لقاءَ ربِّهمْ<br/> تهفو إليه كل حين<br/> أشواقُ قلبهمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نرفع صوتاً بالخشوعْ<br/> إليك في الصلاه<br/> تعال وامسحِ الدموعْ<br/> يا مصدرَ النجاه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ها أنت معنا دائماً<br/> بالروح يا منّانْ<br/> تُصغي إلينا كلما<br/> ندعوك بالإيمانْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا حبَّذا يومٌ بهِ<br/> يبدو مُحَيّاكا<br/> يُبهجُنا بقربهِ<br/> جمالُ مرآكا</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا مشتهي كل الأممْ<br/> وكوكبَ الدنيا<br/> أشرِقْ بمجدك الأتمْ<br/> من السما العليا</lines>
+    </verse>
+    <verse name="v6">
+      <lines> هلم واظهر يا يسوعْ<br/> بفائق السلطانْ<br/> واملك على كل الجموعْ</lines>
+    </verse>
+  </lyrics>
+</song>

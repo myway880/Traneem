@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title> طالبين العون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">جايين و بصرخة قلب المحتاج طالبين العون<br/>عارفين إنك بالحكمة الإلهية أسست الكون</lines>
+      <lines break="optional">لكن خطايانا البشرية هدمت أركان الحرية</lines>
+      <lines>و اتملت الأرض التعبانة بشرور و ذنوب و جريمة<br/>و ضرب و مآسي كتير<br/>و جرايم حرب</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> ارحم<br/>ارحمنا<br/>يارب</lines>
+      <lines>عايزينك تيجي يارب و تملى الأرض حياة<br/>و تفيض ع الأرض محبة و خير و نجاة<br/>و بحبك نعرف إيه الحب و إيه معناه<br/>مهه إنت الحب و إنت أساسه إنت<br/>إنت غناه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> جايين و بصرخة كل مريض<br/>في البيت مربوط</lines>
+      <lines break="optional">عارفين إنك وحدك تشفي عبيدك و شفاك مضمون</lines>
+      <lines break="optional">عالج جروحات متخبية<br/>امسح ألامات قاسية قوية</lines>
+      <lines>عالج باللمسة الإلهية<br/>و احكم بأوامر سماوية<br/>مهه سلطان الكلمة الحية<br/>فوق كل الطب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> جايين و بصرخة كل فقير مذلول مطحون<br/>طالبين تديله الحاجة اللي تصونه من غير ما يقول</lines>
+      <lines break="optional">ارفع أزمات متأسية استر أبواب متغطية</lines>
+      <lines>و اديله الرزق المتقدر و افتحله الباب المتسنكر<br/>وسع قدامه طريق الكسب من خير الرب</lines>
+    </verse>
+  </lyrics>
+</song>

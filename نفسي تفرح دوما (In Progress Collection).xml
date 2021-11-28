@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:25">
+  <properties>
+    <titles>
+      <title> نفسي تفرح دوما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>نَفْسِي تَفْرَحُ دَوْماً بِالرَّبِّ ذِي الْقُدْسِ<br/>مَعَ الأَمْلاكِ أَشْدُو لِمَنْ فَدَي نَفْسِي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> إِنِّي وَاثِقٌ فِي الدَّمّ أَنَا وَاثِقٌ فِي الدَّمّ<br/>دَمُّ الْفَادِي الَّذِي يَجْعَلُنِي كَالثَّلْجْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> سَمِعْتُ عَنْ يَسُوعِ مَنْ مَاتَ عَنْ ذَنْبِي<br/>جِئْتَهُ بِدُمُوعِ سَلَّمْتُهُ قَلْبِي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> صَوْتُ الْخَلاصِ رَنَّ مُلاشِياً هَمِّي<br/>لَمَّا يَسُوعُ رَبِّي فَدَانِي بِالدَّمِّ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فَاضَ الدَّمُّ الثَّمِينُ مِنْ جَنْبِهِ الْكَرِيمْ<br/>مُطَهِّراً قُلَيْبِي مِنْ إِثْمِيَ الْعَظِيمْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> فَتَوِّجُوا فَادِينَا رَبَّاً إِلي الأَبَدْ<br/>وَمَلِكاً جَلِيلاً عَلَي كُلِّ الْعِبَادْ</lines>
+    </verse>
+  </lyrics>
+</song>

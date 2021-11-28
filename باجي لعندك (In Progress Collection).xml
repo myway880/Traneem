@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:54">
+  <properties>
+    <titles>
+      <title> باجي لعندك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>باجي لعندك باركض لعندك<br/>وحدك مالك حياتي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وسط الضيقات باجي لعندك<br/>وسط الأزمات باجي لعندك<br/>وحدك مالك حياتي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>قويني فيك وارفعني فيك<br/>قدسني فيك كل ما باجي لعندك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>عارف أفكاري وكاتم أسراري<br/>بالقى كل همومي عليك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>حبك كافيني ودمك شاريني<br/>وعمري كله بين إيديك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وقت الصعوبات باجي لعندك<br/>وقت الأزمات باجي لعندك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>بالقى كل همومي عليك<br/>حياتي فيك وسلامي فيك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>وخلاصي فيك كل ما باجي<br/>كل ما باجي لعندك يا يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

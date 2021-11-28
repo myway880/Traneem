@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:51">
+  <properties>
+    <titles>
+      <title> ضماني فيك يا ضامني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ضماني فيك يا ضامني رجائي فيك يا قوتي<br/>سلامي منك يا صخرتي كل ما أرجو عند شخصك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أتبعك<br/>يا شمسي أنت في المغيب<br/>أطيعك<br/>فأنت رب قريب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وإن سلكت ظلال موت فلا أخاف من أي شر<br/>يمينك تحنو برفق كل ما أرجو عند شخصك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أرفع يداي فأنت عزي فيك الكفاية وأنت ترسي<br/>على الصليب أخذت كأسي كل ما أرجو عند شخصك</lines>
+    </verse>
+  </lyrics>
+</song>

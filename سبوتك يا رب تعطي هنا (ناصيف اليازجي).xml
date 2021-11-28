@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:47">
+  <properties>
+    <titles>
+      <title>سبوتك يا رب تعطي هنا</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: DAVIS
+Title:43. سبوتك يا رب تعطي هنا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> سبوتُكَ يا رب تُعطي هُنا<br/> سروراً ونوراً يلوحْ<br/> عسانا نرى فوقُ سَبتاً لنا<br/> أسَرَّ لدى كل روحْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إلى ذاك أنفسُنا البائسه<br/> تميلُ بشوقٍ شديدْ<br/> وترجو عواطفنا اليائسه<br/> أشدَّ رجاءٍ وطيدْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هنالك لا تعبٌ لا وجعْ<br/> ولا إثمَ لا موتَ لا<br/> وليس التنهدُ ينضمُّ معْ<br/> تسابيحِ أهلِ العُلى</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هنالك لا خوف ينفي القرارْ<br/> ولا علةٌ للكَمدْ<br/> ولا جُنْحُ ليلٍ وغيمُ النهارْ<br/> بلِ النورُ حتى الأبدْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> متى ينجلي يومُنا المُنتَظرْ<br/> ويُقرضُ مُلكُ الشقا<br/> ونترُكُ فيه طريقَ الخطرْ</lines>
+    </verse>
+  </lyrics>
+</song>

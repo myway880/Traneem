@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:41">
+  <properties>
+    <titles>
+      <title>يا مصدر الإنعام يا رب الأنام</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الراسي
+Tune: BENEDICTION
+Title:210. يا مصدر الإنعام يا رب الأنام
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا مصدرَ الإنعام يا ربَّ الأنام<br/> لك المديحُ والثنا على الدوام<br/> أُحضُر هنا بالبركات والسلام<br/> وتمم الإحسان ما طال الزمانْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> باسمِك يا ربَّ الصلاح والهُدى<br/> نعقدُ عقدا طاهرا مؤبَّدا<br/> بارك على مَن ههنا تعاهدا<br/> بالحب والوفاء في هذا القرانْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> كلِّلهما بنعمةٍ منَ السما<br/> تبقى على مدى الحياةِ دائما<br/> واقرِنهما بطاهر الحب كما<br/> تشاءُ يا باري السماءِ كلَّ آنْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> باركهُما في كل قولٍ وعمل<br/> واحفظهما مِن كل شرٍّ وزلل<br/> وامنحهما خيرَ الرجاء والأمل</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title> حين لا أدري بنفسي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حين لا أدري بنفسي<br/>يا إلهي أنت تدري<br/>أنت من أحببت نفسي<br/>أنت قد أحصيت شعري</lines>
+    </verse>
+    <verse name="c1">
+      <lines> لك شكري كل عمري<br/>كل أمري أنت تدري<br/>يملأ الدنيا نشيدي<br/>ربي لي عزي وصخري</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا مسيحي يا حبيبي<br/>حبك للنفس فخري<br/>إذ محوتَ لي ذنوبي<br/>بالدم كالنهر يجري</lines>
+    </verse>
+    <verse name="v3">
+      <lines> صرتُ محبوبا عزيزًا<br/>ومكرما لديك<br/>بل جعلتني وريثا<br/>كم أنا غالٍ عليك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وجهُك البسامُ أبغي<br/>في مسيري أنت نوري<br/>أنت من يشبع قلبي<br/>بالحنان والسرور</lines>
+    </verse>
+  </lyrics>
+</song>

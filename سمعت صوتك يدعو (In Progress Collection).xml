@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:48">
+  <properties>
+    <titles>
+      <title> سمعت صوتك يدعو</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">سمعتُ صوتَك يدعو<br/>يا متعبًا تعال<br/>أنا أريحُكَ يا ابني<br/>من وطأة الأحمال</lines>
+      <lines>آتي وكلي ديونٌ<br/>سدادها مُحال<br/>آتي ولا أستحقُّ<br/>شيئًا سوى الزوال</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> إليك يا مصلوبْ<br/>سلمتُ آجالي<br/>فأنت يا مصلوبْ<br/>حملتَ أحمالي</lines>
+      <lines>تحملت يداكْ<br/>هناك أسقامي<br/>وغسلت دماكْ<br/>جميعَ آثامي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لقد أنرتَ عيوني<br/>في ظلمةِ الضلال<br/>وقد نشلتَ حياتي<br/>من وَهدةِ الأهوال</lines>
+      <lines>ما عدتُ أبغي قصورًا<br/>تهوي على الرمال<br/>إذ فيك يا صخرَ بيتي<br/>لي كاملُ المَنال</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> ألبستني في الصليبِ<br/>ثوبًا من الكمال<br/>واخترتني ابنًا حبيبًا<br/>ترويهِ بالأفضال</lines>
+      <lines>ثم اعتنت بي يداكَ<br/>في الحَلِّ والترحال<br/>وعينُ حبٍّ عليَّ<br/>في اليومِ والليال</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> يفنى الوجودُ ويمضي<br/>غناه والجمال<br/>تبقى جروحُ يدينِ<br/>للدهر لا تَزال</lines>
+      <lines>تحكي محبَّةَ آبٍ<br/>فاقت مدى الخيال<br/>يوم دعتني برفقٍ<br/>يا متعبا تعال</lines>
+    </verse>
+  </lyrics>
+</song>

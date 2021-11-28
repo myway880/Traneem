@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:47">
+  <properties>
+    <titles>
+      <title> يفرحنا إيه غير إننا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>يفرحنا إيه غير إننا<br/>عرفنا الله المحبة وحبيناه<br/>ويا أبانا دي صلاة<br/>تعلن وحدتنا كعائلة الله</lines>
+    </verse>
+    <verse name="v1">
+      <lines> واحد إلهنا واحد<br/>واحد وكتابنا واحد<br/>واحد وإيمانا واحد<br/>واحد هو رأسنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> واحد مات على الصليب<br/>واحد هو الحبيب<br/>واحد جاي تاني قريب<br/>واحد هذا الرجاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واحد فادينا واحد<br/>واحد مسيحنا واحد<br/>واحد سيدنا واحد<br/>واحد راعي الرعاة</lines>
+    </verse>
+    <verse name="v4">
+      <lines> واحد له السجود<br/>واحد هو المعبود<br/>واحد رب الوجود<br/>واحد في وسطينا</lines>
+    </verse>
+    <verse name="v5">
+      <lines> كاثوليكي أرثوذكسي<br/>إنجيلي وكل مسيحي<br/>عاش قانون إيمانا الواحد<br/>هو عضو في جسد ابن الله</lines>
+    </verse>
+    <verse name="v6">
+      <lines> واحد ملك الملوك<br/>واحد رب الأرباب<br/>واحد سيد الأسياد<br/>واحد له تحنى الجباة</lines>
+    </verse>
+    <verse name="v7">
+      <lines> هلل يا شعب المسيح<br/>علي راياتك بالتسبيح<br/>مجدا ليسوع الذبيح<br/>بصليبه راية النجاة</lines>
+    </verse>
+  </lyrics>
+</song>

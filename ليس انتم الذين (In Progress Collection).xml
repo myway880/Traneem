@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:13">
+  <properties>
+    <titles>
+      <title> ليس انتم الذين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ليس انتم الذين اخترتموني في محبتي دعوتكم الي انني انا الذي اخترتكم لي وبقوة حفظتم في يدي</lines>
+      <lines break="optional">فاثبتوا كالغصون في الشجر<br/>واذهبوا ثم عودوا بالثمر<br/>خلصوا كل نفس في خطر</lines>
+      <lines>اخترتكم انا اقمتكم انا وبقوة حفظتكم انا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ذي وصيتي بالحب للجميع اذ بفضلي قد احببتكم انا ها كلمتكم بهذا كي تسروا انتم اذن احبائي انا</lines>
+      <lines break="optional">فاحفظوا احفظوا وصيتي<br/>واثبتوا دوما في محبتي<br/>واجمعوا شعبي في حظيرتي</lines>
+      <lines>اخترتكم انا احببتكم انا انتم اذن احبائي انا<br/>اخترتكم انا اقمتكم انا وبقوة حفظتكم انا</lines>
+    </verse>
+  </lyrics>
+</song>

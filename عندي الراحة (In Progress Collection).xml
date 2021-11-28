@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:04">
+  <properties>
+    <titles>
+      <title> عندي الراحة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عندي الراحه ليك ياللي تعبان<br/>عندي سعاده ليك وأنت ليه حيران</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ياعايش في كوره بعيده يا تايه في بلاد غريبه<br/>تعالى وسيب الحيره لك عندي أفراح مجيده</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أتذكر صليبي ودمي يا ابني أنا عايزك جنبي<br/>تعال وسيب العالم أنا ضامن ياابني سلامك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>مستنيك مشتاق لرجوعك هنسيك تعبك ودموعك<br/>تعال وأترك أحزانك أنا ضامن يا ابني مكانك</lines>
+    </verse>
+  </lyrics>
+</song>

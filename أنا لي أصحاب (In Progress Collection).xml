@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:33">
+  <properties>
+    <titles>
+      <title> أنا لي أصحاب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا لي أصحاب أنا لي أحباب أنا لي جيران<br/>أنا لي معارف وزمايل من كل لسان<br/>وبحب الناس من حولي وفي كل مكان<br/>وبحب الكل ومش فارق عندي العنوان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أصحابي الأسود والأبيض والقمحي كمان<br/>وطويل وقصير ورفيع قوي أو مليان<br/>دول زي الورد اللي بيطرح جوه البستان<br/>وبحب الكل ومش فارق عندي الألوان</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مش لازم صاحبي يكون صورتي أو زيي تمام<br/>أصحابنا كتير وبيختلفوا زي الأنغام<br/>يمكن يختلفوا في أشكالهم وفي أفكارهم<br/>حنحب الكل ونقبلهم مش بس كلام</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وبكل صراحة هانتفاهم ونعيش في سلام<br/>ونحقق أنا وإنت وهو كل الأحلام<br/>والحب يكون بالفرحة كل الأيام<br/>ومافيش تخبي ومتداري ولا استفهام</lines>
+    </verse>
+  </lyrics>
+</song>

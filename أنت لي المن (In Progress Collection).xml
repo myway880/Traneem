@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:23">
+  <properties>
+    <titles>
+      <title> أنت لي المن</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنت لي المنُّ الذي يشبعُ قلبي<br/>لا يجوعُ القلبُ حاشا<br/>حبُّك النهرُ الذي يُرويني ربي<br/>نفسي لا تحتارُ عطشى</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فيك ما أرجو وأكثرْ<br/>أنت للنُّعماءِ مصدرْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أنت لي الراعي الذي يرعى وُجودي<br/>لا يخافُ القلبُ وحشا</lines>
+      <lines>أنت لي الحصنُ وفيك كلُّ جودِ<br/>من عِداي لستُ أخشى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فيك لي يا سيدي كلُّ الكفايه<br/>أنت يا ربي يسوعي<br/>فيك لي يا منقذي كلُّ الحمايه<br/>أنت يا رأسي الرفيعِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أنت في العرشِ لأجلي يا شفيعي<br/>تضمنُ كلَّ حياتي<br/>فيك كلُّ حاجتي ربي يسوعي<br/>يا معيني بل ثباتي</lines>
+    </verse>
+    <verse name="v5">
+      <lines> أيُ شكرٍ يا حبيبي يُوفي ديني<br/>يا إلهي كيف أشكر<br/>أيَ حمدٍ أشدو كي أهديك مني<br/>مهما كان أنت أكبر</lines>
+    </verse>
+  </lyrics>
+</song>

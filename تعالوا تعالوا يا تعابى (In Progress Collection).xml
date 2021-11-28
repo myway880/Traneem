@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:35">
+  <properties>
+    <titles>
+      <title>تعالوا تعالوا يا تعابى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>تعالوا تعالوا يا تعابى<br/>من العالم الحزين<br/>تعالوا خذوا السعاده<br/>من فادي العالمين<br/>هتنسوا هموم العالم<br/>( في لحظة في طرفة عين ) 2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>دا جماله بارع بارع<br/>اجمل من كل الناس<br/>نور وجهه ساطع ساطع<br/>كله محبه واخلاص<br/>مش لاقي زي حبيبي<br/>( دورت في كل مكان ) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا اللي العالم خدعكم<br/>بالمال او بالشهوات<br/>تعالوا لخلاص نفوسكم<br/>دا العمر سنين لحظات<br/>اتركوا زينة العالم<br/>( دا ياما طوى اموات ) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مين يمسح دمع عيوني<br/>الا يسوع الحبيب<br/>دا مات علشان يفديني<br/>مطعون على الصليب<br/>وقلبي في عز جراحه<br/>( يلاقيه هو الطبيب ) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>صدره دايما مفتوح<br/>لجميع المتعبين<br/>بجوار جنبه المجروح<br/>ينسى الدمع الحزين<br/>ونرنم ننسى العالم<br/>( عالم مليان انين ) 2</lines>
+    </verse>
+  </lyrics>
+</song>

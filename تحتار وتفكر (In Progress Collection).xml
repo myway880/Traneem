@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:33">
+  <properties>
+    <titles>
+      <title> تحتار وتفكر</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">تحتار وتفكر تعالي لي<br/>أنا عندي حلول<br/>أترك مشكلتك قولهالي<br/>أنا بيك مشغول</lines>
+      <lines>هاقدر عالبحر بهيجانه<br/>والعدو يسكت جواه لسانه<br/>تخطيطي هيظهر في أوانه<br/>و انا المسؤول</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو حتي اخواتك واصحابك<br/>في الشدة سابوك<br/>وما حدش خبط علي بابك<br/>أنا برضه أبوك</lines>
+      <lines>هاعرف اكفيك وارتبها<br/>تتفاجئ قوي من ترتيبها<br/>أصل أنا بالتوقيت باحسبها<br/>ما انتاش متروك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> هشاورلك على سكه امشيها وهاديك النور<br/>تتلذذ بيا تعديها وتعيش مسرور</lines>
+      <lines>أنا حاطط إيدي على حياتك<br/>عارف داري باحتياجاتك<br/>بس اظبط على وقتي أوقاتك<br/>تتملي بالنور</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> سيب المستقبل ده عليا<br/>املاه أناشيد<br/>اوعي تنسي انك ليك فيا<br/>كل المواعيد</lines>
+      <lines>أنا حاطط إيدي على حياتك<br/>عارف داري باحتياجاتك<br/>بس اظبط على وقتي أوقاتك<br/>فرحك هيزيد</lines>
+    </verse>
+  </lyrics>
+</song>

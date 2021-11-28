@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:56">
+  <properties>
+    <titles>
+      <title> عايزين يا رب نكون عايشين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عايزين يا رب<br/>نكون عايشين حسب قصدك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عايزين<br/>حياتنا تكون تعبير صحيح عنك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وتكون ملامحنا<br/>مرسومة على رسمك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وتلاقي فينا خضوع<br/>وتلاقي فينا خشوع</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>وتلاقي فينا محبتك<br/>وتلاقي قلب يسوع</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>يسوع مليان بحب الناس<br/>وبالإحساس وبالبسمة</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>وخيره يبان في كل مكان<br/>مع الإحسان وبالنعمة</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>وليه سلطان على الأكوان<br/>بفعل الروح وبالكلمة</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>سلام بيزيد وعهد جديد<br/>علينا يفيض غنى ورحمة</lines>
+    </verse>
+  </lyrics>
+</song>

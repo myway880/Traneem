@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:40">
+  <properties>
+    <titles>
+      <title> يا كنيسة لا تفقدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">هكذا قال الرب لأشعياء ها أنا ذا أخلص من عناء</lines>
+      <lines break="optional">فيعرف الرب في مصرنا ويعرف المصريون ربنا</lines>
+      <lines break="optional">في وسط الأرض نقدم ذبائح للرب نرفع أيات وعجائب نشهد والمجد لإلهنا يرجع</lines>
+      <lines break="optional">أيات وعجائب في كل مكان شفاء وعظائم لمن له الإيمان</lines>
+      <lines break="optional">خلاص للنفوس وشفاء للأبدان أوقات الفرج من عند الرب الحنان</lines>
+      <lines>من عند الرب يخرج نهر الحياة يفجر تحيا العظام اليابسة وتصير كجيوش هاتفة</lines>
+    </verse>
+    <verse name="c1">
+      <lines> يا كنيسة<br/>لا تفقدي<br/>زمن إفتقادك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> تسبيح وهتاف رايات وأعلام رؤى للشباب وللشيوخ أحلام</lines>
+      <lines break="optional">كرامة ومجد عزا وسلطان للجالس على العرش سيد الأكوان</lines>
+      <lines break="optional">الرب إلهنا يمجد في كل الأرض يعبد سحاب المجد نختبر والملك لإلهنا يرجع</lines>
+      <lines break="optional">يا كل ذاكري الرب لا تسكتوا ولنطلب وجه الرب إلهنا فهو يسمع</lines>
+      <lines break="optional">ولنصرخ من كل القلب اليه نرجع ولنقف ع الأسوار الأن نقوم ونحرص</lines>
+      <lines>المأسورين سيطلقون والنائحين سيفرحون والمنكسرين يجبرون والتائهين يوجدون</lines>
+    </verse>
+  </lyrics>
+</song>

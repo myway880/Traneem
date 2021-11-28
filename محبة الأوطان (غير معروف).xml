@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title>محبة الأوطان</title>
+    </titles>
+    <comments>
+      <comment>Tune: AMERICA
+Title:401. محبة الأوطان
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> محبة الأوطانْ<br/> حَتمٌ على الإنسانْ<br/> في كل آنْ<br/> يا أيها المنّانْ<br/> يا مصدر الإحسانْ<br/> بارك لنا البُلدانْ<br/> طول الزمانْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وبدد الشرورْ<br/> ووفِّق الأمورْ<br/> أنت السميعْ<br/> ودرِّب الحكامْ<br/> للعدل في الأحكامْ<br/> ليملِك السلامْ<br/> بين الجميعْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنظر إلى السكانْ<br/> واهد إلى الإيمانْ<br/> كل الغواهْ<br/> وبارك العِيالْ<br/> وأصلح الأحوالْ<br/> ويسِّر الأعمالْ<br/> في ذي الحياهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وبارك الأقطارْ<br/> واسكب بها الأمطارْ<br/> يا مُنعمُ<br/> بارك لنا الزرعا<br/> والغرس والمرعى<br/> والأصل والفرعا<br/> يا أرحمُ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا واهبَ الفدى<br/> أدِم لنا الهدى<br/> يا ذا المِنَنْ<br/> بارك لنا الأيامْ<br/> وببد الأوهامْ<br/> والكُفرَ والآثامْ<br/> منَ الوطنْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> وارفع لِوا يسوعْ<br/> في هذه الربوعْ<br/> واعطِ النجاحْ<br/> وبارك التعليمْ<br/> يا أيها الكريم<br/> كي يقبل الأثيمْ<br/> بُشرى الصلاحْ</lines>
+    </verse>
+  </lyrics>
+</song>

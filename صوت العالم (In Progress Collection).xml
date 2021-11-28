@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:50">
+  <properties>
+    <titles>
+      <title> صوت العالم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ياللي زرعت في قلبي إيمان هاتحدى بيك<br/>المنظور ياللي كتبت العمر ضمان عمري هاعيش لك وأنا<br/>مسرور</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>صوت العالم مهما بيعلا أو<br/>يعلى صوت المحال صوتك يا يسوع دايما أعلى بكلمة تغير لي<br/>الأحوال</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>صوت الواقع مهما بيعلن عن ضعف وفشل<br/>الإنسان صوتك أعلى في قلبي بيعلن غالب بيه والدم ضمان</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>مش راح أعيش أسير أوهامي مش راح أعيش<br/>مأسور للذات جايلك يا يسوع إنت سلامي وقت الفرح وفي<br/>الأزمات</lines>
+    </verse>
+  </lyrics>
+</song>
