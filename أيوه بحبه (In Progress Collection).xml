@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:28">
+  <properties>
+    <titles>
+      <title> أيوه بحبه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أيوه باحبه واقولها بفخر<br/>وافضل اقولها لآخر الدهر<br/>هو حبيبي ومالك عمري<br/>وهاعيش وياه طول العمر</lines>
+    </verse>
+    <verse name="v1">
+      <lines> مش ممكن أنساه ولا اسيبه<br/>دا حبيبي وانا برضه حبيبه<br/>وراني الأمجاد بصليبه<br/>عبد وخلاني بقيت حر</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنا ما استغناش أبدا عنه<br/>بارتاح لما باقرب منه<br/>أنا متأكد دايما إنه<br/>يقدر وحده يحلي المر</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هو الخير اللي مشبعني<br/>ومعونته في ضعفي تشجعني<br/>ولا شيء عن حبه ها يمنعني<br/>غلبت وهاغلب بيه الشر</lines>
+    </verse>
+  </lyrics>
+</song>

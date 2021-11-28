@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title> عايز أتمتع بيك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">عايز اتمتع بيك<br/>عايزك تملا حياتي بشخصك وانمو واثبُت فيك<br/>عايز اتمتع بيك</lines>
+      <lines>عايز روحك يملك قلبي ويرفع نفسي إليك<br/>ويفيض فيّ سلامك<br/>وأصير بالكامل ليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> عايز اتمتع بيك<br/>قوة دمك تعمل فيّ وتعلن نصرتي فيك<br/>عايز اتمتع بيك</lines>
+      <lines>قوة حبك تسري في قلبي وتشكلني إيديك<br/>تطبع صورتك فيّ<br/>ويصير المجد إليك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> عايز اتمتع بيك<br/>رغم آلام الغربه إنت حمايتي في عصف الريح<br/>عايز اتمتع بيك</lines>
+      <lines>حرب شديده ونصره أكيده في إسم المسيح<br/>خفة ضيق وقتيه<br/>توهب مجد أكيد</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> عايز اتمتع بيك<br/>روحك يشهد فيّ لمجدك بالإيمان أناديك<br/>عايز اتمتع بيك</lines>
+      <lines>أطلب وآخد من غنى إيدك وافرح واهتف ليك<br/>تستخدمني يا ربي<br/>ويعود المجد إليك</lines>
+    </verse>
+  </lyrics>
+</song>

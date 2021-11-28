@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:38">
+  <properties>
+    <titles>
+      <title>حبيبي فتى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>اتعرفوا حبيبي الذي  احبه<br/>اتعرفوا يسوع الذي اعبده<br/>بديع الجمال حلو اللسان<br/>حلقه حلاوه وكله حنان</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(هو وحده حبيبي<br/>غافر جميع زلاتي)2<br/>به احيا اتحرك واوجد<br/>هو سر حياتي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>احبه اعبده اهديه الاكرام<br/>فهو حبيبي يعطني السلام<br/>اخدمه عمري طوع امره<br/>لانه حبيبي على مدى الايام</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ادعوك اليه تهديه الحياة<br/>فهو احبك طوع الممات<br/>روحه قدم على صليب العار<br/>توجه لك اليوم مليكا بار</lines>
+    </verse>
+  </lyrics>
+</song>

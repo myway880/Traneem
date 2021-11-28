@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:54">
+  <properties>
+    <titles>
+      <title>على جبين المفتدي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: CHRISTMAS
+Title:158a. على جبين المفتدي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> على جبينِ المفتدي يبدو سنا الجمالْ<br/> عيناهُ بحرُ رحمه ورأسُهُ مكللٌ<br/> بالمجدِ والجلالْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وفيضُ نعمةٍ يُرى في ثغرِهِ المنيرْ<br/> فما له بين الورى أو في السما نظيرْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لما رأى الإنسانَ في بحرِ الردى قد غاصْ<br/> دنا إليه مسرعاً بنعمةِ الخلاصْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> قد صار عني فديةً مُخلصي الحبيبْ<br/> إذ مات عني رافعاً إثمي على الصليبْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> شكراً لمحيي عبدِهِ ومصدرِ النصرِ<br/> إذ حُزتُ مِن نعمتِهِ نصراً على القبرِ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> يُمناهُ تهديني إلى منازلِ المجدِ<br/> فمُهجتي أُهدي لهُ</lines>
+    </verse>
+  </lyrics>
+</song>

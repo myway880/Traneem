@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:34">
+  <properties>
+    <titles>
+      <title>تعال ما تكونش بعيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(تعالا ماتكونش بعيد افرح وبقلب جديد)2<br/>رنم اعظم نشيد (اوعى تمل الصلاة)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(تاجيلك مش هايفيد)2 (وعنادك ليه وياه)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(تعالا ده الباب مفتوح اسمع لكلام الروح)2<br/>ده يسوع عنك مجروح (يغسل اثمك بدماه)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(تعالا وبلاش تاجيل اخضع لصوت الانجيل)2<br/>تحلالك التراتيل (تمتلي من روح الله)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(تعالا شايل الصليب واتبع فادينا الحبيب)2<br/>ده رجاءك مش هايخيب (ان عشت حسب وصاياه)2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(تعالا خليك سهران واحمل ترس الايمان)2<br/>تهزم جنس الشيطان (بالصوم ويا الصلاة)2</lines>
+    </verse>
+  </lyrics>
+</song>

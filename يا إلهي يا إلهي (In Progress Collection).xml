@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:33">
+  <properties>
+    <titles>
+      <title> يا إلهي يا إلهي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا إِلهِي يا إِلهِي<br/>لا رجاء لي سواك<br/>تاق قلبي تاق لبي<br/>أن أفوز برضاك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ملء روحك اشتياقي<br/>هبه لي واستر خطاي<br/>يرتوي منه غليلي<br/>فيك لا غيرُ رجاي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنت ربي نور قلبي<br/>أنت حصن أتقياك<br/>فاملأن يا رب قلبي<br/>روح قدسٍ من علاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قلبيَ املأ روحَ حبٍ<br/>روحَ برٍ وسلام<br/>روح إيمانٍ وصبرٍ<br/>روحَ لطفٍ ووئام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هبني صبرًا مع أناةٍ<br/>مع تعفف نبيل<br/>لا حياة لي بغير<br/>روحِكَ السامي الجليل</lines>
+    </verse>
+    <verse name="v5">
+      <lines> ملء روحك حياتي<br/>ملء روحك الوديع<br/>ملء روحك امنحنِّي<br/>يا يسوعُ يا سميع</lines>
+    </verse>
+  </lyrics>
+</song>

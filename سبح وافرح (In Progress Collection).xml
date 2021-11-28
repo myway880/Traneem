@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:40">
+  <properties>
+    <titles>
+      <title> سبح وافرح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>سبح وافرح في الرب فإلهنا قريب<br/>سبح وافرح في الرب مخلصنا المجيد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>هللويا فرحين اهتفوا شاكرين<br/>لأن الرب إلهنا يملك علينا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>سلموا ليسوع الأحزان والهموم<br/>وارفعوا له بخشوع صلوات القلوب</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>الرب مانح السلام وينبوع الحياة<br/>يقدس قلوبنا في يسوع ربنا</lines>
+    </verse>
+  </lyrics>
+</song>

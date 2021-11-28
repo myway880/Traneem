@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:53">
+  <properties>
+    <titles>
+      <title>عجل الوقت السعيد</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: LIEBSTER JESU
+Title:374. عجل الوقت السعيد
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> عجِّل الوقت السعيدْ<br/> أيها الرب العظيمْ<br/> حين ينمو ويزيدْ<br/> مُلكُ فادينا الكريمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كل أمةٍ هناكْ<br/> في جميع الأمكنهْ<br/> تستجيب صوت ذاكْ<br/> بقلوبٍ مؤمنهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وهناك قد بطَلْ<br/> كل حرب وخصامْ<br/> وتقوّى البر وال<br/> عدلُ أيضاً والسلامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فلنُبارك الإلهْ<br/> ولنُسبِّح اسمهُ<br/> ونُخَبِّر بغناهْ</lines>
+    </verse>
+  </lyrics>
+</song>

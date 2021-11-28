@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:39">
+  <properties>
+    <titles>
+      <title>يا عوننا في ما مضى</title>
+    </titles>
+    <comments>
+      <comment>Author: أمين فارس
+Tune: ST. ANNE
+Title:333. يا عوننا في ما مضى
+</comment>
+    </comments>
+    <authors>
+      <author type="words">أمين فارس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا عونَنا في ما مضى<br/> رجاءَنا الوطيدْ<br/> ملجأَنا في ضيقِنا<br/> موطنَنا المجيدْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في ظلِّ عرشِك احتَمَى<br/> كلُّ المقدَّسينْ<br/> عونُك يكفينا أيا<br/> معقِلَنا الحصينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مِن قبلِ إبداعِ الثرى<br/> أو مَنشإ الجِبالْ<br/> أنت إلهُ المجدِ وال<br/> عِزَّةِ والجلالْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نظيرُ أمسِ المنقَضي<br/> لديك ألفُ عامْ<br/> وكهزيعِ الليلِ يا<br/> حيُّ على الدوامْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> أيامُنا كسنةٍ<br/> أو كَلإ الحقولْ<br/> يُرى الغداةَ مُزهِراً<br/> وفي المسا يزولْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> يا عونَنا في ما مضى<br/> رجاءَنا المتينْ<br/> كنْ حارساً دوماً لنا</lines>
+    </verse>
+  </lyrics>
+</song>

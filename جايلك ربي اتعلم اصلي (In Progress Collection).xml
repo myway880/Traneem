@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:36">
+  <properties>
+    <titles>
+      <title> جايلك ربي اتعلم اصلي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(جاياك ربي اتعلم اصلي<br/>واخد راحتي معاك انا وأحكي)2<br/>جاي افضفض باللي شاغلني<br/>تمسح دمعي وتشيل عني</lines>
+    </verse>
+    <verse name="v1">
+      <lines> (وحدك فاهم حتى سكاتي<br/>والروح فيَّ يعين ضعفاتي)2<br/>يشفع ويترجم أناتي<br/>وارجع اسجد لك في صلاتي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> (بابك دايماً مفتوح ليَّ<br/>بأجري عليه أنا كل شوية)2<br/>تمسك ايدي في البرية<br/>تسندني بوعود آلهية</lines>
+    </verse>
+    <verse name="v3">
+      <lines> (وسط آلامي تهمس ليَّ<br/>بتعلمني وتعمل فيَّ)2<br/>تدي معونة ونعمة غنية<br/>اصل انت عيشتها قبليَّ</lines>
+    </verse>
+  </lyrics>
+</song>

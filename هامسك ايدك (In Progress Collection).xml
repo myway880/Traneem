@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:27">
+  <properties>
+    <titles>
+      <title>هامسك ايدك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>_(هامسك ايدك وامشي معاك<br/>وسط طريق مليان اخطار)2<br/>(ودنك تسمع كلمة وراك<br/>ديه طريقك ليه محتار)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(انا صادق دايما وامين<br/>انا حاضر دايما ومعين<br/>انا ناظر للمنسحقين<br/>انا ضامن كل المشوار)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(مش راح انعس ولا اكل<br/>هافضل حافظ ليل ونهار)2<br/>(هاسند رجلك مش هاتزل<br/>هاحفظ نفسك من الاشرار)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(لو في اتون النار هاحميك<br/>مش هاتاثر فيك النار!)2<br/>(خليك صابر وها قويك<br/>مش راح تتعب او تنهار)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(كل مشورتي هاثبت ليك<br/>حتى لو قلبك كله افكار)2<br/>(وانت فى حيرتك عيني عليك<br/>مش راح تغلطانا هاختار)2</lines>
+    </verse>
+  </lyrics>
+</song>

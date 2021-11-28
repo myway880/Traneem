@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:59">
+  <properties>
+    <titles>
+      <title> إلهنا الأمين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إلهنا الأمين<br/>يسير أمامنا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>يحفظ عهوده<br/>ويضمن المواعيد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لذا لن أخاف<br/>لا لن أهاب</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>يضمن الحياة<br/>وفيه أحتمي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ارفعوا الأيادي<br/>واهتفوا لله</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>أقامنا معه أعظم من منتصرين</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>هيا سبحوه<br/>هيا عظموه</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>مستحق المجد<br/>مستحق السجود</lines>
+    </verse>
+  </lyrics>
+</song>

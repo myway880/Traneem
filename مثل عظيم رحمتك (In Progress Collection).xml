@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title>مثل عظيم رحمتك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مثل عظيم رحمتك<br/>يا خالقي ارحمني<br/>ومثل فرط رافتك<br/>امح الخطا عني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ارحمني ارحمني<br/>امح الخطا عني<br/>مثل عظيم رحمتك<br/>يا خالقي ارحمني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>اغسل كثيرا سيدي<br/>نفسي من الذنب<br/>وهكذا خذ بيدي<br/>مطهرا قلبي<br/>اني باثمي عارف<br/>معترف جهرا<br/>وهو امامي واقف<br/>انظره الدهرا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اخطات يا رب اليك<br/>بالقول والفعل<br/>والشر ما بين يديك<br/>صنعت فاصفح لي<br/>قلبا نقيا طاهرا<br/>اخلقه بي مولاي<br/>وروح عدل ظاهرا<br/>جدده في احشاي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:31">
+  <properties>
+    <titles>
+      <title> بفتكرلك كل خير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ياللي حولت المرارة اللي ف حياتي لترنيمات</lines>
+      <lines break="optional">حتى ضعفي وجهل قلبي مامنعش الإحسانات</lines>
+      <lines break="optional">كل ثانية ف عمري عدت لو هاتحكي تقول كتير</lines>
+      <lines>كل نبضة ف قلبي غنت بافتكرلك كل خير</lines>
+    </verse>
+    <verse name="c1">
+      <lines> بافتكرلك<br/>كل خير</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إحساناتك تاج وطوق على راسي وعلى قلبي</lines>
+      <lines break="optional">وجوهر التاج اللي فوق ده كله موت الصلب ربي</lines>
+      <lines break="optional">ده اللي خلاني أجي ساجد وأحني راسي واقول صغير</lines>
+      <lines>بالصليب أنا صرت واجد في المسيح نعم المصير</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لولا مسكة إيدك إنت كنت اضيع ويا اللي ضاع</lines>
+      <lines break="optional">أنا مش افضل من اللي خان وأنكر واللي باع</lines>
+      <lines break="optional">قلبي مديون لك يا غالي عمري كله هاعيش أسير</lines>
+      <lines>نعمتك رأفت بحالي وراح تكمل يا قدير</lines>
+    </verse>
+  </lyrics>
+</song>

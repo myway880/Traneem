@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:32">
+  <properties>
+    <titles>
+      <title>بلدي يا رب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>بلدي يا ربي محتاجة القوتك تحميها<br/>بلدي ياربي مشتاقة من جروحها تشفيها</lines>
+    </verse>
+    <verse name="v1">
+      <lines>خلي رحمتك تسود فوق ارضها<br/>خلي المحبة والسماح بقلوب اولادها<br/>خلي رافتك للبشر توصل سماها</lines>
+    </verse>
+    <verse name="v2">
+      <lines>جيب الخير والامل لبيوتنا واحبابنا<br/>جيب الابتسامة والفرح لاطفالنا واهلنا<br/>جيب الامان والسلام وبارك بلدنا</lines>
+    </verse>
+  </lyrics>
+</song>

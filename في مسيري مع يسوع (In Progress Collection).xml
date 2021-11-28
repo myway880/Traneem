@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:59">
+  <properties>
+    <titles>
+      <title>في مسيري مع يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>في مسيري مع يسوع وسط الام الحياة<br/>يمتلي قلبي من الامجاد<br/>في طريقي لاابالي بالليالي بالرياح<br/>فهو يحميني الى الاباد</lines>
+    </verse>
+    <verse name="c1">
+      <lines>في سرور في سلام تام<br/>لااهاب الموت والالام<br/>سوف امشي في الطريق<br/>لن اعاني لن اضيق<br/>اذ بقربي وجهه البسام</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عندما يزداد ضعفي<br/>وتخونني قواي<br/>في ظلام دامس اهوي<br/>اسمع الصوت المعزي<br/>بل ارى ظل الحبيب<br/>وهو ياتي مسرعا نحوي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ان شوقي وانتظاري<br/>ان ارى ذاك الحبيب<br/>في السحاب حينما القاه<br/>يا لسعدي سوف ارقى<br/>مع جموع المؤمنين<br/>كي نعيش الدهر في حماه</lines>
+    </verse>
+  </lyrics>
+</song>

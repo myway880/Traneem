@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:11">
+  <properties>
+    <titles>
+      <title> لما بكيت من جرح في قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لما بكيت من جرح في قلبي<br/>لما تعبت انا بين أحزاني<br/>جيت ورفعت بإيدك حزني<br/>جيت وحنانك ليَّ ملاني</lines>
+    </verse>
+    <verse name="c1">
+      <lines> وحدك إنت بتغني حياتي<br/>تعطي ضمان للعمر الآتي<br/>وتكون أوجاعي وآهاتي<br/>ويَّاك ربي وهم سراب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لما الناس كلها نسيتني<br/>وسط صعاب العمر هناك<br/>جيت تتحنن جيت حبيتني<br/>كل سلامي لقيته معاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لما لقيتني انا عايش وحدي<br/>باقاسي غربه ماليها آلام<br/>جيت بحنان بدلت لي كربي<br/>غمرت عمري بنهر سلام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> لما كتير جرحوني في شده<br/>ودموعي امتزجت بأنيني<br/>حضنك كان يملاني بقوه<br/>ترجع تاني انت وتحييني</lines>
+    </verse>
+  </lyrics>
+</song>

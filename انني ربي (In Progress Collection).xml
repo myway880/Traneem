@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title>انني ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انني ربي رضاك بغيتي ليس لي الا علاك شهوتي<br/>كيف لا اشدو وانت مهجتي كيف لا اسمو وانت غايتي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مذ عرفت الرب لا ابغي سواه<br/>منيتي ابقى الى الدهر معه<br/>صار سعدي وابتهاجي في الحياة<br/>( هللويا )3 سبحوه في علاه</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ان قلبي ينبض حبا به يلهج ليلا نهارا باسمه<br/>لا يبالي وسط ضيق او خطر بل يغني دائما لمجده</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>اسعد طول النهار اطفر اهتف لاسم العلي اشكر<br/>فهو قد قاد حياتي للصليب كلما تبت اليه يغفر</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>حار كل الناس من هذا الفرح اذ راوني دائم الشكر فرح<br/>اه لو يدروني سر فرحتي لن يعاني بائس او منطرح</lines>
+    </verse>
+  </lyrics>
+</song>

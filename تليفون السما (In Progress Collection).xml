@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:35">
+  <properties>
+    <titles>
+      <title> تليفون السما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">تليفون السما عمره ما كان مشغول<br/>أبونا السماوي بيرد عليه</lines>
+      <lines>هو وعد بنجدتي لما قال<br/>اطلبني في وقت الضيق أنقذك فتمجدني</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> مكتب سنترال مفتوح ليل ونهار<br/>بيوصل للسما كل محب البار</lines>
+      <lines>خدمة مجانية لأولاد الله<br/>في أوقات الضيق<br/>حالا تضرب له تليفون تليفون</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو السكه عطلت وماسمعتش رد<br/>وكأن السما فضيت ومافيهاش حد</lines>
+      <lines>صلي وخلي إيمانك دايما بالرب<br/>مريح التعابى لازم يلحقك بالرد تليفون</lines>
+    </verse>
+  </lyrics>
+</song>

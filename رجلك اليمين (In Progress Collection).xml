@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:45">
+  <properties>
+    <titles>
+      <title> رجلك اليمين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">رجلك اليمين طلعها قدام رجلك الشمال زيها تمام</lines>
+      <lines>نط نطه لورا أرجع مكانك علي صوتك وقول</lines>
+    </verse>
+    <verse name="c1">
+      <lines> يسوع بيحبني<br/>هفضل أقول للناس</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حرك راسك مره ناحية اليمين<br/>حرك راسك مره ناحية الشمال</lines>
+      <lines>بص قدامك ركز معايا علي صوتك وقول</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أيدك اليمين طلعها قدام أيدك الشمال زيها تمام</lines>
+      <lines>أعمل دايره كبيره بس أوعى تخبط صاحبك علي صوتك وقول</lines>
+    </verse>
+  </lyrics>
+</song>

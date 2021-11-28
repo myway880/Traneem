@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:04">
+  <properties>
+    <titles>
+      <title> كل الماضي بيشهد ليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>كل الماضي بيشهد ليك<br/>ولحبك ورعايتك لينا<br/>والحاضر والجاي في إيديك<br/>بالحمد ها يشهد لك فينا</lines>
+    </verse>
+    <verse name="v1">
+      <lines> ما بننساش الإيد الحلوه<br/>اللي اتمدت وقت الأزمات<br/>ما بننساش ولا يمكن أبدا راح ننسى<br/>تعزياتك في الآلامات</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ما بننساش النعمه اللي<br/>بترفع وتصون وقت الضعفات<br/>قوة دمك وشفاعتك<br/>والروح يشفع فينا بأنات</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وفي أمراضنا بلمسه بتشفي<br/>وصوتك يدي القلب حياه<br/>نبض عروقنا اللي في أجسادنا<br/>بيشهد عن إحسان الله</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ياما نسينا أمانتك لينا<br/>وخنا القلب اللي ما سابناش<br/>واما رجعنا في لحظه لقينا<br/>حبك صادق ما بتنساش</lines>
+    </verse>
+  </lyrics>
+</song>

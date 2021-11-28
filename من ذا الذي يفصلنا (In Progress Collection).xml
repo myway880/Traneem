@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:21">
+  <properties>
+    <titles>
+      <title>من ذا الذي يفصلنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>من ذا الذي يفصلنا<br/>عن حب فادينا<br/>اكربة ام ضيقة<br/>لا شيء يثنينا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لا الجوع لا العري ولا ال<br/>اخطار والاتعاب<br/>من اجله نحتمل ال<br/>ارزاء والعذاب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لا خوف من موت ولا<br/>اذى بذي الحياه<br/>يقدر ان يفصلنا<br/>عن حبنا اياه</lines>
+    </verse>
+    <verse name="v4">
+      <lines>لا شيء في الدنيا ولا<br/>خليقة اخرى<br/>لا عمق لا علو لا<br/>سيادة كبرى</lines>
+    </verse>
+    <verse name="v5">
+      <lines>تقدر ان تفصلنا<br/>عن حب ربنا<br/>فان نمت في حبه<br/>فالموت مجدنا</lines>
+    </verse>
+  </lyrics>
+</song>

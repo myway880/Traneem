@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:53">
+  <properties>
+    <titles>
+      <title>عطاني الرب أحلي عطية خلصني من الخطية</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">نعيم شديد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>عطاني الرَّبّ أحلي عَطِيَّة خَلَّصَنِي مِنْ الْخَطِيَّةِ </lines>
+    </verse>
+    <verse name="c1">
+      <lines>وَهَلَّا ثَابِت بِقَدْر أَقُول مخلصني مية الْمِيَة </lines>
+    </verse>
+    <verse name="v2">
+      <lines>كُنْت بِالْعَالِم مَشْغُولٌ هلكان وَمَا عَاد فَيَا <br/>عمفتش تَائِه مضلول عَن الرَّاحَة الْأَبَدِيَّة <br/><br/>صَمَّمْت ارْجِع ليسوع وَارْبَح نَفْسِي المضنية <br/>سَلَّمَتْه كُلّ الْإِتْعَاب وخطيتى صَارَت ممحية </lines>
+    </verse>
+    <verse name="v3">
+      <lines>هَلَّا صَدَقْت وَأَمِنَت بِالْأَخْبَار الْأَزَلِيَّة <br/>أَنَّه فِى جَهَنَّم فِى نَارِ فِى حَيَاة أَبَدِيَّةٌ <br/><br/>شُكْرًا لِلرَّبّ الْقُدُّوس وَالْمَحَبَّة الإلهيَّة  <br/>خَلَص نَفْسِى كتير نُفُوس نُفُوس تَحْت الْعُبُودِيَّة </lines>
+    </verse>
+  </lyrics>
+</song>

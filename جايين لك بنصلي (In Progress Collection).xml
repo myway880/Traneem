@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:37">
+  <properties>
+    <titles>
+      <title> جايين لك بنصلي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>جايين لك بنصلي<br/>يا يسوع الغالي<br/>علشان يبقى إسمك<br/>في بلادنا عالي</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> بارك كل مدينة<br/>وكل شارع فيها<br/>يا يسوع قوينا</lines>
+      <lines>نشهد عنك فيها<br/>ونتكلم للنفوس<br/>عن صليبك يا قدوس</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> بنقدم أشواقنا<br/>تبقى بيوتنا ليك<br/>واخواتنا واصحابنا</lines>
+      <lines>عينيهم تبقى عليك<br/>وبتسبيحنا نرفع ليك<br/>أحلى ذبيحة يا مليك</lines>
+    </verse>
+  </lyrics>
+</song>

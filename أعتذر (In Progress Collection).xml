@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:20">
+  <properties>
+    <titles>
+      <title> أعتذر</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لكن الله القدير قد دعتني رحمته<br/>حاسبا أني ضرير شملتني نعمته<br/>قادني نحو الغدير فروتني كلمته<br/>أشبع الجوع الكبير وهدتني حكمته</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إنني أعتذر عن حياتي كلها<br/>ليس لي ما أفخر تهت من أولها<br/>إنني أعتذر كان جهلي مطبقا<br/>من خلاصي أنفر كان قلبي مغلقا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>كل درب سرته خطوة نحو الضياع<br/>كل شيء نلته لم يكن فيه انتفاع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>كل شيء أجوف كل حلم وطموح<br/>من فراغ أغرف ما هدى شوقي الجموح</lines>
+    </verse>
+  </lyrics>
+</song>

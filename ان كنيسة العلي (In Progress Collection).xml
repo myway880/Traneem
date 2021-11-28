@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title> ان كنيسة العلي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ان كنيسة العلي واحدة طول المدى<br/>والرب سيد لها يحفظها من العدى</lines>
+      <lines>خليقة جديدة بالماء والكلمة<br/>جاء لكي ينقذها من اسرها بالنعمة</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> من كل امة ترى بين الملا تحت السما<br/>قد جمعتهم ضمنها حتى ينالوا النعما</lines>
+      <lines>فواحد سيدها وواحد ايمانها<br/>وواحد رجاؤها وواحد تكلانها</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لئن يصب وحدتها داعي النفور والشقاق<br/>او دخلتها بدع تسلبها روح الوفاق</lines>
+      <lines>فان سيد الملا يرعى بنيها سرمدا<br/>فليس ابواب الردى تقوى عليها ابدا</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> في تعب والم في كدر وفي سقام<br/>تنتظر اليوم الذي فيه ترى نور السلام</lines>
+      <lines>وسوف تحظى بالذي ترجو بان تنظره<br/>وتبصر الملك الذي تشتاق ان تبصره</lines>
+    </verse>
+  </lyrics>
+</song>

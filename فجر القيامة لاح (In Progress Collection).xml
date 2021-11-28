@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:56">
+  <properties>
+    <titles>
+      <title>فجر القيامة لاح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>فجر القيامة لاح<br/>فوق سبات الورى<br/>ومريمات يسرن<br/>عبر حقول الندى<br/>في الفكر رهبة قبر<br/>فيه العظيم ثوى<br/>عجز وتسليم امر<br/>امام حتم الردى</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ما اجمل البشرى<br/>ما اجمل البشرى<br/>يسوع حي يسود<br/>فوق الورى والسما<br/>اليوم يوم قيامه<br/>فجر حياة لنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا حاملات الحنوط<br/>دعن الحنوط هنا<br/>ودعن اكفان ضعف<br/>ليست لرب الملا<br/>قد ارتدى ثوب مجد<br/>محلقا في العلى<br/>وبانتصار القيامه<br/>يقودنا للمدى</lines>
+    </verse>
+  </lyrics>
+</song>

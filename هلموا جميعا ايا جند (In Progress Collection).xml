@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:29">
+  <properties>
+    <titles>
+      <title> هلموا جميعا ايا جند</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">هلموا جميعا ايا جند المسيح هلموا ايا معشر المؤمنين لنجث بحمد للحمل الذبيح</lines>
+      <lines>من قد محا الذنوب وطهر القلوب<br/>وحرر الشعوب بسفك دماه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> هلموا انظروه على عود الصليب يصلي ويشفع بالمذنبين يموت باقسى وسائل التعذيب</lines>
+      <lines>ليدفع الديون ويقهر المنون<br/>فيدخل البنون لارث الحياه</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> الا تنظرون تفتح القبور وقد قام باكورة الراقدين لنهتف بشكر للاسد المنصور</lines>
+      <lines>من سدد الحساب ومزق الحجاب<br/>وفتح الابواب لقدس الاله</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> قريبا سياتي بمجده العجيب ليخطف اولاده الغالبين واذ نتلاقى بالمنقذ الحبيب</lines>
+      <lines>سنترك العذاب ونركب السحاب<br/>وندخل الابواب لعرش الاله</lines>
+    </verse>
+  </lyrics>
+</song>

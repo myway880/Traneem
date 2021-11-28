@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:50">
+  <properties>
+    <titles>
+      <title>شمالك تحت راسي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c2 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>( شمالك تحت راسي يمينه بتعانقني)2<br/>ع البر انا راسي ده حبك بيحاوطني</lines>
+    </verse>
+    <verse name="v1">
+      <lines>بنسى بسرعة ياربي ازاي عينك على<br/>يضعف من تاني حبي وماتشوفك عيني<br/>واحطار وافضل حزين بقيود ماليها ايدي<br/>ويملاني الانين مع انك انت لي<br/>وارجع واقول من قلبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ماشي في برية قاسية فيها ليل فيها نهار<br/>نفسي ليه تكون ناسية ربك ده سور من نار<br/>يشبع من خيره عمرك في السيل ليك اسطار<br/>وبيضمن كل امرك هو صاحب </lines>
+    </verse>
+    <verse name="c2">
+      <lines>وافضل اقول من قلبي</lines>
+    </verse>
+  </lyrics>
+</song>

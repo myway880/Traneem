@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>القيامة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انت يا رب فديتنا بدمك<br/>فوق الخشبة اتجسد حبك<br/>مت عشان الخاطى يعيش   يرجع تانى ويسكن حضنك<br/>وانت الحى وواهب الحياة  كل خليقتك تحكى عظمتك<br/>بصليبك صار لينا نجاة  خلينا نعيش نعلن مجدك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>بموتك يارب نبشر  وبقيامتك نعترف<br/>نسبحك ، نباركك   نشكرك يا رب<br/>ونتضرع اليك<br/>يا الهنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بعد الضلمة يهل الفجر  وبعد تلات ايام خايفين<br/>نور الحق يشق الصخر  ويعلن مجد اله الكون<br/>ربى يسوع داس الموت صرنا فى شخصه منتصرين<br/>قوم يا يسوع فى قلوبنا وسود  تبقى ملكنا وبيك غالبين</lines>
+    </verse>
+  </lyrics>
+</song>

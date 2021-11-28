@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:59">
+  <properties>
+    <titles>
+      <title>أجهل ما سوف يأتي</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أَجْهَلُ مَا سَوْفَ يَأْتِي، فِي الْغَدِ أَوْ بَعْدَه .<br/>فَالْغَدُ فِي عِلْمِ رِبِّيٍّ ، لَيْسَ خافٍ عِنْدَه .<br/>لَيْسَ هُمِّي مَا يصيرُ ، مِنْ أُمُورٍ آتِياتْ .<br/>هُمِيَ أَنَّ أرْضَي رَبٍّ، فِي الْحَيَاةِ والمَماتْ .</lines>
+    </verse>
+    <verse name="c1">
+      <lines>لَسْتُ أَدُرَّي مَا يَكُونُ ، مِنْ حَيَّاتِي فِي الْغَدِ .<br/>أَعْلَمُ شيئًا يَقِينًا، رُبِّيَ مُمْسِكٌ يَدِي.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أَعْلَمُ الدربُ مُنِيرٌ . أَعِلْمُ رَبِّي أَمينٍ .<br/>فَهُوَ لِي خَيْرُ رَفيقٍ . وهْوَ لِي خَيْرٌ مُعينْ .<br/>عَنْ قَرِيبٍ سَوْفَ أَمُضِيٌّ . إلْي مَوْطِنٍ الخُلودْ .<br/>حَيْثُ لَا الدَّمْعُ يَسِيلُ . لَا وَلَا الْمَوْتُ يَسْوَدْ .</lines>
+    </verse>
+  </lyrics>
+</song>

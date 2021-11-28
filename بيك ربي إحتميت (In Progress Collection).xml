@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:04">
+  <properties>
+    <titles>
+      <title> بيك ربي إحتميت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مجدي ورافع راسي<br/>ترسي وقرن خلاصي<br/>نوري وحصن حياتي<br/>هافضل أغني ليك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بيك ربي إحتميت<br/>يا معيني وملجأي<br/>وصخرة خلاصي<br/>بكمال قلبك رعيت<br/>بمهارة الإيدين<br/>إنت هديت</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>عيني شايفة إيديك<br/>بحنان طول الطريق<br/>ماسكة يميني<br/>وف وادي ظل الموت<br/>فين ألاقي حمايتي<br/>غير تحت جناحيك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>خير كل الأيام<br/>ومراحم جود ونعمة<br/>طول حياتي<br/>لمراعي خضرا تقود<br/>لمياه الراحة<br/>ترشدني إيديك</lines>
+    </verse>
+  </lyrics>
+</song>

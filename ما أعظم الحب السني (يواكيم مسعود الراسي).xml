@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:15">
+  <properties>
+    <titles>
+      <title>ما أعظم الحب السني</title>
+    </titles>
+    <comments>
+      <comment>Author: يواكيم الراسي
+Tune: BEULAH LAND
+Title:367. ما أعظم الحب السني
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">يواكيم مسعود الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ما أعظم الحبَّ السني<br/> مِن خالقٍ لم ينسني<br/> صار الشريفُ كالدني<br/> مُفتقِرا وهْو الغني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا من سمعتُمُ الندا<br/> يا مَن أخذتُمُ الهدى<br/> يا مَن قبلتُمُ الفدا<br/> حُبُّوا كما أُحببتمُ<br/> ردُّوا على الآب الصدى<br/> أعطوا كما أُعطيتمُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> الحبُّ شرط قد لزم<br/> فرض كريم قد رُسم<br/> بالحب كلٌّ يعتصم<br/> ممن لفاديه خُتم</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لا كبرياءَ لا حسد<br/> لا ظنَّ سوء في أحد<br/> بل بركاتٌ ومدد<br/> في الحب ما طال الأمد</lines>
+    </verse>
+    <verse name="v4">
+      <lines> في الحب تصديق المقال<br/> في الحب صبر واحتمال<br/> الحب إكليلُ الجمال<br/> فضل ومجدٌ لا يُزال</lines>
+    </verse>
+    <verse name="v5">
+      <lines> في الحب أمنٌ ونجاح<br/> في الحب سِترٌ وسماح<br/> في الحب تكميل الصلاح<br/>فالحب يا نعم الوشاح</lines>
+    </verse>
+  </lyrics>
+</song>

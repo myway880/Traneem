@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لن أنسى يوما سيدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لن أنسى يوما سيدي<br/>أنك جئت من سماك<br/>كي تحمل خطيتي<br/>سفكت عنيَ دماك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> على الصليب<br/>دفعت أنت ذلك الدين الرهيب<br/>ومت عنيَ هناك<br/>يا سيدي على الصليب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لن أنسى يوما سيدي<br/>يوم أخذت كالسجين<br/>ضربت مثل الآثمين<br/>صلبت بين المجرمين</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا من بحبك العجيب<br/>أبهجت ذا القلب الكئيب<br/>وصرت أنت لي النصيب<br/>شكرًا لك أيا حبيب</lines>
+    </verse>
+  </lyrics>
+</song>

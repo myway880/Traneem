@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:11">
+  <properties>
+    <titles>
+      <title>لما عدوي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(لما عدوى يحاربني<br/>يتعبني ويشككني<br/>ويحاول انه يزعجني<br/>فيك  احتمي)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(يا برجي العالي يا<br/>ملجاي الغالي<br/>يا صخره  امالي<br/>فيك احتمي)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(لما خطيه تهاجمني<br/>وذنوبي بتجرحني<br/>ويجي لي العدو ويديننى<br/>فيك احتمي)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(لما رياح البحرتهيج<br/>والميه تملي سفينتي<br/>والموت يبقى قريب<br/>واكيد فيك احتمي)2</lines>
+    </verse>
+  </lyrics>
+</song>

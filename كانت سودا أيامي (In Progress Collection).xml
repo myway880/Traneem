@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:03">
+  <properties>
+    <titles>
+      <title> كانت سودا أيامي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كانت سودا أيامي<br/>كانت همومي قدامي<br/>كانت أفكاري شر وفساد</lines>
+      <lines>صارت بيضا أحلامي<br/>وإنزاحت عني أوهامي<br/>والحب اللي كان ضايع مني عاد</lines>
+    </verse>
+    <verse name="c1">
+      <lines> لما سلمته قلبي بدمه<br/>غسل ذنبي لما أعلنته<br/>ربي يسوع بحنانه جاد<br/>ع قلبي سلامه ساد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ياما قضيت الليالي حيران<br/>وعم بسأل حالي</lines>
+      <lines break="optional">لوين الموت موداني<br/>معقول جهنم عنواني<br/>شو كان يخوفني البكره<br/>والمستقبل شو مخبالي</lines>
+      <lines>أنا هلأ متأكد إني اتحررت<br/>وع السما وصلني<br/>بعرف إني ما بستاهل<br/>لكن ربي اتقاصص عني</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> إذا بدك تكسب حياتك<br/>حرام تضيع أوقاتك</lines>
+      <lines break="optional">ما تفكر نجاح زيادة<br/>بتقدر تعطيك السعادة<br/>كل العالم مش راح ينفع<br/>ولا بتفيدك مصرياتك</lines>
+      <lines>يسوع الواقف على بابك<br/>ناطر دا يسمع جوابك<br/>إجا ع العالم حتى يخلي<br/>حياته كلها ع حسابك</lines>
+    </verse>
+  </lyrics>
+</song>

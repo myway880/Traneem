@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title> وتركت عمري يمضي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">وتركت عمري يمضي<br/>الآن في يديك<br/>لتغدو أنت نهرًا<br/>في حياتي من جديد</lines>
+      <lines>مللت العيش دون<br/>رفيقٍ في الحياه<br/>وكرهت السير دوما<br/>دونما اتجاه</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فلتأت لحياتي بأمر جديد<br/>فأنت غايتي ولتصنع ما تريد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لا أعرف لي سواك<br/>يأتي لمعونتي<br/>أشتاق أن أراك<br/>تعيد راحتي</lines>
+      <lines>يملاني حضورك<br/>يا أيها القدير<br/>وأحتمي في سترك<br/>من سهم يطير</lines>
+    </verse>
+  </lyrics>
+</song>

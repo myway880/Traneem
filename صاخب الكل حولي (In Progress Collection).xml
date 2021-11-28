@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:50">
+  <properties>
+    <titles>
+      <title> صاخب الكل حولي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">صاخبٌ الكلّ حولي ما أعلا الضجيج<br/>وسوادُ السحْبِ يحجُبُ النورَ البهيج</lines>
+      <lines>والأشواك من أمامي تنسيني الطريق<br/>كيف لي أن أخطو وحدي دونما رفيق</lines>
+    </verse>
+    <verse name="c1">
+      <lines> علِّمنِّي ربي لما تلطمُني الحياه<br/>كيف أعلو معك ماشيًا فوق المياه<br/>ويردّ القلبُ لحبِّك صداه<br/>لما يعلو صوت ترنيمي صلاه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لما يعلو الموجُ حولي ويبدو الضياع<br/>وأتوه عن فناري دونما شراع</lines>
+      <lines>وغيومُ الشك تأتي ويأتي الصراع<br/>أعلم أن لديك الكل مستطاع</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> رغم كلِّ ذي الآلامِ حياتي تطيب<br/>حينما يبدو محيَّاكَ ربي الحبيب</lines>
+      <lines>ويتمُّ القولُ من فم القاسي الرهيب<br/>يخرجُ الأكلُ فإنك ستستجيب</lines>
+    </verse>
+  </lyrics>
+</song>

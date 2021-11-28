@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:16">
+  <properties>
+    <titles>
+      <title> ماذا أنا أفعل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ماذا أنا أفعلُ كي<br/>أخلصَ من خطيتي<br/>وكيف أنجو سيدي<br/>من رهبةِ الدينونة</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> آمن بالرب يسوعَ المسيح<br/>فتخلصَ به وتستريح<br/>بالنعمةِ به لنا الخلاص</lines>
+      <lines>حررَنا صار لنا المناص<br/>ليس الخلاصُ بالعمل<br/>بل بالإيمانِ بالحمل</lines>
+    </verse>
+    <verse name="v2">
+      <lines> غرقتُ في خطيتي<br/>بَليتُ من ثِقلِ الآثام<br/>مَن لي بغفرانٍ ومَن<br/>يُعيدُ للقلبِ السلام</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مِن ذلها ذقتُ العناء<br/>من أسرِهَا ليس مناص<br/>فالنفسُ تاقت للفداء<br/>صارخة هل من خلاص</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا أيها الربّ الكريم<br/>يا من وهبتنا الحياه<br/>كيف أنا يا سيدي<br/>أسعَدُ مِنكَ بالنجاه</lines>
+    </verse>
+    <verse name="v5">
+      <lines> شكرًا لكَ يا سيدي<br/>فقد أطعتُ أمرَكَ<br/>وكَم سُروري لذتي<br/>أن يُصبح الكلّ لك</lines>
+    </verse>
+  </lyrics>
+</song>

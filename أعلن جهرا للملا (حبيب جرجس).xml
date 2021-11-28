@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:07">
+  <properties>
+    <titles>
+      <title>أعلن جهرا للملا</title>
+    </titles>
+    <comments>
+      <comment>Author: حبيب جرجس
+Tune: SAWLEY
+Title:208. أعلن جهرا للملا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">حبيب جرجس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أُعلِنُ جهراً للملا<br/> في وَسَطِ الجُموعْ<br/> محبَّتي لمن فدى<br/> كلَّ الورى يسوعْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يحيا رجائي حينما<br/> أذكُرُ صلبَهُ<br/> فكيف أنسى الدهرَ ما<br/> حييتُ حبَّهُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يحلو نشيدُ حبِّهِ<br/> في القلبِ واللسانْ<br/> فسبِّحي نفسي لهُ<br/> إلى مدى الأزمانْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> قد مات عني حاملاً<br/> ذنبي وآثامي<br/> وكلُّ خيرٍ نلتُهُ<br/> من جودِه السامي</lines>
+    </verse>
+    <verse name="v5">
+      <lines> قد قامَ عني شافعاً<br/> إذ كنتُ مجرما<br/> ليُدخِلَنّي رحمةً</lines>
+    </verse>
+  </lyrics>
+</song>

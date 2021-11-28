@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:17">
+  <properties>
+    <titles>
+      <title> أنا باسبح الفادي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا باسبح الفادي<br/>وبارفع ليه الأيادي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>كل الخليقة بتنادي<br/>وبتشهد عنك يا فادي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وانا طول ما عندي حياة<br/>أنا هاتبعك يا الله</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وانا طول ما عندي لسان<br/>هاسبحك يا الله</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>عندك ملايكة وجنود<br/>وصوتهم يملا ويزيد</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>لكنك عايز تسمعني<br/>هو أنا صوتي هايفيد</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>وانا صوتي أصبح له قيمة<br/>بتسبيح ربي الكريم</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>من يوم ما خلص حياتي<br/>وانا عايش عمري ترنيم</lines>
+    </verse>
+  </lyrics>
+</song>

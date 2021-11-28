@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title>يا بيت لحم ميدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا بيت لحم ميدي<br/>فخرا على البلدان<br/>(ورحبي بالعيد<br/>بابهج الالحان) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا معشر الرعاة<br/>قوموا انشروا البشرى<br/>(بمفتدي الخطاة<br/>ومنقذ الاسرى) 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ها زمرة الاملاك<br/>تنبيكم الصحيح<br/>(في قبة الافلاك<br/>عن مولد المسيح) 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>المجد في العلاء<br/>وفي الورى السرور<br/>(والسلم في الغبراء<br/>لابد الدهور) 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>يا امه الهناء<br/>بطفلك الاعظم<br/>(كم قالت النساء<br/>طوباك يا مريم) 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>يا ايها المولود<br/>تمت بك الوعود<br/>(في قبره داؤود<br/>قد سر بالموعود) 2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>يا طلعة الميلاد<br/>يا بهجة الاعياد<br/>(كم سرنا بالفادي<br/>رب السما الجواد) 2</lines>
+    </verse>
+  </lyrics>
+</song>

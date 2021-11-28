@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:58">
+  <properties>
+    <titles>
+      <title>في عيدك المجيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>في عيدك المجيد<br/>اعبدك<br/>في عيدك المجيد<br/>اسجد لك<br/>في عيدك المجيد<br/>ارفعك<br/>احبك اطيعك<br/>احمد اسمك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>في عيدك المجيد<br/>اهدي لك التمجيد<br/>في عيدك المجيد<br/>لي عمر جديد<br/>صرت عمري المديد<br/>صرت كنزي الاكيد<br/>في عيدك المجيد<br/>اعبدك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ميلادك المجيد<br/>ميلادنا<br/>وحبك الشديد<br/>نبض للحياة<br/>نتوج في العيد<br/>يسوعنا<br/>مليكنا حبيبنا<br/>وخلنا الفريد</lines>
+    </verse>
+  </lyrics>
+</song>

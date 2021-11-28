@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:14">
+  <properties>
+    <titles>
+      <title> جعلت جلالك فوق السماء</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>جعلت جلالك فوق السماء مجدت إسمك فوق الربوع</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فأسست حمدا ونبع ثناء علي ثغر كل وليد رضيع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>كأن الخليقة محض لسان علي الحمد والسبح دوما مداوم</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تسبيح شكر وسبح جلال تسبيح مجد لرب الأنام</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>عيون نجومك ترنو إليك وبين يديك الجبال سجود</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وسبح الملائك وقف عليك وأيدي النخيل إليك صعود</lines>
+    </verse>
+  </lyrics>
+</song>

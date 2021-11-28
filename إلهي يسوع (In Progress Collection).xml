@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:01">
+  <properties>
+    <titles>
+      <title> إلهي يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إلهي يسوع إلهي يسوع</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بالسياط ضربوه وبالحربة طعنوه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>بالأشواك توجوه على خشب العار علقوه</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>على الصليب سالت دماه علشان كل اللي فداه</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ولما جيت بالقلب اللي تاه عند الصليب أسجد للإله</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>مش عايز أنسى التمن المدفوع عشاني</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>وأنت البار وأنا الجاني</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>ثبت عينيك على أورشليم شايل أحزاني</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>وعيني مش هاتبص للورا تاني</lines>
+    </verse>
+  </lyrics>
+</song>

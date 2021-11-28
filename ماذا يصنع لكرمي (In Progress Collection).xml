@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:16">
+  <properties>
+    <titles>
+      <title> ماذا يصنع لكرمي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">ماذا يصنع لكرمي<br/>وأنا لم أصنعه<br/>ماذا يحمل غيري<br/>وأنا لم أسبقه</lines>
+      <lines break="optional">طرحت تيجاني حتى الأرض<br/>وضعت حياتي حتى الموت</lines>
+      <lines>هان كل شيء عليَّ يا حبيبي<br/>لأجلك يهون كل شيء يا حبيبي<br/>فهل تقبل إليَّ لا تضل<br/>الطريقها هو الطريق</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> ما هو ذنبي<br/>حتى أصلب كقطاع الطرق<br/>ما هو جرمي<br/>حتى يُهدر دمي ويسفك</lines>
+      <lines>هو ذنبُك هو جرمُك هو الخطيه<br/>ألبستني تاجَ شوكٍ أين تاجيَ الذي أملِك<br/>كي تصير أنت بارا<br/>بلا عيبفي الرجاء</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حبك للشر ألهب ظهري بالسياط<br/>وعناد الظلم فجر جنبي بالحراب<br/>هذه اليد التي ثقبوها بالعذاب</lines>
+      <lines>قيدوها بالخطيه نزعوا عني الثياب<br/>كي تصير أنت بارا<br/>بلا عيب في الرجاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> هل رأيت الصليب ملطخا بالدماء<br/>يسيل منه العرق والألم دون بكاء<br/>هناك دفعت ما عليك كاملاً</lines>
+      <lines>كان حكم الموت هو الثمن<br/>كي تصير أنت بارا<br/>بلا عيب في الرجاء</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> كان كل شيء فيَّ يحترق<br/>يحترق فوق الصليب<br/>في يديَّ وأرجلي<br/>في الرأس نارٌ كاللهيب</lines>
+      <lines>إلا حبي ثابت كما هو بل يزيد<br/>قلبي ينبض بالمحبه داعيًا فهل تريد<br/>كي تصير أنت بارا<br/>بلا عيب في الرجاء</lines>
+    </verse>
+  </lyrics>
+</song>

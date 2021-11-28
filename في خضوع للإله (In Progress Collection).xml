@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:58">
+  <properties>
+    <titles>
+      <title> في خضوع للإله</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">في خضوعٍ للإله أبتغي دومًا هُداه<br/>في متاهاتِ الحياه مسترجيًا رضاه</lines>
+      <lines>داعيًا ربي الأمين ذاكرًا فضلَ المعين<br/>شاكرًا في كلِّ حينْ للخير والنجاه</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> أيَّ شكر أستطيع أيَّ قول قد أذيع<br/>كي أعوضَ العلي البديع<br/>خيرك ربي وسيع سترك ستر منيع<br/>عارفٌ اسمي فلن أضيع</lines>
+      <lines break="optional">حِضنك الواقي الدفيء فهو بالحبمليء<br/>ضامني حتى تجيء من كل ما يروع</lines>
+      <lines>باركن قلبي الشكور حين أعطي بسرور<br/>ليس عُشرًا بل عُشورلربنا يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كلّ خيرٍ أو أمل كلّ قولٍ أو عمل<br/>فليكن باسم الحمل يسوعِنا المسيح</lines>
+      <lines>فهو قد أحبنا قد فدى نفوسَنا<br/>قد هدى قلوبَنا وفيه نستريح</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> يا إلهَ العزةِ أنت نبعُ القوةِ<br/>لاصطناعِ الثروةِ من جودِك َ العميم</lines>
+      <lines>اعطني روح الوكيل سالكًا خيرَ السبيل<br/>في الكثيرِ والقليل لمجدك عظيم</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:09">
+  <properties>
+    <titles>
+      <title> تعال يا ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>تعال تعال يا ربي فتحت لك باب قلبي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعال اسكن روحي يا رب واملأها من فيض ذا الحب</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أعط النفس سلاما في الحرب فالشر قد أعياني في الدرب</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تعال يا ربي شرعت لك باب قلبي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>عمانوئيل</lines>
+    </verse>
+  </lyrics>
+</song>

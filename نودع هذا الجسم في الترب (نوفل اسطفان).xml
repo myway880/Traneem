@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title>نودع هذا الجسم في الترب</title>
+    </titles>
+    <comments>
+      <comment>Author: نوفل اسطفان
+Tune: EVENTIDE
+Title:220. نودع هذا الجسم في الترب
+</comment>
+    </comments>
+    <authors>
+      <author type="words">نوفل اسطفان</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> نُودعُ هذا الجسمَ في التُّربِ<br/> إذ ترتقي النفس إلى الربِّ<br/> إلى الذي فداه بالصلبِ<br/> نستودع الراقدَ بالإيمانْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إلى انتهاء ظُلمة الأجفانْ<br/> إلى بلوجِ الصبح في الأوطانْ<br/> إلى اللقا في حضرة الرحمانْ<br/> نستودع الراقدَ بالإيمانْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إلى انتهاء الكرب والجهادْ<br/> إلى ابتداء البِشرِ والأمجادْ<br/> إلى دوامِ الحب والإسعادْ<br/> نستودع الراقدَ بالإيمانْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إلى مجيءِ الرب في السحبِ<br/> ومبعث الأمواتِ بالربِّ<br/> إلى اجتماعِ الأهل والصَّحبِ<br/> نستودع الراقدَ بالإيمانْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> إلى بلوغِ القصد والكمالْ<br/> ولُبسِ تاجٍ فائقِ الجمالْ<br/> إلى لقاءِ الرب ذي الجلالْ</lines>
+    </verse>
+  </lyrics>
+</song>

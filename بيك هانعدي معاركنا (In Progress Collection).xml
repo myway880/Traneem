@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:33">
+  <properties>
+    <titles>
+      <title> بيك هانعدي معاركنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>بيك هانعدي معاركنا داخلين حروبنا منتصرين<br/>علشان أنت بتقودنا وبدمك ماشين غالبين</lines>
+    </verse>
+    <verse name="v1">
+      <lines> بيك هانعدي زمن الأتعاب هانعدي رافعين بيك رايات<br/>ونعدي واثقين في إسم الأب بقلوب مرفوعة بهتافات</lines>
+    </verse>
+    <verse name="v2">
+      <lines> بيك تتحقق كل الوعود واثقين فيك يا إلهنا المصلوب<br/>ونعدي معاك كل الحروب أصل انت قائدنا يا محبوب</lines>
+    </verse>
+  </lyrics>
+</song>

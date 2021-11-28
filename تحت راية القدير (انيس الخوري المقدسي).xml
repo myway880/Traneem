@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:33">
+  <properties>
+    <titles>
+      <title>تحت راية القدير</title>
+    </titles>
+    <comments>
+      <comment>Author: انيس المقدسي
+Tune: THE ROYAL BANNER
+Title:395. تحت راية القدير
+</comment>
+    </comments>
+    <authors>
+      <author type="words">انيس الخوري المقدسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> تحتَ رايةِ القديرْ<br/> للأمامْ للأمامْ<br/> كلُّنا اليومَ نسيرْ<br/> للأمامْ<br/> في خُطَى الراعي الأمينْ<br/> معْ جموعِ المؤمنينْ<br/> فلْنُجاهِدْ مُسرعينْ<br/> للأمامْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لا نَخَفْ هولَ الجِهادْ<br/> للأمامْ للأمامْ<br/> لا ولا جيشَ الفَسادْ<br/> للأمامْ<br/> إننا جندُ المسيحْ<br/> نحملُ النورَ الصحيحْ<br/> لنَقودَ العالمينْ<br/> للأمامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في ضِيا نجمِ الفداءْ<br/> للأمامْ للأمامْ<br/> نحن نمشي برجاءْ<br/> للأمامْ<br/> فإلى النصرِ المبينْ<br/> أيها الجندُ الأمينْ<br/> أقدِموا مُستَبسِلينْ<br/> للأمامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> عَلَمُ اللهِ المجيدْ<br/> للأمامْ للأمامْ<br/> في لَظى الحربِ الشديدْ<br/> للأمامْ<br/> إرفَعوا فوقَ الملا<br/> وبِحبِّ ووَلا<br/> فلْنَسِرْ في كلِّ حينْ</lines>
+    </verse>
+  </lyrics>
+</song>

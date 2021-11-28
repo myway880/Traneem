@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:46">
+  <properties>
+    <titles>
+      <title> يسوعي أشكرك يا ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يسوعي أشكرك يا ربي<br/>إنت إتولدت عشاني<br/>أشكرك يا ربي</lines>
+      <lines break="optional">مافهمتش<br/>إزاي أعظم ملك<br/>في الدنيا دي</lines>
+      <lines>يطلع من قصرة الكبير<br/>ويسكن في مزود صغير</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> إزاي ماقبلش الحب ده<br/>وأعيش بعيد عنك كده</lines>
+      <lines break="optional">باجي لك عند مزودك<br/>إقبلني في يوم ميلادك</lines>
+      <lines break="optional">ميلادك في قلبي أنا<br/>إدى لحياتي معنى</lines>
+      <lines>خلاني ابن للملك<br/>إقبل حياتي بين إيديك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يسوعي أشكرك يا ربي<br/>إنت إتولدت عشاني<br/>أشكرك يا ربي</lines>
+      <lines break="optional">هل ترضى<br/>تيجي تسكن في قلبي</lines>
+      <lines>تيجي تشرف حياتي<br/>ويبقى ميلاد يسوع<br/>في قلبي</lines>
+    </verse>
+  </lyrics>
+</song>

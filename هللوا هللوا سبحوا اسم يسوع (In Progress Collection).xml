@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:28">
+  <properties>
+    <titles>
+      <title> هللوا هللوا سبحوا اسم يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>هللوا هللوا سبحوا اسم يسوع<br/>هو راعينا واحنا حواليه<br/>هللوا هللوا سبحوا اسم يسوع<br/>هو لينا واحنا ليه</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> وبنرفع يا رب جنودك<br/>احمينا من الضعفات<br/>وبروحك اصنع عجايب<br/>أكتر من اللي فات</lines>
+      <lines>وفي ضعفنا وقوتنا<br/>رافعين عينينا عليك<br/>ها تنجينا لأن قلوبنا<br/>دايما تتعلق بيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وترتفع في وسطينا<br/>بعمود سحاب ونار<br/>ويتمجد اسمك فينا<br/>في الليل وفي النهار</lines>
+      <lines>وبنورك تطرد ضلمتنا<br/>وبنعمه تقود شعبك<br/>إنت معانا ومين علينا<br/>نتمسك بوعدك</lines>
+    </verse>
+  </lyrics>
+</song>

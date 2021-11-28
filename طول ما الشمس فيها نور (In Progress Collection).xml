@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title> طول ما الشمس فيها نور</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">طول ما الشمس فيها نور طول ما في ميه في البحور</lines>
+      <lines>طول ما الأرض تفضل تدور هافضل أرنم ليك</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> مين خلى نور الشمس كل يوم مابينقطعش</lines>
+      <lines break="optional">مين خلى موج البحر رايح راجع مايبطلش</lines>
+      <lines break="optional">مين خلى الأرض تلف تلف تلف وماتوقفش</lines>
+      <lines>غيرك أنت يايسوع<br/>علشان كده</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مين قدم حبه ليا ع الصليب أخد مكاني</lines>
+      <lines break="optional">مين أداني الحريه مين ثبت فيا إيماني</lines>
+      <lines break="optional">مين كان وعده ليا ع السحاب انا جاي تاني</lines>
+      <lines>غيرك أنت يايسوع<br/>علشان كده</lines>
+    </verse>
+  </lyrics>
+</song>

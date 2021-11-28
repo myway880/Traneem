@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title>إنما الرب نصيبي</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إنَّما الربُّ نَصِيبي<br/>وَحياتي وَرَجايْ<br/>وسِواهُ لسْتُ أبغِي<br/>فَهْوَ عِزِّ ومُنايْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أيُّ شيءٍ في السَّما لي<br/>أو على الأرضِ سِواكْ<br/>مَعْكَ لا أطلبُ شيئًا<br/>إنَّما أبغي رِضاكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لَيْستِ السَماءُ تَحْلو<br/>لي ولا شَئٌ سِواكْ<br/>والصَّليبُ ليَ يَحْلو<br/>إذ بهِ أسعَى وَراكْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>كلُّ شيءٍ لَنا خُسْرٌ<br/>دونَ مَنْ أدرَكَنَا<br/>فَلَكَ نحنُ جميعًا<br/>وَبِكَ الكلُّ لنَا</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ليسَ لِلمنظورِ نَسْعَى<br/>بلْ بإِيمانٍ نَسِيرْ<br/>نَتَرجَّى أن تَجِيءَ<br/>عَن قَريبٍ يا نَصيرْ</lines>
+    </verse>
+  </lyrics>
+</song>

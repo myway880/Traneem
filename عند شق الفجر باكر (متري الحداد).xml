@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:55">
+  <properties>
+    <titles>
+      <title>عند شق الفجر باكر</title>
+    </titles>
+    <comments>
+      <comment>Author: متري الحداد
+Tune: AUF IHR KINDER
+Title:143a. عند شق الفجر باكر
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">متري الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> عند شقِّ الفجرِ باكرْ في صباحِ الأحدِ<br/> قام ربُّ المجدِ ناصرْ شعبَهُ للأبدِ<br/> قهرَ الموتَ جلالُهْ دحرجَ الصخرَ الكبيرْ<br/> مَن على القبرِ جمالُهْ بانَ بالنورِ الخطيرْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أنت دستَ الموتَ وحدَكْ يا يسوعُ الناصري<br/> مظهرا للخلق مجدَكْ بالجمالِ الباهرِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قام بكرُ الراقدينا ظافراً مُعطي الحياه<br/> قام حقاً ويقينا قام من بعدِ الوفاه<br/> ها سيوفُ النصرِ سُلَّتْ فوق هاماتِ العدى<br/> وجنودِ الشرِّ ولَّتْ هاربين سرمدا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قمتَ مِن بين اللحودِ أنتَ يا صخرَ الدهورْ<br/> واهباً دارَ الخلودِ لرُقودٍ في القبورْ<br/> وجموعُ الناسِ عادتْ شاهداتٍ بالقيامْ<br/> والسما والأرضَ نادتْ قامَ حقاً قامَ قامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> والجنودُ العُلَوِيَّهْ لاقتِ الربَّ الصمدْ<br/> بالأغاني السرمديَّهْ فوقُ في دارِ الأبدْ<br/> دخلوا المجدَ العَلِيّا بتسابيحِ النعيمْ<br/> وغِناهُمْ يا مسِيّا</lines>
+    </verse>
+  </lyrics>
+</song>

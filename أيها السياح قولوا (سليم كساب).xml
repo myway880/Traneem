@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:27">
+  <properties>
+    <titles>
+      <title>أيها السياح قولوا</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: [أيها السياح قولوا]
+Title:227. أيها السياح قولوا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أيها السياح قولوا<br/> أين أنتم ذاهبونْ؟<br/> نحن في الأسفار نسعى<br/> نحو فادينا الحنون<br/> فوق سهل وجبالٍ<br/> صوب أفراحِ الخلودْ<br/> حيث في الفردوس نجني<br/> كل أثمار الوعود</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أيها السائح ماذا<br/> أنت راجٍ في النعيم؟<br/> تاج مجد ذا بهاءٍ<br/> من يد الفادي الكريم<br/> والثيابَ البيضَ تكسو<br/> كل من نال الفداء<br/> حيث نهر الروض صافٍ<br/> يرتوي منه الظِّماء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أيها السياح هلا<br/> تصحبونا في الرحيل؟<br/> أقبلوا يا قوم أهلا<br/> أقبلوا نحو السبيل<br/> أقبلوا أهلاً وسهلا<br/> إنَّ فادينا يقول<br/> أيها القوم تعالَوا</lines>
+    </verse>
+  </lyrics>
+</song>

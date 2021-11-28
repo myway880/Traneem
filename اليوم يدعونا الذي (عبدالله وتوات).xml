@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:15">
+  <properties>
+    <titles>
+      <title>اليوم يدعونا الذي</title>
+    </titles>
+    <comments>
+      <comment>Author: عبدالله وتوات
+Tune: PARK STREET
+Title:263. اليوم يدعونا الذي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">عبدالله وتوات</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> اليوم يدعونا الذي<br/> ملءُ القلوب حبُّهُ<br/> فائتوا إليه إنهُ<br/> يحيي النفوسَ قربهُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في موته أعطى لنا<br/> كنز الحياة المُقتنى<br/> فلنتَّبعهُ إنه<br/> يُعطي مواهبَ الغنى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قوموا نمجدِ اسمهُ<br/> بكل ألحانِ النشيدْ<br/> لأنه أدخلَنا<br/> في نعمة العهد الجديدْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فهو ينادي قائلاً<br/> يا خاطئين أقبلوا<br/> فكل آتٍ نحوهُ</lines>
+    </verse>
+  </lyrics>
+</song>

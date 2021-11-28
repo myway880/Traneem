@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:45">
+  <properties>
+    <titles>
+      <title>يسوع حبيبي نصيبي الرحيم</title>
+    </titles>
+    <comments>
+      <comment>Author: حنا خباز
+Tune: GORDON
+Title:176. يسوع حبيبي نصيبي الرحيم
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">حنا خباز</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يسوعُ حبيبي نصيبي الرحيمْ<br/> وسورَ حياتي وبابَ النعيمْ<br/> إليك صلاتي استمعْ يا كريمْ<br/> فأنت المجيبُ وأنت السميعْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أعِنْ يا قديرُ أعِنْ يا شفيعْ<br/> مُريدَ نُهوضٍ ولا يستطيعْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إليك، ملاذي حنينُ الفؤادْ<br/> صلاةٌ لأجلِ خلاصِ العبادْ<br/> لقد طالَ في ذي البلادِ الرقادْ<br/> فأيقِظْ بصوتِ السماءِ الرفيعْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فيا ربِّ أحيِ رميمَ العظامْ<br/> ولا تُبقِ نفساً برَمسِ الظلامْ<br/> وصُن كلَّ قلبٍ بحصنِ السلامْ<br/> سلامِ الفِدى بالمسيحِ الوديعْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وهَبْ للهُداةِ صحيحَ اليقينْ<br/> بتأثيرِ روحِ الإلهِ الأمينْ<br/> وقوةِ فعلِ الكتابِ الثمينْ<br/>بترك الخطايا فيحيا الجميع</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:43">
+  <properties>
+    <titles>
+      <title> سور من نار</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>وبقيت سور من نار وحمايه من حوالينا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أحنا الشعب المختار غالبين على قلب فادينا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>طول ما انت فى وسطينا مش ممكن راح نتزعزع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>سامعين وعدك لينا ما تخافش ولا تجزع</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>هاتقابلنا اسوار وسهام هاتيجي علينا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>قدامك تنهار وبشخصك تحمينا</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>ميزتنا يا الهنا عن كل الناس حوالينا</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>بمسيرك قدامنا راح نوصل اراضينا</lines>
+    </verse>
+  </lyrics>
+</song>

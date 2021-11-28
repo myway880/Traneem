@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:03">
+  <properties>
+    <titles>
+      <title> قوموا من النوم إن الليل قد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">قوموا من النوم إن الليل قد ولى<br/>وكوكب الصبح في الآفاق قد هل</lines>
+      <lines break="optional">بشائر الصبح قد غنت بلابلها<br/>في الأرض تصدحنا من الفرح وما أحلى</lines>
+      <lines break="optional">غنت تبشرنا أن العرس قد قرب<br/>وصاحب العرس جهز عرسه الأعلى</lines>
+      <lines>بلابل الصبح<br/>غنينا بشائره<br/>لعل يصحو الآن من أرخى ستائره</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> قوموا من النوم هيا نصح يا قومي<br/>النور قد لاح فما الجدوى من النوم</lines>
+      <lines break="optional">كل العلامات قد بانت ملامحها<br/>وهو لنا آت كما قال من القدم</lines>
+      <lines break="optional">لا بد يصطحب للعرس عروسته<br/>دفع لها المهر وما أغلاه مندمه</lines>
+      <lines>هل عرسه ينسى<br/>أم ينسى عروسته<br/>حاشاه كلا إن ما أقوى محبته</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> إن زالت الأرض لا زال رجا الوعد<br/>حاشا هو الرب ألا يوفي بالعهد</lines>
+      <lines break="optional">فسيد العرش في سلطانه ملك<br/>يجثو له الكل من ملأ ومن جند</lines>
+      <lines break="optional">والرب عيناه ساهرة ليجريها<br/>في دقة العهد أو في قدرةالمجد</lines>
+      <lines>بلابل العرش<br/>غنينا لكي تصحو<br/>الوقت قد حان فهذا يومنا صبح</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> الفادي ينادي لذا فاستيقظوا شعبي<br/>والصبح قد حل وذي الأبواق في ضرب</lines>
+      <lines break="optional">شدوا الوَثاق ثم صبوا في المصابيح<br/>زيتا ليجعلها لكم نورا بلا تعب</lines>
+      <lines break="optional">فيشهد النور عما في قلوبكم و<br/>من يقظة الحب ومن أشواق للرب</lines>
+      <lines>هيا اطرحوا الثقل<br/>من ذنب ومن هم<br/>وفي انتظار للعريس هبوا يا قومي</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> طوبى لمن يصحو في هذا الليل منتظرا<br/>يحظى بتكريم لأنه صار معتبرا</lines>
+      <lines break="optional">يحظى بإكليل هناك سوف يلبسه<br/>والرب يمدحه فيا طوباه قد سهرا</lines>
+      <lines break="optional">هيا أفيقوا الآن إن البرق قدقربا<br/>والفجر قد حان وهذا نوره ظهرا</lines>
+      <lines>بلابل الصبح<br/>غني دائما أبدا<br/>لعل يصحو الآن من في نومه جمدا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:41">
+  <properties>
+    <titles>
+      <title> دقت اجراس</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>دقت اجراس السما في الشرق<br/>والنجمة لمعت زي البرق<br/>و يسوع مولود وسطنا موجود<br/>ده وجوده معانا عمل الفرق</lines>
+    </verse>
+    <verse name="c1">
+      <lines> دقوا الاجراس<br/>دقوا الاجراس وسبوها تدق<br/>حيوا بطبول حيوا بالرق<br/>ده يسوع مولود عندنا في الشرق</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ظهروا ملايكة طايرين في الشرق<br/>باغاني فرح وشهادة حق<br/>لله المجد في سمواته<br/>وسلام وسعاده لكل الخلق</lines>
+    </verse>
+  </lyrics>
+</song>

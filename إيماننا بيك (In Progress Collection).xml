@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:52">
+  <properties>
+    <titles>
+      <title> إيماننا بيك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إلهنا أقوى من كل قوة وكل أبواب الجحيم<br/>ثابت سلامنا رافعين هتافنا لاسم إلهنا العظيم</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إيماننا بيك ثقتنا فيك نتحدى بيك المستحيل<br/>لا حد سيف ولا اضطهاد هايخلي إيماننا يميل</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لا خوف يسود جوه القلوب إن جزنا في نار الأتون<br/>ابن الإله وعده يكون معانا ونفوسنا يصون</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لما الحياة تبقى في إيدين إله صانع معجزات<br/>وادي الدموع هايبقى ينبوع ويفيض فينا التعزيات</lines>
+    </verse>
+  </lyrics>
+</song>

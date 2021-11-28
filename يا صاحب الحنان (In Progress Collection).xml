@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:39">
+  <properties>
+    <titles>
+      <title>يا صاحب الحنان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا صاحب الحنان هاصرختى اليك<br/> يا ملجا نفسى انت هو الضمان فى وسط غربتى<br/>(احتاج اليك)2 احتاج منك قوه لترفعنى<br/>(انت وحدك)2 ...انت تعين ضعفى وترحمنى<br/>يا سيدى انى اريد العمق فيك فاروينى واحينى</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(يا صاحب الحنان هاصرختى اليك<br/>انى اليك راجع ...راجع اليك)2<br/>(راجع لحضنك .....راجع لدربك<br/>انا راجع لنورك ...ياصاحب الحنان)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ياصاحب الحنان يانبع قوتى<br/>انت وسط الاحزان تعزى مهجتى<br/>(اتوق اليك)2..اتوق ان تحيا فى يالكى<br/>(انت بروحك)2.. انت تقود عمرى ورحلتى<br/>(ياسيدى غير بروحك حياتى واملكن ارادتى<br/>المس فؤدى وحواسى بل وكل دنيتى)2</lines>
+    </verse>
+  </lyrics>
+</song>

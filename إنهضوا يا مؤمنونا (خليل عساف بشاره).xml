@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title>إنهضوا يا مؤمنونا</title>
+    </titles>
+    <comments>
+      <comment>Author: خليل عساف بشاره
+Tune: LOWER LIGHTS
+Title:384. إنهضوا يا مؤمنونا
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">خليل عساف بشاره</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إنهضوا يا مؤمنونا<br/> حارِبوا جندَ الفسادْ<br/> إنَّ فادي العالمينا<br/> قد دعاكم للجِهادْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أَنشِدوا غنوا افتخاراً<br/> بانتصاراتِ المسيحْ<br/> وارفعوا الصوتَ جِهاراً<br/> بأناشيدِ المديحْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إنهضوا أدوا الشهادَهْ<br/> واحمِلوا نورَ العُلى<br/> وانشُروا روحَ العبادَهْ<br/> بخشوعٍ في الملا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لكمُ في الأرضِ ضيقٌ<br/> مثلَما قال الكِتابْ<br/> إنما الفادي رفيقٌ<br/> مانحٌ حُسنَ الثوابْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ربَّنا يا مَن دعانا<br/> لاكتسابِ الأنفُسِ<br/> قَوِّنا سدِّدْ خُطانا</lines>
+    </verse>
+  </lyrics>
+</song>

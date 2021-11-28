@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title>مثل عظيم رحمتك</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: THE CLEANSING FOUNTAIN
+Title:271. مثل عظيم رحمتك
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> مثل عظيم رحمتك<br/> يا خالقي ارحمني<br/> ومثل فرط رأفتك<br/> أمح الخطا عني</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إغسل كثيرا سيدي<br/> نفسي من الذنبِ<br/> وهكذا خذ بيدي<br/> مطهرا قلبي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إني بإثمي عارف<br/> معترف جهرا<br/> وهو أمامي واقف<br/> أنظره الدهرا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أخطأت يا ربِّ إليك<br/> بالقول والفعل<br/> والشرَّ ما بين يديك<br/> صنعت فاصفح لي</lines>
+    </verse>
+    <verse name="v5">
+      <lines> تشبعُني يا منقذي<br/> بالبهجة الفُضلى<br/> فيفرح العظم الذي<br/> في ذُله يبلى</lines>
+    </verse>
+    <verse name="v6">
+      <lines> قلبا نقيا طاهرا<br/> بي اخلُقه يا مولاي<br/> وروحَ عدل ظاهرا</lines>
+    </verse>
+  </lyrics>
+</song>

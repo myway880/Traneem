@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:25">
+  <properties>
+    <titles>
+      <title>إني لك الدهرا</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: KIRBY BEDON
+Title:204. إني لك الدهرا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إني لكَ الدهرا<br/> سلمتُك الأمرا<br/> ربي المعينْ<br/> قلبي وما فيّا<br/> أُهدي لفاديّا<br/> حاميَّ راعيّا<br/> رُكني المتينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> خصَّصتُ ما عندي<br/> للمبدِعِ المُبدي<br/> وقتي الثمينْ<br/> أجرى دمَ الحبِّ<br/> مولاي بالصلبِ<br/> مُذ سالَ من جنبِ<br/> ذاك الطعينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بالروحِ يُحييني<br/> ربي ويُعطيني<br/> نَصري المبينْ<br/> في مُهجتي حلاّ<br/> بمُلكِه أولَى<br/> أُعطي له الكلاّ<br/> ربي الأمينْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نفسي له وقْفُ<br/> يزكو بها العَرفُ<br/> في كلِّ حينْ<br/> يا أيها الفادي<br/> أُمْنُنْ بإرشادي<br/> كُن قوتي زادي</lines>
+    </verse>
+  </lyrics>
+</song>

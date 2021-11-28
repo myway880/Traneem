@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:29">
+  <properties>
+    <titles>
+      <title> أنا في المدينة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا في المدينة أمشي مكتئبا في قلبي خيبتي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنساب تائها وفي آهات</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>الضيق أبحث عن طريق أنا من كنت السبيل لك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>قلبي يميل</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أرجوك يا ربي انظر لحالتي أرجوك يا ربي أنا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>في ضيق</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>تعال يا ربي ضمد جراح حياتي بدمك ربي دم</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>الصديق</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>وأنت بهجتي في عالم غريق لك مناجاتي لأنك</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>الطريق</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>وأنت فرحتي في عالم جديد بحبك يدوم أرجوك يا</lines>
+    </verse>
+    <verse name="v1l">
+      <lines>حبيب</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title>إنهض بفادي الأمم</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: WEBB
+Title:382. إنهض بفادي الأمم
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إنهض بفادي الأممْ<br/> يا عسكرَ الربِّ<br/> وانشر عليك العلَمْ<br/> في موقف الحربِ<br/> يسوعُ كنزُ النِّعَمْ<br/> يقود للغلْبِ<br/> وكل عاصٍ هزمْ<br/> وساد بالحبِّ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إتبعْ رئيسَ العُلى<br/> يا جيش إيمانِ<br/> واثبُت مُقيماً على<br/> وعدٍ وإحسانِ<br/> فلا تكن وجِلا<br/> وافتُك بشيطانِ<br/> هيهاتِ أن تُخذلا<br/> مِن عونِ رحمانِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قُم مُقبلاً للحملْ<br/> يا محفل الجندِ<br/> واحمل سلاحاً كمَلْ<br/> واهجم على الضدِّ<br/> حارب بدون مللْ<br/> لا تخش من لَحدِ<br/> مَن ليسوعَ انتقلْ<br/> قد فاز بالمجدِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> حربٌ قصيرُ الزمنْ<br/> فاغلبْ ولا تجزعْ<br/> فالآنَ دمعُ الحَزنْ<br/> لكن غداً يُنزعُ<br/> إكليلُ مجدٍ حسنْ<br/> يُعطاهُ مَن يخضعْ<br/> يحظى بمجدٍ الوطنْ<br/> وينتفي المدمعْ</lines>
+    </verse>
+  </lyrics>
+</song>

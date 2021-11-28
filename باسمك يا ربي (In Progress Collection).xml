@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:55">
+  <properties>
+    <titles>
+      <title> باسمك يا ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>باسمك يا ربي اتينا كلنا<br/>نعبد نسبح نرفع شخصك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فض في قلوبنا فض في ارواحنا<br/>فض في حياتنا ملء روحك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لأسمك يا ربي نخضع ذواتنا<br/>ننحني ونسجد امام عرشك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>امح اثامنا نق قلوبنا<br/>افتح شفاهنا لتسبيحك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>باسمك يا ربي نريد قوة<br/>قوة تهدم الحصون تضرم جمرة</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>انعش نفوسنا الهب اعماقنا<br/>ارعش عظامنا وارسلنا</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>باسمك يا ربي نعلن نصرة<br/>نعلن تحطيم القيود نعلن غلبة</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>انت الهنا صخر قوتنا<br/>فيك فخرنا انت عزنا</lines>
+    </verse>
+  </lyrics>
+</song>

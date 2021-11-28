@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:59">
+  <properties>
+    <titles>
+      <title> في مهد حقير</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>في مهد حقير في بيت صغير<br/>جاء ابن الانسان اذ ليس في البيت مكان</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ليتك يا ربي ما تسكن قلبي<br/>تنزع عني الاثام تمنحني السلام ولتتخذ من قلبي وسادة لراسك<br/>نفسي لا تهدى سوى في حضنك ربي في حضنك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مانح الطيور عشا ومكان<br/>لم يكن له في ارضه اي مكان</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا فادي انت مصدر الهناء<br/>لولا حبك ما كان لي اي رجاء</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا طفل السماء سيدي المسيح<br/>لاسمك يليق كل تمجيد وتسبيح</lines>
+    </verse>
+  </lyrics>
+</song>

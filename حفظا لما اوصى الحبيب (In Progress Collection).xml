@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:20">
+  <properties>
+    <titles>
+      <title> حفظا لما اوصى الحبيب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حفظا لما اوصى الحبيب نذكر موته العجيب وهذه الذكرى تطيب حتى يجيء</lines>
+    </verse>
+    <verse name="v2">
+      <lines> اذ نكسر الخبز نعيد كيف قضى الفادي المجيد وحبنا له يزيد حتى يجيء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> نبع دمائه انفجر ونال بالموت الظفر ها الكاس تعلن الخبر حتى يجيء</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نذكر موته كما عودته من السما مواظبين دائما حتى يجيء</lines>
+    </verse>
+    <verse name="v5">
+      <lines> حتى ينادينا القدير ويسمع الموتى النفير اذ ينفخ البوق الاخير لما يجيء</lines>
+    </verse>
+    <verse name="v6">
+      <lines> على الرجا هنا نقيم ايمان فادينا القويم نرقب يومه العظيم حتى يجيء</lines>
+    </verse>
+  </lyrics>
+</song>

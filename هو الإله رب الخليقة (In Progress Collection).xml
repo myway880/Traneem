@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:30">
+  <properties>
+    <titles>
+      <title> هو الإله رب الخليقة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>هو الإِله ربُّ الخليقةِ<br/>هو الإِله عظيمُ القدرةِ<br/>ينبوعٌ في القِفار وصخرةُ الأدهار<br/>هو الإِله المخلص الشافي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> غنوا هللويا غنوا هللويا<br/>غنوا هللويا غنوا هللويا<br/>هو الإِله القادر العلي<br/>هو الإِله المخلص الشافي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> الكائن العظيم إلهُ إبراهيم<br/>يمنحنا السلام فهو رب السلام<br/>إله أزلي إله أبدي<br/>هو الإِله المخلص الشافي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يسد عوزَنا يشبع قلبَنا<br/>الإِله الفادي هو ملكنا<br/>قد أرسل ابنه ليعلن حبَّه<br/>هو الإِله المخلص الشافي</lines>
+    </verse>
+  </lyrics>
+</song>

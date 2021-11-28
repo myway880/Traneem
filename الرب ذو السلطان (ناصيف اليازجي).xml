@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:10">
+  <properties>
+    <titles>
+      <title>الرب ذو السلطان</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: STATE STREET
+Title:18. الرب ذو السلطان
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الرب ذو السلطانْ<br/> والمالكُ الكلِّ<br/> فلنُهدِ حمداً كلَّ آنْ<br/> لهُ على الفضلِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قوموا اسجُدوا أمامْ<br/> ذي العرش بالورعْ<br/> فإنهُ باري الأنامْ<br/> والكلَّ قد صنعْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أَنصِتْ لما يقولْ<br/> يا كلَّ شعبهِ<br/> واخضعْ بطوعٍ وقبولْ<br/> مُعترِفاً بهِ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> للآب حمِّدوا<br/> والابنَ عظموا<br/> والروحَ أيضاً مجدوا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title>ها انني اقترب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ها انني اقترب<br/>واطلب منك الرضا<br/>معترفا بانك<br/>انت الوحيد المرتجى</lines>
+    </verse>
+    <verse name="c1">
+      <lines>انت ربي كل بهجتي<br/>منك ربي عوني قوتي<br/>فيك ربي حقا راحتي<br/>يا حبيبي يا يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>تعبت من سيري البطيء<br/>والوقت يمضي في هباء<br/>فسر بوجهك المضيء<br/>امامي يا نور الرجاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ومعك سوف اكمل<br/>مسيرتي في ذي الحياه<br/>لن يبهر بريقها<br/>عينا رات نور الاله</lines>
+    </verse>
+  </lyrics>
+</song>

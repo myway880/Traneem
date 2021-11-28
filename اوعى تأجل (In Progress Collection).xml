@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:25">
+  <properties>
+    <titles>
+      <title> اوعى تأجل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>اوعى تأجل<br/>مين ها يجيب لك عمرك تاني<br/>اوعى تأجل<br/>مين راح يضمن عمره ثواني</lines>
+    </verse>
+    <verse name="c1">
+      <lines> دلوقتي عندك فرصه<br/>يمكن آخر فرصه<br/>الباب مفتوح قدامك<br/>ما تأجلش لبكره</lines>
+    </verse>
+    <verse name="v2">
+      <lines> عمرك غالي<br/>ليه بتغامر بيه بخساره<br/>عمرك غالي<br/>ليه دي الأبديه جباره</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ليه بتكابر<br/>الله ما ها يرجع في كلامه<br/>ليه بتكابر<br/>وانت ما دقتش مرّه سلامه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ثق في كلامه<br/>اللي بيؤمن بيه كسبان<br/>ثق في كلامه<br/>والتغيير جواك ها يبان</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:32">
+  <properties>
+    <titles>
+      <title>وها اعيش لك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>( وهاعيش لك حتي ولو كرهوني الناس<br/>وهاكون لك حتي ولو اسمي بينداس)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>( حتي ولو قالوا عني كلام حتي ولو صادفتني الام)2<br/>هافضل صامد فيك انا متمسك بيك<br/>هافضل صامد فيك يا يسوع انا متمسك بيك<br/>(يكفي حياتي ان انت معايا هارمي العالم كله ورايا)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(حتي ولو نسيوا الخلان اني اخوهم بعدوا كمان)2<br/>هارمي بحملي عليك واصرخ وانا بناديك<br/>هارمي بحملي عليك يا يسوع واصرخ وانا بناديك<br/>( انت الخل الوفي ده كفاية بلقي في حبك لي حماية)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>( غدر ومر وكله منين خايف اقولها ازاي خاينين)2<br/>علمني ازاي اسامح وانسي الحرف الجارح<br/>علمني ازاي اسامح وانسي الحرف الجارح<br/>(وافضل ناظر ليك قدامي وبحبك راح اعيش ايامي )2</lines>
+    </verse>
+  </lyrics>
+</song>

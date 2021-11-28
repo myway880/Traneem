@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:07">
+  <properties>
+    <titles>
+      <title> أغلق الباب وحاجج</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>اغلق الباب وحاجج<br/>في دجى الليل يسوعَ<br/>واملأ الليل صلاة<br/>وصراعا ودموعا</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> أيها الحائر يا من تهت في فكر عميق<br/>تسأل الناس وتشكو صارخًا أين الطريق</lines>
+      <lines break="optional">هل وجدت الحل يا مسكين والقلب الشفيق<br/>هل أزال الناس ما عندك من هم وضيق</lines>
+      <lines break="optional">يا صديقي سوف لا يجديك في الدنيا صديق<br/>ليس عند الناس رأي ثابت شاف يليق</lines>
+      <lines>فحلول لفريق ضد أخرى لفريق<br/>إنما عندي علاج قد خبرناه جميعا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أيها المصلح يا من تملأ الدنيا لهيبا<br/>ثائرا للحق والإصلاح محتدًا غضوبا</lines>
+      <lines break="optional">كم لقيت العنت والتجريح والقول المعيبَ<br/>تحمل اليوم صليبًا وغدًا أيضًا صليبا</lines>
+      <lines break="optional">يا صديقي إن مضى الوقت نزاعًا وحروبا<br/>واستمر الحال مثل الأمس صعبًا وعصيبا</lines>
+      <lines break="optional">فادخل المخدع واركع واسكب النفس سكيبا<br/>قل له اشتدت وضاقت فافتح الباب الرحيبا</lines>
+      <lines>قل له يا رب إني<br/>عاجز ٌ لن استطيعَ</lines>
+    </verse>
+  </lyrics>
+</song>

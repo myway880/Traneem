@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:44">
+  <properties>
+    <titles>
+      <title> يا من بحضوره</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا من بحضوره نفسي تطيب<br/>ومَن يوم ضيقي أدعوه<br/>نهارًا تعزي بالليل رقيب<br/>خلاصي من كل الوجوه</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في أي المراعي أربضت الغنم<br/>يا راعي النفوس المريح<br/>لماذا أتيه في وادي الألم<br/>كضالٍ في قفرٍ فسيح</lines>
+    </verse>
+    <verse name="v3">
+      <lines> راعيَّ العزيز نفسي تتبعُك<br/>ما أعذب صوتك لي<br/>أوردني واحمني فأحيا معك<br/>وبك نفسي ترتوي</lines>
+    </verse>
+  </lyrics>
+</song>

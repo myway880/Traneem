@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title>يا أيها الرب القوي</title>
+    </titles>
+    <comments>
+      <comment>Author: حبيب جرجس
+Tune: DOWNS
+Title:184. يا أيها الرب القوي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">حبيب جرجس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا أيها الرب القوي<br/> والمنجدُ الأمينْ<br/> حماكَ ملجأٌ لنا<br/> وحصنُنا الحصينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أُنظر إلهي مِن عُلى<br/> عرشِكَ في السما<br/> وهَب لكرمةٍ هُنا<br/> غرَستَها النَّما</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا بِيعةً قد حُسِبَتْ<br/> سفينةَ النجاه<br/> أرجو لك سلامه<br/> من لدُن الإلهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> كنيسةٌ أحببتُها<br/> محبةَ البنينْ<br/> فإنْ نسيتُ عهدها<br/> لتنسني اليمينْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> وفي صلاتي دائماً<br/> أرجو لها الفلاحْ<br/> مُلتمساً فوزاً لها<br/> مِن مصدر النجاحْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> ليحفظِ الربُّ لها<br/> عهداً على الدوامْ<br/> وليَملأنْ أبراجها</lines>
+    </verse>
+  </lyrics>
+</song>

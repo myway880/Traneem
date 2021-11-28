@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:08">
+  <properties>
+    <titles>
+      <title> لازم يشوفوك في</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لازم حياتي تكون نقية قدامك يا يسوع<br/>وعشان لساني يسبح اسمك ويقول للجموع</lines>
+      <lines>تعالوا ليسوع<br/>بلاش ابدا رجوع<br/>للعبودية</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> لازم يشوفوك في</lines>
+      <lines break="optional">يشوفوك في افعالي<br/>مش بس في كلامي<br/>يشوفوك في صلاتي<br/>يشوفوك في ترنيماتي</lines>
+      <lines>لازم يشوفوك فيا<br/>لازم يشوفوك يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لازم اعيش زي ما انت كنت عايش تمام<br/>اكره كل خطية واحب اكون صانع سلام</lines>
+      <lines>وانادي للجموع<br/>مافيش زي يسوع<br/>في محبته لي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لازم احكي لبابا وماما واصحابي كمان<br/>عن يسوع حبيبي علي الصليب سحق الشيطان</lines>
+      <lines>وعطاني السلطان<br/>اغلبه بايمان<br/>تحت رجلي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title>طوبى لمن قد غفرت</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: MEDFIELD
+Title:322. طوبى لمن قد غفرت
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> طوبى لمن قد غُفرتْ<br/> لهم ذنوبُهمْ<br/> وللذين سُترتْ<br/> أيضاً عيوبُهمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> طوبى لمن لم يحسبِ<br/> ربي له زللْ<br/> وللذي لم يكذبِ<br/> بالغشِّ والحِيَلْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قد اعترفتُ بالعلنْ<br/> إليك يا عليمْ<br/> وأنت قد صفحت عنْ<br/> إثمي يا كريمْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فليبتهجْ على الدوامْ<br/> صديقُ ربهِ<br/> وليفتخر مَنِ استقامْ</lines>
+    </verse>
+  </lyrics>
+</song>

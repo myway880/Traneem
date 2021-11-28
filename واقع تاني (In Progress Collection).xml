@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title> واقع تاني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">إنت وعدت إنك تديني واقع تاني<br/>إنت وعدت تخلي قلبي في حتة تاني</lines>
+      <lines break="optional">إنت وعدت هتملا يومي بالأغاني<br/>وانت وعدت إنك هاتفرح قلبي تاني</lines>
+      <lines>وأنا مستنيك رغم الظروف رغم الليالي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> الناس قالوا لي إزاي هاتصدق واقع تاني<br/>يمكن يحصل يمكن لأ<br/>يمكن تعاني</lines>
+      <lines break="optional">لكني سامع صوت في قلبي ملا كياني<br/>صوت واضح أقوى من أي واقع تاني</lines>
+      <lines>هو اللي بيدعي الغير موجود وكأنه أمامي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أنا هاغلب ضعفي ومرضي وخوفي بإيماني<br/>وهاصدق في المجد اللي جاي ومش هاداري</lines>
+      <lines break="optional">هاشهد عنه واهتف لاسمه في كل أحوالي<br/>ولأنه معايا فجري جاي بالأغاني</lines>
+      <lines>ولأنه معايا الخير والرحمة يتبعاني</lines>
+    </verse>
+  </lyrics>
+</song>

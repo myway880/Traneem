@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title> إنني أسبى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">إِنَّنِي أُسْبَى بِحُبٍّ جَارِفٍ<br/>حِينَ أَرْنُو لِذَيَّاكَ الصَّلِيبْ<br/>حَيْثُ قَدْ قَدَّمَ رَبُّ الْمَجْدِ لِيَ<br/>نَفْسَهُ إِنَّهُ أَغْلَى حَبِيبْ</lines>
+      <lines>فَأَرَانِي قَدْ سَجَدْتُ خَاشِعًا<br/>شَاكِرًا مَنْ قَدْ فَدَانِي بِالصَّلِيبْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> لا أَسْتَطِيعُ لا أَسْتَطِيعُ<br/>أَمَامَ ذِي الْمَحَبَّةِ<br/>لا أَسْتَطِيعُ لا أَسْتَطِيعُ<br/>أَنْ أَحْيَا فِي الْخَطِيَّةِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وَكَيْفَ بَعْدَ أَنْ عَرَفْتُ ذَا الْحُبَّ<br/>وَاخْتَبَرْتُ نِعْمَةَ الرَّبِّ الْعَظِيمْ<br/>أَصْنَعُ الشَّرَّ وَأَجْرَحُ قَلْبَهُ<br/>مُحْزِنًا رَبِّي وَخِلِّي الْحَمِيمْ</lines>
+      <lines>إِنَّنِي أَبْغِي السَّمَا لا الْعَيْشَ لِلْعَالَمِ<br/>وَأَجْرِي نَحْوَ رَبِّيَ الْكَرِيمْ</lines>
+    </verse>
+  </lyrics>
+</song>

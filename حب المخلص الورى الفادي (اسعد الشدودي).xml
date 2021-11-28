@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:38">
+  <properties>
+    <titles>
+      <title>حب المخلص الورى الفادي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: IT PASSETH KNOWLEDGE
+Title:236. حب المخلص الورى الفادي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> حبُّ المخلِّصِ الورى الفادي<br/> سامٍ يفوقُ الوصفَ والإدراكْ<br/> فالقلبُ مشتاقٌ لأن يدري<br/> مستقصياَ في بحرِهِ إذْ ذاكْ عميقَهُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نعمْ سمَتْ محبةُ الفادي<br/> يا ليتَ كلَّ الناسِ تدريها<br/> فتقتفي آثارَهُ طَوعاً<br/> تابعةً كالضأنِ راعيها فتهتدي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> حبُّ الذي قد ماتَ مصلوباً<br/> عن إثمِنا أسمى من الشكرِ<br/> معْ ذاك قلبي دائماً يصبو<br/> أن يشكُرَ الفادي مدى الدهرِ مُرنِّما</lines>
+    </verse>
+    <verse name="v4">
+      <lines> حبٌّ عظيمٌ واسعٌ سامٍ<br/> يأتي بعاصٍ جاهلٍ مثلي<br/> إلى محب حبُّه أفضى<br/> إلى عذاب الصلبِ من أجلي لغبطتي</lines>
+    </verse>
+    <verse name="v5">
+      <lines> فكيف أنسى حبَّ ذا الفادي<br/> من ماتَ من أجلي فأحياني<br/> من أجلِ ذا يُحبُّه قلبي<br/> فهْوَ إذا رئيسُ إيماني ومُنيتي</lines>
+    </verse>
+    <verse name="v6">
+      <lines> متى نرى نور محيّاهُ<br/> في دار خلدٍ زانها المجدُ<br/> فترتوي النفسُ بمرآهُ</lines>
+    </verse>
+  </lyrics>
+</song>

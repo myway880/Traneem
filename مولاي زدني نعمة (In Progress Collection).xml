@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:23">
+  <properties>
+    <titles>
+      <title>مولاي زدني نعمة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مولاي زدني نعمة<br/>كي انمو دوما في حماك<br/>قو كذا ارادتي<br/>كي اتبع اثر خطاك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>( امسك يميني ايها القدير<br/>كن انت عوني حيثما اسير<br/>كن انت عوني حيثما اسير ) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مولاي كن لي مرشدا<br/>ما دمت في هذي الحياة<br/>مهد طريقي هاديا<br/>اياي في سبل النجاة</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مولاي قد سفينتي<br/>في بحر شدة الحياة<br/>وازرع في قلبي سيدي<br/>كل البذور المنتقاة</lines>
+    </verse>
+    <verse name="v4">
+      <lines>مولاي كل منيتي<br/>بان افوز برضاك<br/>فارض علي سيدي<br/>واسكب علي من غناك</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title>مرني ان اتي اليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مرني ان اتي اليك<br/>رغم ذا الليل الرهيب<br/>مرني ان اتي اليك<br/>مؤمنا ايا حبيب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مرني ان اتي اليك<br/>هبني راحة لديك<br/>فيك نفسي تستريح<br/>( راحتي بين يديك ) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مرني ان اتي اليك<br/>رغم ثقل جسدي<br/>مرني ان اتي اليك<br/>فوق ماء مزبد</lines>
+    </verse>
+    <verse name="v3">
+      <lines>واحملني سيدي<br/>انت تحمل الفلك<br/>واهدني يا منجدي<br/>لحماك انا لك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ان تكل اعيني<br/>عينك دوما تصون<br/>ان تخني ارجلي<br/>قلبك ليس يخون</lines>
+    </verse>
+  </lyrics>
+</song>

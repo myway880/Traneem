@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:09">
+  <properties>
+    <titles>
+      <title> لجبلك ربي انا صاعد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لجبلك ربي انا صاعد مشتاق لنورك يملاني<br/>محتاج بقربك اتواعد فلا اوجد في العالم تاني</lines>
+      <lines>طلبة قلبي اللي انت فديته تملك في كياني المتواضع<br/>قلبي الي ليك انا خصصته ليليق بمجدك الرائع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كان ممكن يفشل مشواري واتوه ويتوهني قراري<br/>لكنك لي وحوالي سيجت فبادت اخطاري</lines>
+      <lines>حبيتني وصرت لي خلاصي وبمجدك سرت قدامي<br/>وبهيبتك رفعت راسي وبجودك شبعت ايامي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> جعان انا ليك ولمعرفتك فأعن ضعفي وضعف ايماني<br/>وبهيبتك ربي ومخافتك املا قلبي وكل كياني</lines>
+      <lines>انت المجد اللي اشتهيته ورخصت قدامه سنين عمري<br/>وطلبته ومن قلبي عنيته ومن اجله انا اترك تبري</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> انا بيك مطمن يافادي ما هييجي يوم وهتنساني<br/>حتي ان هاجت الدنيا علي انا بيك مسنود ما انت ضماني</lines>
+      <lines>ان نسيت الأم رضيعها مش ممكن انت هتنساني<br/>و حياتي انت اللي صانعها حتي في ضعفي إنت أماني</lines>
+    </verse>
+  </lyrics>
+</song>

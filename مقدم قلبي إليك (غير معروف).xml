@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:20">
+  <properties>
+    <titles>
+      <title>مقدم قلبي إليك</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: ST. PETER
+Title:196. مقدم قلبي إليك
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> مُقَدّمٌ قلبي إليكْ<br/> يا ربِّ فاقبلهُ<br/> مُتكلاً دوماً عليكْ<br/> فمُلكَكَ اجعلهُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قد تُبتُ طوعاً للحبيبْ<br/> بالقولِ والحياهْ<br/> مُكرِّساً عند الصليبْ<br/> قلبي لمن فداهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هَبني إلهي مَسحتكْ<br/> بروحك اختمني<br/> واسكب عليَّ نعمتكْ<br/> وعندك اقبلني</lines>
+    </verse>
+    <verse name="v4">
+      <lines> طهِّر كلامي والعملْ<br/> يا رب والأفكارْ<br/> حتى إذا عُمري كملْ<br/> أحيا معَ الأبرارْ</lines>
+    </verse>
+  </lyrics>
+</song>

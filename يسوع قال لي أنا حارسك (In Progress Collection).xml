@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:45">
+  <properties>
+    <titles>
+      <title> يسوع قال لي أنا حارسك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يسوع قال لي أنا حارسك<br/>مالك خايف من إيه<br/>حملك واخذته عنك مالك تعبان من إيه</lines>
+      <lines break="optional">خوفك دا عدم إيمان<br/>تعبك دا مالوهش مكان</lines>
+      <lines break="optional">سلمت الدفة لمين<br/>يحدفها شمال ويمين<br/>ليه تايه يا مسكين<br/>وأنا لك ملجأ ومعين</lines>
+      <lines break="optional">ليه تعيش في الدنيا شريد<br/>وانت ليك كل المواعيد</lines>
+      <lines break="optional">دا أنا عندي ليك بركات<br/>بس انت قول لي هات</lines>
+      <lines>أديك من غير حساب<br/>خيرات من عند الآب</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> في نهاية ألمي وتعبى<br/>قلت لهم أنا عطشان</lines>
+      <lines break="optional">وفي عطشي وظمأي رويتك<br/>وبروحي بقيت مليان</lines>
+      <lines break="optional">تصرخ دايما وحزين<br/>وكأنه مالكش معين</lines>
+      <lines break="optional">سلمت الدفة لمين<br/>يحدفها شمال ويمين<br/>ليه تايه يا مسكين<br/>وانا لك ملجأ ومعين</lines>
+      <lines break="optional">ليه تعيش في عطش وفي جوع<br/>ليه عينيك مليانة دموع</lines>
+      <lines break="optional">دا أنا عندي ليك بركات<br/>بس انت قول لي هات</lines>
+      <lines>أديك من غير حساب<br/>خيرات من عند الآب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> نكست عشانك راسي<br/>إكليلي كان أشواك</lines>
+      <lines break="optional">وفي موتي وجدت حياتك<br/>بعد ما زالت خطاياك</lines>
+      <lines break="optional">ليه أنا شايفك زعلان<br/>كان أملي تكون فرحان</lines>
+      <lines break="optional">سلمت الدفة لمين<br/>يحدفها شمال ويمين<br/>ليه تايه يا مسكين<br/>وأنا لك ملجأ ومعين</lines>
+      <lines break="optional">ليه تعيش عبد ومملوك<br/>وانت أبوك ملك الملوك</lines>
+      <lines break="optional">دا أنا عندي ليك بركات<br/>بس انت قول لي هات</lines>
+      <lines>أديك من غير حساب<br/>خيرات من عند الآب</lines>
+    </verse>
+  </lyrics>
+</song>

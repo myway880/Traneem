@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:03">
+  <properties>
+    <titles>
+      <title> قوموا نسبح كلنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>قوموا نسبح كلُّنا للكاهنِ العظيمْ<br/>أسماؤنا منقوشةٌ في صدره الرحيمْ<br/>قد غَسَلَ بدمه أوزارَنا هُنا<br/>وهو هناك شافعٌ طول المدى لنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إذ جاز في ذاتِ الطريق في هيئةِ البشرْ<br/>يعينُ ضَعفَ شعبِهِ ويدفعُ الخطرْ</lines>
+      <lines>يقول لي هأنذا حيٌ لأجلِكَ<br/>أحببتكَ فديتكَ أرثي لضعفِكَ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لا سببَ يقدرُ أن يُخمد حبَّ ذاكْ<br/>ماتَ هُنا عنا كما يحيا لنا هناكْ</lines>
+      <lines>فلنذكرِ الفضلَ العظيمْ ولنشدُ لاسمِهِ<br/>ولتعترفْ شفاهُنَا بعُظْمِ حبِّهِ</lines>
+    </verse>
+  </lyrics>
+</song>

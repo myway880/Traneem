@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:27">
+  <properties>
+    <titles>
+      <title>أيها الراعي الأمين</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الراسي
+Tune: GOTHA
+Title:409. أيها الراعي الأمين
+</comment>
+    </comments>
+    <authors>
+      <author type="words">اسعد الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أيها الراعي الأمينْ<br/> رأسَ كل المؤمنينْ<br/> أنت لي حصنٌ حصينْ<br/> يا رجاء العالمينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هوذا جئنا نخصصْ<br/> لك عبداً للعملْ<br/> فاقبلنهُ يا مخلصْ<br/> خادماً بُشرى الأزلْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واجعلنه خيرَ راعٍ<br/> ساهراً على الخرافْ<br/> في انتشار الحق ساعٍ<br/> بثباتٍ وانشغافْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> كن له تُرساً وسوراً<br/> ولساناً للكلامْ<br/> هَب له قلباً غيوراً<br/> ومحباً للأنامْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> ليكن مصباحَ نورِ<br/> مستنيراً مِن هُداكْ<br/> مُرشداً أهل الغرورِ<br/> كي يرَوا وجه رضاكْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> أعطيهِ قلباً حكيماً<br/> وكذا الروحَ الوديعْ<br/> واحفَظَنهُ مستقيماً</lines>
+    </verse>
+  </lyrics>
+</song>

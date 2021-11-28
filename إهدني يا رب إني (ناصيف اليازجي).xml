@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:25">
+  <properties>
+    <titles>
+      <title>إهدني يا رب إني</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: HEAVENLY GUIDE
+Title:51. إهدني يا رب إني
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إهدني يا ربُّ إني<br/> تهت في قفر العمى<br/> يا قديرُ انظرْ لضعفي<br/> وانتشلني مُنعما<br/> وأذقني وأذقني<br/> مُشبعا خبزَ السما</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إفتحِ النبعَ المُصَفّى<br/> حيث أمواهُ الرِّوى<br/> ترتوي منه نفوسٌ<br/> تبتغي سُبْلَ الهدى<br/> يا مُنَجي يا مُنجي<br/> كن سلاحي والقُوى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أيها الغالبُ قهراً<br/> هولَ موتٍ وجحيمْ<br/> أجِزِ العبد سليماً<br/> لحياةٍ ونعيمْ<br/> لك يُهدي لك يُهدي<br/>كل مجد مستديم</lines>
+    </verse>
+  </lyrics>
+</song>

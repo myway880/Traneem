@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title> محبة الله قد سمت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">محبة الله سمت<br/>ما قاسها عقلٌ فطين<br/>فوق النجوم ارتفعت<br/>ونزلت للهالكين</lines>
+      <lines>إذ أذنب كل البشر<br/>أتاهم الرحيم<br/>يهديهم يفديهم<br/>بدمه الكريم</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أشكر من أحبني<br/>حبا سما عجيب<br/>طهرت إذ غسلني<br/>دم ذاك الحبيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لو صار حبرًا كلّ يمّ<br/>وورقا كل الفلك<br/>وكل عشبة قلم<br/>والكل في النسخ اشترك</lines>
+      <lines>ما كتبوا ما وصفوا<br/>محبة الحبيب<br/>فاقت سمت فاضت طمت<br/>مقدارها عجيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لما الخطايا تكثر وتملأ القلب شرور<br/>لما الذين كفروا يبكون يرجون الغفور</lines>
+      <lines>حب الرحوم لهم يدوم بكل قوته<br/>دم الرحيم يحيي الأثيم أحظى ببهجته</lines>
+    </verse>
+  </lyrics>
+</song>

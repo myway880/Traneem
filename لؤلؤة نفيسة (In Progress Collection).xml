@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:47">
+  <properties>
+    <titles>
+      <title> لؤلؤة نفيسة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لؤلؤة نفيسة<br/>ليس لها مثيل<br/>(يا فرحتي وجدتها<br/>يسوعي الجليل)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يسوع ربي ملكي<br/>حي مدى الدهور<br/>(وشمس بر تشرق<br/>بالشفا والحبور)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يسوع سيدي البهي<br/>شجرة الحياه<br/>(من قلبه تندفق<br/>حياة كالمياه)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يسوع لي طول المدى<br/>طعامي والرواء<br/>(نصيبي ميراثي السني<br/>غناي والهناء)2</lines>
+    </verse>
+  </lyrics>
+</song>

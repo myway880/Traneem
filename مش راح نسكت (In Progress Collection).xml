@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مش راح نسكت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مش راح نسكت وهانتكلم<br/>راح نعلن مين هو يسوع<br/>وبتسبيحنا الكل يسلم<br/>إن الأرض دي ملك يسوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> اسمح ربي واملك فينا<br/>وفي تسبيحنا اسكن يا مهوب<br/>إعلن قوة ملكك بينا<br/>قوة دمك والمصلوب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إنت يا رب فيك كفايتنا<br/>إنت مسيحنا ملك الكون<br/>إنت هدفنا وكل غايتنا<br/>مهما قابلنا معاك هايهون</lines>
+    </verse>
+    <verse name="v3">
+      <lines> راح نعلن إنك يا قائدنا<br/>في حروبنا غالب وقدير<br/>مش ممكن يقدر يغلبنا<br/>إبليس مهما حاربنا كتير</lines>
+    </verse>
+    <verse name="v4">
+      <lines> راح نهتف ونغني أغاني<br/>نفرح بيك والفرح يدوم<br/>نفرح بيك يا إلهنا الغالي<br/>نعلن نصرنا بيك اليوم</lines>
+    </verse>
+  </lyrics>
+</song>

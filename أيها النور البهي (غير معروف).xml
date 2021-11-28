@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:27">
+  <properties>
+    <titles>
+      <title>أيها النور البهي</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: ALETTA
+Title:310. أيها النور البهي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أيها النور البهي<br/> كِلمةَ الله القديرْ<br/> إن نفسي تشتهي<br/> لك شوقاً أن تطيرْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنت فاديَّ المسيحْ<br/> ربُّ كل العالمينْ<br/> أنت أهلٌ للمديحْ<br/> يا حياة المؤمنينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ربَّنا حتى متى<br/> نحن في هذي الديارْ<br/> مِن كبيرٍ وفتى<br/> تائهين في القفارْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا يسوعُ طالما<br/> نرتجي ذاك النعيمْ<br/> ولذيّاكَ الحِمى<br/> عندنا شوقٌ مُقيمْ</lines>
+    </verse>
+  </lyrics>
+</song>

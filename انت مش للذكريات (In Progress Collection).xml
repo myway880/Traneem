@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:23">
+  <properties>
+    <titles>
+      <title>انت مش للذكريات</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انت مش للذكريات<br/>او لمجد راح وفات<br/>او لفرحه تدوم ثواني<br/>او دقايق او ساعات</lines>
+    </verse>
+    <verse name="c1">
+      <lines>انت اقوى..انت اعظم<br/>انت حي وانت تقدر<br/>انت صخره..انت ملجا<br/>انت فوق حد التصور</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انت مش افكار جميله<br/>او حماسه للشباب<br/>او كلام بيدوب ويدبل<br/>في مواجهة الصعاب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انت مش بعيد هناك<br/>او لوحدك في سماك<br/>انت مجد في وسطنا<br/>سور حمايه من الهلاك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>انت مش ناسي الوعود<br/>تدي موسم للحصاد<br/>وتعوض عن سنين<br/>اللي ضيعها الجراد</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:16">
+  <properties>
+    <titles>
+      <title> ما لم تباركني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ما لم تباركني ربي<br/>لن أطلقك لن أتركك<br/>بل هاك قلبي سيدي<br/>كي تمتلكه للأبد</lines>
+    </verse>
+    <verse name="v1">
+      <lines> يا سيدي ربي المعين<br/>يا من وعدت يا أمين<br/>أرجو بدالة البنين<br/>حقق لي وعدك الثمين</lines>
+    </verse>
+    <verse name="v2">
+      <lines> حتى إذا مال النهار<br/>سيبقى قلبي في انتظار<br/>ما لم تباركني ربي<br/>لن أطلقك لن أتركك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بحق فاديّ الحنون<br/>بحق جنبه المطعون<br/>بحق من ذاق المنون<br/>لن أطلقك لن أتركك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> قد قلت لن تتركني<br/>حتى تتمم الوعد<br/>أيضا أنا لن أتركك<br/>لن أطلقك لن أتركك</lines>
+    </verse>
+    <verse name="v5">
+      <lines> ولو قضيتُ ليلتي<br/>أجاهد في خلوتي<br/>ما لم تباركني ربي<br/>لن أطلقك لن أتركك</lines>
+    </verse>
+  </lyrics>
+</song>

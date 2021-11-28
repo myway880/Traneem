@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:48">
+  <properties>
+    <titles>
+      <title>سوف يزول العمر إذ</title>
+    </titles>
+    <comments>
+      <comment>Author: أمين فارس
+Tune: ALT DEUTSCH WELTLICH UND GEISTLICH
+Title:216. سوف يزول العمر إذ
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">أمين فارس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> سوف يزولُ العمرُ إذ<br/> يُفصَمُ حبلُ الفضةِ<br/> وبعدَ ذا معْ سيدي<br/> أُوقَظُ يا لَبهجتي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>وجهاً لوجهٍ سأراهْ<br/> وجهاً لوجهٍ في سماهْ<br/> أشدو بملءِ البهجةِ<br/> مُخلَّصٌ بالنعمةِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يَبطُلُ شدوي حينما<br/> يُسحَقُ كوزُ الذهبِ<br/> لكنَّ شدوي في السما<br/> يبقى فيا لَطَربي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> تُنقَضُ يوماً خيمتي<br/> هذي ويَطويها البِلَى<br/> لكنَّ ربي في السما<br/> ليْ قد أعدّ منزلا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> سوف يقولُ الربُّ إذ<br/> شمسي تُوارَى بالحجابْ<br/> عبدي نِعِمّاً فادخُلَنْ<br/> مجدي ولا تخشَ الحِسابْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> نفسي إلى مُخلِّصي<br/> إذ يُفتَحُ البابُ تطيرْ<br/> لذاك أقضي ساهراً</lines>
+    </verse>
+  </lyrics>
+</song>

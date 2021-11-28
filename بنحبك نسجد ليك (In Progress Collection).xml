@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:32">
+  <properties>
+    <titles>
+      <title>بنحبك نسجد ليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>بنحبك نسجد ليك<br/>انت فادينا<br/>بنحبك نرفع ليك<br/>كل اغانينا<br/>بنحبك انت لينا<br/>كل ما لينا<br/>بنحبك ياللي ساكن<br/>في اوانينا</lines>
+    </verse>
+    <verse name="v1">
+      <lines>يا ساكن جوه قلوبنا<br/>عينينا بتترجاك<br/>مش ممكن قلب ها يشبع<br/>يا يسوع الا بمراك<br/>سبب فرح قلوبنا<br/>اننا جنبيك<br/>واللي يسكن في سترك<br/>يلقى حمايته فيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>قلبك مليان بالرحمه<br/>والخير للمؤمنين<br/>وبتغمرنا بالنعمه<br/>وبدمك مستورين<br/>سبب راحة قلوبنا<br/>اننا في ايديك<br/>واللي يامن بصليبك<br/>يلقى ضمانه فيك</lines>
+    </verse>
+  </lyrics>
+</song>

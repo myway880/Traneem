@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:05">
+  <properties>
+    <titles>
+      <title> أمامك يا سيدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أمامك يا سيدي أمام عرش قدسك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أجثو لك أعترف ربي لك تغمرني بحبك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إليك خطأت فارحمني و الشر صنعت إغسلني</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>عليك اتكلت يا منقذي فلا تحجب وجهك عني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>من عمق ضعفي أدعوك بقلبي و روحي أرجوك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>سلاما و حبا قد وعدتنا ربي إذ نلقى محياك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أشكرك إلهي خلصتني من كل آثامي حررتني</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>زدني إيمانا لأحيا بك أنت خلاصي أسبحك</lines>
+    </verse>
+  </lyrics>
+</song>

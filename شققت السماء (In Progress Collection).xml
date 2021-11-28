@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:49">
+  <properties>
+    <titles>
+      <title>شققت السماء</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>شققت السماء الينا نزلت<br/>كطفل وديع وانت العظيم<br/>تجسدت كالعبد كيف قبلت؟<br/>وانت بروحك حر كريم<br/>تنازلت عن كل مجد وصيت<br/>وجردت نفسك مما عليك<br/>لتختار في الارض احقر بيت<br/>وبيت السماء يحن اليك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فلله مجد بتلك الاعالي<br/>اتى بالسلام لاهل المسره<br/>لنفرح فرب الانام يبالي<br/>فقد جاء يبدي ويمنح بره</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عرجت على الزمن البشري<br/>وانت الذي قد خلقت الزمان   وسكناك في القالب الابدي<br/>فتعلو الزمان تحد المكان<br/>اتيت لتكشف قلب الاله<br/>وكيف لاجل الخطاة يضحي<br/>فلا حب حبك انت يضاهي<br/>تحب عداك بشكل ملح</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ولدت لتولد وسط القلوب<br/>بسكناك تمنح روح التبني<br/>تطهرها بدماء الصليب<br/>تجدد كل الحياة وتغني<br/>الى عالم النقص جئت يسوع<br/>بصلب يقوم كل اعوجاج<br/>ايعطش ماء اخبز يجوع<br/>اتحتاج حتى تسد احتياجي<br/></lines>
+    </verse>
+  </lyrics>
+</song>

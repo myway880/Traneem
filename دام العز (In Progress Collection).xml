@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title> دام العز</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>دفع فينا الدم الغالي وما كنا بنسواه جيت الأرض بحب يا غالي وحبك ما بننساه</lines>
+    </verse>
+    <verse name="c1">
+      <lines> دام العز ودام الفرح في قربك يا الله واهب لينا نعيش الفرح ونتمتع وياه</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وكلامك صار لينا النور وبنورك نحياه لولا قلبك حن علينا ما كنا نلقاه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وقلوبنا راح تهتف ليك طول ما فيها حياة ونسبح ونرنم ليك مجدا يا الله</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بنرنمها وبنغنيها ونرفع بيها صلاة روح الله يشهد جوانا إن يسوع الله</lines>
+    </verse>
+  </lyrics>
+</song>

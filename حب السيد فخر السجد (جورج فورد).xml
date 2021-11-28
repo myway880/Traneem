@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:37">
+  <properties>
+    <titles>
+      <title> حب السيد فخر السجد</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج فورد
+Tune: SOUND THE BATTLE CRY
+Title:237. حب السيد فخر السجد
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">جورج فورد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> حبُّ السيدِ فخرُ السُّجَّدِ<br/> حُلوٌ ثابتٌ سامِ عجيبْ</lines>
+      <lines> حبٌّ طاهرٌ حبٌّ وافرٌ<br/> قوموا مجِّدوا الابنَ الحبيبْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">مُلكٌ مَجدٌ قوةٌ للفادي<br/> نادوا بالغفرانِ للأثيمْ</lines>
+      <lines> حبُّ الربِّ المنعشُ الفؤادِ<br/> بابٌ للحياةِ والنعيمْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حبُّ الغافرِ ذاك الناصري<br/> يمحو الإثمَ والشرَّ المَعيبْ</lines>
+      <lines> حبٌّ كاملٌ حبٌّ شاملٌ<br/> بالإنشادِ كرِّموا الحبيبْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> حبُّ المفتدي روحُ المهتدي<br/> للآمالِ رُكنٌ لا يخيبْ</lines>
+      <lines> حبٌّ حاضرٌ حبٌّ ناظرٌ<br/> بالتهليلِ سبِّحوا الحبيبْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> حبُّ المنتصرْ عونُ المنكسِرْ<br/> يحمي النفسَ من موتٍ مُريبْ</lines>
+      <lines> حبٌّ نافعٌ حبٌّ شافعٌ</lines>
+    </verse>
+  </lyrics>
+</song>

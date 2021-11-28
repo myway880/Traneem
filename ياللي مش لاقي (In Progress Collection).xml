@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:44">
+  <properties>
+    <titles>
+      <title> ياللي مش لاقي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا اللي مش لاقي لحياتك أي معنى<br/>أيوه عايش بس عيشه بطعم موت</lines>
+      <lines break="optional">كل ما تفوق من جراحك تلقى طعنه<br/>والصراخ مكتوم في قلبك ما له صوت</lines>
+      <lines>والألم باين عليك والندم مالي عينيك<br/>قوم تعال للي حبك قوم تعال للمسيح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> بص للي قدم حياته عشان تعيش<br/>دي الحياه من غير إلهك ما تساويش<br/>صدقني ما تساويش</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> صوت ضعيف وأنه طالعه زي آهه<br/>مش سامعها حد من الناس اللي جنبك</lines>
+      <lines>بتحاول تكتمها ليه وتدوس عليها<br/>الحقيقه انك لا بد تبوح بقلبك</lines>
+    </verse>
+  </lyrics>
+</song>

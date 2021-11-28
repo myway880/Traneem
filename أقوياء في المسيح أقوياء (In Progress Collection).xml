@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:09">
+  <properties>
+    <titles>
+      <title> أقوياء في المسيح أقوياء</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أقوياء<br/>في المسيح أقوياء</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> من العالم أقوى<br/>من الشيطان أعلى<br/>كلامه لنا به يقيننا</lines>
+      <lines>يجعلنا أحكم من كل الأعداء<br/>أقوياء</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كل يوم للأمام<br/>نمسك باليد الزمام<br/>سلطانه لنا وروحه لنا</lines>
+      <lines>قوتنا هي من العلاء<br/>أقوياء</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> فرس ليوم القتال<br/>بنا يصنع المحال<br/>نسير بالإيمان ونغلب العيان</lines>
+      <lines>نجاحنا من إله السماء<br/>أقوياء</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:07">
+  <properties>
+    <titles>
+      <title>أعظم الجبال</title>
+    </titles>
+    <comments>
+      <comment>Author: يوسف الأسير
+Tune: LITTLE DROPS OF WATER
+Title:419. أعظم الجبال
+</comment>
+    </comments>
+    <authors>
+      <author type="words">يوسف الأسير</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أعظم الجبالِ<br/> أوسعُ البحارْ<br/> صار مِن رمالِ<br/> ومنَ القطارْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> من بذورٍ هانتْ<br/> كانت الأشجارْ<br/> وثوانٍ كانت<br/> أطول الأدهارْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هكذا الخطايا<br/> إن تكن صِغارْ<br/> تجعلُ البلايا<br/> تُفسِد الأطهارْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بذرةَ الإحسانِ<br/> من يد الصغارْ<br/> منك ربي جانِ</lines>
+    </verse>
+  </lyrics>
+</song>

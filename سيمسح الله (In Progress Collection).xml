@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:44">
+  <properties>
+    <titles>
+      <title> سيمسح الله</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>سيمسح الله كل دمعه من عيوننا او الموت لا يكون فيما بعد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>كل شئ جديد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>سيمسح الله كل دمعه من عيوننا</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لا وجع<br/>لا حزن لولا صراخ</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>يكون فيما بعد</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>فالجالس على العرش ها قد صنع</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>كل شئ جديد سيمسح الله كل دمعه من عيوننا</lines>
+    </verse>
+  </lyrics>
+</song>

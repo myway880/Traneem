@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:27">
+  <properties>
+    <titles>
+      <title>ها مسيح الرب قالا</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: BELMONT
+Title:315. ها مسيح الرب قالا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ها مسيحُ الرب قالا<br/> جئتُ نورَ العالمينْ<br/> لا يرى خِلّي الضلالا<br/> بل هدى الحق المُبينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هَب لنا اللهم نوراً<br/> في دجى هذا الحياهْ<br/> فهو يُعطينا سروراً<br/> وابتهاجاً مِن هُداهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا يسوع الرب حقِّقْ<br/> لي مواعيدَ الكتابْ<br/> بضياءِ الروح مزِّقْ<br/> غيمَ شكٍّ وارتيابْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فإذا النفسُ استنارتْ<br/> منك ضاءت للسِّوَى<br/> مثل شمسٍ قد أعارتْ<br/> ضوءَها بدرَ الدجى</lines>
+    </verse>
+    <verse name="v5">
+      <lines> مُلكَ نورِ الحق أيِّدْ<br/> في ذُرى هذي الربوعْ<br/> وظلامَ الجهل بدِّدْ<br/> عن حِمانا يا يسوعْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines> شمسُك الحُسنى علينا<br/> أشرقت دون غيابْ<br/> سيدي أسرع إلينا</lines>
+    </verse>
+  </lyrics>
+</song>

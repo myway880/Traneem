@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:20">
+  <properties>
+    <titles>
+      <title> أنا ماشي ولي معاك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>فرحان أنا بإلهي البار<br/>رافع راسي باستمرار<br/>وفي قلبي له افتخار<br/>وبدمه صرت انا جبار</lines>
+    </verse>
+    <verse name="v1">
+      <lines> أنا ماشي ولي معاك<br/>بهجه وعشره وفرح سماك<br/>كل دقيقه انا باستناك<br/>بتوجهني لفعل رضاك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنا ماشي معاك مسرور<br/>مهما قابلت تعب وشرور<br/>بك انا غالب بك منصور<br/>طول ما بدمك أنا مستور</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنا ماشي وعيني عليك<br/>قلبي يا ربي بيهتف ليك<br/>شبعان أنا من خير إيديك<br/>يا أبويا وأعز صديق</lines>
+    </verse>
+    <verse name="v4">
+      <lines> حمد وشكر في قلبي ليك<br/>كل كياني مأسور بيك<br/>كل حياتي ليك باهديك<br/>وحدك ربي يا أغلى مليك</lines>
+    </verse>
+  </lyrics>
+</song>

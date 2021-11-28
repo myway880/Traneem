@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:54">
+  <properties>
+    <titles>
+      <title> ايوه شفتك في التجارب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أيوه شفتك في التجارب وأنت بتدربني أحارب<br/>كنت خايف من النهاية<br/>شفتك الأسد اللي غالب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أيوه شفتك في أنحنائي وأنت بتشكل إنائي<br/>كنت فاكرك مش دوايا<br/>شفتك العون اللي باقي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أيوه شفتك في الأمان وقت لما عدوي جاني<br/>كنت فاكرك مش معايا<br/>وأنت ماسك الزمام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أيوه شفتك في أنكساري وأنت بتغير مساري<br/>كنت شاكك في العناية<br/>وأنت بترد أعتباري</lines>
+    </verse>
+    <verse name="v5">
+      <lines> أيوه شفتك وسط ضعفي وأنت بتداري وتشفي<br/>كنت بسأل على الحماية<br/>وأنت بتحارب معايا</lines>
+    </verse>
+  </lyrics>
+</song>

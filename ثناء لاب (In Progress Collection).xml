@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:36">
+  <properties>
+    <titles>
+      <title>ثناء لاب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ثناء لاب سما صنعه<br/>احب العباد فاعطى ابنه<br/>اتانا فدانا بسفك دماه<br/>كسانا ببر حبانا الحياه</lines>
+    </verse>
+    <verse name="c1">
+      <lines>هللوا هللوا رددوا حمده<br/>هللوا هللوا ارفعوا بنده<br/>تعالوا الى الاب بابن علاه<br/>بيسوع الوسيط وشيدوا ثناه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فداء دماه فداء عظيم<br/>يخلص كل شقي اثيم<br/>فمن لاذ فاز بعفو سني<br/>وذا حسب وعد الامين الغني</lines>
+    </verse>
+    <verse name="v3">
+      <lines>عجائب صنعه حقا بدت<br/>حبتنا ابتهاجا تعالت سمت<br/>وكاس هنانا يفيض يزيد<br/>برؤية وجه يسوع المجيد</lines>
+    </verse>
+  </lyrics>
+</song>

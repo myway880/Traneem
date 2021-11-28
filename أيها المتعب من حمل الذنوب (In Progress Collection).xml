@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:53">
+  <properties>
+    <titles>
+      <title> أيها المتعب من حمل الذنوب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أيها المتعبُ من حَملِ الذنوبِ<br/>وتقاسي أَيَّ وَخزٍ في الضميرِ<br/>إنَّ ذا صَوتُ الإلهِ يَا حَبيبي<br/>إنه يَدعوكَ في حُبٍ كثيرِ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أيُّها الجوعانُ للقوتِ الضروري<br/>لم تجدْ في القفرِ ما يَرضاهُ قلبُك ْ<br/>جِئ ْ إلى اللهِ كجَوعانٍ فقيرِ<br/>إنه الآبُ السماويُّ يُحبُّك ْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أيُّها المديونُ بالدينِ الرهيبِ<br/>وانزَعَجْتَ كيفَ تدفعُ الدُّيونا<br/>استرحْ في الربِّ فاديكَ الحبيبِ<br/>دَفَعَ الدَّينَ فَمَا عُدْتَ مَدِينا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أيها الملدوغ مِن سُمِّ الأفاعِي<br/>وسَرَى السُّمُّ كَنَارٍ في العُرُوقِ<br/>انظُرِ الفادي ذبيحًا في اِرْتِفَاعِ<br/>في صَليبٍ كَيْ مَا تحْيَا يَا صَديقي</lines>
+    </verse>
+  </lyrics>
+</song>

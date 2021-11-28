@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:34">
+  <properties>
+    <titles>
+      <title>يا حارس الأكوان إني</title>
+    </titles>
+    <comments>
+      <comment>Author: رزق الحداد
+Tune: ST. CLEMENT
+Title:345. يا حارس الأكوان إني
+</comment>
+    </comments>
+    <authors>
+      <author type="words">رزق الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا حارسَ الأكوان إني<br/> سلمتُ نفسي ليديكْ<br/> فلا تغُضَّ الطَّرْفَ عني<br/> إذ قد توكلتُ عليكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كُن حارسي من الضلالْ<br/> ومُنقذي منَ العِدى<br/> ومُرشدي في كل حالْ<br/> حتى أرى سُبلَ الفِدى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وإن دجا حولي الظلامْ<br/> ونغّصتْ عيشي الهمومْ<br/> يلوحُ لي منكَ ابتسامْ<br/> فتنجلي كلُّ الغمومْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> وإن برى جِسمي السَّقامْ<br/> وقاربت شمسي المغيبْ<br/> وقد نأى عني الأنامْ</lines>
+    </verse>
+  </lyrics>
+</song>

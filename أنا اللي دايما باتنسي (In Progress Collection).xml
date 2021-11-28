@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:15">
+  <properties>
+    <titles>
+      <title> أنا اللي دايما باتنسي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا اللي دايما باتنسي وكاني نقطة في بحر أو كلمة ف كتاب<br/>يسوع إلهي مخلصي عمل لي قيمة أنا إللي مخلوق من تراب</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عوضني عن عمري إللي ضاع وغسلني من طين ألضياع<br/>وقلت يا أحزان وداع ده مد إيده ف قلبي شال شوك العذاب</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وقال لي فينك من زمان صدقني عندي ليك مكان<br/>وفتح قصاد مني البيان وبحب قال لي وحشتني طال الغياب</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أنا غالي عنده وغالي بيه وقيمتي منه وقيمتي فيه<br/>والعمر كله هدية ليه ده أنا كنت مديون جيه دفع عني الحساب</lines>
+    </verse>
+  </lyrics>
+</song>

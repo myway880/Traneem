@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:22">
+  <properties>
+    <titles>
+      <title>أنت عظيم البركات</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أنت عظيمُ البركاتْ<br/>ياربُ للعبيدْ<br/>رُشْدٌ وَعَوْنٌ وَثباتْ<br/>وَمَلجأٌ وطيدْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يَمينُكَ تقودُنا<br/>إلي مَدى الدَّهرِ<br/>وتَعتَني بِحِفظِنا<br/>في البَرِّ والبَحْرِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>إذا طَما الموجُ الرفيعْ<br/>وهاجتِ المياهُ<br/>نَعلَمُ أنَّك السَّمِيعْ<br/>وصاحبُ النَّجاهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>تَهْدا بأمْرِكَ الرياحْ<br/>طوعًا لِمَا تُريدْ<br/>فَنَنظرُ البحرَ استراحْ<br/>مِن كَدِّهِ الشديدْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>في وَسَطِ الْخَوفِ العظيمْ<br/>نُهدي لك الُّسجودْ<br/>نَذكرُ فَضْلَكَ القديمْ<br/>لأنهُ يَعودْ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ما دُمتَ تَحفظُ الحياةْ<br/>لا تَرْهبُ الهلاكْ<br/>في الضيقِ أو حينَ النجاةْ<br/>نكونُ في حِماكْ</lines>
+    </verse>
+  </lyrics>
+</song>

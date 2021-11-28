@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:44">
+  <properties>
+    <titles>
+      <title> سيدي هبني أراك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سَيِّدِي هَبنِي أرَاك َ<br/>دَائما دَوما أمَامِي<br/>كُلَّ حِينٍ مُلتَقَاكَ<br/>هُوَ عِزِّي وسَلامِي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> عَن يَمِيني يا حَبيبي<br/>سَنَدَ القَلبِ الصَغِيرِ<br/>وأمامِي مُحتَمَايَ<br/>قَائِدي صَخرُ الدُّهورِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إذ أسِيرُ مَهما سِرتُ<br/>أنتَ راعِيَّ وَدَربِي<br/>إننِي فِيكَ حُمِلتُ<br/>كَيفَ لا يَرتَاحُ قَلبِي</lines>
+    </verse>
+    <verse name="v4">
+      <lines> سيدي هبني أراك َ<br/>هبني أنسى ما وَرَائي<br/>نفسي أنسى كي أراكَ<br/>مالئا كُلَّ سَمائي</lines>
+    </verse>
+  </lyrics>
+</song>

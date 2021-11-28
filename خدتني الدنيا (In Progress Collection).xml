@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:23">
+  <properties>
+    <titles>
+      <title> خدتني الدنيا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>يا رب كلمني<br/>وإديني ودان تسمع<br/>وشاور لي على الاخطاء<br/>وقول لي توب وإرجع<br/>إحكي معايا كتير<br/>حسسني بالتغيير<br/>وإملاني بنعمتك<br/>عشان أطيع وأخضع</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>خدتني الدنيا منك<br/>مابقاش لحياتي طعم<br/>والراحة مش لاقيها<br/>وملاني الخوف والهم<br/>والصلوة مش حاسسها<br/>والكلمة مش لامسها<br/>ودموع عيني حابسها<br/>مش عارف أعمل إيه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أيامي هي هي<br/>مش حاسس بتغيير<br/>وعبادتي ليك عادية<br/>في الحب والتقدير<br/>حياتي مش لاقيها<br/>ولا طعم الراحة فيها<br/>ولا حاجة بتكفيها<br/>مش عارف إزاي وليه</lines>
+    </verse>
+  </lyrics>
+</song>

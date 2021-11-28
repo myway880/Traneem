@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:21">
+  <properties>
+    <titles>
+      <title>من غيرك انت يا سيدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(مين غيرك انت يا سيدي وانا ماشي ماسك ايدي)2<br/>خيري مش حد تاني يوم ما عرفتك يوم عيدي دانا يوم ما عرفتك يوم عيدي</lines>
+    </verse>
+    <verse name="v1">
+      <lines>(مين غيرك في المحنة معين اسمك هو برج حصين)2<br/>يجري عليه الصديق يتمنع يتمتع بوعد امين يتمتع بوعد امين</lines>
+    </verse>
+    <verse name="v2">
+      <lines>( مين غيرك خلى لساني يشهد بهتاف واغاني)2<br/>والفرحة اترسمت في ملامحي حضنك بقى هو مكاني حضنك بقى هو مكاني</lines>
+    </verse>
+    <verse name="v3">
+      <lines>( مين غيرك قال ما تخافشي ولا ترهب ولا تقلقشي)2<br/>في مراعي خضرا هاتشبع رحمة وخير كل ما تمشي رحمة وخير كل ما تمشي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>( مين غيرك عنده الحياة ويبرر كل الخطاة)2<br/>وبدم صليبك بتغير مانت وسيط للناس والله مانت وسيط للناس والله</lines>
+    </verse>
+  </lyrics>
+</song>

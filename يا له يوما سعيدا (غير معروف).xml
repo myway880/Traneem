@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:40">
+  <properties>
+    <titles>
+      <title>يا له يوما سعيدا</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: REX GLORIAE
+Title:141. يا له يوما سعيدا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا له يوماً سعيداً<br/> فاقَ أيامَ الزمانْ<br/> يا له صبحاً مجيداً<br/> فيه إعلانُ الأمانْ<br/> فيه نورُ الحقِّ لاحا<br/> منقذاً أسرى الظلامْ<br/> فيه عَرْفُ الطيبِ فاحا<br/> ناشراً بُشرى السلامْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إذ ملاكُ الربِّ دحرجْ<br/> ذلك الصخرَ العظيمْ<br/> قام فادينا وفرَّجْ<br/> همَّ غاوٍ وأثيمْ<br/> حينما الأملاكُ نادتْ<br/> قام بكرُ الراقدينْ<br/> فرقةُ الحراسِ عادتْ<br/> مثلَ موتى أجمعينْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بشَّرتْنا بالقيامهْ<br/> رُسْلُ فادينا الأمينْ<br/> إنها أسمى علامهْ<br/> لرجاءِ المؤمنينْ<br/> وبها الفادي استحقا<br/> كلَّ مجدٍ من أبيهْ<br/> إنه في الآبِ حقا<br/> وكذاك الآبُ فيهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> مَجمعُ الأبرارِ رنَّمْ<br/> بأناشيدِ المديحْ<br/> قد تسامى وتَعظَّمْ<br/> مجدُ فادينا المسيحْ<br/> فلْتُشِدْ كلُّ الأنامِ<br/> شكرَهُ على الدوامْ<br/> بابتهاجٍ وابتسامِ<br/> هاتفينَ الربُّ قامْ</lines>
+    </verse>
+  </lyrics>
+</song>

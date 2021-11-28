@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:35">
+  <properties>
+    <titles>
+      <title> يا راحتي يا فرحتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أحبك أعبدك<br/>أنت لي أنا لك<br/>تنسيني وقتي بقربك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أحبك يا سيدي<br/>أنا لك بجملتي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا راحتي يا فرحتي<br/>إنت شوقي طلبتي<br/>فيك وحدك لذتي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أسرت قلبي بحبك<br/>أشبعت عمري بخيرك<br/>كل حياتي من جودك</lines>
+    </verse>
+  </lyrics>
+</song>

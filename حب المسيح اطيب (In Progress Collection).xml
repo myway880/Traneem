@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:38">
+  <properties>
+    <titles>
+      <title>حب المسيح اطيب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حب المسيح اطيب<br/>لقلبي من عطف البشر<br/>لقد فداني بالدما<br/>وحبه لا يندثر</lines>
+    </verse>
+    <verse name="c1">
+      <lines>( اشدو له واطرب<br/>حب المسيح اطيب ) 2<br/>مجدا له، شكرا له<br/>حب المسيح اطيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>حب المسيح اطيب<br/>لقلبي من مال وفير<br/>غفرانه، حضوره<br/>وعوده تغني الفقير</lines>
+    </verse>
+    <verse name="v3">
+      <lines>حب المسيح اطيب<br/>لقلبي من خمر الكروم<br/>بروحه يملاني<br/>بشرا وافراحا تدوم</lines>
+    </verse>
+  </lyrics>
+</song>

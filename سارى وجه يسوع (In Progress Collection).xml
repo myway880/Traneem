@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:46">
+  <properties>
+    <titles>
+      <title>سارى وجه يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سارى وجه يسوع<br/>يا له مراى عجيب<br/>اذ ارى من مات عني<br/>وفداني بالصليب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>سارى وجها لوجه<br/>ذلك الخل الودود<br/>التقيه بعد حين<br/>فوق في دار الخلود</lines>
+    </verse>
+    <verse name="v2">
+      <lines>كنت من خلف حجاب<br/>ناظرا ملك السلام<br/>فغدا ياتي نهار<br/>ينجلي فيه الظلام</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اه ما ابهج يوما<br/>فيه اهنا بالحبيب<br/>ان ذاك الوقت دان<br/>وسياتي عن قريب</lines>
+    </verse>
+    <verse name="v4">
+      <lines>يا سروري حين القى<br/>الرب في دار الامان<br/>ومحيا من فداني<br/>ساراه بالعيان</lines>
+    </verse>
+  </lyrics>
+</song>

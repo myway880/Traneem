@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title>ها الصباح طلعا</title>
+    </titles>
+    <comments>
+      <comment>Author: سليمان ضومط
+Tune: ST. GEORGE'S WINDSOR
+Title:34. ها الصباح طلعا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليمان ضومط</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ها الصباحُ طلعا<br/> وأتى وقتُ القِيامْ<br/> والظلامُ انقشعا<br/> وبدا نورُ السلامْ<br/> أشرقت شمسُ البها<br/> بسناءٍ وجلالْ<br/> أرسَلَتْ أضواءَها<br/> فوق سهلٍ وجِبالْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> والسماءُ ابتسمتْ<br/> بجمالٍ فائقِ<br/> والأراضي رنمتْ<br/> بمديحِ الخالقِ<br/> وأنا يا سيدي<br/> أرفعُ القلبَ إليكْ<br/> باسطاً أيضا يدِي<br/> ساجداً بين يديكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لك أجثو باحترامْ<br/> أيها الربُّ القديرْ<br/> شاكرا حينَ القيامْ<br/> جودَك السامي الغزيرْ<br/> أنت قد حفظتني<br/> تحت أستارِ الظلامْ<br/> ثم قد أنهضتني<br/> مُطمئنّا بسلامْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أنت يا كلَّ المُنى<br/> مانحٌ نورَ الصباحْ<br/> فاقبلنْ منّي الثنا<br/> واهدني سُبْلَ النجاحْ<br/> باركِ اللهمّ لي<br/> عملي في ذا النهارْ<br/> واحفظنْ يا أزلي</lines>
+    </verse>
+  </lyrics>
+</song>

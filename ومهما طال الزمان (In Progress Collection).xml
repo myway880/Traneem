@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:32">
+  <properties>
+    <titles>
+      <title> ومهما طال الزمان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>وِمَهْمَا طَالْ الزَّمَانْ<br/>بِحَرْبْ وكَرْبْ وهَوَانْ<br/>يَسُوعْ أَعَدّ السَّمَا لِينَا<br/>وفِي انْتِظَارْنَا عَلَى الْمِينَا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ويُومْ مَا تِجِي وتَاخُدْنِي<br/>مَنْظَرْ جَمَالَكْ يِسْعِدْنِي<br/>أَهْتِفْ وَارَنِّمْ وأُغَنِّي<br/>والْفَرْحْ لا يُنْزَعْ مِنِّي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ومَهْمَا سَالِت الدُّمُوعْ<br/>ومَهْمَا كَانْ عَطَشْ وجُوعْ<br/>الأَذْرُع الأَبَدِيَّه<br/>حَامْلانِي وَانَا فِي الْبَرِّيَّه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قَلْبِي ورُوحِي فِي انْتِظَارْ<br/>حَتَّى أَرَاهُ عَلَى السَّحَابْ<br/>لَمَّا أَرَاهْ أَكُونْ مِثْلُه<br/>لأَنَّنِي مِلْك لشَخْصُه</lines>
+    </verse>
+  </lyrics>
+</song>

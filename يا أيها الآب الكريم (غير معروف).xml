@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:36">
+  <properties>
+    <titles>
+      <title> يا أيها الآب الكريم</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: DUKE STREET
+Title:190. يا أيها الآب الكريم
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا أيها الآبُ الكريمْ<br/> والإبنُ والروحُ الأمينْ<br/> حُلَّ بمجدك العظيمْ<br/> كما وعدتَ المؤمنينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ها قد أتاك خاطيءٌ<br/> يحملُ أعباءَ الحياه<br/> يبغي الولادةَ التي<br/> تجعلُهُ ابناً للإلهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فبارك اللهم ما<br/> يسعى إليه مُوقِنا<br/> وزِدهُ نعمةً لكي<br/> ينال برّاً وَهَنا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:41">
+  <properties>
+    <titles>
+      <title>يا منبع الحب اجعلن</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا منبع الحب اجعلن<br/>عرشك في القلب<br/>الامك كي اذكرن<br/>سر بي الى الصلب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>حتى لا انسى جرحك<br/>عني ولا جهادك<br/>حتى لا انسى حبك<br/>سر بي الى الصلب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>قدني الى القبر المنير<br/>يا سيدي الجريح<br/>حيث ملائك القدير<br/>هناك استريح</lines>
+    </verse>
+    <verse name="v3">
+      <lines>فاحضر معي الاطياب<br/>لجسمك الطهور<br/>كالمريمات والصحاب<br/>يا ربي الغفور</lines>
+    </verse>
+    <verse name="v4">
+      <lines>واحمل صليب العار<br/>من اجل فادي<br/>وسط البراري والقفار<br/>ربي وراعي</lines>
+    </verse>
+  </lyrics>
+</song>

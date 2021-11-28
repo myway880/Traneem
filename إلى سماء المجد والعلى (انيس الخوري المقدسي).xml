@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:15">
+  <properties>
+    <titles>
+      <title>إلى سماء المجد والعلى</title>
+    </titles>
+    <comments>
+      <comment>Author: انيس المقدسي
+Tune: SANDON
+Title:305a. إلى سماء المجد والعلى
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">انيس الخوري المقدسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إلى سماء المجد والعُلى<br/> إلى الخلودْ<br/> كُن مرشدي - تهتُ عن الهدى<br/> في ذا الوجودْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا سيدي - ما لي هُدىً سواكْ<br/> كُن مُرشدي - واسمع ندا فتاكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إلى مراعي الحب والجمالْ<br/> حيثُ السلامْ<br/> وحيثُ نهرُ البرِّ صافي الزلالْ<br/> يُروي الأنامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إلى ربوعِ النور والفدى<br/> إلى يسوعْ<br/> أهيمُ في ليلٍ بلا هُدى<br/> نحو الربوعْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إلى حِمى الإيمان والرجا<br/> نفسي تطيرْ<br/> مُلتمساً لي خلفَ ذا الدجى</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title>ان ضليت طول الطريق</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ان ضليت طول الطريق <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع هو الطريق </lines>
+    </verse>
+    <verse name="v2">
+      <lines>وياللي عايز تعرف الحق <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع هو الحق </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ويا للمحتار فين الحياة <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع هو الحياة </lines>
+    </verse>
+    <verse name="v4">
+      <lines>والضعيف وعديم القوة <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع هو قوتنا </lines>
+    </verse>
+    <verse name="v5">
+      <lines>والمريض وصاحب الداء <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع شفاؤنا </lines>
+    </verse>
+    <verse name="v6">
+      <lines>المحتاج راحة وافراح <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع التعزيات </lines>
+    </verse>
+    <verse name="v7">
+      <lines>وأن حبيت تشهد لله<br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع هو الانجيل </lines>
+    </verse>
+    <verse name="v8">
+      <lines>واللي عايش للسماء <br/>(قول يسوع)2<br/>(يسوع)3 <br/>فيسوع نور السما </lines>
+    </verse>
+  </lyrics>
+</song>

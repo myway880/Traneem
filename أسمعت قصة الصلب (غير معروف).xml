@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:05">
+  <properties>
+    <titles>
+      <title>أسمعت قصة الصلب</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أَسَمِعْت قِصَّة الصُّلْب <br/>وَالْحَبّ وَالْفِدَاء <br/>حَيْث رَبّ الْمَجْد سَدَّد آل <br/>دُيُونٌ بِالدِّمَاء </lines>
+    </verse>
+    <verse name="c1">
+      <lines>مِنْ أَجَلِك ذَاك العجيبْ <br/>قَضَى كَسَيْر الْقَلْب <br/>فَوْق الصَّلِيب ، مَات الحبيبْ <br/>عَنْك كَسَيْر الْقَلْب </lines>
+    </verse>
+    <verse name="v2">
+      <lines>أَرَأَيْت تَاج الشَّوْكَ فِي <br/>جَبِينِه ضُفرْ <br/>ثُمَّ كَيْفَ سَامَح الْعُدّى <br/>وذنبهم غُفِر </lines>
+    </verse>
+    <verse name="v3">
+      <lines>أَعْلَمْت كَيْف خَلَص <br/>اللِّصُّ مِنْ الشَّرِّ <br/>حِينَ قَالَ ربيَ اُذْكُرْنِي <br/>فِي مِلْكِك الدَّهْرِيّ </lines>
+    </verse>
+    <verse name="v4">
+      <lines>أَسَمِعْت مَن أُحِبُّك <br/>إِذْ قَالَ قَدْ أُكمل <br/>أَشْكَرَت مِن لأجلكَ <br/>حَيَاتِه بَذْل .</lines>
+    </verse>
+  </lyrics>
+</song>

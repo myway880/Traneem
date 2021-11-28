@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:18">
+  <properties>
+    <titles>
+      <title>انا جيت سلمتك قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انا جيت سلمتك قلبي<br/>وانت غفرت لي ذنبي<br/>معاك همومي بتزول<br/>وافرح وياك على طول</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مقدرش اعيش من غيرك<br/>يا راويني يا يسوع من خيرك<br/>في الجوع بالقاك شبعي<br/>في الخوف بتشجعني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انت مهون لي الغربه<br/>ومعايا في ظروفي الصعبه<br/>انت الدوا لمرضي<br/>وانت القوه لضعفي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انا لي يد قويه<br/>وعين سهرانه علي<br/>شماله تحت راسي<br/>ويمينه تعانقني</lines>
+    </verse>
+    <verse name="v4">
+      <lines>دا صليبك رافع راسي<br/>وموتك سر خلاصي<br/>اسيبك واروح على مين<br/>انت سددت الدين</lines>
+    </verse>
+  </lyrics>
+</song>
