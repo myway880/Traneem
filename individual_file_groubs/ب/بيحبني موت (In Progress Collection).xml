@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:04">
+  <properties>
+    <titles>
+      <title> بيحبني موت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>دا صليبي مش صليبه شال هو الذنب ليه<br/>ده كان دين عليا رضي ليه يبقى عليه</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>كان عقاب خطيتي موت رضي هو ليه عني يموت<br/>جاوب وقال بيحبني موت واختار يموت علشاني<br/>يا ترى شاف فيا إيه حلو عشان أتحب عليه<br/>يوم الصليب نظرة عينيه كان فيها حب سباني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يموت يسوع رجايا عاش خدت الخلاص منه ببلاش<br/>وحاجات كتير ماستحقهاش يسوع من الموت نجاني<br/>كل الكلام عنه مايكفيش شال العقاب وماحاسبنيش<br/>أنا اتعفيت وقال لي عيش حكم براءة مجاني</lines>
+    </verse>
+  </lyrics>
+</song>

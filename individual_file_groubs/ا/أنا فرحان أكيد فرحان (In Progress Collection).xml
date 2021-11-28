@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:28">
+  <properties>
+    <titles>
+      <title> أنا فرحان أكيد فرحان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا فرحان<br/>أكيد فرحان<br/>أنا كلي سعيد<br/>وقلبي حاسس بالأمان<br/>معايا فادي<br/>ماشي جنبي<br/>بيفكر في<br/>وشايل همي<br/>من زمان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ومهما يجرح<br/>شعوري العالم<br/>ومهما يحاول إنه<br/>يفشلني ويخزيني<br/>ألاقي في قلبي<br/>ترنيمة ربي تعزيني<br/>وييجي فادي<br/>ويمسح لي<br/>دمعة عيني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ومهما ييجيني<br/>إبليس بكلامه<br/>ومهما يحاول<br/>إنه يجربني ويغويني<br/>ألاقي في قلبي<br/>كلمة من آية بتغنيني<br/>بترد عليه<br/>وبتكسر شوكته<br/>وتنجيني</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وإن جه أصحابي<br/>وغلطوا في<br/>ومهما يحاولوا<br/>يسيئوا بكل كلامهم لي<br/>ألاقي في قلبي<br/>قوة ربي بتقويني<br/>وارد الشر<br/>بكل الخير<br/>اللي إداه لي</lines>
+    </verse>
+  </lyrics>
+</song>

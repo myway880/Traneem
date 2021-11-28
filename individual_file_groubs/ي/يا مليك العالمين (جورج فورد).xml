@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:41">
+  <properties>
+    <titles>
+      <title>يا مليك العالمين</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج فورد
+Tune: [يا مليك العالمين]
+Title:311. يا مليك العالمين
+</comment>
+    </comments>
+    <authors>
+      <author type="words">جورج فورد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا مليكَ العالمينْ<br/> يا رئيسَ المؤمنينْ<br/> سُدْ بقلبي كلَّ حينْ<br/> بهُدَى الروحِ الأمينْ<br/> واملِكَنّي يا معينْ<br/> يا مليك العالمينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنت سلطانُ الدهورْ<br/> أنت قَهّارُ الشرورْ<br/> قوِّني كيلا أخورْ<br/> أنت لي حصنٌ وسورْ<br/> من مكايِدِ الغرورْ<br/> أنت سلطانُ الدهورْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنت سيدي السميعْ<br/> من ذُرى العرشِ الرفيعْ<br/> أعطني قلباً يُطيعْ<br/> يا مخلصَ الجميعْ<br/> وأعِنّي يا شفيعْ</lines>
+    </verse>
+  </lyrics>
+</song>

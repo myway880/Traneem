@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:51">
+  <properties>
+    <titles>
+      <title> ضللت في ليل الخطايا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ضللت في ليل الخطا فاقتادني يسوع جلا الدجى عن مقلتي وفزت بالرجوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines> نور نور ماليء حشاي نور نور دائما هداي ردني فادي غافرا خطاي حبه العظيم مالىء حشاي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يحلو حديثي معه بكامل الولاء واقتفي اثاره يغمرني الضياء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> اذيع في كل الملا بشراه للعباد يهدي سبيلي حبه في الزرع والحصاد</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ان الذي ارشدني مصدر كل نور سوف اراه في العلى بالمجد للدهور</lines>
+    </verse>
+  </lyrics>
+</song>

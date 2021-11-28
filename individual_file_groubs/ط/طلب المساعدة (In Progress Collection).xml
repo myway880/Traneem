@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:52">
+  <properties>
+    <titles>
+      <title> طلب المساعدة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مقدرش اتوقع مساعدة من غير مطلبها</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مش بس من شخص تانى</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>من ربنا انا لازم اطلب من ربنا</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>احنا بندى ربنا الموافقة انه يتدخل<br/>انه يعمل حاجة</lines>
+    </verse>
+  </lyrics>
+</song>

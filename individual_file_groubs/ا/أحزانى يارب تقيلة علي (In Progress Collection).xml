@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T10:00:30">
+  <properties>
+    <titles>
+      <title> أحزانى يارب تقيلة علي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>مجروح محتاجلك اشفنيني<br/> وبقوة روحك عزيني<br/>أحزانى يارب تقيلة علي<br/> ارفع ألامات نفسي المحنية</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>جايلك مجروح وكلي آسية <br/>حررني بلمسة من العبودية<br/>جايلك بخطايا وظلم سنيني <br/>عشمان أنك راح ترضيني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا ياما بجلهي حفرت أبار<br/> ونسيت إنك في أيديك أنهار<br/>لكني باصرح من قلب النار<br/> وباقولك قود انت المشوار</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>اليوم راجع مسنود بوعود <br/>والوعد يقول إنك موجود<br/>ولو الأحزان عليا تسود<br/> راح تيجي بلمسة تفك قيود</lines>
+    </verse>
+  </lyrics>
+</song>

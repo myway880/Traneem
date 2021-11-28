@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:37">
+  <properties>
+    <titles>
+      <title> أنا مطمن وأنا معاك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا في سلام في سلام مرتاح بالي وبانام<br/>وعد إلهي بيقول معاكوا طول الأيام</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا مطمن وأنا معاك على نفسي وكل ما لي<br/>حاسس بأمان وأنا وياك ما إنت أبويا وإنت راعي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا مش خايف مهما يكون ده لأني واثق في حمايتك<br/>عارف إن أنا فيك مضمون كل كفايتي هي رعايتك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>كل ماييجي فجر جديد تعلن دايما عن إحسانك<br/>لما بالاقي في حياة وباكمل وباعيش في حنانك</lines>
+    </verse>
+  </lyrics>
+</song>

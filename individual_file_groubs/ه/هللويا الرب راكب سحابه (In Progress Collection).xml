@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:29">
+  <properties>
+    <titles>
+      <title> هللويا الرب راكب سحابه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">نفرح بيك نرفع ليك<br/>تسبيحنا وأغانينا<br/>عابرين بيك وسط الضيق<br/>كل صعاب تأتينا</lines>
+      <lines>ضامنين بيك المشوار<br/>أيامنا وليالينا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> هللويا هللويا<br/>الرب راكب سحابه<br/>للأبد للأبد<br/>العدو تم خرابه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مد يمينك يا جبار<br/>اروِ ظمأ أوانينا<br/>أدب واسحق باستمرار<br/>كل إهانه لفادينا</lines>
+      <lines>اسم فادينا يسوع البار<br/>هو الأعلى فوقينا</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وحد شعبك من وراك<br/>وبروحك أشعلنا<br/>بعيون الإيمان نراك<br/>متقدم صفوفنا</lines>
+      <lines>دي كنيستك طلبتها رضاك<br/>وهيبتك عليها</lines>
+    </verse>
+  </lyrics>
+</song>

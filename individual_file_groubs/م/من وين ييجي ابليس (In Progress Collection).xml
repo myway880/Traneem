@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:22">
+  <properties>
+    <titles>
+      <title>من وين ييجي ابليس</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>من وين ييجي ابليس<br/>وانت مسيج حوالي<br/>كيف راح يخطفني منك<br/>وانت الحارس علي</lines>
+    </verse>
+    <verse name="v1">
+      <lines>كيف يقدر يؤذيني<br/>والدم غطى الاعتاب<br/>كيف ممكن يفاجئني<br/>والروح سهران عالباب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>كيف يقدر يوصل لي<br/>وصليبك قدامي<br/>انت سلاحي في حربي<br/>وانت عني تحامي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ايش عنده يغريني<br/>شهوة قلبي عندك<br/>كل مناه يتوهني<br/>يحرمني من مجدك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>انت الراعي الصالح<br/>تحمي كل خرافك<br/>بعصاتك تحرسهم<br/>وعدوهم بيخافك</lines>
+    </verse>
+  </lyrics>
+</song>

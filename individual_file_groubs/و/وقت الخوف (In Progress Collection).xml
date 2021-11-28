@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:32">
+  <properties>
+    <titles>
+      <title>وقت الخوف</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>-وقت الخوف وفي همي وتعبي<br/>هارمي حملي وخوفي عليك<br/>وقت غيوم الشك وحيرتي<br/>هارمي بنفسي فى وسط ايديك<br/>عايز حبك لي ياربي<br/>يثبت في واثبت فيك<br/>يشفي الحب عذابي وقلبي<br/>يفضل ثابت دايما بيك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(وسط الخوف محتاج لسلامك<br/>زى النهر يغمرني<br/>اجري عليك خذني في احضانك<br/>ربي بحبك طمني)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هابكي في وسط الحضن الابوي<br/>وانسى دموع الخوف والرعب<br/>هاسند راسي في حضنك ربي<br/>تمسح دمعي بلهفه اب<br/>تسند ضعفي وترثي لعجزي<br/>وتطرح خوفي بغمر الحب<br/>وامشي وايدي في ايدك جنبي<br/>تهدي خطاي بطول الدرب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ارجع واسكن وانت بتشفي<br/>حزني وتكسر قيد الهم<br/>زي الطفل فى حضنك نفسي<br/>ترتاح زي فطيم للام<br/>يفضل حبك اامن ملجا<br/>واسمك يفضل امنع حصن<br/>ولحضنك اتعلم الجا<br/>احتمي فيك م الخوف والحزن</lines>
+    </verse>
+  </lyrics>
+</song>

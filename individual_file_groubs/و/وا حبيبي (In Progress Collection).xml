@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title> وا حبيبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">وا حبيبي وا حبيبي أي حال أنت فيه<br/>من رآك فشجاك أنت أنت المفتدي</lines>
+      <lines>يا حبيبي أي ذنب قد صنعت أو كريه<br/>فأثابوك جراحًا ليس فيها من شفاء</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حين في البستان ليلاً سجد الفادي الإله<br/>كانت الدنيا تصلي للذي أهدى الصلاه</lines>
+      <lines>شجر الزيتون يبكي وتناديه الشفاه<br/>يا حبيبي كيف تمضي أترى ضاع الوفاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أي حب قد تسامى مثل هذا في حبيب<br/>أي رب قد تجلى مجده فوق الصليب</lines>
+      <lines>دهشة بين البرايا عجبا عند الشعوب<br/>مات عنا وافتدانا باذلاً عنا الحياه</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> وا حبيبي وا حبيبي سلم الموت إليك<br/>فتسلمنا حياة من جراحات يديك</lines>
+      <lines>نلنا عفوًا إذ حملت ذنبنا الملقى عليك<br/>أنت أبطلت المنايا يوم أسلمت الحياه</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> قادك الحب إليّ فمضيت للصليب<br/>وتحملت لأجلي غصَّة الموت الرهيب</lines>
+      <lines>ليتني أقضي حياتي أهرق العمر سكيب<br/>بوصاياك وأحيا شاهدًا طول الحياه</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:35">
+  <properties>
+    <titles>
+      <title> تعالى يا يسوع بيتنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>تعالى يا يسوع بيتنا واملا حياتنا صلاة<br/>وبارك عيلتنا وادينا أحلى حياة</lines>
+    </verse>
+    <verse name="v1">
+      <lines> بمحبتك حوالينا قربنا من بعضينا<br/>وكل واحد فينا تملك بالحب عليه</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نعبدك يا إلهنا في بيتنا إنت ملكنا<br/>وكلمتك في حياتنا أساس بنرجع ليه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> حياتنا تبقى شهادة كل يوم زيادة<br/>واملا قلوبنا إرادة نعرف الناس بيك</lines>
+    </verse>
+  </lyrics>
+</song>

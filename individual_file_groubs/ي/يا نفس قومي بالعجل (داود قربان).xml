@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:42">
+  <properties>
+    <titles>
+      <title>يا نفس قومي بالعجل</title>
+    </titles>
+    <comments>
+      <comment>Author: داود قربان
+Tune: TRURO
+Title:33a. يا نفس قومي بالعجل
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">داود قربان</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا نفس قومي بالعجل<br/> ها قد بدت شمس الصباح<br/> خلي التواني والكسل<br/> واسعَي إلى رب الصلاح</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا من وهبت الآن لي<br/> شمسا لمحو الظلمةِ<br/> أشرق بنورك الجلي<br/> وامح دجى خطيتي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا رب درب سبلي<br/> وكن لقلبي ناظرا<br/> واجعل فؤادي يمتلي<br/> روحا وديعا طاهرا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واجعل قوايَ والفِكَرْ<br/> وكل قولي والعمل<br/> تؤول يا رب البشر<br/> لمجدك السامي الأجل</lines>
+    </verse>
+    <verse name="v4">
+      <lines> حتى إذا حان الرحيل<br/> من ذي الديار الفانيه<br/> أكون يا ربي نزيل</lines>
+    </verse>
+  </lyrics>
+</song>

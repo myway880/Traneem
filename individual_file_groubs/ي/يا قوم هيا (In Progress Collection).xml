@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:39">
+  <properties>
+    <titles>
+      <title>يا قوم هيا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا قوم هيا تعالوا انظروا<br/>نجما عجيبا يضيء الملا<br/>يسير دوما تجاه المليك<br/>ذاك الذي جاء من العلا</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نجمنا يسطع في السما معلنا<br/>صلحا بين الله والانسان<br/>وكذا يحكينا قصة حب الله<br/>الذي لم تسعه السما</lines>
+    </verse>
+    <verse name="v2">
+      <lines>للجالسين في ظلال الموت<br/>اضاء نور عظيم البهاء<br/>يعلن بدء حياة الخلود<br/>وموت ياس وبعث رجاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines>طفل السماء اله الاكوان<br/>جئت يا ربي في ملء الزمان<br/>لم ترضى لنا بذل الهوان<br/>غمرت قلبي بنبع الحنان</lines>
+    </verse>
+    <verse name="v4">
+      <lines>عدل الاله ورحمته<br/>يلتقيان في ذاك الوليد<br/>فيه تجلت محبته<br/>وفيه تم خلاص اكيد<br/></lines>
+    </verse>
+  </lyrics>
+</song>

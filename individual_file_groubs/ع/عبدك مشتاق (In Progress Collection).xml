@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:57">
+  <properties>
+    <titles>
+      <title> عبدك مشتاق</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عبدك مشتاق يشوفك يا يسوع الحبيب<br/>سامحني باللي عملته كرامه للصليب</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنظر إلي ياربي وأملاني بالنور<br/>سامحني باللي عملته ياربي يا غفور</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>العمل هو عملك ليس عمل إنسان<br/>طريق العالم صعبه متعنا بالإطمئنان</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>العمل هو عملك يا كامل الصفات<br/>طريق العالم صعبه عاوزه إنكار الذات</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>العمل هو عملك يا يسوع الحبيب<br/>طريق العالم صعبه عاوزه حمل الصليب</lines>
+    </verse>
+  </lyrics>
+</song>

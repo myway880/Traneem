@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:06">
+  <properties>
+    <titles>
+      <title>كنت مديون العلي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: JESUS PAID IT ALL
+Title:317. كنت مديون العلي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> كنتُ مديونَ العَلي<br/> خالقِ الكلِّ<br/> فقضى ديني الذي<br/> ماتَ من أجلي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>قد قضى ديني<br/> كلَّه الحمَلْ<br/> حينما مات لذا<br/> قالَ قد كَملْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إذ أتى من عرشِهِ<br/> لفِدى الإنسانْ<br/> تمَّ مسعاهُ هنا<br/> كاملَ الإتقانْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أيها الساعي لأنْ<br/> تُدرِكَ البِرّا<br/> ثِقْ ففادي الناسِ قدْ<br/> تمَّمَ الأمرَا</lines>
+    </verse>
+    <verse name="v4">
+      <lines> صالحُ الأعمالِ ذا<br/> ثمرُ الإيمانْ<br/> لازمٌ لكنَّهُ<br/> ما به غُفرانْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> فإلى الفادي الْجَأوا<br/> أيها الخطاهْ<br/> تُلبَسوا من بِرِّهِ</lines>
+    </verse>
+  </lyrics>
+</song>

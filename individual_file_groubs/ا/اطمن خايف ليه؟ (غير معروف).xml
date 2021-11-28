@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:07">
+  <properties>
+    <titles>
+      <title>اطمن خايف ليه؟</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines> اطمن خايف ليه؟<br/>ده ناقش اسمك على كفيه<br/>طول ما أنت ماسك في إيديه<br/>اطمن </lines>
+    </verse>
+    <verse name="v1">
+      <lines>عنده للموت مخارج<br/>ماهو هو الأسد الخارج<br/>غالب وهايفضل غالب<br/>اطمن</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ع الموج العالى بيمشى<br/>وكمان المرضى بيشفى<br/>يدى وبالنعمة يكفى<br/>ويسدد الاحتياجات</lines>
+    </verse>
+    <verse name="v3">
+      <lines>فى البحر يشق طريق <br/>يتمجد وسط الضيق <br/>و ما الاحوال بتضيق<br/>يجى ويصنع قوات</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ضابط كل الاكوان<br/>وبروحه فى كل مكان<br/>وبيدى سلام وامان<br/>للى بيتعلق بيه</lines>
+    </verse>
+    <verse name="v5">
+      <lines>فى الرحمة مالهوش مثيل<br/>وفداؤه ده هو دليل<br/>عن حبه لكل ذليل<br/>غالى ومحبوب فى عينيه</lines>
+    </verse>
+    <verse name="v6">
+      <lines>فى الحرب يحارب عنا<br/>لما بنصرخ له اعنا<br/>طول عمره قريب منا<br/>ولا يعرف مستحيلات</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ابليس قدامه مرعوب<br/>وبأسم يسوع مغلوب <br/>واحنا بدم المصلوب<br/>مضمون لينا انتصارات</lines>
+    </verse>
+  </lyrics>
+</song>

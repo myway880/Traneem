@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:36">
+  <properties>
+    <titles>
+      <title> يا أيها الحب السني</title>
+    </titles>
+    <comments>
+      <comment>Author: حبيب خوري
+Tune: ST. MARGARET
+Title:61. يا أيها الحب السني
+</comment>
+    </comments>
+    <authors>
+      <author type="words">حبيب الخوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا أيّها الحبُّ السني<br/> تشتاقُ نفسي لحماكْ<br/> آتي بها لتقتني<br/> رداءَ بِرٍّ مِن فِداكْ<br/> فهْي بهِ تَغنى</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا أيها النورُ المجيدْ<br/> يا مُرشدي طولَ المدى<br/> أَضِئْ بقلبي فيَزيدْ<br/> نوراً ويزهو أبدا<br/> بساطعٍ أسنى</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا أيها الصليبُ كمْ<br/> رفعتَ رأسي عاليا<br/> ففيك قَدَّستُ الألْم<br/> ودُستُ مجداً باليا</lines>
+    </verse>
+  </lyrics>
+</song>

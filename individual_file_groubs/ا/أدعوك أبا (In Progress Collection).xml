@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:02">
+  <properties>
+    <titles>
+      <title> أدعوك أبا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أدْعوكَ أبّا أيُّها الآب<br/>أرْفَعْ يَدَيَّ حَمْدًا لاسْمِكَ<br/>سِرُّ وُجودِي في حُبِّكَ<br/>لأنَّكَ أنْتَ أبي</lines>
+    </verse>
+    <verse name="v1">
+      <lines> يَوْمَ ابْتَعَدْتُ انْتَظَرْتَني مَهْما خَطِئْتُ تَقْبَلُني<br/>أنا ابْنُكَ تُحِبُّني لأنَّكَ أنْتَ أبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> قَلْبُكَ رَبّي نَبْعُ السَّماح حُبُّكَ يَشْفِي كُلَّ الجِراح<br/>بَيْنَ يَدَيْكَ قَلْبي يَرْتاح لأنَّكَ أنْتَ أبي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> كَنْزُ حَياتي وَجَدْتُكَ في عُمْقِ ذاتي أحْمِلُكَ<br/>طَبَعْتَ فِيَّ جَمالَكَ لأنَّكَ أنْتَ أبي</lines>
+    </verse>
+  </lyrics>
+</song>

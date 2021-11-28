@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:22">
+  <properties>
+    <titles>
+      <title>من يسوع المعتمد</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: HOLLINGSIDE
+Title:275a. من يسوع المعتمد
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> مِن يسوعَ المُعتَمَدْ<br/> لاجِئاً أرجو النجاهْ<br/> بينَما الأرياحُ قدْ<br/> غمرَتني بالمياهْ<br/> أعطِني السترَ الحَصينْ<br/> ريثَما يأتي الحِمامْ<br/> واهدِني المينا الأمينْ<br/> خاتِماً لي بالسلامْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أنت عوني وعليكْ<br/> لم أزَلْ مُتَّكِلا<br/> غطِّ رأسي بيديكْ<br/> كجناحٍ ظلّلا<br/> أنت حَسْبي ليس لي<br/> حاجةٌ إلا إليكْ<br/> ولك الحبٌّ الجلي<br/> غيرَ محدودِ لديكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنهِضِ الساقِطَ بلْ<br/> شجِّعِ العبدَ الضعيفْ<br/> واشفِ أصحابَ العِلَلْ<br/> مُرشِدَ الغاوي الكفيفْ<br/> أنت قدوسٌ كريمْ<br/> ربُّ حقٍّ ونِعَمْ<br/> وأنا العبدُ الأثيمْ<br/> كلُّ أعمالي عَدمْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا رحيماً عادلا<br/> وحنوناَ غافرا<br/> طهِّرَنّي داخِلا<br/> واحفَظَنّي ظاهِرا<br/> أنت ينبوعُ الحياهْ<br/> إنني مِمَّن وردْ<br/> فِضْ بقلبي في حَشاهْ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:14">
+  <properties>
+    <titles>
+      <title>الناس بيلومونا</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> الناس بيلومونا<br/>على كثرة الهتاف<br/>غصبن عنهم مااختبروش<br/>(ولا واحد منهم شاف)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>الناس قالوا طيب<br/>ليه انتم فرحانين<br/>لاواحد فيكم متوظف<br/>(ولا عندة فدان طين)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>الناس قالوا بلاش<br/>قولة الهللويا<br/>غصبن عنهم مااختبروش<br/>(دى علامه التعزيات)2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>الناس قالوا طيب<br/>قولوها بصوت واطى<br/>ياناس احنا مانقدرشى<br/>(نتعزى سكاتى)2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>الناس قالوا كفاية<br/>ليلتين فى كل اسبوع<br/>ياناس احنا مانقدرشى<br/>(نطيق فراق يسوع)2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>اية اللى يرضى الناس<br/>نبطل عبادة<br/>لكننا لا نطيعهم<br/>(بل دايمآ فى زيادة)2</lines>
+    </verse>
+  </lyrics>
+</song>

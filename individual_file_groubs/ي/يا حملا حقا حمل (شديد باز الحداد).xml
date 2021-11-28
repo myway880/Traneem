@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:35">
+  <properties>
+    <titles>
+      <title>يا حملا حقا حمل</title>
+    </titles>
+    <comments>
+      <comment>Author: شديد باز الحداد
+Tune: STORL - STUTTGART
+Title:128. يا حملا حقا حمل
+</comment>
+    </comments>
+    <authors>
+      <author type="words">شديد باز الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا حملاً حقاً حملْ<br/> إثمَ الورى بالصلبِ<br/> بالصمت والصبر احتملْ<br/> آثامَنا بالحبِ<br/> شَقِيتَ عنا يا حبيب<br/> محتملاً موتَ الصليبْ<br/> لا تبتغي سرورا<br/> قبلتَ هُوناً واحتقارْ<br/> حمَلتَ عاراً إثرَ عارْ<br/> كي تمحُوَ الشرورا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ذكراكَ تبقى في الفؤادْ<br/> ما زلت أحيا ربي<br/> أنت المنى أنت المرادْ<br/> في البُعدِ أو في القربِ<br/> يا نورَ قلبي والهُدى<br/> إن مزَّقَتْ قلبي العِدى<br/> فأنت تبقى قربي<br/> يا تاجَ مجدي والبهاءْ<br/> لا أبتغي إلا البقاء<br/> تحوطُني بالحبِّ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أُنشِدُ ليلاً معْ نهارْ<br/> للربِّ آيَ الحبِّ<br/> ما زلت في هذي الديارْ<br/> مُضحِّياً للربِّ<br/> فكري حياتي والعملْ<br/> مُلكاً لفاديَّ الحملْ<br/> حتى بُزوغِ الفجرِ<br/> وكلُّ ما منحني<br/> وكلُّ ما وهبني</lines>
+    </verse>
+  </lyrics>
+</song>

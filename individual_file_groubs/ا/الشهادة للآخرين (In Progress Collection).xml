@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:44">
+  <properties>
+    <titles>
+      <title> الشهادة للآخرين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>الكتاب بيقول<br/>وهم غلبوه بدم الخروف وبكلمة شهادتهم<br/>مهم ان دورة الشفاء تكمل مهم ان انا ربنا يستخدمنى فى حياة اخرين</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ان الشفاء يحصل فى حياة اخرين تانيين</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مهم ان انا ابتدى استخدم طاقتى ومواهبى وخبرات و الامى</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وكل حاجة انا مريت بيها للملكوت</lines>
+    </verse>
+  </lyrics>
+</song>

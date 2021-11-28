@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:11">
+  <properties>
+    <titles>
+      <title> لما الدوده كانت دوده</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ساعة الصبحية ساعة الصبحية بركات جديدة منك لي</lines>
+      <lines>ساعة الصبحية ساعة الصبحية بركات جديدة ياربي من إيديك لي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لما الدودة كانت دودة وبقيت شرنقة بعد شوية طلعت فراشة جناحتها مزوقة</lines>
+      <lines>وبألوانها الجميلة بتطير بين الأزهار تفرح بحياة جديدة في نور شمس النهار</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وكمان النملة أد النملة في شغل بتعملة مش بتروح أو بتريح من غير ماتكمله</lines>
+      <lines>بتشيل على ظهرها أضعاف وزنها وتخزن للشتاء كل أكلها</lines>
+    </verse>
+  </lyrics>
+</song>

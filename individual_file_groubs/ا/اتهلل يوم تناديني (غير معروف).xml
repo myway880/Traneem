@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:58">
+  <properties>
+    <titles>
+      <title>اتهلل يوم تناديني</title>
+      <title>اتهلل يوم تناديني</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines> اتهللُ يومَ تناديني <br/>أنتَ القدوسُ وتهديني<br/>أرتادُ ضفافكَ ترويني<br/>فيضٌ من روحكَ يحييني</lines>
+    </verse>
+    <verse name="v1">
+      <lines>وبوجودكَ تنهال النعمُ<br/>وتسافرُعن أفقي الظلمُ <br/>في الأرجاءِ يحلو النسمُ <br/>فأسبحُ ما طابَ النغمُ </lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا روحَ القدوس الخالق <br/>يا نورَ الأنوارالبارقْ <br/>هيا جدد فينا الفرحَ<br/>والفحنا بالطهرِ العابقْ </lines>
+    </verse>
+    <verse name="v3">
+      <lines>ان تحجبُ شمسكَ لن يبقى<br/>في الدنيا ينبوعٌ دافقْ <br/>أنا ان أنكرتكَ لن يبقى<br/>في عيني َنورٌ بارقْ </lines>
+    </verse>
+    <verse name="v4">
+      <lines>من دونِ شعاعِ مواهبكَ<br/>ما جدواهُ قلبي الخافقْ<br/>فاسكب من روحكَ كي تلقى<br/>روحي فيكَ الحبَ الصادقْ </lines>
+    </verse>
+  </lyrics>
+</song>

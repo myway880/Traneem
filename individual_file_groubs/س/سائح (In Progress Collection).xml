@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:39">
+  <properties>
+    <titles>
+      <title> سائح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا في البيداء وحدي<br/>ليس لي شأن بغيري</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لي جحرُ في شقوق التل<br/>قد أخفيت جحري<br/>وسأمضي منه يومًا<br/>ساكنا ما لست أدري</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>سائحًا أجتاز في الصحراء<br/>من قفر لقفر<br/>ليس لي دير فكل البيد<br/>والآكام ديري</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لا ولا سور فلن يرتاح<br/>للأسوار فكري<br/>أنا طير هائم في الجو<br/>لم أشغف بوكر</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أنا في الدنيا طليق<br/>في إقامتي وسيري<br/>أنا حر حين أغفو<br/>حين أمشي حين أجري</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وغريب انا أمر الناس<br/>شيء غير أمري</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مستحق وحدك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مستحق وحدك<br/>المجد والإكرام<br/>مستحق لاسمك<br/>القدرة والسلطان</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أنت الجعالة<br/>وحدك يا يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مستحق أن نغني<br/>للذتك يسوع<br/>مستحق أن نعلي<br/>اسمك يا يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مستحق يا من ذبحت<br/>واشتريتنا<br/>مستحق يا من حملت<br/>كل أوجاعنا</lines>
+    </verse>
+  </lyrics>
+</song>

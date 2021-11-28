@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:01">
+  <properties>
+    <titles>
+      <title>إحمدوا الرب جهارا</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: SHIPSTON
+Title:15a. إحمدوا الرب جهارا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إحمدوا الربَّ جِهاراً<br/> واشهروا أعمالَهُ<br/> رنموا غنوا لديهِ<br/> عظموا أفعالهُ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> باسمِهِ القدوسِ نادُوا<br/> منه تحيا الأنْفُسُ<br/> أطلبوا وجهَ إلهي<br/> وقُواهُ التمسوا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هو ربٌّ في السما وال<br/> أرضِ يقضي وحدَهُ<br/> وإلى دَورٍ فدورٍ<br/> ليس ينسى عهدَهُ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هو أعطى شعبَهُ مِن<br/> جُودِهِ فيْضَ غِناهْ<br/> سبحوه كلَّ حينٍ</lines>
+    </verse>
+  </lyrics>
+</song>

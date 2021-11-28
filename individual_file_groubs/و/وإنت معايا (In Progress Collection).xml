@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:31">
+  <properties>
+    <titles>
+      <title> وإنت معايا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">وانت معايَ تنادي الأغاني<br/>وانت معايَ يسافر مكاني<br/>كأنه سفينة<br/>تاخذني إليك</lines>
+      <lines>تنادي الأغاني يسافر مكاني<br/>كأنه سفينة تاخذني إليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وانت معايَ تضيع الثواني<br/>وانت معايَ تزيد الأماني<br/>في حب السكينة<br/>وانا بين ايديك</lines>
+      <lines>تضيع الثواني تزيد الأماني<br/>في حب السكينة وانا بين ايديك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وانت معايَ تداوي جراحي<br/>وانت معايَ بالاقي ارتياحي<br/>دموعي الحزينة<br/>ماسحها بايديك</lines>
+      <lines>تداوي جراحي بالاقي ارتياحي<br/>دموعي الحزينة ماسحها بايديك</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> وانت معايَ تطمن خطاي<br/>وانت معايَ بتمحي الخطايا<br/>بدمك شارينا<br/>بانادي عليك</lines>
+      <lines>تطمن خطاي بتمحي الخطايا<br/>بدمك شارينا بانادي عليك</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> وانت معايَ يزيد اشتياقي<br/>وانت معايَ تدور السواقي<br/>وتروي مدينة<br/>زارعها بإيديك</lines>
+      <lines>يزيد اشتياقي تدور السواقي<br/>و تروي مدينة زارعها بإيديك</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional"> وانت معايَ في أجمل حكاية<br/>وانت معايَ فصول الرواية<br/>بتحكي علينا<br/>وتحكي عليك</lines>
+      <lines>في أجمل حكاية فصول الرواية<br/>بتحكي علينا وتحكي عليك</lines>
+    </verse>
+  </lyrics>
+</song>

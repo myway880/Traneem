@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:43">
+  <properties>
+    <titles>
+      <title> ربى يا بختى بيك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربي يا بختي بيك قلبي طاير بيك<br/>نوري فيك وإيديك بتقود حياتي</lines>
+      <lines>عمري وقيمتي فيك لأ مش ها يكفيك<br/>كل كلامي ولحني وتسبيحاتي</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> عايز اتمتع بيك<br/>عايز اشبع ربي بجمالك<br/>إيه تبقى هديه أجيبها لك<br/>مني ليك</lines>
+      <lines>إزاي أوصف فيك<br/>دا انا مسبي بعطفك وحبك<br/>ما تكفيش كلمة باحبك<br/>حبي ليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> خالق الأكوان صاحب السلطان<br/>جيت ورضيت تتهان وتموت بدالي</lines>
+      <lines>أبسط شيء أديك قلبي وعمري اهديك<br/>واركع ابوس رجليك وأغني تاني</lines>
+    </verse>
+  </lyrics>
+</song>

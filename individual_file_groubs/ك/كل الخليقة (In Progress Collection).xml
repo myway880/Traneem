@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:04">
+  <properties>
+    <titles>
+      <title> كل الخليقة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">كل الخليقة التي<br/>في الأرض والسما معا<br/>تعلن حكمة لك</lines>
+      <lines>وجبروتا واسعا<br/>تعترف بأنك<br/>أهيه العظيم الأرفعا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا له من حبٍ عجيب<br/>ورحمةٍ بلا حدود<br/>أخليت نفسك وجئ</lines>
+      <lines>ت حملا يفدي العبيد<br/>يا حمل الله لقد<br/>سبانا ذا الحب الشديد</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وإذ نراك في البستان<br/>تقطر بالحزن دما<br/>نندهش من نعمة</lines>
+      <lines>بها احتملت الألما<br/>دعنا لذا نقبِّلُ<br/>بالحب ربي القدما</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> لكن أمام موتك<br/>بالصلب والعار المهين<br/>ليس يفيك سبحنا</lines>
+      <lines>لو قدم طول السنين<br/>فاقبل سكيب حبنا<br/>وناردينِنا الثمين</lines>
+    </verse>
+  </lyrics>
+</song>

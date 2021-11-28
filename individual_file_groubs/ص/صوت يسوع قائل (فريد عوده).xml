@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:51">
+  <properties>
+    <titles>
+      <title>صوت يسوع قائل</title>
+    </titles>
+    <comments>
+      <comment>Author: فريد عوده
+Tune: VOX DILECTI
+Title:254. صوت يسوع قائل
+</comment>
+    </comments>
+    <authors>
+      <author type="words">فريد عوده</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> صوتُ يسوعَ قائلٌ<br/> "يا متعبَ القلبِ<br/> تعالَ وارتَعْ بالهَنا<br/> وامكُثْ إذاً قُربي"</lines>
+      <lines> أتيتُهُ كما أنا<br/> والقلبُ في كَرْبِ<br/> فنِلتُ للحالِ غِنى<br/> من خالِصِ الحبِّ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> صوتُ يسوعَ قائلٌ<br/> "هَلُمَّ يا ظَمآنْ<br/> ماءُ الحياةِ هِبةٌ<br/> فاشرَبْ وكُن ريّانْ"</lines>
+      <lines> لقد ورَدتْ شارباً<br/> من نبعِه الملآنْ<br/> فانتعَشتْ نفسي بهِ<br/> وقد حيِيتُ الآنْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> صوتُ يسوعَ قائلٌ<br/> "نورُ الورى أنا<br/> أنظُرْ إليّ تستَنِرْ<br/> وتُمسِ في هَنا"</lines>
+      <lines> أبصرتُهُ فكانَ لي<br/> شمساً بها المنى<br/> تقتادُني أنوارُهُ<br/>في سفري هنا</lines>
+    </verse>
+  </lyrics>
+</song>

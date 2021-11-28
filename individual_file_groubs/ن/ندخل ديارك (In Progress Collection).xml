@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:24">
+  <properties>
+    <titles>
+      <title> ندخل ديارك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ندخل ديارك نمتلي بروحك<br/>نترك الخطايا عند مدخل الحجال<br/>نطلب حضورك نبتغي تتويجك<br/>فاقبل تسبيحنا نحبك يا لله</lines>
+      <lines>فتعال بروحك إلينا<br/>قدس الأقداس نبتغي أن ندخل<br/>فتعال بروحك إلينا<br/>إلمس بجمرك شفاهنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أدخل ديارك أمتلي بروحك<br/>وحدك يا رب ألتمس برك</lines>
+      <lines break="optional">تاركا خطيتي<br/>رافعا لك الصلاة<br/>فجوعي وعطشي لبرك<br/>وارتوائي عندك</lines>
+      <lines>خذني ربي لقدس الأقداس<br/>خذني ربي بدم الحمل<br/>خذني ربي لقدس الأقداس<br/>إلمس بجمرك شفتاي</lines>
+    </verse>
+  </lyrics>
+</song>

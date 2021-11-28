@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:15">
+  <properties>
+    <titles>
+      <title>إلى كلماتي اصغ يا سيدي</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: ROOM FOR THEE
+Title:77. إلى كلماتي اصغ يا سيدي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إلى كلماتي اصغَ يا سيدي<br/> تأملْ صُراخي لديكْ<br/> ويا مَلِكي وإلهي استمعْ<br/> فإني أُصلي إليكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وقفتُ أمامك عند الضحى<br/> أُصَلّي لأني ذليلْ<br/> إلى حقِّك المستقيمِ اهدني<br/> وسهِّل إليك السبيلْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وإني بما نلتُ مِن رحمةٍ<br/> أجوزُ إلى منزلِكْ<br/> أجوزُ بخوفِك مستعصماً<br/> وأسجُدُ في هيكلِكْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ليفرَحْ مُحِبوك وليهتفوا<br/> ويبتهجوا للأبدْ<br/> فإنك واقٍ بتُرسِ الرضا</lines>
+    </verse>
+  </lyrics>
+</song>

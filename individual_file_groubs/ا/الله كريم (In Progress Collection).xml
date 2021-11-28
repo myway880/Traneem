@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:50">
+  <properties>
+    <titles>
+      <title> الله كريم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>الله كريم الله<br/>الله كريم</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مش ممكن ينسي أولأده إلهي العظيم</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مهما تصعب أحوالي في بيتي وشغلي ومالي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>هو سيدي وراس مالي عليه كل أتكالي الله كريم</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>لو زماني جار علي وعده يسندني لو دليلي أحتار في روحه يرشدني</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>لو سلامي غاب عني صوته يجذبني لو في وسط النار نفسي إيده تنشلني</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>مجده مالي الكون ربي منور حياتي وبسلامه بغمر قلبي بيلغي أهاتي</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>ماشي جنبي رفيق لدربي في إيده خطواتي مهما كان العالم سلبي ضامن نجاتي</lines>
+    </verse>
+  </lyrics>
+</song>

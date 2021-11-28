@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title> حلقه حلاوة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">حلقه حلاوة<br/>كله مشتهيات<br/>ليس مثله نظير<br/>معلم في ربوات</lines>
+      <lines>(هللويا هللويا<br/>كله مشتهيات)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines> وجهه باهي الضياء<br/>يا له وجها جليل<br/>(تلمح في طلعته<br/>سحر لبنان الجميل)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines> صوته عذب رخيم<br/>صوت راع للخراف<br/>(اذ يناديها تسير<br/>خلفه ولا تخاف)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فعله فاق العقول<br/>يوم اخضع العدى<br/>(جال يشفي السقما<br/>غالبا هول الردى)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines> حبه حقا فريد<br/>في الصليب قد ظهر<br/>(باذلا حياته<br/>لفدى بني البشر)2</lines>
+    </verse>
+    <verse name="v5">
+      <lines> مشتهى كل الشعوب<br/>كله مشتهيات<br/>(عن قريب سيسود<br/>ارضنا والسموات)2</lines>
+    </verse>
+  </lyrics>
+</song>

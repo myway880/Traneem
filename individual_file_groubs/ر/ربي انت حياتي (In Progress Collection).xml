@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:31">
+  <properties>
+    <titles>
+      <title> ربي انت حياتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ربي انت حياتي كل حبي وأوقاتي<br/>ملك ايديك يا إلهي حتى وقت لعبي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مافيش زيك في الدنيا<br/>قلبي معاك ثانيه بثانيه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>اديتني السما هديه<br/>ليك كل قلبي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>دايما ايدي في ايدك وعيني عليك<br/>وفي لساني ترنيمة<br/>وقلبي فرحان بيك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>علشان انت فديتني<br/>وانت اللي راعيتني</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>لو فتحت عيني وبصيت حوالي<br/>مش هلاقي زيك حلو لي</lines>
+    </verse>
+  </lyrics>
+</song>

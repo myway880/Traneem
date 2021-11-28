@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:06">
+  <properties>
+    <titles>
+      <title> أشواق للبركة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أَشْوَاقْ للبركه جُوَّانَا تشْبِعْنَا رِضَى وتفِيضْ فِينَا<br/>تغْمُرنَا البَرَكَه وتمْلانَا أَنْهَارهَا تفِيضْ مِن حَوَالينَا</lines>
+      <lines>وبرُوحَكْ تُثْمِر فِي حَيَاتنَا وتبَيِّنْ ثَمَر الرُّوحْ فِينَا<br/>وبنعْطَشْ لِحَيَاة البَرَكَه مية ضِعْف وأَكْتَر تدِّينَا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أأمر بالبركه ف أيامنا ارجع بمراحمك واحيينا<br/>إشراقة وجهك نستنى ونتوب وتعالج أراضينا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> عَايزينَكْ تيجِي بسُلْطَانكْ تأمُرْ لِحَيَاتنَا بحُرِّيَّه<br/>نثبتْ فِي الحَقّ يحَرّرْنَا مِن كُلّ خَطِيّه وعُبُودِيّه</lines>
+      <lines>مِن كدبْ وبَاطِل نَقِّينَا وبرُوحْ الحَقّ تنَوّرنَا<br/>ارْسِلْ كَلِمَاتكْ واِشفينَا اِظْهَرْ فِي سلُوكنَا وغَيّرْنَا</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> عايزينك تمْلُكْ فِي حَيَاتنَا وبقوّة رُوحكْ عيش فِينَا<br/>تسْكُنْ فِي القَلْب وتمْلانَا مِن غير وَلا رُكْن يكُون لينَا</lines>
+      <lines>امْلُكْ فِي القَلْب وعَلِّمْنَا ندّي لَك رَاحتَك فِي كِيَاننَا<br/>نَوّرْ أَذْهَاننَا وفَهِّمْنَا واتعَاملْ مَع بُطء إِيمَاننَا</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> نكْرِز بِكَلامك بِجَسَارَه نزْرَع والمجد يكُون لاسْمك<br/>وبقوّة رُوحك بِحَرَارَه نحْصُد ونفُوس تعْرف شَخْصَك</lines>
+      <lines>قَوّينَا فَنعمل أَعْمَالَك تدينَا كَمَان أَعْظَم مِنْهَا<br/>وحَيَاتنَا توَافِق أَفْكَارَك وإِيمَاننَا يزِيد ونتَمِّمهَا</lines>
+    </verse>
+  </lyrics>
+</song>

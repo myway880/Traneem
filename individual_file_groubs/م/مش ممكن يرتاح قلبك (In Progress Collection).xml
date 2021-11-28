@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مش ممكن يرتاح قلبك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مش ممكن يرتاح قلبك<br/>وانت بعيد عن ربك</lines>
+      <lines break="optional">لو ربحت العالم كله<br/>مش ها يريَّح قلبك</lines>
+      <lines break="optional">كل العالم باطل<br/>كله قبض الريح</lines>
+      <lines>يا اللي عايز يرتاح قلبك<br/>تعال للمسيح</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مهما تعمر في الدنيا<br/>بكره لا بد تموت</lines>
+      <lines break="optional">اوعى الفرصه تضيع منك<br/>اوعى الفرصه تفوت</lines>
+      <lines break="optional">اسمع صوت إلهك تعال للمسيح</lines>
+      <lines>قول له ارحمني أنا الخاطي<br/>في لحظه تستريح</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> وانت مسافر ع الأبديه<br/>لا بد تكون وياك</lines>
+      <lines break="optional">تذكرة السفر مختومه<br/>بدم يسوع مولاك</lines>
+      <lines break="optional">خدها منه الآن<br/>لا يفوت الأوان</lines>
+      <lines>ترجع تندم وتضيع منك<br/>فرصة الغفران</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> وانت يا اللي في كوره بعيده<br/>بعد ما كنت أمير</lines>
+      <lines break="optional">ترجع تشتهي الخرنوب<br/>اللي بتاكله الخنازير</lines>
+      <lines break="optional">كل العالم باطل<br/>كله أنين ودموع</lines>
+      <lines>مش ممكن يشبع قلبك<br/>غير الرب يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:34">
+  <properties>
+    <titles>
+      <title> تعال وارتفع وسطينا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>تعال وارتفع وسطينا<br/>نفرح بيك وتفرح بينا<br/>واحنا لما ها نشوف مجدك<br/>ليك ها نرفع أغانينا</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> على قد الحب اللي حبيته لينا<br/>على قد المجد اللي صنعته فينا</lines>
+      <lines>حياتنا ها تشهد وقلوبنا ها تعبد<br/>وندي لك يا يسوع المجد اللايق بيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وحتى لو زالت الجبال<br/>إحسانك عنا مش ها يزول<br/>لينا رحمه كل الأجيال<br/>عهد سلامك لينا على طول</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ملك الملوك صاحب السلطان<br/>معطي الرجاء نبع الحنان<br/>إنت القدوس راعينا<br/>رب الجنود فادينا</lines>
+    </verse>
+  </lyrics>
+</song>

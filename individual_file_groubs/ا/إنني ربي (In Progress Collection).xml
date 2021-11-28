@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:24">
+  <properties>
+    <titles>
+      <title> إنني ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>إنني ربي عارفٌ ذنبي<br/>قد تقسَّيتُ وتِهتُ عن دربي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> اغسِلنِّي ربي بِدِما الصليبِ<br/>أنت يا من جئتَ بالفِدَى العجيبِ<br/>أدنو منك الآنْ يا مصدرَ الحنانَ<br/>أدنو منك الآنْ يا مانحَ الغُفرانْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في رحابِك َ في صليبِك َ<br/>أحظى بالسلامْ في ظِلِّ دَمِك َ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أنت تدعوني أنت تهديني<br/>فيك راحتي وأنت تحييني</lines>
+    </verse>
+  </lyrics>
+</song>

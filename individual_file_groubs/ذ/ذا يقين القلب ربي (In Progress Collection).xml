@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title> ذا يقين القلب ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ذَا يَقِينُ الْقَلْبِ رَبِّي<br/>بَلْ وَعِلْمِيَ الْوَطِيدْ<br/>أَنَّكَ بِكُلِّ أَمْرٍ<br/>عَالِمٌ أَيَا مَجِيدْ</lines>
+      <lines>كُلُّ أَمْرٍ فِي حَيَاتِي<br/>مِنْ صَغِيرٍ أَوْ كَبِيرْ<br/>خَلْفُهُ بَلْ أَوْجَدَتْهُ<br/>يَدُكَ أَيَا قَدِيرْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> إِنْ أَخَذْتُ مَا رَجَوْتُ<br/>فِي حَيَاتِي مِنْ آمَالْ<br/>أَوْ خَسِرْتُ كُلَّ شَيْءٍ<br/>وَهَوَتْ بِيَ الآمَالْ</lines>
+      <lines>لَسْتُ أَسْعَى كَيْ مَا أُلْقِي<br/>حِمْلِيَ فَوْقَ الظُّرُوفْ<br/>بَلْ لِقَلْبِكَ الْحَنُونِ<br/>أَلْجَأُ أَيَا عَطُوفْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> لَيْسَ لِلْحَظِّ نَصِيبٌ<br/>فِي حَيَاتِي أَوْ مَكَانْ<br/>كَيْ يُعَلِّي أَوْ لِيُطْوِي<br/>شَأْنِي فِي هٰذَا الزَّمَانْ</lines>
+      <lines>بَلْ يَمِينُكَ الأَمِينَه<br/>لا سِوَاهَا يَا عَجِيبْ<br/>تَعْمَلُ دَوْمًا لِخَيْرِي<br/>ذَا يَقِينِي يَا حَبِيبْ</lines>
+    </verse>
+  </lyrics>
+</song>

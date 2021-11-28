@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:08">
+  <properties>
+    <titles>
+      <title>افضل حياة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>افضل حياة وعدتني<br/>على حياتي تنعم<br/>سررت بي خلصتني<br/>ومن سواك يرحم</lines>
+    </verse>
+    <verse name="c1">
+      <lines>الهي عرفتني<br/>بحبك حاصرتني<br/>فهمتني اختبرتني<br/>ادعوك ابي اهلل</lines>
+    </verse>
+    <verse name="v2">
+      <lines>قلت لي كل الاشياء<br/>معا لخيري تعمل<br/>ضابط الكل من علاك<br/>بتدبيرك اومن</lines>
+    </verse>
+    <verse name="v3">
+      <lines>تمسك بكل الامور<br/>لا شيء عليك يعسر<br/>انت في ظلامي نور<br/>لا ازل لا اعثر</lines>
+    </verse>
+    <verse name="v4">
+      <lines>لا تنعس لا تنام<br/>علي دوما تسهر<br/>انت الهي انت اب<br/>كيف اليك لا ارجع</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:55">
+  <properties>
+    <titles>
+      <title> بارك شعبك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>بارك شعبك يا فادينا من فضلك عود وأحيينا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعال ياربي لينا المسنا وابتدي فينا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وبروح قدسك فيض فينا تعال وجهز أوانينا</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أرسل النهضة لينا بمراحمك سود علينا</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>تعال ياربي وعوضنا عن كل رماد في ماضينا</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>يتحول وادي البكاء لفرح وهتاف لفادينا</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>احيي عملك وسطينا اروي عطشنا وأراضينا</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>لتمجيدك شكلنا وللخدمة أرسلنا</lines>
+    </verse>
+  </lyrics>
+</song>

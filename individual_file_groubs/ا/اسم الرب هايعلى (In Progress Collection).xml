@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:10">
+  <properties>
+    <titles>
+      <title> اسم الرب هايعلى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>اسم الرب هايعلي<br/>ويعلي في كل مكان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>احنا أولاده<br/>وهو أبونا<br/>بيدينا الأمان</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>نهتف دايماً لأسم فادينا<br/>اللي مالينا إيمان</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ان مجيئه حقيقة<br/>هاتحصل وان طال الزمان</lines>
+    </verse>
+  </lyrics>
+</song>

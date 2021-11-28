@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:33">
+  <properties>
+    <titles>
+      <title> تحت ظلك يا حبيبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">تحت ضلك يا حبيبي اشتهي ان اجلس<br/>شمالك من تحت راسي تعانقني يمينك</lines>
+      <lines>أطيب من كل خمر حبك يا رب لي<br/>قد سبيت كل قلبي حجالك ادخلتني</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> (هُوذا أتٍ حبيبي صوته فوق الجبال<br/>مضى الليل زال المطر اجذبني إليك)2</lines>
+      <lines>و اجرِ بي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> تحت ظلك يا حبيبي فرحي و راحتي<br/>أرتوي منك نصيبي فتسد حاجتي</lines>
+      <lines>سلوتي يا رب معك رجائي في شخصك<br/>أرفع عيني إليك انتظر مجيئك</lines>
+    </verse>
+  </lyrics>
+</song>

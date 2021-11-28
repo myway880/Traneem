@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:57">
+  <properties>
+    <titles>
+      <title> أبانا نرفع إسمك الكريم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أبانا نرفع اسمك الكريم<br/>أبانا نحمد حبك العظيم<br/>أنت ربنا ونشيد حمدنا<br/>نهتف لك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> ترنيم الطيور يحكي حبك<br/>ترفع الصخور صوت سبحك<br/>شكرا لك حمدا لك<br/>هللويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> نسبح اسمك ليلا ونهار<br/>أنت إلهنا قدوسٌ وبارّ<br/>نحمد اسمك ونعلي شخصك<br/>نهتف لك</lines>
+    </verse>
+  </lyrics>
+</song>

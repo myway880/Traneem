@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:43">
+  <properties>
+    <titles>
+      <title> ياللي بجرحك شفيت كل النفوس</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">ياللي بجرحك شفيت كل النفوس<br/>ياللي بصليبك إديتنا الخلاص</lines>
+      <lines>إنت بترعانا بحنان إيديك<br/>وفي السماء بتشفع في كل الناس</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> فتح عينينا عشان نشوف بالإيمان<br/>البركات اللي لشعبك من زمان</lines>
+      <lines>نفرح ونحط حياتنا بين إيديك<br/>مايضيعش العمر ويبقى كله ليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> نمسك في وعدك لينا في كل يوم<br/>ونعيش ملح الأرض ونور لكل الكون</lines>
+      <lines>نشهد عن الإله اللي بدماه<br/>فدى نفوسنا ووهبنا الحياة</lines>
+    </verse>
+  </lyrics>
+</song>

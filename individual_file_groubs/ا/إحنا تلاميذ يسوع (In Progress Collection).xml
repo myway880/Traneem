@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:50">
+  <properties>
+    <titles>
+      <title> إحنا تلاميذ يسوع</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إحنا تلاميذ يسوع زي بطرس ويعقوب ويوحنا<br/>إحنا تلاميذ يسوع زي فيلبس وتوما ومتى<br/>وتداوس وأخوه يعقوب أندراوس وبرثلماوس<br/>وسمعان الغيور ويهوذا الإسخريوطي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>هم حبوه أنا عايز أحبه هم خدموه أنا عايز أخدمه<br/>هم عرفوه أنا عايز أعرفه هم تبعوه أنا عايز أتبعه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يسوع علمهم علمني ياربي يسوع قادهم قدني ياربي<br/>يسوع أشبعهم أشبعني ياربي واستخدمهم استخدمني</lines>
+    </verse>
+  </lyrics>
+</song>

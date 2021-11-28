@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لولا الصليب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لولا الصليب من أنا يا سيدي<br/>لولاك يا فادي حياتي من أكون<br/>لولاك كنتُ تائهًا في غربتي<br/>وكان قلبي غارقًا تحت الديون</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فأنا لك ولغيرك لن أكون<br/>ولأجلك كلّ تضحيةٍ تهون<br/>ليس مثلك من يحبني<br/>بفؤاده الحنون</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لولا إنتظاري لمجيئك القريب<br/>لولا رجائي في حياتي في السما<br/>لعشتُ طول العمر في خوف مذيب<br/>من الندّ المجهول في ليل الشقا</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أكون في الدنيا سرابًا ينتهي<br/>إن كنتُ قد حُرمتُ من أمجادك<br/>مولاي أشكرُ إمتيازك الذي<br/>قد ضمّني وإختارني لبيتك</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title> احربة اجرت دما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>احربة اجرت دما<br/>رب الورى الحنون<br/>نعم وذاق المفتدي<br/>من اجلنا المنون</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> في الصليب في الصليب<br/>قد بدا النور العجيب<br/>منقذي من حماة الذنوب</lines>
+      <lines>نلت بالايمان نعمة الغفران<br/>بدماء المنقذ الحبيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وعندما فادي الورى<br/>سمر بالصليب<br/>شمس النهار اظلمت<br/>حزنا على الحبيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يسحق قلبي الم<br/>قد ذاقه يسوع<br/>هذي حياتي لك يا<br/>مخلص الجموع</lines>
+    </verse>
+    <verse name="v4">
+      <lines> اغمضت طرفي اسفا<br/>مذ لاح لي الصليب<br/>ازال اثمي فاديا<br/>فالشكر للحبيب</lines>
+    </verse>
+  </lyrics>
+</song>

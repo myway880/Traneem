@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:01">
+  <properties>
+    <titles>
+      <title>أحن اشتياقا لذاك الوطن</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم سركيس
+Tune: HOME SWEET HOME
+Title:224. أحن اشتياقا لذاك الوطن
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">ابراهيم سركيس</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أحنُّ اشتياقاً لذاك الوطنْ<br/> لأنظرَ ربي يسوعَ المجيدْ<br/> وأبقى هنالك طولَ الزَّمنْ<br/> وأرفع صوتي بأعلى النشيدْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>هناكَ الرحومْ<br/> وصوتُ الملائكِ ينفي الهمومْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وأُلبَسُ ثوباً نقياً نُسِجْ<br/> منَ الربِّ فاديَّ فوقَ الصليبْ<br/> لذاك أقولُ لقلبي ابتهِجْ<br/> لأن المخلِّصَ نِعمَ النصيبْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أريدُ الرحيلَ لدارِ البقا<br/> لأشكرَ ذاك الإلهَ الكريمْ<br/> وأَخلُصَ من كلِّ هذا الشقا<br/> وأسكُنَ فِرْدَوسَ ذاك النعيمْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> هناكَ يحلُّ بقلبي الكئيبْ<br/> سرور ويذهب حزني الثقيلْ<br/> ويُشفى سقامي بذاك الطبيبْ</lines>
+    </verse>
+  </lyrics>
+</song>

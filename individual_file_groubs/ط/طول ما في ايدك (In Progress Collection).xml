@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:52">
+  <properties>
+    <titles>
+      <title> طول ما في ايدك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>طول ما في إيدك كل حياتي<br/>طول ما انا ضامن عمري الآتي<br/>ربي باركت في كل الماضي<br/>فيك يا يسوع أمني وثباتي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> هافضل اسبح وارفع إسمك<br/>وافضل رغم آلامي باعيش لك<br/>واشهد وسط الكل بحُبَّك<br/>ضامن ليَّ مكاني في مجدك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> طول ما مكاني في دايرة حبك<br/>تفضل راحة قلبي في قربك<br/>تحمي حياتي بقوة دمك<br/>ويدوم فرحي لأني في حِضنك</lines>
+    </verse>
+  </lyrics>
+</song>

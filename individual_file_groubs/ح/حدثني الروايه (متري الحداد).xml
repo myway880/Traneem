@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title>حدثني الروايه</title>
+    </titles>
+    <comments>
+      <comment>Author: متري الحداد
+Tune: THE OLD, OLD STORY
+Title:115. حدثني الروايه
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">متري الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> حَدِّثْنِيَ الرِّوايهْ<br/> قديمةَ العُهودْ<br/> عمَّن إلى النهايهْ<br/> مُخلصي الودودْ<br/> عن لطفِهِ العجيبِ<br/> عن سفكِه دِماهْ<br/> موتاً على الصليبِ<br/> ليُنقِذَ الخُطاهْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>حدِّثنِيَ الروايهْ<br/> حدِّثنِيَ الروايهْ<br/> حدِّثنِيَ الروايهْ<br/> عن ربِّنا يسوعْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> أُبسُطْ لي العِبارهْ<br/> كما إلى الصغارْ<br/> فالقلبُ في مرارهْ<br/> من كثرةِ الأفكارْ<br/> أَخبِرْ بكلِّ مهلِ<br/> لأحفظَ الكلامْ<br/> فيستنيرَ جَهلي<br/> ويُكشَفَ الظلامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> حدِّث بذي الروايه<br/> في ساعة الهلوعْ<br/> واجعلْ بها الكفايه<br/> لتُمسحَ الدموعْ<br/> أخبِرْ عن الحنونٍ<br/> عن ملكِ الآبادْ<br/> في ساعةِ المنونْ</lines>
+    </verse>
+  </lyrics>
+</song>

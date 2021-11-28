@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:37">
+  <properties>
+    <titles>
+      <title>جلسه في حضرة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>جلسه في حضرة يسوعي<br/>احلى من قصر الملوك<br/>لو راى المؤمن جماله<br/>لصرخ خذني ارجوك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>( مجد بهي، حلو شهي) 2<br/>( لا ينتهي يا هناي) 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>دخلت باب  المدينه<br/>يا ما حلوه اورشليم<br/>انوار الحبيب تسطع<br/>في وجوه المفديين</lines>
+    </verse>
+    <verse name="v3">
+      <lines>بالموسيقى استقبلوني<br/>على راسهم يسوع<br/>وللمجد ادخلوني<br/>حيث لا تذرف دموع</lines>
+    </verse>
+    <verse name="v4">
+      <lines>هناك لا توجد خطيه<br/>لا عالم ولا شيطان<br/>نستريح في الابديه<br/>يا ما حلوه يا كنعان</lines>
+    </verse>
+  </lyrics>
+</song>

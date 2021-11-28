@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:37">
+  <properties>
+    <titles>
+      <title>يا سيدي الحبيب يا نور عمري</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يَا سَيِّدِي الْحَبِيب يَا نُور عُمْرِي<br/>أُتِي إلَيْك ياربي فانهضني <br/>أُتِي إلَيْك بِكُلّ ضَعْفِي<br/>أَسْمَع صُراخِي واشفي نَفْسِي <br/>مُحْتَاجٌ إلَيْك يَارَبّ<br/>انهضني يَا يَسُوع </lines>
+    </verse>
+    <verse name="c1">
+      <lines>مُشْتَاق لعملك فِي <br/>مُحْتَاجٌ للمسة قَوِيَّةٌ <br/>انهضني يَا يَسُوع </lines>
+    </verse>
+    <verse name="v2">
+      <lines>بحبك الْعَجِيب ألْهَب قَلْبِي<br/>فَأَشْبِع قَلْبِك بِصِدْق حِبِّي <br/>تَعَال برعش فِي كُلِّ عِظامِي<br/>رُوحَك يَمْلَأ كُلّ كياني <br/>تَعَال وَبَدَّد كُلّ أحْزَانِي<br/>انهضني يَا يَسُوع .</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:10">
+  <properties>
+    <titles>
+      <title> الرب حي وسط الكنيسة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>الرب حي وسط الكنيسة عروسه التي إقتناها بدماه<br/>بالحق يبني بالروح يحيي يثبت ويجعل تسبيحة من شعبه</lines>
+    </verse>
+    <verse name="c1">
+      <lines> هللويا لنرفع إسم الفادي من عاد وأحيا شعبه فباركوا اسمه ورنموا له</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هو الإله الجبار وسط الكنيسة بقوة هو يحميها<br/>يعود يصنع يشفي ويرفع يحرر ويطلق يفك أسرى شعبه</lines>
+    </verse>
+  </lyrics>
+</song>

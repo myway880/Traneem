@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:13">
+  <properties>
+    <titles>
+      <title> جانا م السما جانا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>جانا م السما جانا<br/>بفرحه جه ملانا<br/>وسلامه غطانا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وملايكه جاية تغني الأغاني<br/>يسوع مولود عشانى<br/>يسوع م السما جانا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مجوس ورعاة وغنم كتير<br/>عرفوا إن الموضوع خطير</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>جم بهدايا للملك اللي جانا<br/>مع إنه ابن الله</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>مافيش في الكون حد في غناه<br/>اختار يعيش أبسط حياة معانا</lines>
+    </verse>
+  </lyrics>
+</song>

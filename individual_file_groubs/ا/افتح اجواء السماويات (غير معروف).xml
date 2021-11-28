@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:08">
+  <properties>
+    <titles>
+      <title>افتح اجواء السماويات</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines> افتح اجواء السماويات<br/>و فيض علينا بالبركات 2<br/>وتعالى زورنا و اعمل فينا<br/>(واصنع وسطينا عجايب وآيات)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>حرر نفوسنا من كل القيود<br/>و املك علينا يارب و سود2<br/>بنتوب قدامك راجعين بقلوبنا<br/>مستنيين المجد لينا يعود</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انت شفانا وحدك يا قدوس<br/>تعالى واشفي يارب النفوس2<br/>تشفي نفوسنا من الخطايا<br/>و بقوه نقدرعليها يارب ندوس</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أعبر الينا يارب أعنا<br/>أحمالنا زادت والشر تاعبنا2<br/>انت المخلص واسمك يسوع<br/>فيك الحريه وبنعمتك قوتنا</lines>
+    </verse>
+  </lyrics>
+</song>

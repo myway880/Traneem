@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:53">
+  <properties>
+    <titles>
+      <title> أيها المسيح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أيها المسيح ربنا العظيم يا من تعطي قوة ونورا لحياة</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بك أستنير ومعك أسير إذ منحت ذا الرجاء للخطاة</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ربي أنا لك فبدونك صرت وحدي بل وقلبي قد ضل وتاه</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>إذ بقربك وفي شخصك قد وجدت كل معنى للحياة</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أقدم نفسي وأعطي قلبي إلى سيدي من قد فداني بدماه</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وأحيا له أبغي مجده إذ بررني وأعطاني النجاه</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>يا أيها البعيد إن كنت تريد أن تعيش حرا وتنجو من الهلاك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>أعط ربك عرش قلبك فيرشدك ويحفظ خطاك</lines>
+    </verse>
+  </lyrics>
+</song>

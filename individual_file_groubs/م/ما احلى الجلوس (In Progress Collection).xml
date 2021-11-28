@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:14">
+  <properties>
+    <titles>
+      <title> ما احلى الجلوس</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ما احلى الجلوس مع فادي النفوس<br/>شركة تجلو صدى الصدور<br/>ما اشهى السلام وابهى المقام<br/>شركة تحلو مع الغفور</lines>
+    </verse>
+    <verse name="c1">
+      <lines> بات امني بات فوق اذرع المسيح اذ عليه طارحا نفسي فاستريح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لا اخشى الضرر لا ولا الخطر<br/>والمنجي موئلي الرحيم<br/>فالاسم ملاذ والحب معاذ<br/>فيه احيا هانئا مقيم</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ما ابهى المسير مع رب قدير<br/>منقذي فادي الورى يسوع<br/>ما اهنى الطريق والفادي الرفيق<br/>لحماه في صفا الربوع</lines>
+    </verse>
+  </lyrics>
+</song>

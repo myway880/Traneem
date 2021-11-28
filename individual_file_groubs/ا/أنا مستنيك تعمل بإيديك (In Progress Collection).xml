@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:20">
+  <properties>
+    <titles>
+      <title> أنا مستنيك تعمل بإيديك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أنا مستنيك تعمل بإيديك<br/>وفي وسط ظروفي تشجعني<br/>جاي لك يا يسوع باطلب بخشوع<br/>من كل همومي ترفعني</lines>
+      <lines>أنا مستنيك وعينيَّ عليك<br/>واثق إنك مش ها تسيبني<br/>تمسك إيدي ترفع قلبي<br/>وما فيش أحزان راح تغلبني</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أنا مستنيك وانا واثق فيك<br/>وفي قوة شخصك وفي سلطانك<br/>وسط الأنات وسط الأزمات<br/>ها تعود أفراحي بإحسانك</lines>
+      <lines>أنا مستنيك متعلق بيك<br/>لأنك صادق في كلامك<br/>أصلك حنان وإله منان<br/>ها تنجي حياتي وهاشوف خلاصك</lines>
+    </verse>
+  </lyrics>
+</song>

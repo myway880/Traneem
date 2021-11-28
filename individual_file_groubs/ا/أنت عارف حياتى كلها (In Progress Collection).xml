@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:46">
+  <properties>
+    <titles>
+      <title> أنت عارف حياتى كلها</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنت عارف حياتى كلها أنت شايف الصورة كلها</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>دايما واقف جنبى دايما بتحوطتنى حبك يأسر قلبى جرحك يغسل ذنبى</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يا يسوع يا يسوع يا يسوع</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>علشان كده بصلى لنيران حبك فى قلبى</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>يا يسوع يا يسوع يا يسوع 2</lines>
+    </verse>
+  </lyrics>
+</song>

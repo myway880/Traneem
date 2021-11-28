@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو فرض والدنيا ضحكت</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو فرض والدنيا ضحكت والسعادة جت في يوم<br/>والمرض والفقر غابوا وكان منابك أعلى كوم</lines>
+      <lines>والحياة مابقيتش صعبة وإختفت كلمة يا غربة</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> إسمع اللي فصلها بعد ماشاف أصولها قالك إيه</lines>
+      <lines break="optional">متساويش ماتساويش والكل باطل متسويش<br/>ماتساويش ده تمنها بلاش تفاصل ماتسويش</lines>
+      <lines>شمس من تحتيها لا منفعة ولا فيها إرتياح<br/>حفنتين تعب الحياة وكلها قبض الرياح</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> خد لي جنب خيمة يا أبويا إبراهيم يا غريب<br/>نفسي أبعد عن سدوم حتى لو فيها القريب</lines>
+      <lines break="optional">وأبني مذبح قلبي يفرح بالصلاة والترنيمات<br/>روحي تسبح والقى مطرح للسكن بعد الممات</lines>
+      <lines>وأنده اللي فاكرها جنة راجع الحسبة تاني<br/>واسمع اللي فصلها بعيد ماشاف أصولها قالك إيه ماتساويش</lines>
+    </verse>
+  </lyrics>
+</song>

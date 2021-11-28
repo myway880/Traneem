@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:14">
+  <properties>
+    <titles>
+      <title>إلهنا حاضر وسطينا</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> إلهنا حاضر وسطينا<br/>وشاملنا بحبه<br/>ومادام الملك في مكانه<br/>هيفرح شعبه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ونفوسنا إليه بتتطلع <br/>ونصلي له وهو يسمع<br/>ويسمعنا كلامه الطيب <br/>تفرح بيه قلوبنا وتتشجع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(الهنا حاضر .. <br/>الهنا حاضر وسطينا)2<br/>(دا الهنا حاضر .. <br/>الهنا حاضر وسطينا)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>إلهنا ساكن أرواحنا <br/>وحضوره مالينا<br/>وتحبه قلوبنا وأفكارنا<br/>وإرادتنا فينا</lines>
+    </verse>
+    <verse name="v5">
+      <lines>والجسد الواحد يجمعنا<br/> والحب الصادق يرفعنا<br/>وسلام الرب في قلوبنا<br/> طول ما عمانوئيل معنا</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(الهنا ساكن .. <br/>الهنا ساكن ارواحنا)2<br/>(دا الهنا ساكن .. <br/>الهنا ساكن ارواحنا)2</lines>
+    </verse>
+  </lyrics>
+</song>

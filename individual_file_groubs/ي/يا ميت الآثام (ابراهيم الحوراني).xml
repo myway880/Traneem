@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:42">
+  <properties>
+    <titles>
+      <title>يا ميت الآثام</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم الحوراني
+Tune: ANGEL&amp;#039;S STORY
+Title:259. يا ميت الآثام</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم الحوراني</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا ميِّتَ الآثامِ<br/> والخوفِ والأحزانْ<br/> جاوزْتَ في الظلامِ<br/> أشعةَ الإيمانْ<br/> فانهَضْ منَ الألحادِ<br/> بمصدرِ الحياهْ<br/> ففي يسوعَ الفادي<br/> لا غيرِهِ النجاهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ما أنتَ إلا بالي<br/> في رَمْسِ أثامِكْ<br/> ضيَّعتَ بالمُحالِ<br/> ساعاتِ أيّامِكْ<br/> فاسجُدْ لِذي الأمجادِ<br/> في مسجِدِ التُّقاهْ<br/> ففي يسوعَ الفادي<br/> لا غيرِهِ النجاهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> واخضَعْ لمن تخشاهُ<br/> ملائكُ الربِّ<br/> مَن قد جرَتْ دِماهُ<br/> للصفحِ بالصلبِ<br/> واعتَرِفَنْ ونادِ<br/> أخطأتُ يا ابنَ اللهْ<br/> ففي يسوعَ الفادي<br/> لا غيرِهِ النجاهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أسرِعْ إلى مَغناهُ<br/> من معرَكِ القَتلى<br/> واخلَصْ ففي حِماهُ<br/> سِفرُ الهَنا يُتلى<br/> إذ ليس في العِبادِ<br/> مِنْ خالِصٍ لَولاهْ<br/> ففي يسوعَ الفادي</lines>
+    </verse>
+  </lyrics>
+</song>

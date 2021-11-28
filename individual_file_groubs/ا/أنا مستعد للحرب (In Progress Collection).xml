@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:20">
+  <properties>
+    <titles>
+      <title> أنا مستعد للحرب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">أنا مستعد<br/>للحرب لما تيجي<br/>أنا مستعد<br/>لحد يسوع ماييجي</lines>
+      <lines break="optional">أنا مستعد<br/>وشايل سلاحي<br/>ونصرة يسوع<br/>هي سبب نجاحي</lines>
+      <lines>أنا مستعد</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> خوذة الخلاص على راسي بتحميني<br/>وسيف الروح كلمة الله بتقويني</lines>
+      <lines>ترس الإيمان بصد بيه السهام<br/>الله معايا مافيش كلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> منطقة الحق حوالي تشددني<br/>ودرع البر من الشر بيحفظني</lines>
+      <lines>رجلي بتمشي بإنجيل السلام<br/>صاحي وبأصلي فكل الايام</lines>
+    </verse>
+  </lyrics>
+</song>

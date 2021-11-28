@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:36">
+  <properties>
+    <titles>
+      <title> يا رب كل الكون يشهد لصنيعك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا ربي كل الكون يشهد لصنيعك<br/>أعمال أيديك تهتف وتقول إنك حقيقة</lines>
+      <lines>ملكك يا يسوع لدهر الدهور<br/>سلطانك يا ربي للأبد يدوم</lines>
+    </verse>
+    <verse name="c1">
+      <lines> نباركك ونعليك ونسجد لك يا ملكيك<br/>وحدك مستحق إكرامنا للأبد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كل الحياة معاك مليانة بجودك<br/>إله قدير صادق وأمين في كل وعودك</lines>
+      <lines>مين غيرك إله صالح يا الله<br/>وبقوة سلطانك تصنع المحال</lines>
+    </verse>
+  </lyrics>
+</song>

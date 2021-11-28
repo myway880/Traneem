@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:08">
+  <properties>
+    <titles>
+      <title>افراحنا بيك طول الطريق</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>افراحنا بيك طول الطريق<br/>طول ما انت لينا اغلى رفيق<br/>ومهما طال بينا المشوار<br/>هانغني لشخصك ونعليك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>تسبيحك يعلى ويعلى لفوق<br/>الحان الحمد هاتملى الكون<br/>ترنيم الشكر معاك ها يدوم<br/>ملكك لحياتنا اكيد مضمون</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وهتافنا ليك يعلا بتمجيد<br/>نرفع ونقدم ليك اناشيد<br/>دي حياتنا معاك امجاد هاتدوم<br/>ضامنين هانحقق فيك مواعيد</lines>
+    </verse>
+  </lyrics>
+</song>

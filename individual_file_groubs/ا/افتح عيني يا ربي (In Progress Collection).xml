@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:24">
+  <properties>
+    <titles>
+      <title> افتح عيني يا ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>افتح عيني يا ربي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>افتح عيني عليك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>عايز أشوفك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أشوفك عالي فوق الكل</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>حبك يملا قلبي وكياني</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>تملك علي بالحب</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>وأعيش لك كل يوم في حياتي</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>باسبحك يا إلهي عايز أشوفك</lines>
+    </verse>
+  </lyrics>
+</song>

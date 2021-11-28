@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:46">
+  <properties>
+    <titles>
+      <title>يسوع يا ابن الآب</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج خوري
+Tune: THE BLESSED HOME
+Title:194. يسوع يا ابن الآب
+</comment>
+    </comments>
+    <authors>
+      <author type="words">جورج خوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يسوع يا ابنَ الآبْ<br/> بارك لنا الشبابْ<br/> ليسلكوا دوماً<br/> في منهج الصوابْ<br/> إمنحهمُ النجاهْ<br/> من سلطة الشرورْ<br/> كي تُصبحَ الحياهْ<br/> ذخيرةَ الدهورْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> همُ الرجا المنشودْ<br/> هم بهجةُ الوجودْ<br/> فقُدْ خطاهمْ في<br/> مناهج الخلودْ<br/> إن أظلم الزمنْ<br/> وضاقت الحياهْ<br/> ضاؤوا لدى المحنْ<br/> بنعمة الإلهْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> سيروا مع الفادي<br/> رفيقِنا الهادي<br/> تَحظَوا لدى البلوى<br/> بنور إرشادِ<br/> إنجيلُه يقودْ<br/> في سبُل الإيمانْ<br/> وقلبه الودودْ</lines>
+    </verse>
+  </lyrics>
+</song>

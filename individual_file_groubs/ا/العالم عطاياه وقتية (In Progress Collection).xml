@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title> العالم عطاياه وقتية</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">العالم عطاياه وقتيه<br/>وبملاهي الدنيا بياخدك<br/>تتعبد في هياكل تانيه<br/>لأصنام الأرض في قلبك</lines>
+      <lines>ويشدك ويعيش نفسك في عذاب<br/>ويجرَّك تجري وتتسابق لسراب<br/>ويلفك داخل دوامةأتعاب<br/>ويردك فاضي وما معاكش الا تراب</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> وإلهك عطاياه أبديه<br/>وبمراحم قلبه بياخدك<br/>تتمتع بحياه سماويه<br/>وأفراح المجد في قلبك</lines>
+      <lines break="optional">ويضمك لقطيعه بنعمه وإيمان<br/>ويقول لك دمي بيضمن لك غفران</lines>
+      <lines>دا لأجلك داق الصلب وكل هوان<br/>هات قلبك هات عمرك في إيديه بأمان</lines>
+    </verse>
+  </lyrics>
+</song>

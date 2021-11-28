@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مستنيك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مستنيك مش راح ألجأ للإنسان<br/>مهما إن كان<br/>لكن صابر ليك ومصدق إنت معايا أقوى ضمان</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> مش هاتزعزع ولا هارتاب حتى إن زاد<br/>الضغط علي</lines>
+      <lines>واثق إني مش متساب لي إلهي يده قوية</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مستنيك مش هاستعجل حتى إن طال الوقت علي<br/>أنا مستني طريقة إلهية فيها تظهر ذاتك لي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مستنيك عارف إن بكره معاك أحلى وأعظم<br/>رغم كل صعاب حوالي هيكون لي خير وتقدم</lines>
+    </verse>
+  </lyrics>
+</song>

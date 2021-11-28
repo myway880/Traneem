@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:09">
+  <properties>
+    <titles>
+      <title> لأنك انت معايا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>لأنك انت معايا<br/>إيه بقى هيخوفنى</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> أصحابى فى سنة خامسة وستة<br/>وأنا لسه فى سنة رابعة</lines>
+      <lines break="optional">وفيه ناس أولى وتانية وتالتة<br/>وفى ثانوى وفى الجامعة</lines>
+      <lines break="optional">قادر تعرف كل خرافك بالأسم وبالسن كمان</lines>
+      <lines break="optional">تضمن لى حياتى لأنى خروف مخصوص وسط الخرفان</lines>
+      <lines>طول ما هاتفضل لى راعى أنا مش ممكن أخاف</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ربى يا راعى يا أشطر راعى<br/>أنا فى إيديك متطمن</lines>
+      <lines break="optional">ضامن فيك العمر بتاعى<br/>ليه أنا هاأقلق أصلا</lines>
+      <lines break="optional">ياللى ضمنت امبارح تقدر تضمن بكرة كمان فى إيديك</lines>
+      <lines break="optional">بكرة وبعده وبعده وبعده<br/>ضامن كل الأيام فيك</lines>
+      <lines>طول ما هاتفضل لى راعى أنا مش ممكن أخاف</lines>
+    </verse>
+  </lyrics>
+</song>

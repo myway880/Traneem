@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title> ها حملي الثقيل ربي أعيا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ها حمليَ الثقيل ربي أعيا كاهلي<br/>ولست في المسير قادرٌ بمفردي</lines>
+      <lines>لولاك أنت خليَ رفيق رحلتي<br/>ما كنت أخطو خطوةً في تلك الظلمة</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> فأنت لي كل ما في دنيايَ ها هنا<br/>عزاءُ روحي سلوتي في الحزن والضنا</lines>
+      <lines>لولاك أنت حارسي لن يعرف الهنا<br/>طريقه إلى قلبي الحزين أبدا</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> فقوني ربي القوي يا رب ليس لي<br/>إلاك ملجأ ٌ وحصنٌ فيه أحتمي</lines>
+      <lines>لولاك أنت ناصري لن يحلو قولٌ لي<br/>ليعظم انتصاري بالذي أحبني</lines>
+    </verse>
+  </lyrics>
+</song>

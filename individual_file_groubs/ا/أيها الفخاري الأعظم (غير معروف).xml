@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:53">
+  <properties>
+    <titles>
+      <title> أيها الفخاري الأعظم</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أَيُّهَا الْفَخَّارِيَّ الْأَعْظُمَ ،<br/>أَنَا كَالْـْخَزَفِ بَيْنَ يَدِيِكَ .<br/>عَدَّ وَاِصْنَعْنِي وِعَاءً ،<br/>آخِرُ مثلما يُحْسِنُ فِي عَيْنِيِكَ .</lines>
+    </verse>
+    <verse name="v1">
+      <lines>أَخُضِعَ ذاتِيٌّ دُونَ عِنَادٍ ،<br/>لِأَصابِعِكَ تُشَكِّلُ فِيَّ .<br/>لَنْ أَتَوَجَّعَ لَنْ أَتَرَاجَعَ<br/>فَأَنَا اِشْتَقْتِ لِعَمِلَكَ فِيَّ .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لَا لِلْيَأْسِ وَلَا لِلْمَاضِي<br/>قَلْبُي أَتَّجِهُ الْآنَ إِلَيكَ .<br/>آتِي إِلَيكَ بِكُلُّ فَسَادِيٍ<br/>ثقتي فِي نِعْمَتِكَ وَيَدِيكَ.</lines>
+    </verse>
+  </lyrics>
+</song>

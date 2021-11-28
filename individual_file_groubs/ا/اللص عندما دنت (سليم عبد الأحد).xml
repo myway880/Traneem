@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>اللص عندما دنت</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم عبد الأحد
+Tune: OLD 22ND
+Title:122. اللص عندما دنت
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم عبد الأحد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> اللص عندما دنتْ<br/> نهايةُ الحياه<br/> وخاف أن تفصلهُ<br/> عن الرجا الوفاه<br/> دعا الشفيعَ قائلاً<br/> في ساعة الحزنِ<br/> يا ربَّ إذ تجيءُ في<br/> ملكك فاذكُرني</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لا سمةٌ أبدت لهُ<br/> أمجادَ ذي الجلالْ<br/> ولا شعاعُ أملٍ<br/> يمحو دُجى الأهوالْ<br/> بل تاجَ شوكٍ قد رأى<br/> والدمُ قد همى<br/> ويدُه مغلولةٌ<br/> والعينُ في السما</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فقال للَّصِ لدى<br/> إظهاره الإيمانْ<br/> إنك ذا اليومَ معي<br/> تكونُ في الجِنانْ<br/> فيا له وعداً سما<br/> للتائبِ المؤمنْ<br/> ويا لها شفاعةً<br/> تمحو الدُّجى المحزنْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> مولاي هب لي حينما<br/> تُختمُ أيامي<br/> سُكناي فِردَوسَ الهنا<br/> في الموطن السامي<br/> وحين يُطبق الردى<br/> جَفني فقدِّرني<br/> لكي أقولَ واثقاً</lines>
+    </verse>
+  </lyrics>
+</song>

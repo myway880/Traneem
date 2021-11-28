@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:14">
+  <properties>
+    <titles>
+      <title> جعلتك يا رب ملجا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>جعلتك يا رب ملجا تخذتك في الضيق منجا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>جعلتك حصنا وبرجا هناك بأمن أبيت</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>جعلت جناحيك ستري فما همني أي شر</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>عليك توكل أمري لأني لهذا دعيت</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>خلاصك أبصر دوما كذا شئت يوما فيوما</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>فهل بعد أحمل هما بهمي عليك ارتميت</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>دماء الحبيب حماية ترفرف للنصر راية</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>فنصر الصليب كفاية لأني ببر كسيت</lines>
+    </verse>
+  </lyrics>
+</song>

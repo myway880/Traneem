@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:22">
+  <properties>
+    <titles>
+      <title> خبز البنين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا فاتح قلبي و أبوابي رافع عينيا عليك جه زمان المعجزات</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>و مثبت قلبي و إيماني ربي رجايا فيك لزمان المعجزات</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>خبز البنين شفا من إيديك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>الخلاص و الشفاء عمل الفداء</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>ربي على الصليب صرخت قد اكتمل</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>تأديب سلامى ده كان عليك بجلدتك شفيت</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>حياتي أفضل حياة</lines>
+    </verse>
+  </lyrics>
+</song>

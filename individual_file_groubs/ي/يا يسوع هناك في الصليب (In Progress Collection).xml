@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:43">
+  <properties>
+    <titles>
+      <title> يا يسوع هناك في الصليب</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا يسوعُ هناك في الصليب<br/>رُفعتَ عني يا حبيب<br/>يا حبيبي تحملتَ الآلام<br/>لتمنحنيَ السلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> فشخصُكَ يحلو لفؤادي<br/>وحبُّك يملأ كِياني<br/>أ َلمِسُهُ أحِسُّهُ<br/>يحيط بحياتي</lines>
+      <lines>فهو غِذائي يجري في دمائي<br/>بغيره لا أستطيعُ الحياه</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في طريق الجلجثه الرهيب<br/>مضيتَ تدفع القصاص<br/>عندما قد سمروا يديك<br/>أطعتَ فتم الخلاص</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في الصليب رأيتك هناك<br/>تحبُّني من قلبك<br/>يا حبيبي لم تنسني هناك<br/>بالرغم من آلامك</lines>
+    </verse>
+    <verse name="v4">
+      <lines> نهرُ حبٍ جارفٍ قوي<br/>جرى من جنبك الطعين<br/>فدماك تحمل الخلاص<br/>لكل خاطئٍ أثيم</lines>
+    </verse>
+  </lyrics>
+</song>

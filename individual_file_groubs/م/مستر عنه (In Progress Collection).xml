@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:19">
+  <properties>
+    <titles>
+      <title> مستر عنه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مُسَتَّرٌ عَنْهُ الْوُجُوهْ<br/>مُحْتَقَرٌ مِنَّا هُنَا<br/>كَعِرْقِ أَرْضٍ يَابِسَه<br/>قَدْ عَاشَ فِيمَا بَيْنَنَا</lines>
+      <lines>لا مَنْظَرَ فَنَشْتَهِيه<br/>وَلا جَمَالَ أَوْ غِنَى<br/>لكِنَّهُ ذَاكَ الَّذِي<br/>تَحَمَّلَ أَوْجَاعَنَا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> يَسُوعْ يَسُوعْ<br/>فِدَاؤُنَا سَلامُنَا رَجَاؤُنَا<br/>يَسُوعْ يَسُوعْ<br/>مُتَوَّجٌ طُولَ الْمَدَى مَلِيكُنَا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> نَعَمْ ضَلَلْنَا كُلُّنَا<br/>مِلْنَا إِلَى طَرِيقِنَا<br/>وَهوَ عَلَيْهِ قَدْ حَمَلْ<br/>آثَامَنَا جَمِيعِنَا</lines>
+      <lines>فَسِيقَ لِلصَّلْبِ كَشَاةْ<br/>مُحْتَمِلاً تَعْيِيرَنَا<br/>وَمَاتَ عَنَّا وَدُفِنْ<br/>فِي الْقَبْرِ مَعْ شُرُورِنَا</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> كَانَ عِقَابُنَا اللَّهِيبْ<br/>وَكَانَ عَدْلاً مَوتُنَا<br/>لكِنَّ ‏حُبَّهُ الْعَجِيبْ<br/>لَمْ يَحْتَمِلْ هَلاكَنَا</lines>
+      <lines>فَجَاءَ مِنْ أَعْلَى سَمَاه<br/>كَيْ يُصْلَبَ فِي أَرْضِنَا<br/>وَقَامَ فَاتِحًا لَنَا<br/>بَابَ الْحَيَاةِ وَالْهَنَا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:41">
+  <properties>
+    <titles>
+      <title> انا هاقبل التحدي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>القرار في قلبي هاتبع ربي للنهاية<br/>حياتي هاتشهد عنه واعلن انها البداية</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>في كل مرة ابليس يتحداني<br/>عقلي فاكر دايما في يسوع ثابت ايماني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>انا هاقبل التحدي مهما تكون المتاعب<br/>حتي لو السكة طويله واثق إني غالب</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>انا هاعمل بكلامه وهانفذ وصاياه<br/>بسلوكي وكلامي راح امجد الله</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:47">
+  <properties>
+    <titles>
+      <title> سددت الدين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">سددت الدين عني<br/>يحق لي أهتف وأغني<br/>صنعت الشر يا ناس<br/>لكن لم أجاز عليه</lines>
+      <lines>أدخلني إلى الأقداس<br/>حملني على منكبيه</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> عبد واتبناه سيده<br/>صرت ممسوك في إيده<br/>وقال مين يقدر يؤذيك<br/>محفوظ جُوا العين والنني</lines>
+      <lines>ليل ونهار سهران عليك<br/>مين يقدر يخطفك مني</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أيام كورة الخنازير<br/>رماها في بحر غزير<br/>ولا عاد يذكرها تاني<br/>يا حنانه</lines>
+      <lines>وتوب البر كساني<br/>شاعر بفضله وإحسانه</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> في بيت ابويا عجايب<br/>ها يشوفها كل تايب<br/>واحنا اللي كنا عبيد<br/>صرنا بيسوع حبايب</lines>
+      <lines>كل يوم عزنا بيزيد<br/>ويا خسارة اللي غايب</lines>
+    </verse>
+  </lyrics>
+</song>

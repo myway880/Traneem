@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title> نقترب من عرشك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">نقترب من عرشك<br/>نسكب قلوبنا<br/>نتضع أمامك<br/>نطلب حضورك</lines>
+      <lines break="optional">ألا تعود<br/>أنت فتحيينا<br/>أشعل قلوبنا<br/>كي نحيا لمجدك</lines>
+      <lines>هلم يا روح الله تعال<br/>كرياح عاصفة</lines>
+    </verse>
+    <verse name="c1">
+      <lines> هل تحيا هذه العظام<br/>أحييها بروحك<br/>هيا أنهض شعبك<br/>وابدأ في أنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> العالم سيمضي<br/>وشهوته تزول<br/>احفظنا من طرقه<br/>فلا نحيا في فتور</lines>
+      <lines break="optional">اسب قلوبنا<br/>املأنا بحبك<br/>حبا للخطاة<br/>حبا لبعضنا</lines>
+      <lines>نرفض حب العالم<br/>لن نحيا لذاتنا</lines>
+    </verse>
+  </lyrics>
+</song>

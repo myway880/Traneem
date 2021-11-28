@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title> الق علي الرب همك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>الق على الرب همك<br/>فهو يعولك</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> عندما يغشاك ليل<br/>كل ما فيه ظلام<br/>يغدو ذا الليل منيرا<br/>بضياء رب السلام</lines>
+      <lines>ربك مؤتي الأغاني<br/>حتى في وسط الآلام<br/>يبدل الحزن بفرح<br/>ثابت على الدوام</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> فهو لم يشفق على ابنه<br/>بل بذله للفداء<br/>هكذا الله أحبك<br/>مانحا له الرجاء</lines>
+      <lines>كيف أيضا لا يهبك<br/>وقت ضيقك العزاء<br/>كيف لا يحنو عليك<br/>رافعا فوق العناء</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> فاتكل عليه دوما<br/>واثقا في وعده<br/>مثل طفل يستريح<br/>قلبك في حضنه</lines>
+      <lines>فهو لم ينس رضيعا<br/>قد نسي من أمه<br/>فالجأن إليه تحيا<br/>آمنا في ستره</lines>
+    </verse>
+  </lyrics>
+</song>

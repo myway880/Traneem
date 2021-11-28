@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:41">
+  <properties>
+    <titles>
+      <title> أنا هو</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا هو العبدُ الذي دفن النعمة بيديه<br/>فاعطني أنت يا ربّي القوّة من يديك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا هي العذراء التي نفذ سراجُها من الزيت<br/>أعطني أنت يا ربّي حكمةَ من عينيك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أنا هو الابنُ الذي من كفر بحبّ أبيه<br/>وذلك التلميذ الذي أسلمك بقبلته</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أنا هي الزانية التي بالحجارة هدّدوها<br/>وتلك السامريّة التي كُشف ما في داخلها</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أنا هو من أنكركَ ومن لعَنَ بشفتيه<br/>أعطني أنت يا ربّي البركةَ من كفّيك</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>أنا المصلوبُ قربَ صليبك<br/>أنا هو الذي عيَّرَك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>فاعطني أنت يا ربّي المغفرةَ من شفتيك<br/>أنا المصلوبُ قربَ صليبك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>أنا هو الذي عيَّرك<br/>فاعطني أنت يا ربّي المغفرةَ<br/>المغفرة</lines>
+    </verse>
+  </lyrics>
+</song>

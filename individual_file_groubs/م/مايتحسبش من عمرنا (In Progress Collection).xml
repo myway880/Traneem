@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:17">
+  <properties>
+    <titles>
+      <title> مايتحسبش من عمرنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مايتحسبش من عمرنا<br/>إلا وقت نقضيه معاك<br/>ولا يوم عرفنا طعم الهنا<br/>فرح حقيقي قبل لقاك</lines>
+      <lines>كنا بعيد قربتنا<br/>قلب جديد منحتنا<br/>سلام أكيد كيان سعيد<br/>خليقة تانية وهبتنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> مانعترفش بقوة تانية<br/>تقدر تغير شخص عنيد<br/>ما احنا اختبرنا إيدك في ثانية<br/>تكسر تحرر قيود حديد</lines>
+      <lines>يومها ناوينا نعيش معاك<br/>رحبت بينا نشوف غناك<br/>سكنت فينا روحك مالينا<br/>متمتعين ربي برضاك</lines>
+    </verse>
+  </lyrics>
+</song>

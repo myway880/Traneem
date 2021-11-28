@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:44">
+  <properties>
+    <titles>
+      <title> الشهد يقطر</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>الشهد يقطر من شفتيه<br/>وجلال المَلِك باين عليه</lines>
+    </verse>
+    <verse name="v2">
+      <lines> رجلاه تشبه نحاس مصقول<br/>مكتوب على فخده ملك الملوك</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وشعره أبيض كأنقى صوف<br/>وصدره مرصع لولو موصوف</lines>
+    </verse>
+    <verse name="v4">
+      <lines> جماله البهي سبى القلوب<br/>عريس مبارك خالي العيوب</lines>
+    </verse>
+    <verse name="v5">
+      <lines> وبدمه دخل إلى الأقداس<br/>فوجد فداء لجميع الناس</lines>
+    </verse>
+    <verse name="v6">
+      <lines> والآن جالس عن اليمين<br/>يتراءى ويشفع في المؤمنين</lines>
+    </verse>
+    <verse name="v7">
+      <lines> والآن أتي من أعلى سماه<br/>وبمركباته ياخدنا معاه</lines>
+    </verse>
+  </lyrics>
+</song>

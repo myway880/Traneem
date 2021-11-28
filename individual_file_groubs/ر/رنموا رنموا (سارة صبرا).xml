@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:46">
+  <properties>
+    <titles>
+      <title>رنموا رنموا</title>
+    </titles>
+    <comments>
+      <comment>Author: سارة صبرا
+Tune: SWEETLY SING
+Title:418. رنموا رنموا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سارة صبرا</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> رنموا رنموا<br/> ومديحاً قدموا<br/> رنموا فنُقيمْ<br/> شكراً للرحيمْ<br/> سبحوا ذاك الحبيبْ<br/> ساكن العرش الرهيبْ<br/> رددوا بالزجلْ<br/> حمداً للحملْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> كلُّ جند القديرْ<br/> في سنى الثوب المنيرْ<br/> ينشدون المديحْ<br/> للرب المسيحْ<br/> فهم لم يعزِموا<br/> أصلاً أن يرنموا<br/> بأغاني الفدا<br/> إذ هم في السما</lines>
+    </verse>
+    <verse name="v3">
+      <lines> جنسُنا استُعبِدا<br/> للخطايا والردى<br/> ففَداه المسيحْ<br/> لاسمه التسبيحْ<br/> قد فدانا بالدما<br/> فاتحاً باب السما<br/> كل من يؤمنُ</lines>
+    </verse>
+  </lyrics>
+</song>

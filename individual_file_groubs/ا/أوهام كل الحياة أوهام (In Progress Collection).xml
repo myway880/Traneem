@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title> أوهام كل الحياة أوهام</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>أوهام كل الحياه أوهام<br/>من غير يسوع أوهام<br/>لو حِليِت الأيام<br/>من غير يسوع أوهام</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> ياما حاولت في بعادي<br/>ما اسمعش صوتك بينادي<br/>يهمس يقول ان العالم<br/>يضحك عليك</lines>
+      <lines>لكن ما قدرتش على صوتك<br/>صوتك ذكرني أنا بموتك<br/>صحَّاني بكلمة حبيتك<br/>أنا راجع ليك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> فكرت هالاقي الحريه<br/>لما ابعد وامشي لوحديَّ<br/>يمكن أيامي ولياليَّ<br/>تخفَى عليك</lines>
+      <lines>واتاريني في وحل العبوديه<br/>باغرق فيها شويه شويه<br/>مش دي الحريه الحقيقيه<br/>أنا راجع ليك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> سامحني ان كنت في يوم خنتك<br/>حبيت العالم وانكرتك<br/>أنا عارف ربي اني وعدتك<br/>أنا هافضل ليك</lines>
+      <lines>لكن وعدك تستناني<br/>لما ارجع لك أنا من تاني<br/>تغفر لي وتنسى اني أناني<br/>أنا راجع ليك</lines>
+    </verse>
+  </lyrics>
+</song>

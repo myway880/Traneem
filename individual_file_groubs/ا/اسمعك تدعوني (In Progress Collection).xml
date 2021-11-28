@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:12">
+  <properties>
+    <titles>
+      <title> اسمعك تدعوني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>اسمعك تدعوني<br/>اصعد الي هنا امام عرشي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>اريد ان اتحدث معك<br/>فما الي فما<br/>وجها الي وجه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ان كنت قد وجدت نعمة في عينيك<br/>ارني وجهك<br/>ارني مجدك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>تدعونني حبيبك<br/>تدعونني صديقك<br/>وكل ما في قلبك<br/>تريد ان تخبرني</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>لست بعد عبدا بل صرت ابنا<br/>واحدا معك وارثا كل شيء</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>انت تعلن سرك لي<br/>انت تعلن قلبك لي</lines>
+    </verse>
+  </lyrics>
+</song>

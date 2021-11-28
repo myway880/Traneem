@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:00">
+  <properties>
+    <titles>
+      <title> علمني أكون</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>علمني أكون زيك حنون وأبكي حزين على قسوتي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>دايما معايا وأنا مش معاك شايلني حتى في خطيتي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لامس همومي ليلي ونومي وفي حضن قلبك خليتني أعيش</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أستار ظلامي وبحور آلامي أخطار حياتي ماتهمنيش</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أنا مش هاتوه وسط الهموم أنا مش هاعيش من غير أمل</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>دايما معايا وهاكون معاك يا مالي قلبي بمحبتك</lines>
+    </verse>
+  </lyrics>
+</song>

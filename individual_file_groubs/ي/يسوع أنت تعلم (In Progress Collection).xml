@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:44">
+  <properties>
+    <titles>
+      <title> يسوع أنت تعلم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يسوع أنت تعلم أن<br/>شهوات العالم تخدعني<br/>طهر قلبي طهر فكري<br/>اسمع صراخي وارحمني</lines>
+    </verse>
+    <verse name="c1">
+      <lines> طهرني<br/>يسوع أنت تعلم أني<br/>أحبك من قلبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> دنست قلبي دنست فكري<br/>صلبتك بجرمي<br/>أبعدتك نسيتك<br/>لم تعد أنت الكل لي</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قدس سمعي عفف نظري<br/>اِحفظ أوقاتي وحبي<br/>أحفظ وعدك أمشي خلفك<br/>مهما خلفت في وعدي</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يسوع الآن تعلم أني<br/>فرحان بوجودك في قلبي<br/>هللي نفسي رنمي روحي<br/>دا يسوع حبيبي طهرني</lines>
+    </verse>
+  </lyrics>
+</song>

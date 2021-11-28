@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:02">
+  <properties>
+    <titles>
+      <title> إلى متى</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إلى متى يا رب تنساني تنساني كل النسيان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إلى متى تحجب وجهك عني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إلى متى أجعل هموما في نفسي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وحزنا في قلبي كل يوم</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>إلى متى يرتفع عدوي يرتفع عدوي علي</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>انظر واستجب لي يا رب إلهي أنر عيني لئلا أنام نوم الموت</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أما أنا فعلى رحمتك على رحمتك توكلت</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>يبتهج قلبي بخلاصك أغني للرب لأنه أحسن إلي</lines>
+    </verse>
+  </lyrics>
+</song>

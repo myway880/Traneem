@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:42">
+  <properties>
+    <titles>
+      <title> سلمت أمري في يديك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سلمت أمري في يديك<br/>وإنني راضٍ وصابر<br/>راضٍ بما يرضيك ربي<br/>مخلصي راضٍ وشاكر</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ربي رضِيت ما تريد<br/>وأنت قد صرتَ حبيبي<br/>أريتني الحبَّ العجيبَ<br/>بموتك فوق الصليبِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لذا على المذبح نفسي<br/>ذبيحةً تبغي رضاك<br/>ربَّ القيامة وثِقْتُ<br/>بمجدك هبني أراك</lines>
+    </verse>
+  </lyrics>
+</song>

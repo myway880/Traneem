@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title>مذ ربي قد اكرمني</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مذ ربي قد اكرمني<br/>بنظرة لي باسما<br/>قلبي امتلا حبا سما<br/>كاني دوما في السما</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مجدا لمن محا الاثام<br/>طهرني الى التمام<br/>قلبي امتلا حبا سما<br/>كاني دوما في السما</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ان كنت في قصر اعيش<br/>او كوخة بلا حمى<br/>سيان عندي انني<br/>ضيف معد للسما</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لا تزعج قلبي الهموم<br/>فادي لي ملازما<br/>فالشكر للفادي الرحوم<br/>من يهدي نفسي للسما</lines>
+    </verse>
+    <verse name="v4">
+      <lines>مجدي، سروري، لذتي<br/>ان ابقى معه دائما<br/>من قد فداني جاعلا<br/>افكاري دوما في السما</lines>
+    </verse>
+  </lyrics>
+</song>

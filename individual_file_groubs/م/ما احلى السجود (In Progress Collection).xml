@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:14">
+  <properties>
+    <titles>
+      <title>ما احلى السجود</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(ما احلى السجود امامك انشد بالعود لجلالك)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ياللي دفعت في اغلي الاثمان ولما قبلتك ربي صار لي السلطان<br/>وانت بترعى حياتي بكل حنان ما يملك قلبي امامك غير السجود</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وصوتي ليك هايعلي بهتاف اناشيد ولانك عايش في ايامي عيد<br/>وبتغنى حياتي جنبك بالمواعيد ما يملك قلبي امامك غير السجود</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انا عزي بيك وفخري ومالي سواك وسراج لرجلي كلامك وماشي وراك<br/>وعلي ايامي يا ربي ما يسود الاك ما يملك قلبي امامك غير السجود</lines>
+    </verse>
+  </lyrics>
+</song>

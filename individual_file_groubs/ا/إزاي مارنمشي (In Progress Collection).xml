@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:06">
+  <properties>
+    <titles>
+      <title> إزاي مارنمشي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إزاي مارنمشي وإنت إلهي قوتي<br/>والنور اللي بيملا حياتي وسلامي وفرحتي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>دا موتك عني وفداءك أحلى قصة راح أحكيها<br/>وحبك لي وإحسانك أحلى أغنية أغنيها</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>النعمة اللي أنا عايش فيها والبركة اللي<br/>بتملا حياتي<br/>راح أشهد بيها وأغنيها وتبان في كلامي وصلاتي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>رجائي اللي أنا مستنيه رجوعك لي من تاني<br/>أشوفك وأتمتع بيك وطول الأبدية في أغاني</lines>
+    </verse>
+  </lyrics>
+</song>

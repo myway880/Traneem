@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title> الكل يعلي هتافه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">الكل يعلي هتافه<br/>ويسجد لمليكنا<br/>وقلب الشعب يخافه<br/>ده إلهنا وسيدنا</lines>
+      <lines>دي كنيسة واحدة فداها<br/>وحفظها وخلاها<br/>في وسط الغربة منارة<br/>والمجد لإلهنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> زينة الكنيسة عبادة<br/>تتقدس بسجودها<br/>وتكرم اسم مسيحها<br/>اللي مات علشانها</lines>
+      <lines>دي كنيسة رافعة الراية<br/>والدم عليها حماية<br/>وصليب رب الأرباب<br/>والموت هو حياتها</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> كنيسة رسولية<br/>بإلهها فرحانة<br/>فرح الرب قوتها<br/>وهاتفضل سهرانة</lines>
+      <lines>فيها النعمة بتكفي<br/>والمطروح يخرج مشفي<br/>شايفة إلهها في عرشه<br/>وتصلي يا أبانا</lines>
+    </verse>
+  </lyrics>
+</song>

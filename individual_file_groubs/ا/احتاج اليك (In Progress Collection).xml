@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title>احتاج اليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>احتاج اليك لترفعنى فوق الامواج<br/>صوتك فى الليل يشجعنى وينير سراج<br/>اشراك الموت احاطت بى وسيول هلاك<br/>من ذا يخرجنى الى الرحب يارب سواك<br/>لاتخف لانى معك<br/>لاتتلفت لانى الهك<br/>قد ايدتك واعنتك<br/>لا تخف انا معك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>احتاج اليك لتشبعنى والفرح يدوم<br/>فادوس العالم بعسله المر المسموم<br/>احتاج اليك تناصرنى فالحرب ضروس<br/>فاراك الحب تحاصرنى يا قدوس</lines>
+    </verse>
+    <verse name="c1">
+      <lines>لا تخف لانى معك<br/>لاتتلفت لانى الهك<br/>قد ايدتك واعنتك<br/>بيمين برى انا عضدتك</lines>
+    </verse>
+  </lyrics>
+</song>

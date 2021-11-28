@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:19">
+  <properties>
+    <titles>
+      <title> أنا بس عايز أقولك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا بس عايز أقولك إن يسوع غير قلبي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنا لما كنت بعيد أنا كنت وحيد من غير يسوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لما يسوع سكن قلبي يسوع بيغير قلبي بتغير بتغير كل يوم</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لو عرفت اللي أنا عرفته هتتغير قوام إدعي يسوع في قلبك يديلك حب وسلام</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>لما هاتقابله شخصيا راح تتغير فعليا وتحبه أكتر وأكتر كل يوم</lines>
+    </verse>
+  </lyrics>
+</song>

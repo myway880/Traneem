@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:59">
+  <properties>
+    <titles>
+      <title>في ليلة قد زانها</title>
+    </titles>
+    <comments>
+      <comment>Author: داود قربان
+Tune: O DU MEIN TROST
+Title:100a. في ليلة قد زانها
+</comment>
+    </comments>
+    <authors>
+      <author type="words">داود قربان</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> في ليلةٍ قد زانَها<br/> أنوارُ مجدٍ ساطعهْ<br/> ورصَّعتْ سماءَها<br/> زهرُ النجومِ اللامعهْ<br/> بدا ملاكِ في العُلى<br/> مُبشّراً أهلَ الثرى<br/> أنَّ المسيحَ قد أتى<br/> من مجدهِ - يفدي الورى</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فظهرت جندُ السما<br/> تشدو بأنغامِ الحبورْ<br/> لله مجدٌ في العُلى<br/> وبالملا كلُّ السرورْ<br/> في الأرضِ قد ساد السلامْ<br/> لما أتاها ربُّهُ<br/> واللُطفُ قم عمَّ الأنامْ<br/> بمن تسامى حبُّهُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وافى مِنَ الشرقِ المجوسْ<br/> لرُؤيةِ الطفلِ الكريمْ<br/> أحيَوْا بمرآهُ النفوسْ<br/> وسبَّحوا اللهَ العظيمْ<br/> وقدموا مِن الكُنوزْ<br/> مُرّاً لُباناً وذهبْ<br/> لمن بهِ كلُّ الرموزْ<br/> تمَّتْ بفائِقِ العجَبْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا أيها الطفلُ العجيبْ<br/> يا ابنَ الإلهِ الأزلي<br/> أنت عزائي والطبيبْ<br/> في كل خطبٍ وجللْ<br/> وأنت فاديَّ الحبيبْ<br/> وسيدي ومُرشدي<br/> قلبي لك المثوى الرحيبْ</lines>
+    </verse>
+  </lyrics>
+</song>

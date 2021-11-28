@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:00">
+  <properties>
+    <titles>
+      <title> ارحمني يا أبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ها أنا أمامك ربي يداي فارغتان<br/>لقلبك الرحوم إلهي شفاهي هامستان<br/>إرحمني يا أبي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>في الطريق شاردا بعيدا عن القطيع عن وجهك باحثا هبني قلبا وديع<br/>في العالم تائها ليتني كنت مطيع<br/>دون هويه ضائعا لصراخي كن السميع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ظلام الليل اجتاحني لكنك بقربي<br/>رياح العالم قادتني بروحك أرجعتني<br/>أمواج الضيق غمرتني برحمتك أنقذتني<br/>إليك أسلم أمري بنورك أنرني</lines>
+    </verse>
+  </lyrics>
+</song>

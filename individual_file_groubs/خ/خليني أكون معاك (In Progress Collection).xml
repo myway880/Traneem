@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:24">
+  <properties>
+    <titles>
+      <title> خليني أكون معاك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>خليني أكون معاك وأصون اللحظة اللي إنت اديتهولي<br/>خليني أعيش معاك ومافيش شيء يفصلني عنك ربي<br/>خليني أرنم من تاني وقلبي يهتف بأغاني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ويدوب الصعب قدامي ويموت المر ف أنغامي<br/>أحزاني تتوه لما بتوب عن كل ماضي بيربطني<br/>أفراحي تزيد وياك ده أكيد وإيدك بقوة بترفعني</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>فوق أي ضعف بيأسرني فوق أي فكر بيغلبني<br/>ووعود النصرة بتنشلني فوق أعلى قمة بتنقلني<br/>خليني أرنم من تاني وقلبي يهتف بأغاني</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ويدوب الصعب قدامي ويموت المر ف أنغامي<br/>فوق أي ضعف بياسرني فوق أي فكر بيغلبني<br/>ووعود النصرة بتنشلني فوق أعلى قمة بتنقلني</lines>
+    </verse>
+  </lyrics>
+</song>

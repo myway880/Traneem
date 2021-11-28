@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:46">
+  <properties>
+    <titles>
+      <title> احكي لي يا مريم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>احكي لي يا مريم أسرارك من لون بالفرحة أخبارك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لكي أكرامي حبي تطويقي فلمجد الله قد أختارك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>احكي لي يا عن حبك لله عن طهر ما صار لأشبهاي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>احكي لي يا عن قلب كالطيب يغمره ربا لا متناهي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>تجمعا يا مريم أشياء في قلب أناء ترتفع سماء</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>وحبيبك مريم نفس حبيبي إن في نعمته شركائه</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>يا من كان في حضنك وأضفتي المطلق في بطنك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>صار أبنك بالأيمان نصيبي فخذيني يا مريم مثل أبنك</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>فيسوع ببطنك دون مغيب شمس تسطع من داخل نجمتي</lines>
+    </verse>
+  </lyrics>
+</song>

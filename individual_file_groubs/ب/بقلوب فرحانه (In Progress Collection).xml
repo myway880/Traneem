@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:31">
+  <properties>
+    <titles>
+      <title> بقلوب فرحانه</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">بقُلوب فرحانَه بنعلِّي غُنانا لاسم اللِّي فدانا نِرفَع تسبيح</lines>
+      <lines>هاتوا الأوتار عُود ومِزمار غنُّوا الأشعار لاسم المسيح</lines>
+    </verse>
+    <verse name="c1">
+      <lines> قولوا: هلِّلويا هلِّلويا<br/>هلِّلويا هلِّلويا<br/>لاسم المسيح هلِّلويا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> نُدخل لحِجَالُه نِشبَع بجمَالُه نِهدِي لجلالُه أحلى الأناشيد</lines>
+      <lines>يِملانا نُورُه يُغمرنا سُرُورُه نِهتِف في حُضُورُه حمد وتمجيد</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مِين زيّ إلهنا لمقامُه رفعنا ومعاه أجلسنا في السَّمٰويَّات</lines>
+      <lines>بقى هو فرحنا وهدف أهدافنا ومعاه بعُيوننا بِنشُوف آيات</lines>
+    </verse>
+  </lyrics>
+</song>

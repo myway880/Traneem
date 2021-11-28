@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title> الكل يمضى ويزول</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">الكلّ يمضي ويزول<br/>لا شيء يبقى لا يحول<br/>لا يبقى عشبٌ في الحقول<br/>والزهرُ أيضا للذبول</lines>
+      <lines>يا ربّ أنت وحدك<br/>تبقى وكلها تبيد<br/>لا دورانَ لا تغيير<br/>فيك يا سيدي المجيد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا سيدي ليس سواك<br/>فأنت تبقى في عُلاك<br/>كما بالأمس لا تزال<br/>تغييرُك من المُحال</lines>
+      <lines>لولاك أمضي في ضياع<br/>كي أنتهي إلى الضياع<br/>شكرًا لك فأنت لي<br/>إني لك ربي العلي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> صديقي يمضي والجفاء<br/>قد ساد من بعد الوفاء<br/>وفاؤه كان وفاء<br/>الآن صار كالهباء</lines>
+      <lines>لكنك ربَّ السماء<br/>أوفى من كل الأصدقاء<br/>ففي يسوعي الألزقِ<br/>من إخوتي ليَ العزاء</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> العمرُ يمضي ويزول<br/>مثلَ بخارٍ لا يطول<br/>تمضي الأيامُ والسّنون<br/>تمضي تطيرُ لا تكون</lines>
+      <lines>لكن في هذا لي العزاء<br/>فهو يُقرِّبُ السماء<br/>يوما سيأتي بالبهاء<br/>ما أمجدَ يومَ اللقاء</lines>
+    </verse>
+  </lyrics>
+</song>

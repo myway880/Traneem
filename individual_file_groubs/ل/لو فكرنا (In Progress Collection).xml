@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:12">
+  <properties>
+    <titles>
+      <title> لو فكرنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لو فكرنا للحظة ورجعنا<br/>لماضينا<br/>عشنا لحظات فرح والباقي أيام حزينة</lines>
+      <lines>كنا سألنا نفسنا إيه سبب حزننا<br/>ليه فضلنا زي ما إحنا كل يوم في جرحنا</lines>
+    </verse>
+    <verse name="c1">
+      <lines> إحنا راجعين يا يسوع جوا حضنك ضمنا<br/>في عالم مليان بجوع إنت تشبع قلبنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كل يوم زي اللي قبله كله تغيير في المظاهر<br/>الفراغ مالي القلوب ومش حقيقي اللي ظاهر</lines>
+      <lines>بندور نلف جوا دنيا وتدور تلف هي بينا<br/>ونكتشف في النهاية إحنا مطرح ما ابتدينا</lines>
+    </verse>
+  </lyrics>
+</song>

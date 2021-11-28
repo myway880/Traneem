@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:37">
+  <properties>
+    <titles>
+      <title> يا سيدي أحببتني بذلت لي الدما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يا سيدي أحببتني بذلت لي الدِّما<br/>بدمك طهرتني حملت الألما</lines>
+      <lines>دفعت دينيَ الرهيب مفتديًا فوق الصليب<br/>وحاملاً عني الذنوب يا سيدي يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لا ملجأ يحلو سواك لمهجة الضعيف<br/>أشرق عليَّ بضياك بحبك اللطيف</lines>
+      <lines>وضمَّني لصدرك مظللا بحبِّك<br/>وحافظًا لعبدك يا سيدي يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> في صدرِكَ الحلوِ المريح ترتاحُ مُهجتي<br/>يا صاحبَ الجنب الجريح يا ربَّ النعمة</lines>
+      <lines>هبني فأرتاحَ المدى في حبك الذي فدى<br/>ونورِك الذي هدى يا سيدي يسوع</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> في شخصك السامي العجيب ربَّ القيامة<br/>فوز حياتي في الحروب موكبُ نصرتي</lines>
+      <lines>حقِّق حياةَ المجد لي احلُل بقلبي داخلي<br/>املأني بالروحِ العلي يا سيدي يسوع</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional"> ستأتي ربي في بهاء في السُّحْبِ عن قريب<br/>تأخذني إلى السماء هناك يا حبيب</lines>
+      <lines>سأَلبس الجسمَ المجيدْ سأَعرف بلا حدود<br/>سأدركُ الحبَّ الفريد لسيدي يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

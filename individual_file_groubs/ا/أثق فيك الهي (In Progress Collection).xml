@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T09:08:46">
+  <properties>
+    <titles>
+      <title> أثق فيك الهي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>اثق فيك الهي<br/>ستسمع حين ادعوك<br/>وتشفع لتصنع لي امرا جديد</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أثق فيك<br/>الهي  وفي وعدك ادعوني<br/> في وقت ضيقك<br/>انجي ومجدي بك يزيد</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أثق فيك<br/> أعلم انك تستطيع<br/>فلا جيش ولا سور منيع يقف امام الهي<br/>أذا سقط اقوم ولن الومك لزلاتي<br/>فانت ربي حصن حياتي أنت الله</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أثق فيك<br/>فلا يقف امامك بحر تشقه لأولادك<br/> ولأرض موعد تقودهم ذراعك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أثق فيك<br/>فالبحر قد هديت اسكت ابكم<br/> قد اتيت فلا ينكسر مجدافك ولا شراعك</lines>
+    </verse>
+  </lyrics>
+</song>

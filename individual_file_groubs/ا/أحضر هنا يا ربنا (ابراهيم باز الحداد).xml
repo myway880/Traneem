@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:00">
+  <properties>
+    <titles>
+      <title>أحضر هنا يا ربنا</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم باز الحداد
+Tune: MENDON
+Title:211. أحضر هنا يا ربنا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم باز الحداد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أُحضُر هنا يا ربنا<br/> يا مصدرَ الخير العميم<br/> كما حضرتَ العرس في<br/> قانا بشخصك الكريم</lines>
+    </verse>
+    <verse name="v2">
+      <lines> بارِكْ على مَن عزما<br/> على الزواجِ الطاهرِ<br/> مُكَرِّما ومُنعما<br/> بكل خيرٍ وافرِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هَب لهما خيرَ البنين<br/> مِن جودِك الوافي العزيز<br/> وقُدهُما في كل حين<br/> بروحك الهادي المنير</lines>
+    </verse>
+    <verse name="v4">
+      <lines> واقرِنهُما بالحب في<br/> قولٍ وفكرٍ وعملْ<br/> واسكن بروحِك العليْ<br/>معهما حتى الاجل</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:01">
+  <properties>
+    <titles>
+      <title>قد مضى سيدي للسما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>قد مضى سيدي للسما<br/>ليعد مكانا لنا<br/>حتى حيثما يكون<br/>نبقى معه لنكون<br/>في هناء وعز وسكون</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا لشوقي للسما<br/>دار راحة لنا<br/>زاد شوقي للقا<br/>بحبيبي فادي جنسنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>في السما موطني للابد<br/>مع حبيبي المسيح الصمد<br/>ساغني للحبيب<br/>من فداني بالصليب<br/>تاركا كل سهدي والنحيب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ارفع صوتي في موطني<br/>وارنم ترنيمة<br/>لا يعرفها احد<br/>غير مولاي الصمد<br/>وسانشدها الى الابد</lines>
+    </verse>
+    <verse name="v4">
+      <lines>قد نلاقي الاما هنا<br/>في مسيرنا مع ربنا<br/>ان وعده امين<br/>فهو معنا كل حين<br/>يرفع الحزن عنا والانين</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:14">
+  <properties>
+    <titles>
+      <title>ما أثمن الحق الذي</title>
+    </titles>
+    <comments>
+      <comment>Author: اسعد الشدودي
+Tune: THE WORD OF GOD
+Title:84. ما أثمن الحق الذي
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">اسعد الشدودي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ما أثمنَ الحقَّ الذي<br/> في كِلمةِ الله القديرْ<br/> يهدي النفوسَ فالورى<br/> منه جميعاً يستنيرْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>قوتٌ حياةٌ للورى<br/> يحيي نفوسَ المتقينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فهو دليلٌ كاملٌ<br/> يردُّ عن طُرقِ الضلالْ<br/> وحكمةُ النفس التي<br/> نرقى بها إلى الكمالْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مُقَوِّمٌ طُرقَ الفتى<br/> فحفظُهُ فخرٌ لهُ<br/> ينيرُ كالمِصباحِ في<br/> دجى الحياة سُبْلَهُ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> عزٌّ سرورٌ لذةٌ<br/> ينفي عن القلب الكروبْ<br/> ومستقيمٌ ثابتٌ<br/> للدهرِ بهجةُ القلوبْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا ربُّ أرشدنا إلى<br/> كلامكَ الحقِّ المنيرْ<br/> لكي نرى خيراً هنا</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:31">
+  <properties>
+    <titles>
+      <title> بره بيتي وحضن ابويا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">برَّه بيتي وحضن أبويَ كنت محسوب مِ العبيد كنت إبن وصار نصيبي عبد ليّ ألف سيد</lines>
+      <lines>صرت ابدد كل مالي بعت كل ثمين وغالي<br/>بس لما يسوع ناداني صرت إبن وصار لي عيد</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فرحي كان لما اشتراني فرحي لما يسوع ناداني<br/>صرت حر وصار مكاني جوه عرسه ف أورشليم</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> كان فتات الخبز أكلي والفتات خبز الأجير كالعبيد يإسرني ضعفي والنهار إحساس بعيد</lines>
+      <lines>واما أحتاج أو أجوع والدموع تسبق دموع<br/>بس لما لاح يسوع صار يسوع فصحي الثمين</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> كنت مشتاق إني أرجع وف طريق البيت أسير كم أجير عند أبويا قلبه بالنعمة بصير</lines>
+      <lines break="optional">نفسي أرجع نفسي<br/>اقوله لو أجير يقبلني عنده</lines>
+      <lines>واما جيت وفتح لي حضنه صرت إبن وصار لي عيد</lines>
+    </verse>
+  </lyrics>
+</song>

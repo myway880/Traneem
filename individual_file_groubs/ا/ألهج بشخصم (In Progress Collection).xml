@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:59">
+  <properties>
+    <titles>
+      <title> ألهج بشخصم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ألهج بشخصك أطلب حضورك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>كلما نفسي تتوق إليك يا يسوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>تغمرني بحبك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ربي فادي الحبيب قبلما أدعوك تجيب</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>تروي روح العطشانين تعزي المنكسرين</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>تفرح نفسي بك</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>كل يوم أتكل عليك وتشتاق نفسي إليك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>سأغني لك وأهلل لك نفسي روحي ملكك للأبد</lines>
+    </verse>
+  </lyrics>
+</song>

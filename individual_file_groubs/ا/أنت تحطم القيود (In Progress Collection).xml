@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:22">
+  <properties>
+    <titles>
+      <title> أنت تحطم القيود</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أنت تحطم القيود<br/>وأنت تكشف الأسرار<br/>وكل قلب في جمود<br/>بلمستك يحال نار</lines>
+      <lines>أنت بالحب تسود<br/>أنت تهدِم الأسوار<br/>وتخلص من يعود<br/>أنت قدوسٌ وبارّ</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> والآن أنت بيننا<br/>وليس عنا ببعيد<br/>فاسمع لنا واملأْنا<br/>بروحك من جديد</lines>
+      <lines>فتهتفن أعماقنا<br/>ومعك شيئا لا نريد<br/>ويشهدُ سلوكُنا<br/>بأنك ربٌ مجيد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> بك تهدأ البحور<br/>أنت تمنح السلام<br/>أنت تغفر الشرور<br/>أنت تستر الآثام</lines>
+      <lines>أنت للقلب سرور<br/>أنت للنفس شفاء<br/>والأيام إذ تدور<br/>أنت تضمن السماء</lines>
+    </verse>
+  </lyrics>
+</song>

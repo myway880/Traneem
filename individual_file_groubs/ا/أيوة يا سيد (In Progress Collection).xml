@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:53">
+  <properties>
+    <titles>
+      <title> أيوة يا سيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أيوة الجرح كبير جوايا أيوة الآمك هي عزايا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>حملت عني جهلي وهمي وبقيت إنت فرحي غنايا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أيوة يا سيد كان على عيني تحمل عني الآمي وويلي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>جيت ترفعني وبيك تسترني تشرق شمسي ويهرب ليلي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أيوة يا سيد صلبك لي تغسل بيه حاضر وماضي</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>أمشي معاك وأنا رافع راسي دمك طهر كل خطية</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>أيوة ياسيد إزاي أنا أسيبك لا أعلن إسمك وأعبد غيرك</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>خليني أكرم دمك في وأكون ليك عبدك وأسيرك</lines>
+    </verse>
+  </lyrics>
+</song>

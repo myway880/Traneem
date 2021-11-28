@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:21">
+  <properties>
+    <titles>
+      <title>انت ابتهاجي منيتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انت ابتهاجي منيتي قصدي<br/>مولاي زد حبي واركاني<br/>نفسي لقد قرت على العهد<br/>ما لي سواك فزد ربي ايماني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>امنت يا ربي فقو ايماني<br/>شدد يقيني وزد فيك اركاني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مولاي لست للرضا اهلا<br/>لكن فدى فادي نجاتي<br/>رفقا بضعفي ايها المولى<br/>امنت قو وزد ربي ايماني</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اني لوان فاتر الحب<br/>لكن لي ينبوع احسان<br/>في صدرك الراوي صدى القلب<br/>مولاي زد بك حبي وايماني</lines>
+    </verse>
+    <verse name="v4">
+      <lines>زدني اقترابا منك في النفس<br/>انت الذي بالحب ترعاني<br/>من برك الانوار كالشمس<br/>ضاءت فبارك وزد ربي ايماني</lines>
+    </verse>
+    <verse name="v5">
+      <lines>مولاي اني مؤمن زدني<br/>عزما يقوي بالفدى امني<br/>واجعل يقيني ثابت الركن<br/>واشدد بروحك مولاي ايماني</lines>
+    </verse>
+  </lyrics>
+</song>

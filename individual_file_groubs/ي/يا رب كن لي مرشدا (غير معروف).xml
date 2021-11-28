@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:36">
+  <properties>
+    <titles>
+      <title>يا رب كن لي مرشدا</title>
+    </titles>
+    <comments>
+      <comment>
+Tune: NAUMANN
+Title:300. يا رب كن لي مرشدا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يا ربِّ كُنْ لي مرشداً<br/> يا مصدرَ الأنوارْ<br/> وانظُر لضَعفي مُنجداً<br/> يا ذا الغِنى الجبارْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إني أتيتُ خاضعاً<br/> أمامَ رحمتِكْ<br/> فانصِت لصوتي سامعاً<br/> من عرشِ نعمتِكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> نفسي إليك تائقَهْ<br/> فيها أمانيها<br/> وبِرَجاكَ واثقهْ<br/> فامْحُ مساويها</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا ربِّ قلَّ ناصري<br/> كُن أنت لي ناصِرْ<br/> وعظُمَت كبائري<br/> كُن أنت لي غافِرْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> يا حصنَنا في خوفِنا<br/> ومُلتقى الخَطْبِ<br/> أنت مُقَوّي ضعفِنا<br/> في الموقفِ الصَّعبِ</lines>
+    </verse>
+  </lyrics>
+</song>

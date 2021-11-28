@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:53">
+  <properties>
+    <titles>
+      <title> أيها العز</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ما احلى طريقي لأنك معي في رحبي وضيقي ساكن اضلعي<br/>وسر عزائي مجدي ورجائي ما احلاك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أيها العز الحقيقي والحب النقي انت خلي ورفيقي صديقي الوفي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أيها الفرح الحقيقي أنت قوتي<br/>ألزق من أخي شقيقي نعم وصخرتي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>أيها النور الحقيقي أنت مرشدي سر معي كل طريقي إن في يومي أو غدي</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أيها الغنى الحقيقي والمعطي السخي<br/>ذهبي انت وعقيقي فبك تعلقي</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>أيها العدل الحقيقي للذليل والشقي يا زفيري وشهيقي أنت قابض قرعتي</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>ايها السند الحقيقي بذراعك أرتقي<br/>منقذي في وقت ضيقي إذ بحبك ألتقي</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>أيها الحلو الحقيقي والمن الخفي أنت شهدي ورحيقي منك دوما أستقي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:19">
+  <properties>
+    <titles>
+      <title> انا عارف اني مختلف</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">ربنا كان ليه هدف<br/>لما خلقنا مختلفين<br/>كان اسهل له شكل واحد<br/>لكنه عايزنا متميزين</lines>
+      <lines>افرح لانك مختلف<br/>وجودك ليه هدف<br/>ما تفتكرش انك شبه<br/>كل الناس التانيين</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> في ناس شعرها مجعد<br/>وناس شعرها حرير<br/>وعيون في منها زرقا<br/>ومنها سواد الليل</lines>
+      <lines>واللي بشرته سمره<br/>واللي بشرته بيضا<br/>واللي صوته ناعم<br/>وغيره عامل زيطه</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> الفاكهة والخضار<br/>ليهم اشكال كتير<br/>في منها الصغير<br/>ومنها الكبير</lines>
+      <lines>مش كل الفاكهة حلوة<br/>ولا ليها نفس اللون<br/>ولا كل خضار بناكله<br/>بيكون شكل الليمون</lines>
+    </verse>
+  </lyrics>
+</song>

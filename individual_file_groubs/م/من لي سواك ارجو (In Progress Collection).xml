@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:22">
+  <properties>
+    <titles>
+      <title> من لي سواك ارجو</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">من لي سواك ارجو<br/>خلاصه العظيم<br/>ومن سواك يغني<br/>بفيضه العميم</lines>
+      <lines>(ليس اتكال قلبي على الورى العديم<br/>ففي يديك امري يا حي يا عليم)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> من لي سواك يحنو<br/>في كربي الاليم<br/>ويدمعن لدمعي<br/>كرقة النسيم</lines>
+      <lines>(من هكذا يعزي ونوره يديم<br/>ونفسي الحزينة من الردى يقيم)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> من هكذا يراني<br/>كخله الحميم<br/>كصنعه البديع<br/>اراه بي يهيم</lines>
+      <lines>(يحوطني بحب نبعا من الصميم<br/>ويعتني بنفسي في دربه القويم)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional"> من غيرك سيبقى<br/>عوني على الاثيم<br/>بباسك تنجي<br/>وقلبك الرحيم</lines>
+      <lines>(مسيجا علي في الخطر الجسيم<br/>بمركبات نار وجندك العظيم)2</lines>
+    </verse>
+  </lyrics>
+</song>

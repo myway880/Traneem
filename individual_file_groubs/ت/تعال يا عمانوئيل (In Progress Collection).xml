@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:35">
+  <properties>
+    <titles>
+      <title>تعال يا عمانوئيل</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>تعال يا عمانوئيل<br/>لفدية الشعب العليل<br/>فشعبك بالانتظار<br/>قد سئم الدرب الطويل</lines>
+    </verse>
+    <verse name="c1">
+      <lines>عمانوئيل عمانوئيل<br/>قد قصر الدرب الطويل</lines>
+    </verse>
+    <verse name="v2">
+      <lines>تعال يا رب الورى<br/>يا من خلقت ذا الثرى<br/>قبلا اتى ناموسك<br/>واليوم جند بشر</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اخذت شرعا ملكك<br/>جئت تقيم شعبك<br/>ابليس قد كبلهم<br/>تعال ثبت ملكك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>يا كوكب الصبح المنير<br/>ارسل شعاعا كي ينير<br/>فشعبك في الظلمة<br/>ونحو نورك يسير</lines>
+    </verse>
+    <verse name="v5">
+      <lines>الاسر قد بدا طويل<br/>والصبر امر مستحيل<br/>ننشد دوما قائلين<br/>تعال يا عمانوئيل</lines>
+    </verse>
+  </lyrics>
+</song>

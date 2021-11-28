@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:46">
+  <properties>
+    <titles>
+      <title> يفتح وليس من يغلق يأمر</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">يفتح وليس من يغلق يأمر فيهرب أعداءه وتقفز الجبال من أمامه</lines>
+      <lines>كالصوان جعل جباهنا أصلب من كل أعدائنا<br/>أنجحنا فمن يعوقنا من مجد إلى مجد دوما يقودنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> قد فتح السماء لنا بالبركات أمر بعزنا نسأل أمطاره فيجيبنا</lines>
+      <lines>يقول يرى مجدي من أمن بي وأجعل عليه من هيبتى<br/>أغير الأوقات والأزمنه وأفتح فمن يردني</lines>
+    </verse>
+  </lyrics>
+</song>

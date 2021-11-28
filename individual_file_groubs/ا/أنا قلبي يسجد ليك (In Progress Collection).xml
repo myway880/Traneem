@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:30">
+  <properties>
+    <titles>
+      <title> أنا قلبي يسجد ليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا قلبي يسجد ليك ولساني يرنم بيك<br/>حبك خلى حياتي تبقى ليك ترنيمة شكر</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تسبيح من الطيور بيعلالك والكون يشهد لعظمتك وجلالك<br/>لازم تسبيحنا يعلى عنهم ويبقى احلى إنت مش بس خالقتنا انت فادينا</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وفي كل مرة بحكيلك برتاح بفرح لما معاك بفتح قلبي<br/>لكن فرحي بيكبر لما برنم وبشكر عشان إنت بقيت أغلى من حياتي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>فوق تسبيح الطيور أعلى من أي سور إطلق تسبيحي ليك في حياتي<br/>مهما كانت ظروفي زادت أسباب لخوفي أنا فرحي فيك ثابت طول ايامي</lines>
+    </verse>
+  </lyrics>
+</song>

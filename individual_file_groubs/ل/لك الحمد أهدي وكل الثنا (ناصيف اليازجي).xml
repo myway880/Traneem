@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:10">
+  <properties>
+    <titles>
+      <title>لك الحمد أهدي وكل الثنا</title>
+    </titles>
+    <comments>
+      <comment>Author: ناصيف اليازجي
+Tune: ROOM FOR THEE
+Title:12. لك الحمد أهدي وكل الثنا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ناصيف اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> لكَ الحمدَ أُهدي وكلَّ الثنا<br/> أيا بارئَ العالمينْ<br/> لأنك أظهرتَ لي رحمةً<br/> وقوَّيتني يا مُعينْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لك الحمدُ من كل ذي سلطةٍ<br/> إذا سَمعوا كِلْمَتكْ<br/> وفي طُرْقِ عدلكَ قد رنَّموا<br/> وقد عرَفوا رحمَتكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مقامُك عالٍ ومَن يتضِعْ<br/> لديك فذاك السعيدْ<br/> وأما الذي قام مستكبراْ<br/> فتعرفُه من بعيدْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إذا جُزتُ في الضيق أحيا إذا<br/> جعلتُ اتكالي عليكْ<br/> وسُخطُ الأعادي إذا أرجفوا<br/> تمُدُّ عليه يديكْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> تُخَلِّصُني باليمين التي<br/> تُحامي عن البائسينْ<br/> فمِن فيضِ نُعماك لي رحمةٌ</lines>
+    </verse>
+  </lyrics>
+</song>

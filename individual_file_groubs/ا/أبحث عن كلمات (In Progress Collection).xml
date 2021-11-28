@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T09:00:27">
+  <properties>
+    <titles>
+      <title> أبحث عن كلمات</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أبحث عن كلمات أقوى من الكلمات<br/>تفصح عما بقلبي نحو إلهي وربي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تسمو بوصف جماله تعلو لحد كماله<br/>لا أجد الكلمات لا أجد الكلمات</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أبحث عن نغمات أحلى النغمات<br/>أعزف فيها لربي لحن سجودي وحبي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ترقى في سبح جلاله تسبر بعد مجاله<br/>لاأجد النغمات لا أجد النغمات</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>أنتظر اللمسات من لدن السماوات<br/>ترفع فكري وروحي تعلن مجد مسيحي</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>يغمر كل كياني يملأكل جناني<br/>أنتظر اللمسات أنتظر اللمسات</lines>
+    </verse>
+  </lyrics>
+</song>

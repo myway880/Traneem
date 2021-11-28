@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:18">
+  <properties>
+    <titles>
+      <title> مرني أن آتي إليك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مُرْنِي أَنْ آتِي إِلَيْكْ<br/>رَغْمَ ذَا اللَّيْلِ الرَّهِيبْ<br/>مُرْنِي أَنْ آتِي إِلَيْكْ<br/>مُؤْمِنًا بِكْ يَا حَبِيبْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> مُرْنِي أَنْ آتِي إِلَيْكْ<br/>هَبْنِي رَاحَةً لَدَيْكْ<br/>فِيكَ نَفْسِي تَسْتَرِيحْ<br/>رَاحَتِي بَيْنَ يَدَيْكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مُرْنِي أَنْ آتِي إِلَيْكْ<br/>رَغْمَ ثِقْلِ جَسَدِي<br/>مُرْنِي أَنْ آتِي إِلَيْكْ<br/>فَوْقَ مَاءٍ مُزْبِدِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وَاحْمِلَنِّي سَيِّدِي<br/>أَنْتَ تَحْمِلُ الْفَلَكْ<br/>وَاهْدِنِي يَا مُنْجِدِي<br/>لِحِمَاكَ أَنَا لَكْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إِنْ تَكِلُّ أَعْيُنِي<br/>عَيْنُكَ دَوْمًا تَصُونْ<br/>إِنْ تَخُنِّي أَرْجُلِي<br/>قَلْبُكَ لَيْسَ يَخُونْ</lines>
+    </verse>
+  </lyrics>
+</song>

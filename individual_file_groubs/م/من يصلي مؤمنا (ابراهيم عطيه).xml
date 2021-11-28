@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:22">
+  <properties>
+    <titles>
+      <title>من يصلي مؤمنا</title>
+    </titles>
+    <comments>
+      <comment>Author: ابراهيم عطية
+Tune: MERCY
+Title:71a. من يصلي مؤمنا
+</comment>
+    </comments>
+    <authors>
+      <author type="words">ابراهيم عطيه</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> مَن يصلي مؤمنا<br/> بيسوع لا يخيب<br/> باسمه الآب لنا<br/> كل حين يستجيب</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فهْو للكل يقول<br/> إسهروا يا مؤمنين<br/> فالتجاريبُ تزول<br/> إن تصلوا شاكرين</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إطرحوا الحِملَ لديْ<br/> من بلايا وهموم<br/> مَن أتى حبا إليْ<br/> نال مني ما يروم</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إقرعوا الباب الرفيع<br/> في احتياجٍ واضطراب<br/> إنني الرب السميع<br/> ألتقيكم بالجواب</lines>
+    </verse>
+    <verse name="v5">
+      <lines> إسألوا تُعطوا فكم<br/> وهبَ السُّؤْلَ الرحيم<br/> واطلبوا خير النِّعَم<br/> تجدوا عند الكريم</lines>
+    </verse>
+    <verse name="v6">
+      <lines> منك يا روح الإله<br/> نبتغي نور الهدى<br/> كن لنا وقتَ الصلاه</lines>
+    </verse>
+  </lyrics>
+</song>

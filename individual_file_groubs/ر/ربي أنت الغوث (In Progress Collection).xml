@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:43">
+  <properties>
+    <titles>
+      <title> ربي أنت الغوث</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربي أنت الغوث أنت نصرتي<br/>لخلاصك انتظرت<br/>ربي أنت في حِماك راحتي<br/>لخلاصك انتظرت</lines>
+      <lines>ربيَ امسك بيمينِكَ يدي<br/>ربي خلص نفسي أنت منجدي<br/>خلصن نفسي حبيبي سيدي<br/>لخلاصك انتظرت</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> ربي جاعت نفسي والقلبُ خوى<br/>لخلاصك انتظرت<br/>ربي أنت قوت نفسي والدوا<br/>لخلاصك انتظرت</lines>
+      <lines>ربي فاقرب مني واطفئ لوعتي<br/>ربي واقرب مني عز ِّ مُهجتي<br/>ربي فرِّح نفسي أنت فرحتي<br/>لخلاصك انتظرت</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> من سواك سيدي نفسي يريح<br/>لخلاصك انتظرت<br/>سيدي بين يديك أستريح<br/>لخلاصك انتظرت</lines>
+      <lines>ربي هاتِ العونَ لي من قدسك<br/>ربي واسند مهجتي في حِضنك<br/>وابتسم لي سيدي من فضلك<br/>لخلاصك انتظرت</lines>
+    </verse>
+  </lyrics>
+</song>

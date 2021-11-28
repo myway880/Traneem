@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:05">
+  <properties>
+    <titles>
+      <title> عيني تفتح كل يوم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>معاك انا بامشي في كل لحظة<br/>بيك انا بافرح كل ثانية<br/>باسبح ليك<br/>عشان انت<br/>إلهي اللي فاديتني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عيني تفتح كل يوم لما بصحي وقبل النوم<br/>تعتني بي كل يوم دا انت ربي خالق الكون</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ليك يارب بأقدم قلبي وأفكاري وكل حياتي<br/>بأرفع إيدي اسبح اسمك أسجد ليك واهدي لك ذاتي</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ليك سلطان علي كل حياتي وفي إيدك كل أوقاتي<br/>ماشي وراك وانا واثق إنك ترعاني في كل خطواتي</lines>
+    </verse>
+  </lyrics>
+</song>

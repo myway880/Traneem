@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:28">
+  <properties>
+    <titles>
+      <title>هل لقاء نجتنيه</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم كساب
+Tune: SHALL WE GATHER
+Title:223. هل لقاء نجتنيه
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">سليم كساب</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> هل لقاءٌ نجتنيهِ<br/> عندَ فادينا الحبيبْ<br/> مَن حياةُ النفسِ فيهِ<br/> وهو للقلبِ نِعمَ النصيبْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>كيف لا والربُّ صرَّحْ<br/> أننا معهُ نكونْ<br/> في ديارِ المجدِ نفرحْ<br/> كلُّنا أيها المؤمنونْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هل نلاقي كلَّ مؤمنْ<br/> ثمَّ في دارِ النعيمْ<br/> والمسيحُ الرب يُعلنْ<br/> سرَّ مجدٍ جليلٍ عظيمْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هل نرى نهراً صفاهُ<br/> راقَ لوناً كالزجاجْ<br/> حيث يعطينا الإلهُ<br/> ثوبَ بِرٍّ نقيٍّ وتاجْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> ليتَ شِعْري هل نُؤدي<br/> ثمَّ ترتيلَ السرورْ<br/> إذ مسيحُ الله يُبدي<br/> كلَّ حبٍّ لدهرِ الدهورْ</lines>
+    </verse>
+    <verse name="v5">
+      <lines> عن قريبٍ سوف نُبصِرْ<br/> ما نُرَجّى بالعَيانْ<br/> إذ كتابُ الحقِّ يُخبِرْ</lines>
+    </verse>
+  </lyrics>
+</song>

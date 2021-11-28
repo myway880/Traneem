@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:25">
+  <properties>
+    <titles>
+      <title>اهتفوا الفادي أتى</title>
+    </titles>
+    <comments>
+      <comment>Author: أسعد منصور
+Tune: HYMN FOR CHRISTMAS DAY
+Title:108. اهتفوا الفادي أتى
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">أسعد منصور</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> اهتفوا الفادي أتى<br/> تمَّ ما الربُّ وَعَدْ<br/> يومَ نورٍ وهدى<br/> مولدُ الطفلِ الصمَدْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا له صبحاً مجيدْ<br/> مولدُ الطفلِ الفريدْ<br/> ارفعوا صوتَ النشيدْ<br/> قد أتى الفادي المجيدْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في العُلَى مجدٌ لمنْ<br/> عرشُهُ فَوقَ الغَمامْ<br/> وسلامٌ في الدُّنَى<br/> وسرورٌ للأنامْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> يا له حباً سَمَا<br/> حبُّ فادينا الاله<br/> جاءَ من عرشِ السما<br/> لفِدى القومِ الخطاه</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أعطِنا أن نَقْتدي<br/> بك في الحبِّ الصحيحْ<br/> واهدِنا سبلَ الهدى<br/> ايها الرب المسيح</lines>
+    </verse>
+  </lyrics>
+</song>

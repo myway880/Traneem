@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:44">
+  <properties>
+    <titles>
+      <title>يسوع أنت ربي</title>
+    </titles>
+    <comments>
+      <comment>Author: خليل اليازجي
+Tune: AURELIA
+Title:340. يسوع أنت ربي
+</comment>
+    </comments>
+    <authors>
+      <author type="words">خليل اليازجي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يسوعُ أنت ربي<br/> عزيزيَ الأمينْ<br/> لا أرهبُ الرزايا<br/> وأنت لي معينْ<br/> تُرى لماذا أَعيا<br/> في سفري هنا<br/> مهما يكُنْ طريقي<br/> يُفضِ إلى السنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> فلا أخافُ حُزني<br/> أنت مُلازمي<br/> ولا قضاءَ يومٍ<br/> عليَّ قادمِ<br/> إنْ أتَّخِذْ صليبي<br/> فهْو لأتبعكْ<br/> أو إنْ أكُنْ مُهاناً<br/> فلمْ أزَلْ معكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> في وَسْطِ أيِّ ضيقٍ<br/> مِن هذه الحياهْ<br/> يسوعُ لي مُعينٌ<br/> يمنحُني النجاهْ<br/> ما الخصمُ لي غلاباً<br/> إذ فيك لي يقينْ<br/> يسوعُ أنت ربي<br/>عزيزي الامين</lines>
+    </verse>
+  </lyrics>
+</song>

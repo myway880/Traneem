@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:39">
+  <properties>
+    <titles>
+      <title>حمدا لرب مبدع الأكوان</title>
+    </titles>
+    <comments>
+      <comment>Author: يواكيم الراسي
+Tune: LONDONDERRY
+Title:180a. حمدا لرب مبدع الأكوان
+</comment>
+    </comments>
+    <authors>
+      <author type="words">يواكيم مسعود الراسي</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> حمداً لربٍّ مبدِعِ الأكوانِ<br/> من قد سما بالفضلِ والإحسانِ<br/> إذ قد فدى العبدَ الأثيمِ الجاني<br/> من رقِّهِ فأنالَهُ الحريَّهْ<br/> فيا لَحبِّ الآبِ ربِّ الجودِ<br/> لعالمٍ عن حبِّهِ بعيدِ<br/> حتى فداهُ بابنِهِ الوحيدِ<br/> لكي ينالَ العيشةَ الأبديِّهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> روحُ الإلهِ الطاهرُ القدوسُ<br/> تحيا به الأجسادُ والنفوسُ<br/> فيه لنا الإرشادُ والتقديسُ<br/> لندخلَ المنازلَ القدسيَّهْ<br/> لم تدرِكِ الأبصارُ والأذهانُ<br/> أمراً بهِ لم تسمعِ الآذانُ<br/> ما قد أعدَّ الخالقُ المنانُ</lines>
+    </verse>
+  </lyrics>
+</song>

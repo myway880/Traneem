@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:17">
+  <properties>
+    <titles>
+      <title> إن فاض في قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>إن فاض من قلبي نبع السلام<br/>أو كنت في وادي الظلام<br/>فصوتي يرنم بين الأنام<br/>إنني دائما في سلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines> في سلام<br/>إنني دائما في سلام</lines>
+    </verse>
+    <verse name="v2">
+      <lines> إن هاجت عليَّ جيوش الآلام<br/>فنفسي في أمان تام<br/>يسوع يبدد جند الظلام<br/>بفدائه أسرى الآثام</lines>
+    </verse>
+    <verse name="v3">
+      <lines> فمجدًا لحامل ذنبي العظيم<br/>وساتر عيبي الذميم<br/>وماحي آثامي بالدم الكريم<br/>له الشكر من ضالٍ أثيم</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فيا ربي عجل بالملك السعيد<br/>فنحظى بالعصر المجيد<br/>يسود في الدنيا السلام الوطيد<br/>فنشيد بالعهد الجديد</lines>
+    </verse>
+  </lyrics>
+</song>

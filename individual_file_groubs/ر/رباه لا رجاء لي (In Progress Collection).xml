@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title> رباه لا رجاء لي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">رباه لا رجاء لي إلا في صدق وعدك وأنت قد وعدتني أفعل ما كلمتك</lines>
+      <lines>لست إنساناً تكذب لا تندم في قصدك تقول كذا تفعل تفي بكل قولك<br/>رباه لا رجاء لي إلا في صدق وعدك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> فإن علا الموج حولي وإن فقد سلامك وإن تغشاني الظلمة وغاب نور وجهك</lines>
+      <lines>وإن قتلني اليأس وقلت ثقتي بشخصك وإن أعمتني حيرتي وخفت في طريقك<br/>رباه لا رجاء لي إلا في صدق وعدك</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> رباه هبني ذا اليقين بقدرتك وصدقك وهبني عزم ذا الإيمان في إنتظار فعلك</lines>
+      <lines>في وقته يا قادراً تسرع به لمجدك متمماً وعودك يا صادقاً لعبدك<br/>لذا فلا رجاء لي إلا في صدق وعدك</lines>
+    </verse>
+  </lyrics>
+</song>

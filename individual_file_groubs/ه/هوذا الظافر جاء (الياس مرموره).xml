@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:30">
+  <properties>
+    <titles>
+      <title>هوذا الظافر جاء</title>
+    </titles>
+    <comments>
+      <comment>Author: الياس مرمورة
+Tune: SEE THE CONQUERING HERO COMES
+Title:119. هوذا الظافر جاء
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">الياس مرموره</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> هوذا الظافرُ جاءْ<br/> بهتافِ النصرِ هُبّوا استقبلوهْ<br/> أنثروا الأزهارَ ترحيباً بهِ<br/> توِّجوهُ عظموهُ كرموهْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>هوذا الظافرُ جاءْ<br/> بهتاف النصرِ هُبوا استقبلوهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> هوذا المليكُ جاءْ<br/> أصلُ يسّى كوكبُ الصبحِ المنيرْ<br/> أسدٌ فردٌ قديرٌ غالبٌ<br/> واهبُ البرِّ ومُطلقُ الأسيرْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> هوذا المسيحُ جاءْ<br/> ملكُ الكونِ ونورُ العالمينْ<br/> ضابطُ الكلِّ وديانُ الورى<br/>قاهر الموت وفادي المؤمنين</lines>
+    </verse>
+  </lyrics>
+</song>

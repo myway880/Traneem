@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:39:59">
+  <properties>
+    <titles>
+      <title> أجهل ما سوف يأتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">أجهلُ ما سوفَ يأتي<br/>في الغدِ أو بعدَهُ<br/>فالغدُ في علمِ ربي<br/>ليس خافٍ عندَهُ</lines>
+      <lines>ليس همي ما يصير<br/>من أمورٍ آتيات<br/>همي أن أرضيَ ربي<br/>في الحياةِ والممات</lines>
+    </verse>
+    <verse name="c1">
+      <lines> لست أدري ما يكونُ<br/>من حياتي في الغدِ<br/>أعلمُ شيئًا يقينًا<br/>ربي ممسكٌ يدي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> أعلمُ الدربُ منيرٌ<br/>أعلم ربي أمين<br/>فهو لي خيرُ رفيقٍ<br/>وهو لي خيرُ معين</lines>
+      <lines>عن قريبٍ سوف أمضي<br/>إلى موطنِ الخُلود<br/>حيث لا الدمعُ يسيلُ<br/>لا ولا الموتُ يسود</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أجهلُ المستقبلاتِ<br/>أجهل ما سيكون<br/>إنما أعلم أنَّ<br/>سيدي آبٌ حنون</lines>
+      <lines>فهو يُعنَى بالطيورِ<br/>وكذا بي يعتني<br/>دمُهُ يكفيني سِترًا<br/>روحُهُ يملأني</lines>
+    </verse>
+  </lyrics>
+</song>

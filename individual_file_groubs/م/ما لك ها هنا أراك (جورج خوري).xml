@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:16">
+  <properties>
+    <titles>
+      <title>ما لك ها هنا أراك</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج خوري
+Tune: REST
+Title:293. ما لك ها هنا أراك
+</comment>
+    </comments>
+    <authors>
+      <author type="words">جورج خوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ما لكَ ها هنا أراكْ<br/> هيا إلى النِّزالْ<br/> صوتُ السماءِ قد دعاكْ<br/> فانهضْ ولا تُبطيء خُطاكْ . إلى ذُرى الكمالْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> عُد واقتحِم جيشَ الشرورْ<br/> واثبُت لدى الحربِ<br/> واطلُب رِضى الرب الغفورْ<br/> فهو الذي يجلو الصدورْ . في ظلمةِ الكربِ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بارِك فُؤادي يمتلي<br/> بالروح والنعمهْ<br/> كُن صخرتي ومَوئلي<br/> في اليأس تُحيي أملي . وتبعثُ الرحمهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا سيدي منك الهُدى<br/> إن أظلم الزمانْ<br/> ثبِّت يقيني مُرشدا</lines>
+    </verse>
+  </lyrics>
+</song>

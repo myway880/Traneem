@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:54">
+  <properties>
+    <titles>
+      <title> ع الحرية</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>على الحرية باشكر إلهي على الحرية في المسيح</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>باهتف ياربي بأعلى صوتي أنا حر في المسيح</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>مهما كانت القيود مهما ضعفي كان كبير</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لما عدوي يعلي صوته لي الرب إله قدير</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>وسط الضلمة جاني بنوره مد إيده وخرجني</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>عظم عمله معايا بقوة بره الأسر طلعني</lines>
+    </verse>
+  </lyrics>
+</song>

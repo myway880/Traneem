@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:36:48">
+  <properties>
+    <titles>
+      <title> إنسان أيا إنسان</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>إنسان أيا إنسان يا أغلى ما نملك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>وكل شيء في الكون مخلوق عشان خاطرك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وكل شيء يرخص وكل شيء يهلك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>إلا إنت يا إنسان الكل يرخصلك</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>يمكن تكون عاجز يمكن تكون تعبان</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>يمكن تكون محتاج جايز تكون غلبان</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>بس إنت قيمتك فيك بتستنى وانت انت القيمة والمعنى</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>لأن خلف الضعف فيه إنسان</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>يمكن تكون مولود والذهن جوه معاق</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>يمكن فقدت العين ولا فقدت الساق</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>يجوز يكون بصرك ضعيف وجايز يكون مرضك مخيف</lines>
+    </verse>
+    <verse name="v1l">
+      <lines>بس انت قيمتك فيك بتستنى وانت انت القيمة والمعنى</lines>
+    </verse>
+  </lyrics>
+</song>

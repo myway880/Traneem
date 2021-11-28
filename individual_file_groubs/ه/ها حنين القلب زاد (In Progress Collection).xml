@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:26">
+  <properties>
+    <titles>
+      <title> ها حنين القلب زاد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ها حنين القلب زاد<br/>ها بريق الحب عاد<br/>ودموع التوبه ترجو<br/>تحنو بالرفق يداك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> وأعود هبني بالحب أراك<br/>وأذوب في جمالٍ في فتاك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ها حياتي رهن حبٍ<br/>قد تجسد في صلبٍ<br/>مهما حِدت عن طريقِك َ<br/>لن أشاهدَ مثلَ قلبِكَ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ها يداك علَّمتني<br/>من هلاكٍ نشلتني<br/>للمياه أوردتني<br/>رحبَ خِصبٍ أخرجتني</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:44">
+  <properties>
+    <titles>
+      <title> ياللي معاك الرحلة</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا اللي معاك الرحله بتحلا<br/>رغم تعبها وكل ما فيها<br/>يا اللي أمانتك بتشجعني<br/>إني أسلم وانا بامشيها</lines>
+    </verse>
+    <verse name="c1">
+      <lines> كل نجاحي بيرجع ليك<br/>يا اللي النفس ارتبطت بيك<br/>عرفت نفسي الخير وياك<br/>ولقيت كل آمالي فيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> تجبر كسر النفس تعوض<br/>أي خساره في البريه<br/>ليك في الموت يا إلهي مخارج<br/>ليَّ في شخصك نعمه غنيه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لما بصغر النفس باجي لك<br/>تفتح عيني على أمجادك<br/>حامل كل الكون دا في إيدك<br/>أبدًا مش راح تنسى اولادك</lines>
+    </verse>
+  </lyrics>
+</song>

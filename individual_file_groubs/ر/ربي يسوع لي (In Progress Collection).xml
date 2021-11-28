@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:45">
+  <properties>
+    <titles>
+      <title>ربي يسوع لي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ربي يسوع لي<br/>لا اخشى من ظلام<br/>ساشدو بابتسام<br/>اعيش في سلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فوعده وثيق<br/>معي كل الطريق<br/>في وسع او ضيق<br/>هو نعم الرفيق</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وعد يسوع لي :<br/>" اعين في الظروف<br/>وقلبي العطوف<br/>يحميك من الوف "</lines>
+    </verse>
+    <verse name="v3">
+      <lines>قول يسوع لي<br/>يشبع جوعتي<br/>ويشفي لوعتي<br/>ويهدي خطوتي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>حب يسوع لي<br/>محا خطيتي<br/>على مكانتي<br/>سر كرامتي</lines>
+    </verse>
+    <verse name="v5">
+      <lines>صوت يسوع لي<br/>يهمس داخلي<br/>يسلي غربتي<br/>ويحيي املي</lines>
+    </verse>
+  </lyrics>
+</song>

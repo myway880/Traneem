@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:12">
+  <properties>
+    <titles>
+      <title>القلب كان قاسي</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> القلب كان قاسي <br/>وفضلت أنا أقاسي <br/>ولما فاض كأسي<br/> بديت أعيش وياك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>وحدك يا يسوع <br/>وليس سواك <br/>بحبك يا يسوع <br/>ولا حدش وياك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انت اللي فديتني <br/>في همومي وعزيتني <br/>بلمسة واحدة شفيتني <br/>وبنظرة سرت معاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>دي نعمة غنية <br/>أعددتها لي <br/>أعطيتها لي هدية<br/>لما مشيت وياك </lines>
+    </verse>
+    <verse name="v4">
+      <lines>م الكسرة للنصرة <br/>وزالت الحسرة <br/>وسعدت أنا بالحضرة<br/>لما اتقابلت معاك </lines>
+    </verse>
+    <verse name="v5">
+      <lines>مسحت لي دموعي <br/>ضمدت لي جروحي <br/>حياتي وروحي <br/>سابحة في أعلي سماك</lines>
+    </verse>
+  </lyrics>
+</song>

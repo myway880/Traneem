@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:40">
+  <properties>
+    <titles>
+      <title>خذ بيدي وقدني</title>
+    </titles>
+    <comments>
+      <comment>Author: سليمان ضومط
+Tune: SILCHER
+Title:304. خذ بيدي وقدني
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليمان ضومط</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> خُذْ بيدي وقُدني<br/> كما تشاءْ<br/> حتى أرى في ليلي<br/> نورَ السماءْ<br/> يسوعُ سِرْ أمامي<br/> فأتبَعَكْ<br/> وحيثُما تسِرْ بي<br/> أنا معكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> في الضَّعفِ قوِّ عزمي<br/> برحمتِكْ<br/> فيستريحَ جسمي<br/> بنعمتكْ<br/> كلُّ اتكالي دوماً<br/> ربي عليكْ<br/> أبِيتُ مُطمئناً<br/> بين يديكْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> مهما يكُن طريقي<br/> وسطَ الظلامْ<br/> أنَلْ بفضلِ ربي<br/> حُسنَ الخِتامْ<br/> خُذْ بيدي وقُدني<br/> ربي الكريمْ<br/> حتى يضيءَ حولي<br/>نورُ النعيمْ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:15">
+  <properties>
+    <titles>
+      <title> إلى دجى الضريح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>الى دجى الضريح<br/>قد حملوا المسيح<br/>من جنبه الجريح<br/>تجري الدماء</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> قد غلب الحمام<br/>منتصرا على الجحيم<br/>تخفق فوق راسه الاعلام</lines>
+      <lines>سائرا في موكب النصر العظيم<br/>هللوا هللوا<br/>هللويا الرب قام</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يا امه الحنون<br/>علام ذا الانين<br/>فنوره المبين<br/>في القبر ضاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines> بموته اقام<br/>من مات بالاثام<br/>فضاء في الظلام<br/>نجم الرجاء</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فلتفرح الشعوب<br/>بالحمل المصلوب<br/>ولتهتف القلوب<br/>تم الفداء</lines>
+    </verse>
+  </lyrics>
+</song>

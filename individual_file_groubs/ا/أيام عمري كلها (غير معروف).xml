@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title>أيام عمري كلها</title>
+    </titles>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أيامُ عُمْرِي كلُّها<br/>يا ربُّ في يَدَيْكْ<br/>مِن طارِدِيَّ نَجِّني<br/>كذاكَ مِن أعْدايْ<br/>أضِئْ بوجهِكَ البَهي<br/>عليَّ يا مَوْلايْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>إلهُنا ربُّ السَما<br/>إلهُنا المُعينْ<br/>في سِترِهِ أسكنَني<br/>في مَعْقِلٍ حَصينْ<br/>ما أعظمَ الجود الذي<br/>ذَخَرْتَهُ للبارْ<br/>تستُرُهُ بسِترِكَ<br/>مِنْ حِيَلِ الأشرارْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يا أتقياءُ أحبِوا<br/>إلهَنا الوَدودْ<br/>فإنَّهُ الربُّ العَلي<br/>وحافظُ العُهُودْ<br/>وليَتَشجَّعْ قلبُكُمْ<br/>يا حائفي الإلهْ<br/>مُنتظرينَ رحمةً<br/>للمجدِ والحياهْ</lines>
+    </verse>
+  </lyrics>
+</song>

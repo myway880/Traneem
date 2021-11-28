@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:27">
+  <properties>
+    <titles>
+      <title> دي خطة حياتي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">دي خطة حياتي ضامنها في إيديك<br/>شايفها يوماتي غلاوتي عليك</lines>
+      <lines>حاسسها في أماني سلامي وضماني<br/>في كل المعاني الحلوه اللي فيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> في يوم ما تهاجمني رياح الحياه<br/>وبضغط تلاخمني وما فيش طوق نجاه</lines>
+      <lines>أشوفك قريب حنين وطيب<br/>وخاطري تطيب يا أروع إله</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> ما فيه شيء يهدد شعبك في المراعي<br/>ولا شيء يبدد خرافك يا راعي</lines>
+      <lines>مسيج حواليّ ووعدك دا ليّ<br/>إني جوا في يدك قلبي وشراعي</lines>
+    </verse>
+  </lyrics>
+</song>

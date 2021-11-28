@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:37:59">
+  <properties>
+    <titles>
+      <title> عظيم هو ربنا ومليكنا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عظيم هو ربنا ومليكنا المجيد<br/>الساكن وسط سبح شعبه<br/>فلنسجد له الآن</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>قدير ليس مثله قد سحق الشيطان<br/>يعيننا يعطينا الانتصار<br/>فلنهتف له الآن</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>يا ربنا ما أمجد اسمك<br/>يا ربنا نهديك كل تسبيحاتنا</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>يا ربنا ما أمجد اسمك<br/>لأنك ربنا الأمين صانع العظائم وحدك</lines>
+    </verse>
+  </lyrics>
+</song>

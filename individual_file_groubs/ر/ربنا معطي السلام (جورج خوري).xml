@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:43">
+  <properties>
+    <titles>
+      <title>ربنا معطي السلام</title>
+    </titles>
+    <comments>
+      <comment>Author: جورج خوري
+Tune: [ربنا معطي السلام]
+Title:288. ربنا معطي السلام
+</comment>
+    </comments>
+    <authors>
+      <author type="words">جورج خوري</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> ربنا معطي السلام<br/> أنت قصدي والمرام<br/> فأنرني بسناك<br/> إذ به يُجلى الظلام<br/> لي ومن بعد الحِمام<br/> أرتقي إلى علاك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> مسرعا آتي إليك<br/> ملقيا حملي لديك<br/> متعبا فأستريح<br/> طالبا نُعمى يديك<br/> كل تكلاني عليك<br/> أنت فادي المسيح</lines>
+    </verse>
+    <verse name="v3">
+      <lines> كن لنفسي السندا<br/> ولفكري الرشدا<br/> منيتي دوما رضاك<br/> قو ضعفي أبدا<br/> بك لا أخشى الردى</lines>
+    </verse>
+  </lyrics>
+</song>

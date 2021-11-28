@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:34">
+  <properties>
+    <titles>
+      <title> لا أستطيع أن أسير</title>
+    </titles>
+    <comments>
+      <comment>Author: أسما رعد
+Tune: OLD 22ND
+Title:283. لا أستطيع أن أسير
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">أسما رعد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"> لا أستطيع أن أسيرْ<br/> يا أيها الرحيمْ<br/> أشفِق على هذا الأسيرْ<br/> والخاطيءِ الأثيمْ</lines>
+      <lines> في دمك الخلاصُ لي<br/> يا أيها الفادي<br/> تعزيتي وأملي<br/> ونوريَ الهادي</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> واهي القُوى فاعطف علَيْ<br/> يا سيدي الرؤوفْ<br/> ولا معينٌ ليَ كي<br/> أقوى على الوقوفْ</lines>
+      <lines> يا نبعَ كل حكمةٍ<br/> إياكَ أسألُ<br/> ففيك كل قوةٍ<br/> بالضُّعفِ تَكمُلُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> أعمى وما لي من دليلْ<br/> في هذه الدنيا<br/> فقُدْ خُطايَ في السبيلْ<br/> لدارك العُليا</lines>
+      <lines> عزمي ونَى فهل تُرى<br/> أحظى من الرحيمْ<br/> بالقول عطفاً - ها أنا</lines>
+    </verse>
+  </lyrics>
+</song>

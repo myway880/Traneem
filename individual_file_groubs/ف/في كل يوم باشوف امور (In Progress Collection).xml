@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:59">
+  <properties>
+    <titles>
+      <title> في كل يوم باشوف امور</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">في كل يوم باشوف أمور<br/>كلمت فيها قلبي من سنين<br/>فاكر في يوم همسك يقول<br/>أنا راجع تاني وهانهض ملايين</lines>
+      <lines>دربني ربي وخلي قلبي<br/>يرجع يعيش لمجدك من جديد<br/>هارجع هاتوب هانهض هاقوم<br/>هانسى معاك ضعفي وهاقول</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> أنا هارجع لك من تاني<br/>أنا راجع لمكاني<br/>واقف ع الأسوار<br/>وبانادي</lines>
+      <lines>بإيماني وبأغاني<br/>بكلامي بترنيماتي<br/>يسوع ها يكون نور<br/>إعلاني</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> غيرني ربي والمس حياتي<br/>على شان تشوف الناس فيَّ يسوع<br/>مش بس لساني أو كلماتي<br/>لكن أعيش تسبيحه ليسوع</lines>
+      <lines>هاسهر هاصلي فاكر رسالتي<br/>واتعلم ربي تاني الانتظار<br/>وأحيا شهاده بمسحه بإراده<br/>وتفيض حياتي دايما بالثمار</lines>
+    </verse>
+  </lyrics>
+</song>

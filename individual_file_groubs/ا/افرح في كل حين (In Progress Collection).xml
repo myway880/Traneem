@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:08">
+  <properties>
+    <titles>
+      <title>افرح في كل حين</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 12/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>افرح في كل حين فيك رب المفتدين<br/>يا حبيبي الامين يا حياتي سيدي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(كل عمري معك انت من احببتني<br/>عمري قد سلمتك يا الهى الغني)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فيك قلبي يستريح ليس في مشيئتي<br/>انت فادي المسيح خيري وكفايتي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>حتى اخر الحياة اهتف مرنما<br/>قد ضمنت لي الهناء في طريقي منعما</lines>
+    </verse>
+  </lyrics>
+</song>

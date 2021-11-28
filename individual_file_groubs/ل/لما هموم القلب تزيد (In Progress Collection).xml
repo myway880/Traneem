@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:11">
+  <properties>
+    <titles>
+      <title> لما هموم القلب تزيد</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">لما هموم القلب تزيد<br/>والتفكير البشري بيكتر<br/>لما الحمل بيبقى شديد<br/>كل ما بتشيله بتتعثر</lines>
+      <lines>سلم كل الأمر في إيد<br/>رب المجد وهو يدبَّر<br/>لا تنس القول المكتوب<br/>سلمنا فصرنا نحمل</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> لا تعط لعدوك ثغره<br/>يلعب بالفكر المحتار<br/>كل مناه يحفر لك حفره<br/>ويولع قلبك بالنار</lines>
+      <lines>ليه دايمًا بتخاف من بكره<br/>سلم ليسوع الأفكار<br/>لا تنس القولالمكتوب<br/>سلمنا فصرنا نحمل</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> اسمع صوت الرب يقول<br/>مش راح تفهم حالاً قصدي<br/>بعد مرور الوقت تنول<br/>فهم وعلم وكل ما عندي</lines>
+      <lines>ع الأذرع ها تكون محمول<br/>إن آمنت تشاهد مجدي<br/>لا تنس القول المكتوب<br/>سلمنا فصرنا نحمل</lines>
+    </verse>
+  </lyrics>
+</song>

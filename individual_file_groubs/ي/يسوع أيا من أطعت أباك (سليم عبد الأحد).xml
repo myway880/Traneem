@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:45">
+  <properties>
+    <titles>
+      <title>يسوع أيا من أطعت أباك</title>
+    </titles>
+    <comments>
+      <comment>Author: سليم عبد الأحد
+Tune: EXPOSTULATION
+Title:126. يسوع أيا من أطعت أباك
+</comment>
+    </comments>
+    <authors>
+      <author type="words">سليم عبد الأحد</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> يسوع أيا من أطعت أباكْ<br/> وأودعت روحك بين يديهْ<br/> وأنقذت بالموت أسرى الهلاكْ<br/> والبستهم ثوب بر لديهْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وأسلمتَ نفسك عني وقد<br/> حملت ثِقالَ خطايا البشر<br/> ففزت على الموت بعد الجلَد<br/> وقمت وقد نلت تاج الظفر</lines>
+    </verse>
+    <verse name="v3">
+      <lines> أعِنّي إذا ما دهاني الجزع<br/> وخيم حولي جيش الظلام<br/> وبُثَّ سلامك حولي ودع<br/> ضياءك يجلو كثيف الغمام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أمِل ناظري للصليب لدى<br/> مماتي ورأسي الكليل اسنُدِ<br/> وتمم خلاصي بسر الفدى</lines>
+    </verse>
+  </lyrics>
+</song>

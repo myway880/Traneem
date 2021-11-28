@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:38">
+  <properties>
+    <titles>
+      <title> يا سيدي لما أرى نجومك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يَا سَيِّدِي لما أَرَى نُجُومَكْ<br/>وَكُلَّ مَا يَدُورُ فِي الأَفْلاَكْ<br/>أَسْمَعُ صَوْتَ الرَّعْدِ فِي غُيُومِكْ<br/>وَكُلَّهَا قَدْ صَنَعَتْ يَدَاكْ</lines>
+    </verse>
+    <verse name="c1">
+      <lines> نَفْسِي تُغَنِّي يَا مُخَلِّصِي<br/>مَا أَعْظَمَكْ مَا أَعْظَمَكْ</lines>
+    </verse>
+    <verse name="v2">
+      <lines> وَحِينَمَا أَسِيرُ فِي الأَدْغَالِ<br/>وَأَسْمَعُ التَّغْرِيدَ فِي الأَغْصَانْ<br/>يَنْحَدِرُ الْمَاءُ مِنَ الْجِبَالِ<br/>خَرِيرُهُ يَأْتِي مَعَ الأَلْحَانْ</lines>
+    </verse>
+    <verse name="v3">
+      <lines> وَكلما أَذْكُرُ كَيْفَ رَبِّي<br/>قد بَذَلَ ابنه عَنِ الْخُطَاهْ<br/>بِدَمِهِ أَزَالَ كُلَّ ذَنْبِي<br/>وَرَدَّنِي لِلسَّيْرِ فِي رِضَاهْ</lines>
+    </verse>
+    <verse name="v4">
+      <lines> إِذْ يَقْدِمُ الْمَسِيحُ بانتصار<br/>يَأْخُذُنِي إِلَى السَّمَا هُنَاكْ<br/>مُبْتَهِجًا أَسْجُدُ باعتبار<br/>له مرددا مَا أَعْظَمَكْ</lines>
+    </verse>
+  </lyrics>
+</song>

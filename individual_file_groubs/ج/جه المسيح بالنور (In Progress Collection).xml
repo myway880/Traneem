@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:37">
+  <properties>
+    <titles>
+      <title> جه المسيح بالنور</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">الأرض كانت مليانة<br/>بالضلمة والشرور<br/>ولا فيه هدف<br/>ولا معنى للحياة</lines>
+      <lines>والخطية شوهت<br/>شكل الإنسان<br/>مابقاش فيه رجاء<br/>مابقاش فيه أمان<br/>مابقاش فيه سلام</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> وفي وسط ليل الضلمة<br/>جه المسيح بالنور<br/>شايل رسالة رحمة<br/>وعتق للمأسور</lines>
+      <lines>جاي عشان ينادي<br/>بمحبته للناس<br/>هو يسوع الفادي<br/>مانح الخلاص</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا رب حل بسلطانك<br/>شجع قلب الضعيف<br/>أسكب فرح<br/>واملاه بالأغاني</lines>
+      <lines>دا اللي يؤمن إن ليه<br/>بدمك غفران<br/>هيلاقي رجاء<br/>هيلاقي أمان<br/>هيلاقي سلام</lines>
+    </verse>
+  </lyrics>
+</song>

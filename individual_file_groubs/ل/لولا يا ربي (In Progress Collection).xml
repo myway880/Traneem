@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:13">
+  <properties>
+    <titles>
+      <title> لولا يا ربي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>لولا يا ربي ما إنت معانا<br/>ماكناش نعيش لحظات<br/>لولا حبك لينا يا ربي<br/>كان زمانا ولَّى وفات</lines>
+    </verse>
+    <verse name="v1">
+      <lines> لولا الحربة لولا التاج<br/>تاج الشوك اللي أعياك<br/>لولا صليبك لولا دمائك<br/>ما كنا عشنا ولا شفناك</lines>
+    </verse>
+    <verse name="v2">
+      <lines> لولا كلامك اللي بيشفي<br/>اللي بيحيي من الأموات<br/>كان القبر هيبقى طريقنا<br/>كان الموت هيبقي ميراث</lines>
+    </verse>
+    <verse name="v3">
+      <lines> لكن ربي لما لقيتنا<br/>لما لقيتنا في الظلمات<br/>حالاً قلبك حنّ علينا<br/>بكل محبة وكل أناة</lines>
+    </verse>
+    <verse name="v4">
+      <lines> بالإيمان ربي نوصلك<br/>إيه غير الأيمان يرضيك<br/>تبقى حياتنا ملك لشخصك<br/>تبقى حياتنا ملك إيديك</lines>
+    </verse>
+  </lyrics>
+</song>

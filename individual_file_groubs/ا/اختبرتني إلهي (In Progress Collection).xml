@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:01">
+  <properties>
+    <titles>
+      <title> اختبرتني إلهي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>اختبرتني إلهي<br/>وعرفت داخلي<br/>وجلوسي وقيامي<br/>وجميع سبلي</lines>
+    </verse>
+    <verse name="c1">
+      <lines> أنت يا ربي<br/>عارف ما بي<br/>فاختبرني وامتحني<br/>هاديا قلبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ولقد فهمت فكري<br/>من بعيد يا حكيم<br/>وعرفت كل قلبي<br/>وطريقي يا عليم</lines>
+    </verse>
+    <verse name="v3">
+      <lines> ليس شيء عنك يخفى<br/>لا ولا أيّ كلام<br/>كل قول في لساني<br/>قد عرفت بالتمام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> يا لعمق علم ربي<br/>قد تعالت حكمته<br/>وعجيبة تجلت<br/>وسمت معرفته</lines>
+    </verse>
+    <verse name="v5">
+      <lines> اختبرني يا إلهي<br/>وامتحني يا خبير<br/>فاحصا قلبي ولبي<br/>عارفا ما في الضمير</lines>
+    </verse>
+    <verse name="v6">
+      <lines> إن رأيت فيَّ ميلا ً<br/>للطريق الباطل<br/>فاهد نفسي وحياتي<br/>في الطريق الكامل</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:41:30">
+  <properties>
+    <titles>
+      <title> هنسيب الدنيا</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ها نسيب الدُّنيا وِمَا فيها<br/>نَظرِتنَا هناك ع الأبديَّه<br/>عايشين علشان نِكرِم شخصك<br/>وحياتنا نقدِّمها هديَّه</lines>
+      <lines>مش راح نتأثَّر أو نِمشي<br/>وَيَّا الأفكار البشريَّه<br/>لكن وَرَا صُوتك وإرادتَك<br/>ها نعيش إن كان لينا بقيَّه</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"> جهّزنا علشان تستخدمنا<br/>خلينا نعيش بالمواعيد</lines>
+      <lines>وإيِماننا يِكبَر ويزيد<br/>ارسلنا لكَرمَك خلِّينَا<br/>نِرجَع بِثِمَارَك يا مَجِيد</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> عايزين رُوحك يِعمِل فِينَا<br/>نِبقَى ينابيع لِلعَطشَان<br/>تِوصل كَلِمَاتَك يا فَادينَا<br/>بِغِنَى النِّعمَه في كُلّ مَكَان</lines>
+      <lines>إدِّينا قُوَّه بسلطانك<br/>خلِّينا نعِيش لَكبإيمان<br/>وإيماننا يكون فوق المنظور<br/>نِتحَدَّى بيه كُلّ عِيَان</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> مَهمَا إن كَان في طريقنا<br/>صعوبات إن كانِت وآلام<br/>ها نكَمِّل طُول ما انتَ معانَا<br/>نِفضَل في طريقنا لقُدَّام</lines>
+      <lines>يمكن نِتألِّم أو نِتعَب<br/>أو حَتَّى نعدِّي فِي ألغام<br/>تِمسك بإيدينا وتِدِّينا<br/>نِمشي فُوقها بالأقدام</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title> إيه في الدنيا يفرح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">ايه في الدنيا يفرح<br/>عبدك ويعزيه<br/>غير الوقفه أمامك<br/>وتكون راضي عليه</lines>
+      <lines break="optional">وأبقى ف كلمة وصلوة<br/>مَسبي ف عالم تاني<br/>فيه الصورة الحلوة<br/>والحق الرباني</lines>
+      <lines>يا يسوع</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"> متعزي ومتشدد بيك<br/>هادي<br/>وف بريتي سندي عليك<br/>هادي</lines>
+      <lines break="optional">حتى ان كان صوت الريح<br/>مش هادي<br/>هَأدِّي وداني لصوتك واعبر<br/>هادي</lines>
+      <lines>يا يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> حالة تسود على قلبي العابد<br/>سيدي<br/>لما بتإسرني بمراحمك<br/>سيدي</lines>
+      <lines break="optional">وما أقولها لمخلوق<br/>على الأرض سيدي<br/>تاج راسي وعزي<br/>إن يسوع ده سيدي</lines>
+      <lines>يا يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

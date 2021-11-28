@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:33">
+  <properties>
+    <titles>
+      <title> أتامل طيور السما</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>دا إلهك حي وقدير وبيصنع ليك كل الخير <br/>دا في إيده كل التدابير مش ممكن يخزيك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أتأمل طيور السماء هي بتزرع إيه <br/>أتأمل سنابل القمح هي بتلبس إيه <br/>مش بتفكر في المستقبل تاركه الكل عليه</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ليه خايف دايما من بكره والجاي م الأيام<br/>ليه قلقان دايما على رزقك وإلهك لا ينام<br/>ارفع عينك ثق في إلهك دا معاك ع الدوام</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>دي حياتك مرسومة بخطة مضمونة في إيديه<br/>ما هو قادر وضامن بكره ارم الكل عليه</lines>
+    </verse>
+  </lyrics>
+</song>

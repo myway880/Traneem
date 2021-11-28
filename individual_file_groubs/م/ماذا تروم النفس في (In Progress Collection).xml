@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:38:53">
+  <properties>
+    <titles>
+      <title> ماذا تروم النفس في</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ماذا تروم النفس في<br/>أقصى السما العليا<br/>أو من فؤادي يا ترى<br/>يهوي في ذي الدنيا</lines>
+    </verse>
+    <verse name="v2">
+      <lines> يسوع حظي ملجإي<br/>لا أبتغي سواه<br/>حبيب قلبي منيتي<br/>أتوق أن اراه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> إن كانت السماء لا<br/>تجودُ بالأمطار<br/>وبادت الأعشاب وال<br/>أشجارُ والأثمار</lines>
+    </verse>
+    <verse name="v4">
+      <lines> فإن قلبي لم يزل<br/>بالرب يفرح<br/>كذا لساني شاكرٌ<br/>إياه يمدح</lines>
+    </verse>
+  </lyrics>
+</song>

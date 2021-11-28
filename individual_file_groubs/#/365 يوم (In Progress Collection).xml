@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:34:26">
+  <properties>
+    <titles>
+      <title> 365 يوم</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>365 يوم 365 ليل والمحبه تتدفق كل يوم والعنايه تترفق كل ليل</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>يا مسيحي أنت لي نور وظل ترشدني تحملني لا تكل</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>إن خطاي تتعثر أو تزل أنت دوما تشفع لا لن تمل</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>إذ يزيد المال عندي أو يقل فابتهاجي بك دوما سيظل</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>وقريبا سوف تأتي من علاك وقريبا ذلك اليوم يهل</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>366 يوم<br/>366 ليل</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:42">
+  <properties>
+    <titles>
+      <title> رب السماء الخالق</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">رب السماء الخالق من اوجد الانسان<br/>كيف يصير الخالق في شبه ذا الانسان<br/>سر التجسد الذي لم تفهم الاملاك<br/>من حار فيه الانبياء اذ جاوز الادراك</lines>
+      <lines>هللوا هللويا<br/>قد اتانا من سماه<br/>هللوا هللويا<br/>هللوا مجدا لله</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> في شكل طفل وادع قد جاءنا ابن الله<br/>طفلا اتى كي يصلب كي يمنح الحياه<br/>رحمته به التقت وحقه الصريح<br/>بالرحمة العظمى لنا في ربنا المسيح</lines>
+      <lines>هللوا هللويا<br/>قبل الرب العجيب<br/>هللوا هللويا<br/>مذودا ثم الصليب</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> اذ يولد لنا ولد يعطى لنا الحياه<br/>فالنور يشرق لنا بمولد ابن الله<br/>والعمي سوف يبصرون العرج اذ يمشون<br/>والصم يسمعون البكم لاسمه يشدون</lines>
+      <lines>هللوا هللويا<br/>قد اتى رب الحياه<br/>هللوا هللويا<br/>هللوا مجدا لله</lines>
+    </verse>
+  </lyrics>
+</song>

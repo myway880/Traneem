@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:43">
+  <properties>
+    <titles>
+      <title> ربى سبيت قلبي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">ربي سبيت قلبي بودادك<br/>أخذت كل عقلي بجمالك<br/>لذا فنفسي تهتفن في ذهول<br/>وكلُّ عرق فيًّ ينبِض يقول</lines>
+      <lines>أحبك<br/>يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> يا من حملتَ عني إثميَ المشين<br/>حين فديتَ نفسي بالموت المهين<br/>لو أني كل ما عِندي وهبتك<br/>فسوف أبقى ما دمتُ لك مدين</lines>
+      <lines>إني لك<br/>يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> فخذ حياتي ربي املأنها<br/>بروحك بحبك اغمرنها<br/>وهبني منك نعمةً مدى الحياه<br/>لكي أعيش في رضاك للممات</lines>
+      <lines>لمجدك<br/>يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

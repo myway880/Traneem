@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:26">
+  <properties>
+    <titles>
+      <title>أوعى تكون مشغول</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">غير معروف</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> أَوَعَى تَكَوُّنُ مَشْغُولٍ.<br/>أَيَامَنَا مَشَّ هتَطُولُ.<br/>عَالَمُ فَانِي وَيَزُولُ.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا فَرَحِنَا بِيَسُوعِ الْحَيِّ.<br/>يا هِنَانَا مَا وَعْدُنَا وُجِّي.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بِكْرُهُ نَنْسَى الهموم.<br/>لَمَّا يجينا الْيَوْمَ. <br/>و آلاَمَنَا مَشَّ هتَدُومُ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>هَا يجي عَلَى السَّحَابِ.<br/>كَمَا قَالَ الْكِتَابُ.<br/>وَيَتِمُّ وَعْدُ الْآبِ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>نَتْرُكُ هُمْ الأشرار.<br/>وَنُرَنِّمُ ع الْقِيثارَ.<br/>بِجِوَارِ يَسُوعِ الْبَارِّ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>نَحْضُرُ عُرْسَ الْخَرُوفِ.<br/>وَنُرَنِّمُ ع الدُّفُوفَ.<br/>دا فَرِحٌ مِثْلُه مَا نَشُوفُ .</lines>
+    </verse>
+  </lyrics>
+</song>

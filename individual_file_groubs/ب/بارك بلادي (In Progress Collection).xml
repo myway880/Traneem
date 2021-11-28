@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:28">
+  <properties>
+    <titles>
+      <title> بارك بلادي</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">مهما كان الحال ها تقدر<br/>يا اللي بتشق البحور<br/>مهما كان ع الأرض ضلمه<br/>السما مليانه نور</lines>
+      <lines>زي ما جالك نحميا<br/>بالبكا ونادى عليك<br/>كلنا جايين بنصرخ<br/>يا يسوع مد إيديك</lines>
+    </verse>
+    <verse name="c1">
+      <lines> بارك بلادي بارك بلادي<br/>يا سامع الصلاه في قلوب كل البشر<br/>بارك بلادي بارك بلادي<br/>التفت لصراخ قلوبنا وارسل لينا المطر</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"> روحك القدوس يجمع<br/>العظام من كل وادي<br/>تحيا تنطق تنحني لك<br/>تعترف باسمك يا فادي</lines>
+      <lines>في الصليب باطرح ذنوبي<br/>ذنب آبائي وولادي<br/>يا رحيم القلب اغفر<br/>واستمع لآهات بلادي</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"> في الختام يعلا هتافنا<br/>نرفع العلم السماوي<br/>الرب بيجهز نفوسنا<br/>والعدو جرابه خاوي</lines>
+      <lines>ينهض النايم ويسمع<br/>الندا انتم شهودي<br/>وكلنا من قلب واحد<br/>نطلبك بارك بلادي</lines>
+    </verse>
+  </lyrics>
+</song>
