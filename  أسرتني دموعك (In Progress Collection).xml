@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:08">
+  <properties>
+    <titles>
+      <title> أسرتني دموعك</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أسرتني دموعك على الصليب<br/>ألمتني جروحك وانت الطبيب<br/>دمك بيسيل من حمل تقيل على رأسك شوك ضفروه في أكليل</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بكيت يا يسوع على شعب خان<br/>عانيت يا يسوع ظلم وهوان<br/>غدر الأنسان وجرح الخلان قلبك مليان بحزن وأشجان</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>عروك سمروك بالسوط جلدوك<br/>غرزوا في جبينك تاج الشوك<br/>المر سقوك بحربه طعنوك وأنت يايسوع ملك الملوك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>توبي يا نفسي عن الخطيه<br/>أوجاع فادي قدام عيني<br/>شيلي صليبك قومي أتبعيه ردي له دينك وفرحيه</lines>
+    </verse>
+  </lyrics>
+</song>

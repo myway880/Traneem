@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:35:09">
+  <properties>
+    <titles>
+      <title> أسعى أنا نحو الغرض</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>كل ما كان ربحا لي خسارة حسبته<br/>من أجل سيدي الغني فإني قد ربحته</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أسعى أنا نحو الغرض حتى أنال جعالتي<br/>أطيعه بلا مضض متمما رسالتي</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لا أدعى أني هنا قد نلت كل ذا الأمل<br/>لكنني أسعى بلا توقف ولا ملل</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>لذا فإني أنسى ما وراء وأمشي للأمام<br/>حتى لا أنسى دعوة الله وحملي للآلام</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>فغايتي أن أدرك قدرة ربي المقام<br/>لذا فلست أخشى هول الموت فهو لي سلام</lines>
+    </verse>
+  </lyrics>
+</song>

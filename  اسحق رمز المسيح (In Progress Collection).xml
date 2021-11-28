@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-11-21T08:40:04">
+  <properties>
+    <titles>
+      <title> اسحق رمز المسيح</title>
+    </titles>
+    <comments>
+      <comment>Unverfied Collection, Sourced From The Internet by Bill, On 20/11/2021 Contact Email:myway880@gmail.com
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">In Progress Collection</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بكل رضا وخضوع<br/>قدم إبراهيم فتاه<br/>هكذا قدم الله<br/>ابنه بكل رضاه</lines>
+    </verse>
+    <verse name="c1">
+      <lines> فيما قدم إبراهيم<br/>إسحق ابنه ذبيح<br/>أشار من بعيد<br/>لذبيحة المسيح</lines>
+    </verse>
+    <verse name="v2">
+      <lines> حمل الحطب إسحق<br/>حتى يقدم عليه<br/>كذا حمل المسيح<br/>صليبه بيديه</lines>
+    </verse>
+    <verse name="v3">
+      <lines> قدم إبراهيم إسحق<br/>وسار ثلاث أيام<br/>قدم المسيح ذاته<br/>في اليوم الثالث قام</lines>
+    </verse>
+    <verse name="v4">
+      <lines> أطاع إسحق أبيه<br/>بلا ضجر أو عتاب<br/>مثلما خضع المسيح<br/>إلى إرادة الأب</lines>
+    </verse>
+    <verse name="v5">
+      <lines> كان خلاص إسحق<br/>بشرى ملاك يصيح<br/>كما بشر الملاك<br/>بقيامة المسيح</lines>
+    </verse>
+  </lyrics>
+</song>
